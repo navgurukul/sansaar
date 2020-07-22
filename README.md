@@ -25,43 +25,43 @@ Every user can have multiple roles assigned to them.
 
 1. POST **/users/auth/google**
 2. GET **/users**
-3. GET **/users/<userId>**
+3. GET **/users/{userId}**
 4. GET **/users/me**
 
 ### Academic Tracks
 
 1. POST **/tracks**
 2. GET **/tracks**
-3. GET **/tracks/<trackId>**
-4. PUT **/tracks/<trackId>**
+3. GET **/tracks/{trackId}**
+4. PUT **/tracks/{trackId}**
 
 ### Mentorship
 
 Mentor trees don't exist at a global level. Every academic track can have a mentorship tree in itself. Mentorship trees of two tracks (example: Intro to Design and Intro to Code) can have identical mentorship trees but they will be different objects within the DB.
 
-1. PUT /tracks/<trackId>/mentorship/users/<userId>/mentees (Will overwrite the list of mentees under this mentor always)
-2. GET /tracks/<trackId>/mentorship/tree (Will return the complete mentorship tree under the academic track)
+1. PUT **/tracks/{trackId}/mentorship/users/{userId}/mentees** (Will overwrite the list of mentees under this mentor always)
+2. GET **/tracks/{trackId}/mentorship/tree** (Will return the complete mentorship tree under the academic track)
 
 ### Academic Track Milestones
 
-1. GET **/tracks/<trackId>/milestones**
-2. POST **/tracks/<trackId>/milestones**
-3. GET **/tracks/<trackId>/milestones/<milestoneId>**
-4. PUT **/tracks/<trackId>/milestones/<milestoneId>**
+1. GET **/tracks/{trackId>/milestones**
+2. POST **/tracks/{trackId}/milestones**
+3. GET **/tracks/{trackId}/milestones/<milestoneId>**
+4. PUT **/tracks/{trackId}/milestones/<milestoneId>**
 
 ### Progress Parameters
 
 1. POST **/progressTracking/parameters**
 2. GET **/progressTracking/parameters**
-3. GET **/progressTracking/parameters/<parameterId>**
-4. PUT **/progressTracking/pramaters/<parameterId>**
+3. GET **/progressTracking/parameters/{parameterId}**
+4. PUT **/progressTracking/pramaters/{parameterId}**
 
 ### Progress Questions
 
 1. POST **/progressTracking/questions**
 2. GET **/progressTracking/questions**
-3. GET **/progressTracking/questions/<questionId>**
-4. PUT **/progressTracking/questions/<questionId>**
+3. GET **/progressTracking/questions/{questionId}**
+4. PUT **/progressTracking/questions/{questionId}**
 
 ## Tables
 
