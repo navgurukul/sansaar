@@ -46,8 +46,13 @@ Mentor trees don't exist at a global level. Every academic track can have a ment
 
 1. GET **/tracks/{trackId>/milestones**
 2. POST **/tracks/{trackId}/milestones**
-3. GET **/tracks/{trackId}/milestones/<milestoneId>**
-4. PUT **/tracks/{trackId}/milestones/<milestoneId>**
+3. GET **/tracks/{trackId}/milestones/{milestoneId}**
+4. PUT **/tracks/{trackId}/milestones/{milestoneId}**
+
+### Progress Tracking Milestones
+
+1. POST **/progressTracking/tracks/{trackId}/users/{userId}/milestone**
+2. GET **/progressTracking/tracks/{trackId}/users/{userId}/milestone**
 
 ### Progress Parameters
 
@@ -123,6 +128,7 @@ Mentor trees don't exist at a global level. Every academic track can have a ment
 2. User ID
 3. Academic Track Milestone ID
 4. Milestone ID
+5. Recorded By (User ID)
 5. Created At
 
 ### Student Academic Tracks
