@@ -49,11 +49,6 @@ Mentor trees don't exist at a global level. Every academic track can have a ment
 3. GET **/tracks/{trackId}/milestones/{milestoneId}**
 4. PUT **/tracks/{trackId}/milestones/{milestoneId}**
 
-### Progress Tracking Milestones
-
-1. POST **/progressTracking/tracks/{trackId}/users/{userId}/milestone**
-2. GET **/progressTracking/tracks/{trackId}/users/{userId}/milestone**
-
 ### Progress Parameters
 
 1. POST **/progressTracking/parameters**
@@ -67,6 +62,13 @@ Mentor trees don't exist at a global level. Every academic track can have a ment
 2. GET **/progressTracking/questions**
 3. GET **/progressTracking/questions/{questionId}**
 4. PUT **/progressTracking/questions/{questionId}**
+
+### Progress Tracking Requests
+1. GET **/progressTracking/users/{userId}/trackingRequests/toAnswer** (Returns a list of all progress tracking requests)
+2. POST **/progressTracking/users/{userId}/trackingRequests/{requestId}** (Complete a progress tracking request.)
+3. POST **/progressTracking/tracks/{trackId}/users/{userId}/milestone** (Add a milestone for a user.)
+4. GET **/progressTracking/tracks/{trackId}/users/{userId}/milestone** (Get all milestones for a user.)
+5. GET **/progressTracking/tracks/{trackId}** (Get progress of all users on a track)
 
 ## Tables
 
