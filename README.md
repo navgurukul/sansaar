@@ -146,7 +146,7 @@ Mentor trees don't exist at a global level. Every academic pathway can have a me
 5. Progress Tracking Cycle Frequency
 6. Day of the Week
 7. Next Cycle Date
-8. # Days to Lock Before Cycle
+8. Days to Lock Before Cycle
 9. Created At
 
 ### Pathway Milestones
