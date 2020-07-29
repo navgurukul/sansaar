@@ -91,6 +91,8 @@ module.exports = new Confidence.Store({
               client: 'pg',
               migrations: {
                 stub: 'lib/migrations/templates/defaultMigrationTemplate.js',
+                directory: 'lib/migrations',
+                schemaName: 'main',
               },
               connection: {
                 database: {
