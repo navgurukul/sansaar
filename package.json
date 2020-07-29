@@ -16,23 +16,34 @@
   },
   "dependencies": {
     "@hapi/boom": "9.x.x",
+    "@hapi/inert": "^6.0.1",
     "@hapi/joi": "17.x.x",
-    "haute-couture": "3.x.x"
+    "@hapi/vision": "^6.0.0",
+    "handlebars": "^4.7.6",
+    "hapi-swagger": "^13.0.2",
+    "haute-couture": "3.x.x",
+    "knex": "^0.21.2",
+    "objection": "^2.2.1",
+    "pg": "^8.3.0",
+    "schmervice": "^1.5.0",
+    "schwifty": "^5.3.0",
+    "@hapi/glue": "^7.0.0",
+    "dotenv": "8.x.x",
+    "confidence": "4.x.x",
+    "toys": "2.x.x"
   },
   "devDependencies": {
     "@hapi/code": "8.x.x",
     "@hapi/eslint-config-hapi": "13.x.x",
     "@hapi/eslint-plugin-hapi": "4.x.x",
-    "@hapi/glue": "7.x.x",
     "@hapi/hapi": "19.x.x",
     "@hapi/lab": "22.x.x",
     "babel-eslint": "10.x.x",
-    "confidence": "4.x.x",
-    "dotenv": "8.x.x",
-    "eslint": "6.x.x",
+    "eslint": "^7.5.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0",
     "hpal": "2.x.x",
-    "hpal-debug": "1.x.x",
-    "toys": "2.x.x"
+    "hpal-debug": "1.x.x"
   },
   "repository": {
     "type": "git",
