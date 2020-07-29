@@ -18,7 +18,11 @@ module.exports = {
   parserOptions: {
     ecmaVersion: 2018,
   },
+  ignorePatterns: [
+    'lib/migrations/templates/defaultMigrationTemplate.js'
+  ],
   rules: {
-    'prettier/prettier': 'error'
+    'prettier/prettier': ['error', { 'singleQuote': true }],
+    "comma-dangle": ["off", {}],
   },
 };

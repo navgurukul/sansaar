@@ -66,7 +66,8 @@ module.exports = new Confidence.Store({
               $env: 'APP_SECRET',
               $default: 'app-secret',
             },
-            production: { // In production do not default to "app-secret"
+            production: {
+              // In production do not default to "app-secret"
               $env: 'APP_SECRET',
             },
           },
