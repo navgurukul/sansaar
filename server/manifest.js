@@ -33,7 +33,7 @@ module.exports = new Confidence.Store({
       },
       timeout: {
         socket: 11 * 60 * 1000, // Determines how long before closing request socket.
-        server: false, // Determines how long to wait for server request processing. Disabled by default
+        server: false, // How long to wait for server request processing. Disabled by default
       },
       validate: {
         options: {

@@ -12,7 +12,8 @@
   "scripts": {
     "start": "node server",
     "test": "lab -a @hapi/code -L",
-    "lint": "eslint ."
+    "lint": "eslint lib server",
+    "lint:fix": "eslint lib server --fix"
   },
   "dependencies": {
     "@hapi/boom": "9.x.x",
@@ -41,9 +42,13 @@
     "babel-eslint": "10.x.x",
     "eslint": "^7.5.0",
     "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-prettier": "^3.1.4",
     "hpal": "2.x.x",
-    "hpal-debug": "1.x.x"
+    "hpal-debug": "1.x.x",
+    "prettier": "^2.0.5",
+    "prettier-eslint": "^11.0.0"
   },
   "repository": {
     "type": "git",
