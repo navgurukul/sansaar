@@ -18,11 +18,12 @@ module.exports = new Confidence.Store({
     debug: {
       $filter: { $env: 'NODE_ENV' },
       $default: {
-        log: ['error'],
-        request: ['error'],
+        log: '*',
+        request: '*',
       },
       production: {
-        request: ['implementation'],
+        log: ['error'],
+        request: ['error'],
       },
     },
     routes: {
@@ -59,19 +60,6 @@ module.exports = new Confidence.Store({
     plugins: [
       {
         plugin: '../lib', // Main plugin
-        options: {
-          jwtKey: {
-            $filter: { $env: 'NODE_ENV' },
-            $default: {
-              $env: 'APP_SECRET',
-              $default: 'app-secret',
-            },
-            production: {
-              // In production do not default to "app-secret"
-              $env: 'APP_SECRET',
-            },
-          },
-        },
       },
       {
         plugin: {

@@ -8,7 +8,7 @@ exports.deployment = async (start) => {
   // Printing a request log
   server.events.on('response', (request) => {
     request.log(
-      `${request.info.remoteAddress}: ${request.method.toUpperCase()} ${request.url.path} --> ${
+      `${request.info.remoteAddress}: ${request.method.toUpperCase()} ${request.path} --> ${
         request.response.statusCode
       }`
     );
