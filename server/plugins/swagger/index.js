@@ -3,7 +3,6 @@ const Vision = require('@hapi/vision');
 const HapiSwagger = require('hapi-swagger');
 const Package = require('../../../package.json');
 
-
 module.exports = {
   name: 'app-swagger',
   async register(server) {
@@ -25,7 +24,7 @@ module.exports = {
               in: 'header',
             },
           },
-          security: [{ jwt: [] }]
+          security: [{ jwt: [] }],
         },
       },
     ]);
