@@ -1,10 +1,8 @@
 const Inert = require('@hapi/inert');
 const Vision = require('@hapi/vision');
-// const Handlebars = require('handlebars');
 const HapiSwagger = require('hapi-swagger');
 const Package = require('../../../package.json');
 
-// const swaggerUIPath = process.env.NODE_ENV === 'production' ? '/api/swaggerui/' : '/swaggerui/';
 
 module.exports = {
   name: 'app-swagger',
@@ -15,8 +13,7 @@ module.exports = {
       {
         plugin: HapiSwagger,
         options: {
-          // documentationPage: false,
-          // validatorUrl: null,
+          validatorUrl: null,
           info: {
             title: 'NG Sansaar API Docs',
             version: Package.version,
@@ -28,7 +25,7 @@ module.exports = {
               in: 'header',
             },
           },
-          // swaggerUIPath,
+          security: [{ jwt: [] }]
         },
       },
     ]);
