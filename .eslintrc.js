@@ -24,6 +24,7 @@ module.exports = {
   ],
   rules: {
     'prettier/prettier': ['error', { 'singleQuote': true }],
-    "comma-dangle": ["off", {}],
+    'comma-dangle': ['off', {}],
+    'no-underscore-dangle': 0,
   },
 };
