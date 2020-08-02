@@ -56,24 +56,17 @@ Every user can have multiple roles assigned to them.
 
 `isTeam` flag will take care if the user is a team member or not. We will need to add a check that academic pathways can only be assigned to a user if they have a student object associated with them. Like if `isTeam` is marked as `False` then certain student level details about a user would need to be given.
 
-1. POST **/users/auth/google**
-2. GET **/users**
-3. GET **/users/{userId}**
-4. GET **/users/me**
+1. ~~POST **/users/auth/google**~~
+2. ~~GET **/users**~~
+3. ~~GET **/users/{userId}**~~
+4. ~~GET **/users/me**~~
 
 ### Academic Pathways
 
-1. POST **/pathway**
-2. GET **/pathway**
-3. GET **/pathway/{pathwayId}**
-4. PUT **/pathway/{pathwayId}**
-
-### Mentorship
-
-Mentor trees don't exist at a global level. Every academic pathway can have a mentorship tree in itself. Mentorship trees of two pathway (example: Intro to Design and Intro to Code) can have identical mentorship trees but they will be different objects within the DB.
-
-1. PUT **/pathway/{pathwayId}/mentorship/users/{userId}/mentees** (Will overwrite the list of mentees under this mentor always)
-2. GET **/pathway/{pathwayId}/mentorship/tree** (Will return the complete mentorship tree under the academic pathway)
+1. ~~POST **/pathway**~~
+2. ~~GET **/pathway**~~
+3. ~~GET **/pathway/{pathwayId}**~~
+4. ~~PUT **/pathway/{pathwayId}**~~
 
 ### Pathway Milestones
 
@@ -81,6 +74,13 @@ Mentor trees don't exist at a global level. Every academic pathway can have a me
 2. POST **/pathway/{pathwayId}/milestones**
 3. GET **/pathway/{pathwayId}/milestones/{milestoneId}**
 4. PUT **/pathway/{pathwayId}/milestones/{milestoneId}**
+
+### Mentorship
+
+Mentor trees don't exist at a global level. Every academic pathway can have a mentorship tree in itself. Mentorship trees of two pathway (example: Intro to Design and Intro to Code) can have identical mentorship trees but they will be different objects within the DB.
+
+1. PUT **/pathway/{pathwayId}/mentorship/users/{userId}/mentees** (Will overwrite the list of mentees under this mentor always)
+2. GET **/pathway/{pathwayId}/mentorship/tree** (Will return the complete mentorship tree under the academic pathway)
 
 ### Progress Parameters
 
