@@ -23,6 +23,7 @@
     "@hapi/inert": "^6.0.1",
     "@hapi/joi": "17.x.x",
     "@hapi/vision": "^6.0.0",
+    "avocat": "^2.0.0",
     "confidence": "4.x.x",
     "dotenv": "8.x.x",
     "google-auth-library": "^6.0.6",
