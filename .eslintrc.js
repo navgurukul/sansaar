@@ -5,8 +5,8 @@ module.exports = {
     es6: true,
   },
   extends: [
-    'prettier',
     'airbnb-base',
+    'prettier',
   ],
   plugins: [
     'prettier'
