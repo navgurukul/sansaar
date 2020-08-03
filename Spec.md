@@ -20,7 +20,7 @@ TODO
 ### Progress Questions
 TODO
 
-### Progress Parameters
+### Progress Parameters 
 TODO
 
 ### Milestones
@@ -70,10 +70,10 @@ Every user can have multiple roles assigned to them.
 
 ### Pathway Milestones
 
-1. GET **/pathway/{pathwayId>/milestones**
-2. POST **/pathway/{pathwayId}/milestones**
-3. GET **/pathway/{pathwayId}/milestones/{milestoneId}**
-4. PUT **/pathway/{pathwayId}/milestones/{milestoneId}**
+1. ~~GET **/pathway/{pathwayId>/milestones**~~
+2. ~~POST **/pathway/{pathwayId}/milestones**~~
+3. ~~GET **/pathway/{pathwayId}/milestones/{milestoneId}**~~
+4. ~~PUT **/pathway/{pathwayId}/milestones/{milestoneId}**~~
 
 ### Mentorship
 
