@@ -2,6 +2,8 @@ const Inert = require('@hapi/inert');
 const Vision = require('@hapi/vision');
 const HapiSwagger = require('hapi-swagger');
 const Package = require('../../../package.json');
+const CONSTANTS =  require('../../../lib/config');
+
 
 module.exports = {
   name: 'app-swagger',
@@ -25,6 +27,8 @@ module.exports = {
             },
           },
           security: [{ jwt: [] }],
+          swaggerUIPath: CONSTANTS.swagger.uiPath,
+          host: 'localhost:8080/api'
         },
       },
     ]);
