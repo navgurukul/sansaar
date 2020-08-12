@@ -27,8 +27,10 @@ module.exports = {
             },
           },
           security: [{ jwt: [] }],
-          swaggerUIPath: CONSTANTS.swagger.uiPath,
-          host: 'localhost:8080/api'
+          // swaggerUIPath: CONSTANTS.swagger.uiPath,
+          swaggerUIPath: '/art/swaggerui/',
+          jsonPath: '/art/swagger.json',
+          basePath: '/art/',
         },
       },
     ]);
