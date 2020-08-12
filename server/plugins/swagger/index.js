@@ -27,10 +27,9 @@ module.exports = {
             },
           },
           security: [{ jwt: [] }],
-          // swaggerUIPath: CONSTANTS.swagger.uiPath,
-          swaggerUIPath: '/art/swaggerui/',
-          jsonPath: '/art/swagger.json',
-          basePath: '/art/',
+          swaggerUIPath: CONSTANTS.swagger.uiPath,
+          jsonPath: CONSTANTS.swagger.jsonPath,
+          basePath: CONSTANTS.swagger.basePath,
         },
       },
     ]);
