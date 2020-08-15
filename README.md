@@ -3,6 +3,8 @@
 Everything backend about NavGurukul :)
 
 ## Projet set-up
+- [] clone the repo `git clone https://github.com/navgurukul/sansaar.git`
+- [] install dependencies `npm install` and then chnage directory `cd sansaar`
 - [] create .env file inside the server folder 
 - [] copy sample.env file and past in .env file and change the appropriate field.
 - [] run `knex migrate:latest` for updating migration file.
