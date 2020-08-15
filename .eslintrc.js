@@ -4,26 +4,19 @@ module.exports = {
     commonjs: true,
     es6: true,
   },
-  extends: [
-    'airbnb-base',
-    'prettier',
-  ],
-  plugins: [
-    'prettier'
-  ],
+  extends: ['airbnb-base', 'prettier'],
+  plugins: ['prettier'],
   globals: {
     Atomics: 'readonly',
     SharedArrayBuffer: 'readonly',
   },
-  parser: "babel-eslint",
+  parser: 'babel-eslint',
   parserOptions: {
     ecmaVersion: 2018,
   },
-  ignorePatterns: [
-    'lib/migrations/templates/defaultMigrationTemplate.js'
-  ],
+  ignorePatterns: ['lib/migrations/templates/defaultMigrationTemplate.js'],
   rules: {
-    'prettier/prettier': ['error', { 'singleQuote': true }],
+    'prettier/prettier': ['error', { singleQuote: true }],
     'comma-dangle': ['off', {}],
     'no-underscore-dangle': 0,
   },
