@@ -65,8 +65,8 @@ Every user can have multiple roles assigned to them.
 
 1. ~~POST **/pathway**~~
 2. ~~GET **/pathway**~~
-3. ~~GET **/pathway/{pathwayId}**~~
-4. ~~PUT **/pathway/{pathwayId}**~~
+3. ~~GET **/pathway/{pathwayId}**~~ (Return Courses for this Particular Pathway) (Anyone) #Saquib
+4. ~~PUT **/pathway/{pathwayId}**~~ (Update Courses for this Particular Pathway) (Admin Only) #Saquib
 
 ### Pathway Milestones
 
@@ -137,7 +137,7 @@ Mentor trees don't exist at a global level. Every academic pathway can have a me
 4. Pathway ID 
 5. Created At
 
-### Academic Pathway
+### Pathway 
 
 1. Primary Key
 2. Code
@@ -148,6 +148,28 @@ Mentor trees don't exist at a global level. Every academic pathway can have a me
 7. Next Cycle Date
 8. Days to Lock Before Cycle
 9. Created At
+
+### CoursePathways (TODO) #Saquib
+
+1. Primary Key
+2. Course Id
+3. Pathway Id
+4. Sequence Number
+5. Created At
+6. Updated At
+
+### Category (TODO) #Saquib
+
+1. Primary Key
+2. Category Name
+3. Created At
+
+### CourseCategories (TODO) #Saquib
+
+1. Primary Key
+2. Course Id
+3. Category Id
+4. Updated At
 
 ### Pathway Milestones
 
