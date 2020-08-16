@@ -226,3 +226,16 @@ Mentor trees don't exist at a global level. Every academic pathway can have a me
 2. Question ID
 3. Data (Currently only text. Can support other questions later on)
 4. Created At
+
+### Categories
+1. Programming
+2. Design
+3. Languages
+4. Life Skills
+5. Interview Prep
+6. Information
+Every course can have multiple categories as well.
+
+Each Pathway should have a *sequence of courses* attributed to them.
+
+E.g. Code Stars : let's stay there are 14 courses across different categories that needs to be learnt.
