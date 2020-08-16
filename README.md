@@ -8,7 +8,7 @@ Everything backend about NavGurukul :)
 - `npm install -g knex`
 - Copy `server/sample.env` file to `server/.env` file and change the appropriate field.
 - Run `knex migrate:latest` for updating migration file.
-- If any error is throwing while running above script then go inside the postgres server and truncate the knex_migrations table using `TRUNCATE TABLE table_name` and run `knex migrate:latest` again.
+- If any error is throwing while running above script then login to the postgres server and remove all the rows of the the knex_migrations table using `TRUNCATE TABLE knex_migrations` and run `knex migrate:latest` again.
 
 ## To Dos
 - [ ] How to show scope on Swagger?
