@@ -25,6 +25,7 @@
     "@hapi/vision": "^6.0.0",
     "avocat": "^2.0.0",
     "confidence": "4.x.x",
+    "crypto": "^1.0.1",
     "dotenv": "8.x.x",
     "google-auth-library": "^6.0.6",
     "handlebars": "^4.7.6",
