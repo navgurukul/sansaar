@@ -79,8 +79,8 @@ Every user can have multiple roles assigned to them.
 
 Mentor trees don't exist at a global level. Every academic pathway can have a mentorship tree in itself. Mentorship trees of two pathway (example: Intro to Design and Intro to Code) can have identical mentorship trees but they will be different objects within the DB.
 
-1. PUT **/pathway/{pathwayId}/mentorship/users/{userId}/mentees** (Will overwrite the list of mentees under this mentor always)
-2. GET **/pathway/{pathwayId}/mentorship/tree** (Will return the complete mentorship tree under the academic pathway)
+1. ~PUT **/pathway/{pathwayId}/mentorship/users/{userId}/mentees** (Will overwrite the list of mentees under this mentor always)~
+2. ~GET **/pathway/{pathwayId}/mentorship/tree** (Will return the complete mentorship tree under the academic pathway)~
 
 ### Progress Parameters
 
