@@ -84,17 +84,17 @@ Mentor trees don't exist at a global level. Every academic pathway can have a me
 
 ### Progress Parameters
 
-1. POST **/progressTracking/parameters**
-2. GET **/progressTracking/parameters**
-3. GET **/progressTracking/parameters/{parameterId}**
-4. PUT **/progressTracking/pramaters/{parameterId}**
+1. ~~POST **/progressTracking/parameters**~~
+2. ~~GET **/progressTracking/parameters**~~
+3. ~~GET **/progressTracking/parameters/{parameterId}**~~
+4. ~~PUT **/progressTracking/pramaters/{parameterId}**~~
 
 ### Progress Questions
 
-1. POST **/progressTracking/questions**
-2. GET **/progressTracking/questions**
-3. GET **/progressTracking/questions/{questionId}**
-4. PUT **/progressTracking/questions/{questionId}**
+1. ~~POST **/progressTracking/questions**~~
+2. ~~GET **/progressTracking/questions**~~
+3. ~~GET **/progressTracking/questions/{questionId}**~~
+4. ~~PUT **/progressTracking/questions/{questionId}**~~
 
 ### Progress Tracking Requests
 1. GET **/progressTracking/users/{userId}/trackingRequests/toAnswer** (Returns a list of all progress tracking requests)
