@@ -255,10 +255,6 @@ Mentor trees don't exist at a global level. Every academic pathway can have a me
 3. Data (Currently only text. Can support other questions later on)
 4. Created At
 
-<<<<<<< HEAD
-=======
-
->>>>>>> dev
 ### Categories
 1. Programming
 2. Design
@@ -266,31 +262,7 @@ Mentor trees don't exist at a global level. Every academic pathway can have a me
 4. Life Skills
 5. Interview Prep
 6. Information
-<<<<<<< HEAD
-=======
 
-### CoursePathways (TODO) #Saquib
-
-1. Primary Key
-2. Course Id
-3. Pathway Id
-4. Sequence Number
-5. Created At
-6. Updated At
-
-### Category (TODO) #Saquib
-
-1. Primary Key
-2. Category Name
-3. Created At
-
-### CourseCategories (TODO) #Saquib
-
-1. Primary Key
-2. Course Id
-3. Category Id
-4. Updated At
->>>>>>> dev
 Every course can have multiple categories as well.
 
 Each Pathway should have a *sequence of courses* attributed to them.
