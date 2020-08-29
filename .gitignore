@@ -106,5 +106,5 @@ dist
 # Mac
 .DS_Store
 
-#curriculum
+# curriculum
 curriculum/
