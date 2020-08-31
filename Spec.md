@@ -79,29 +79,36 @@ Every user can have multiple roles assigned to them.
 
 Mentor trees don't exist at a global level. Every academic pathway can have a mentorship tree in itself. Mentorship trees of two pathway (example: Intro to Design and Intro to Code) can have identical mentorship trees but they will be different objects within the DB.
 
-1. PUT **/pathway/{pathwayId}/mentorship/users/{userId}/mentees** (Will overwrite the list of mentees under this mentor always)
-2. GET **/pathway/{pathwayId}/mentorship/tree** (Will return the complete mentorship tree under the academic pathway)
+1. ~PUT **/pathway/{pathwayId}/mentorship/users/{userId}/mentees** (Will overwrite the list of mentees under this mentor always)~
+2. ~GET **/pathway/{pathwayId}/mentorship/tree** (Will return the complete mentorship tree under the academic pathway)~
 
 ### Progress Parameters
 
-1. POST **/progressTracking/parameters**
-2. GET **/progressTracking/parameters**
-3. GET **/progressTracking/parameters/{parameterId}**
-4. PUT **/progressTracking/pramaters/{parameterId}**
+1. ~~POST **/progressTracking/parameters**~~
+2. ~~GET **/progressTracking/parameters**~~
+3. ~~GET **/progressTracking/parameters/{parameterId}**~~
+4. ~~PUT **/progressTracking/pramaters/{parameterId}**~~
 
 ### Progress Questions
 
-1. POST **/progressTracking/questions**
-2. GET **/progressTracking/questions**
-3. GET **/progressTracking/questions/{questionId}**
-4. PUT **/progressTracking/questions/{questionId}**
+1. ~~POST **/progressTracking/questions**~~
+2. ~~GET **/progressTracking/questions**~~
+3. ~~GET **/progressTracking/questions/{questionId}**~~
+4. ~~PUT **/progressTracking/questions/{questionId}**~~
+
+### Progress Tracking Form Structure
+1. GET **/pathway/{pathwayId}/trackingForm**
+2. PUT **/pathway/{pathwayId}/trackingForm/questions**
+3. PUT **/pathway/{pathwayId}/trackingForm/parameters**
+
 
 ### Progress Tracking Requests
 1. GET **/progressTracking/users/{userId}/trackingRequests/toAnswer** (Returns a list of all progress tracking requests)
 2. POST **/progressTracking/users/{userId}/trackingRequests/{requestId}** (Complete a progress tracking request.)
+
+## Milestone Tracking
 3. POST **/progressTracking/pathway/{pathwayId}/users/{userId}/milestone** (Add a milestone for a user.)
 4. GET **/progressTracking/pathway/{pathwayId}/users/{userId}/milestone** (Get all milestones for a user.)
-5. GET **/progressTracking/pathway/{pathwayId}** (Get progress of all users on a pathway)
 
 ## Tables
 
@@ -145,31 +152,10 @@ Mentor trees don't exist at a global level. Every academic pathway can have a me
 4. Description
 5. Progress Tracking Cycle Frequency
 6. Day of the Week
-7. Next Cycle Date
-8. Days to Lock Before Cycle
+7. Days to Lock Before Cycle
+8. Next Cycle Date
 9. Created At
 
-### CoursePathways (TODO) #Saquib
-
-1. Primary Key
-2. Course Id
-3. Pathway Id
-4. Sequence Number
-5. Created At
-6. Updated At
-
-### Category (TODO) #Saquib
-
-1. Primary Key
-2. Category Name
-3. Created At
-
-### CourseCategories (TODO) #Saquib
-
-1. Primary Key
-2. Course Id
-3. Category Id
-4. Updated At
 
 ### Pathway Milestones
 
@@ -213,9 +199,9 @@ Mentor trees don't exist at a global level. Every academic pathway can have a me
 
 1. Primary Key
 2. Pathway ID 
-3. Progress Parameter ID 
+3. Progress Parameter ID
 4. Progress Question ID
-5. Created At 
+5. Created At
 
 ### Pathway Progress Tracking Request
 
@@ -249,6 +235,7 @@ Mentor trees don't exist at a global level. Every academic pathway can have a me
 3. Data (Currently only text. Can support other questions later on)
 4. Created At
 
+
 ### Categories
 1. Programming
 2. Design
@@ -256,6 +243,28 @@ Mentor trees don't exist at a global level. Every academic pathway can have a me
 4. Life Skills
 5. Interview Prep
 6. Information
+
+### CoursePathways (TODO) #Saquib
+
+1. Primary Key
+2. Course Id
+3. Pathway Id
+4. Sequence Number
+5. Created At
+6. Updated At
+
+### Category (TODO) #Saquib
+
+1. Primary Key
+2. Category Name
+3. Created At
+
+### CourseCategories (TODO) #Saquib
+
+1. Primary Key
+2. Course Id
+3. Category Id
+4. Updated At
 Every course can have multiple categories as well.
 
 Each Pathway should have a *sequence of courses* attributed to them.
