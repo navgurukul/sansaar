@@ -96,17 +96,19 @@ Mentor trees don't exist at a global level. Every academic pathway can have a me
 3. ~~GET **/progressTracking/questions/{questionId}**~~
 4. ~~PUT **/progressTracking/questions/{questionId}**~~
 
+### Progress Tracking Form Structure
+1. GET **/pathway/{pathwayId}/trackingForm**
+2. PUT **/pathway/{pathwayId}/trackingForm/questions**
+3. PUT **/pathway/{pathwayId}/trackingForm/parameters**
+
 ### Progress Tracking Requests
 1. GET **/progressTracking/users/{userId}/trackingRequests/toAnswer** (Returns a list of all progress tracking requests)
 2. POST **/progressTracking/users/{userId}/trackingRequests/{requestId}** (Complete a progress tracking request.)
 
-- [ ] Add parameters & questions for structure to a pathway
-- [ ] 
-
-```
+## Milestone Tracking
 3. POST **/progressTracking/pathway/{pathwayId}/users/{userId}/milestone** (Add a milestone for a user.)
 4. GET **/progressTracking/pathway/{pathwayId}/users/{userId}/milestone** (Get all milestones for a user.)
-```
+
 
 ## Tables
 
@@ -154,27 +156,6 @@ Mentor trees don't exist at a global level. Every academic pathway can have a me
 8. Next Cycle Date
 9. Created At
 
-### CoursePathways (TODO) #Saquib
-
-1. Primary Key
-2. Course Id
-3. Pathway Id
-4. Sequence Number
-5. Created At
-6. Updated At
-
-### Category (TODO) #Saquib
-
-1. Primary Key
-2. Category Name
-3. Created At
-
-### CourseCategories (TODO) #Saquib
-
-1. Primary Key
-2. Course Id
-3. Category Id
-4. Updated At
 
 
 ### Pathway Milestones
@@ -255,6 +236,7 @@ Mentor trees don't exist at a global level. Every academic pathway can have a me
 3. Data (Currently only text. Can support other questions later on)
 4. Created At
 
+
 ### Categories
 1. Programming
 2. Design
@@ -262,6 +244,28 @@ Mentor trees don't exist at a global level. Every academic pathway can have a me
 4. Life Skills
 5. Interview Prep
 6. Information
+
+### CoursePathways (TODO) #Saquib
+
+1. Primary Key
+2. Course Id
+3. Pathway Id
+4. Sequence Number
+5. Created At
+6. Updated At
+
+### Category (TODO) #Saquib
+
+1. Primary Key
+2. Category Name
+3. Created At
+
+### CourseCategories (TODO) #Saquib
+
+1. Primary Key
+2. Course Id
+3. Category Id
+4. Updated At
 
 Every course can have multiple categories as well.
 
