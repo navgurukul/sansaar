@@ -101,7 +101,6 @@ Mentor trees don't exist at a global level. Every academic pathway can have a me
 2. PUT **/pathway/{pathwayId}/trackingForm/questions**
 3. PUT **/pathway/{pathwayId}/trackingForm/parameters**
 
-
 ### Progress Tracking Requests
 1. GET **/progressTracking/users/{userId}/trackingRequests/toAnswer** (Returns a list of all progress tracking requests)
 2. POST **/progressTracking/users/{userId}/trackingRequests/{requestId}** (Complete a progress tracking request.)
@@ -109,6 +108,7 @@ Mentor trees don't exist at a global level. Every academic pathway can have a me
 ## Milestone Tracking
 3. POST **/progressTracking/pathway/{pathwayId}/users/{userId}/milestone** (Add a milestone for a user.)
 4. GET **/progressTracking/pathway/{pathwayId}/users/{userId}/milestone** (Get all milestones for a user.)
+
 
 ## Tables
 
@@ -266,6 +266,7 @@ Mentor trees don't exist at a global level. Every academic pathway can have a me
 2. Course Id
 3. Category Id
 4. Updated At
+
 Every course can have multiple categories as well.
 
 Each Pathway should have a *sequence of courses* attributed to them.
