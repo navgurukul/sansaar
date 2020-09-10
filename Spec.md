@@ -102,12 +102,6 @@ Mentor trees don't exist at a global level. Every academic pathway can have a me
 3. PUT **/pathway/{pathwayId}/trackingForm/parameters**
 
 
-### Progress Tracking Form Structure
-1. GET **/pathway/{pathwayId}/trackingForm**
-2. PUT **/pathway/{pathwayId}/trackingForm/questions**
-3. PUT **/pathway/{pathwayId}/trackingForm/parameters**
-
-
 ### Progress Tracking Requests
 1. GET **/progressTracking/users/{userId}/trackingRequests/toAnswer** (Returns a list of all progress tracking requests)
 2. POST **/progressTracking/users/{userId}/trackingRequests/{requestId}** (Complete a progress tracking request.)
