@@ -28,3 +28,6 @@ running below script will add or update all course returned by the server.
 ```bash
 node lib/courseSeeder/index.js 
 ```
+
+## Curriculum
+1. ```git clone https://github.com/navgurukul/newton curriculum```
