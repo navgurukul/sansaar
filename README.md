@@ -14,3 +14,20 @@ Everything backend about NavGurukul :)
 - [ ] How to show scope on Swagger?
 - [ ] Add service generator in .hc.js
 - [ ] Swagger API should work on prod
+
+## course add and update
+
+running it with `--addUpdateSingleCourse` will add or update single course returned by the server.
+
+```bash
+node lib/courseSeeder/index.js --addUpdateSingleCourse {course_name}
+```
+
+running below script will add or update all course returned by the server.
+
+```bash
+node lib/courseSeeder/index.js 
+```
+
+## Curriculum
+1. ```git clone https://github.com/navgurukul/newton curriculum```
