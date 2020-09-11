@@ -14,3 +14,8 @@ Everything backend about NavGurukul :)
 - [ ] How to show scope on Swagger?
 - [ ] Add service generator in .hc.js
 - [ ] Swagger API should work on prod
+
+## Curriculum
+1. ```git clone https://github.com/navgurukul/newton curriculum```
+2. ```cd lib/courseSeeder```
+3. ```node.index.js```
