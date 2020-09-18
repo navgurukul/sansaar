@@ -19,5 +19,8 @@ module.exports = {
     'prettier/prettier': ['error', { singleQuote: true }],
     'comma-dangle': ['off', {}],
     'no-underscore-dangle': 0,
+    'no-param-reassign': 0,
+    'no-return-assign': 0,
+    camelcase: 0,
   },
 };
