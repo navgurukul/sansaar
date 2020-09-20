@@ -1,4 +1,6 @@
 const Glue = require('@hapi/glue');
+const sdk = require('matrix-bot-sdk');
+const CONFIG = require('../lib/config');
 const Manifest = require('./manifest');
 
 exports.deployment = async (start) => {
@@ -25,6 +27,16 @@ exports.deployment = async (start) => {
   // eslint-disable-next-line no-console
   console.log(`Server started at ${server.info.uri}`);
 
+  const { MatrixClient, AutojoinRoomsMixin, SimpleFsStorageProvider } = sdk;
+  const homeserverUrl = 'https://m.navgurukul.org'; // make sure to update this with your url
+  const accessToken = CONFIG.CHAT_ACCESS_TOKEN;
+  const storage = new SimpleFsStorageProvider('bot.json');
+  const client = new MatrixClient(homeserverUrl, accessToken, storage);
+  AutojoinRoomsMixin.setupOnClient(client);
+
+  const { ChatService } = server.services();
+  client.on('room.message', ChatService.handleCommand);
+  
   return server;
 };
 

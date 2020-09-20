@@ -35,13 +35,14 @@
     "jsonwebtoken": "^8.5.1",
     "knex": "^0.21.2",
     "lodash": "^4.17.20",
+    "matrix-bot-sdk": "^0.5.7",
     "objection": "^2.2.1",
     "objection-db-errors": "^1.1.2",
     "pg": "^8.3.0",
     "schmervice": "^1.5.0",
     "schwifty": "^5.3.0",
     "toys": "2.x.x"
-   },
+  },
   "devDependencies": {
     "@hapi/code": "8.x.x",
     "@hapi/eslint-config-hapi": "13.x.x",
