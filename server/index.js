@@ -34,9 +34,9 @@ exports.deployment = async (start) => {
   const client = new MatrixClient(homeserverUrl, accessToken, storage);
   AutojoinRoomsMixin.setupOnClient(client);
 
+  server.chatClient = client;
   const { ChatService } = server.services();
   client.on('room.message', ChatService.handleCommand);
-  
   return server;
 };
 
