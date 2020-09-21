@@ -41,7 +41,7 @@ exports.deployment = async (start) => {
   const { chatUsersService } = server.services();
 
   // eslint-disable-next-line
-  client.start().then(() => console.log('Client started!'));
+  // client.start().then(() => console.log('Client started!'));
   client.on('room.message', chatUsersService.handleCommand.bind(this));
 
   return server;
