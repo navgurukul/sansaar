@@ -38,11 +38,11 @@ exports.deployment = async (start) => {
   console.log(`Server started at ${server.info.uri}`);
   server.chatClient = client;
 
-  const { chatUsersService } = server.services();
+  const { chatService } = server.services();
 
   // eslint-disable-next-line
   // client.start().then(() => console.log('Client started!'));
-  client.on('room.message', chatUsersService.handleCommand.bind(this));
+  client.on('room.message', chatService.handleCommand.bind(this));
 
   return server;
 };

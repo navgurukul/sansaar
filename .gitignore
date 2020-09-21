@@ -108,3 +108,6 @@ dist
 
 # curriculum
 curriculum/
+
+#bot.json
+bot.json
