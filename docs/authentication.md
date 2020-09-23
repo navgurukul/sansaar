@@ -3,26 +3,26 @@
 ### Endpoints :
     -/users/create : 
         This endpoint is used to create a user. It does not take any payload and creates a random name, and email for the user. It returns 
-                        ```
-                        {
-                            "user": {
-                                "name": "Sawdusty shrimp",
-                                "email": "sawdustyo6upa8oq@fake.com",
-                                "chat_id": "sawdusty5alcuqr9",
-                                "chat_password": "vpjLhi+rfHLk7TICBEN+W98sUL0JxC8P",
-                                "created_at": "2020-09-23T19:55:38.633Z",
-                                "id": "730"
-                                },
-                            "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjczMCIsImVtYWlsIjoic2F3ZHVzdHlvNnVwYThvcUBmYWtlLmNvbSIsImlhdCI6MTYwMDg5MDk0MSwiZXhwIjoxNjMyNDQ4NTQxfQ.iD847wqE1xnnmEqXYAC-MOFuAqkrrigUi_NervIdKJ8"
-                        }
-                        ```
-                        as a response. user.id can be used to link it to a google account.
+                ```
+                {
+                    "user": {
+                        "name": "Sawdusty shrimp",
+                        "email": "sawdustyo6upa8oq@fake.com",
+                        "chat_id": "sawdusty5alcuqr9",
+                        "chat_password": "vpjLhi+rfHLk7TICBEN+W98sUL0JxC8P",
+                        "created_at": "2020-09-23T19:55:38.633Z",
+                        "id": "730"
+                        },
+                    "token": "~a-meraki-jwt-token~"
+                }
+                ```
+                as a response. user.id can be used to link it to a google account.
 
     -/users/auth/google :
         Flow 1 - When user wants to create an account with google. This is what expected in the payload
                 ```
                 {
-                    "idToken": "a-long-google-id-token",
+                    "idToken": "~a-long-google-id-token~",
                     "mode": "web"
                 }
                 ```
@@ -30,10 +30,10 @@
         Flow 2 - This flow comes into play when the user has already created an account using `/users/create`. They will then validate their account using google authorization. Expected payload: 
         
             
-            ```{
+                {
                     "idToken": "a-long-google-id-token",
                     "mode": "web"
-                }```
+                }   
 
         This is what the response looks like:
         ```
