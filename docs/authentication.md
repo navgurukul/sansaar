@@ -2,7 +2,7 @@
 
 ## Endpoints
 
-- /users/create : 
+- **/users/create** : 
     This endpoint is used to create a user. 
     It does not take any payload and creates a random name, and email for the user. 
     
@@ -22,8 +22,8 @@
 
 
 
-- /users/auth/google :
-    Flow 1 - When user wants to create an account with google.
+- **/users/auth/google** :
+    *Flow 1 - When user wants to create an account with google.*
 
         Expected payload looks like:
             {
@@ -31,7 +31,7 @@
                 "mode": "web"
             }
     
-    Flow 2 - This flow comes into play when the user has already created an account using `/users/create`. 
+    *Flow 2 - This flow comes into play when the user has already created an account using `/users/create`.* 
     They will then validate their account using google authorization 
     by linking the user.id they recieved from `/users/create`. 
     
