@@ -7,6 +7,7 @@
     It does not take any payload and creates a random name, and email for the user. 
     
     It returns 
+            ```
             {
                 "user": {
                     "name": "Sawdusty shrimp",
@@ -16,29 +17,35 @@
                     "created_at": "2020-09-23T19:55:38.633Z",
                     "id": "730"
                     },
-                "token": "~a-meraki-jwt-token~"
+                "token": "-a-meraki-jwt-token-"
             }
+            ```
     as a response. user.id can be used to link it to a google account.
 
 - /users/auth/google :
     Flow 1 - When user wants to create an account with google.
 
         Expected payload: 
+            ```
             {
-                "idToken": "~a-long-google-id-token~",
+                "idToken": "-a-long-google-id-token-",
                 "mode": "web"
             }
+            ```
     
     Flow 2 - This flow comes into play when the user has already created an account using `/users/create`. 
     They will then validate their account using google authorization. 
     
-        Expected payload:         
+        Expected payload:
+            ```         
             {
                 "idToken": "a-long-google-id-token",
                 "mode": "web"
-            }   
+            }
+            ``` 
 
     This is what the response of a successful /users/auth/google looks like:
+        ```
         {
             "user": {
                 "rolesList": [],
@@ -58,3 +65,4 @@
             },
             "token": "-a-meraki-jwt-token-"
         }
+        ```
