@@ -6,7 +6,7 @@
     This endpoint is used to create a user. 
     It does not take any payload and creates a random name, and email for the user. 
     
-        It returns:
+        Demo response:
             {
                 "user": {
                     "name": "Sawdusty shrimp",
@@ -24,7 +24,7 @@
 - /users/auth/google :
     Flow 1 - When user wants to create an account with google.
 
-        Expected payload:
+        Expected payload looks like:
             {
                 "idToken": "-a-long-google-id-token-",
                 "mode": "web"
@@ -33,10 +33,11 @@
     Flow 2 - This flow comes into play when the user has already created an account using `/users/create`. 
     They will then validate their account using google authorization. 
     
-        Expected payload:         
+        Expected payload looks like:         
             {
                 "idToken": "a-long-google-id-token",
-                "mode": "web"
+                "mode": "web",
+                "id": 730
             }
 
         
