@@ -31,7 +31,8 @@
             }
     
     Flow 2 - This flow comes into play when the user has already created an account using `/users/create`. 
-    They will then validate their account using google authorization. 
+    They will then validate their account using google authorization 
+    by linking the user.id they recieved from `/users/create`. 
     
         Expected payload looks like:         
             {
