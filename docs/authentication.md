@@ -17,9 +17,10 @@
                     "id": "730"
                     },
                 "token": "-a-meraki-jwt-token-"
-            }
-            
-    as a response. user.id can be used to link it to a google account.
+            }        
+    user.id can be used to link it to a google account.
+
+
 
 - /users/auth/google :
     Flow 1 - When user wants to create an account with google.
