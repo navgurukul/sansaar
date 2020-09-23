@@ -1,6 +1,6 @@
 # Authentication
 
-## Endpoints :
+## Endpoints
     - /users/create : 
         This endpoint is used to create a user. 
         It does not take any payload and creates a random name, and email for the user. 
