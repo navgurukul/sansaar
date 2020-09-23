@@ -6,8 +6,7 @@
     This endpoint is used to create a user. 
     It does not take any payload and creates a random name, and email for the user. 
     
-    It returns:
-            ```
+        It returns:
             {
                 "user": {
                     "name": "Sawdusty shrimp",
@@ -19,7 +18,7 @@
                     },
                 "token": "-a-meraki-jwt-token-"
             }
-            ```
+            
     as a response. user.id can be used to link it to a google account.
 
 - /users/auth/google :
@@ -40,8 +39,8 @@
                 "mode": "web"
             }
 
-    This is what the response of a successful /users/auth/google looks like:
-            ```
+        
+        This is what the response of a successful /users/auth/google looks like:
             {
                 "user": {
                     "rolesList": [],
@@ -61,4 +60,3 @@
                 },
                 "token": "-a-meraki-jwt-token-"
             }
-            ```
