@@ -2,8 +2,10 @@
 
 ### Endpoints :
     -/users/create : 
-        This endpoint is used to create a user. It does not take any payload and creates a random name, and email for the user. It returns 
-                ```
+        This endpoint is used to create a user. 
+        It does not take any payload and creates a random name, and email for the user. 
+        
+        It returns 
                 {
                     "user": {
                         "name": "Sawdusty shrimp",
@@ -15,8 +17,7 @@
                         },
                     "token": "~a-meraki-jwt-token~"
                 }
-                ```
-                as a response. user.id can be used to link it to a google account.
+        as a response. user.id can be used to link it to a google account.
 
     -/users/auth/google :
         Flow 1 - When user wants to create an account with google.
