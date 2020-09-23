@@ -1,7 +1,7 @@
-## Authentication
+# Authentication
 
-### Endpoints :
-    -/users/create : 
+## Endpoints :
+    - /users/create : 
         This endpoint is used to create a user. 
         It does not take any payload and creates a random name, and email for the user. 
         
@@ -19,7 +19,7 @@
                 }
         as a response. user.id can be used to link it to a google account.
 
-    -/users/auth/google :
+    - /users/auth/google :
         Flow 1 - When user wants to create an account with google.
 
             Expected payload: 
