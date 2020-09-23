@@ -2,7 +2,7 @@
 
 ### Endpoints :
 
-1. /users/create : 
+- /users/create : 
     This endpoint is used to create a user. It returns 
                     ```
                     {
@@ -19,7 +19,7 @@
                     ```
                     as a response. user.id can be used to link it to a google account.
 
-2. /users/auth/google :
+- /users/auth/google :
     Flow 1 - When user wants to create an account with google. This is what expected in the payload
             ```
             {
