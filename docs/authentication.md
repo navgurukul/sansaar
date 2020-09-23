@@ -28,7 +28,8 @@
                     "mode": "web"
                 }
         
-        Flow 2 - This flow comes into play when the user has already created an account using `/users/create`. They will then validate their account using google authorization. 
+        Flow 2 - This flow comes into play when the user has already created an account using `/users/create`. 
+        They will then validate their account using google authorization. 
         
             Expected payload:         
                 {
