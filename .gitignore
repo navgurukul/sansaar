@@ -105,3 +105,9 @@ dist
 
 # Mac
 .DS_Store
+
+# curriculum
+curriculum/
+
+#bot.json
+bot.json

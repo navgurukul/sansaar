@@ -1,5 +1,7 @@
 const Glue = require('@hapi/glue');
+const sdk = require('matrix-bot-sdk');
 const Manifest = require('./manifest');
+const CONFIG = require('../lib/config/index');
 
 exports.deployment = async (start) => {
   const manifest = Manifest.get('/');
@@ -14,6 +16,16 @@ exports.deployment = async (start) => {
     );
   });
 
+  const { MatrixClient, AutojoinRoomsMixin, SimpleFsStorageProvider } = sdk;
+  const homeserverUrl = 'https://m.navgurukul.org';
+  const { accessToken } = CONFIG.auth.chat;
+  const storage = new SimpleFsStorageProvider('bot.json');
+  const client = new MatrixClient(homeserverUrl, accessToken, storage);
+  AutojoinRoomsMixin.setupOnClient(client);
+
+  // Set the matrix client before initializing the server
+  server.app.chatClient = client;
+
   await server.initialize();
 
   if (!start) {
@@ -24,6 +36,17 @@ exports.deployment = async (start) => {
 
   // eslint-disable-next-line no-console
   console.log(`Server started at ${server.info.uri}`);
+  server.chatClient = client;
+
+  const { chatService } = server.services();
+
+  // eslint-disable-next-line
+  client.start().then(() => {
+    // chatService.initializeMeraki.bind(this);
+    // eslint-disable-next-line
+    console.log('Client started!');
+  });
+  client.on('room.message', chatService.handleCommand.bind(this));
 
   return server;
 };
