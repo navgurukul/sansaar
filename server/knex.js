@@ -4,7 +4,7 @@ const knex = require('knex');
 Dotenv.config({ path: `${__dirname}/.env` });
 
 module.exports = {
-  bolKnex: knex({
+  chatKnex: knex({
     client: 'pg',
     connection: {
       database: process.env.BOL_DB_NAME,
