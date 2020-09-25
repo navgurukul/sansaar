@@ -1,6 +1,6 @@
 const Dotenv = require('dotenv');
-
 const knex = require('knex');
+
 Dotenv.config({ path: `${__dirname}/.env` });
 
 module.exports = {
