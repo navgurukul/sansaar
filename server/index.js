@@ -42,7 +42,7 @@ exports.deployment = async (start) => {
 
   client.start().then(() => {
     // eslint-disable-next-line
-    // console.log('Client started!');
+    console.log('Client started!');
   });
   client.on('room.message', chatService.handleCommand.bind(this));
 
