@@ -40,9 +40,7 @@ exports.deployment = async (start) => {
 
   const { chatService } = server.services();
 
-  // eslint-disable-next-line
   client.start().then(() => {
-    // chatService.initializeMeraki.bind(this);
     // eslint-disable-next-line
     console.log('Client started!');
   });
