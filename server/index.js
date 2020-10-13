@@ -1,6 +1,9 @@
 const Glue = require('@hapi/glue');
 const sdk = require('matrix-bot-sdk');
+const cron = require('node-cron');
+const _ = require('lodash');
 const Manifest = require('./manifest');
+const botHandling = require('../lib/bot/index');
 const CONFIG = require('../lib/config/index');
 
 exports.deployment = async (start) => {
@@ -38,13 +41,51 @@ exports.deployment = async (start) => {
   console.log(`Server started at ${server.info.uri}`);
   server.chatClient = client;
 
-  const { chatService } = server.services();
+  const { chatService, classesService, displayService } = server.services();
 
   client.start().then(() => {
     // eslint-disable-next-line
     console.log('Client started!');
   });
   client.on('room.message', chatService.handleCommand.bind(this));
+
+  /* Scheduler */
+  const upcomingClasses = await classesService.getUpcomingClasses({});
+  _.forEach(upcomingClasses, async (upcomingClass) => {
+    let startFullTime = upcomingClass.start_time;
+
+    if (typeof upcomingClass.start_time !== 'string') {
+      startFullTime = startFullTime.toISOString();
+    }
+    const timeSplitted = startFullTime.split('T');
+
+    const month = timeSplitted[0].split('-')[1];
+    const date = timeSplitted[0].split('-')[2];
+    const hours = timeSplitted[1].split(':')[0];
+    const minutes = timeSplitted[1].split(':')[1];
+    const seconds = timeSplitted[1].split(':')[2].split('.')[0];
+
+    let realMinutes = minutes - 15;
+    let realHours = hours;
+    if (realMinutes < 0) {
+      realHours = hours - 1;
+      if (realHours < 0) {
+        realHours = 23;
+      }
+      realMinutes += 60;
+    }
+
+    cron.schedule(`${seconds} ${realMinutes} ${realHours} ${date} ${month} *`, async () => {
+      const users = await displayService.getClassRegisteredUsers(upcomingClass.id);
+      _.forEach(users, async (user) => {
+        const privateRoom = await botHandling.getPrivateRoomId(`@${user.chat_id}:navgurukul.org`);
+        if (privateRoom !== null) {
+          await chatService.sendScheduledMessage(privateRoom);
+        }
+      });
+    });
+  });
+  /* Scheduler */
 
   return server;
 };
