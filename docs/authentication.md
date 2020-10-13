@@ -4,7 +4,7 @@
 
 - **/users/create** : 
     *This endpoint is used to create a user.*
-    *It does not take any payload and creates\ a random name, and email for the user.* 
+    *It does not take any payload and creates\n a random name, and email for the user.* 
     
         Demo response:
             {
