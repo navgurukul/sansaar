@@ -3,8 +3,8 @@
 ## Endpoints
 
 - **/users/create** : 
-    *This endpoint is used to create a user.*
-    *It does not take any payload and creates<br/> a random name, and email for the user.* 
+    *This endpoint is used to create a user.*<br/>
+    *It does not take any payload and creates a random name, and email for the user.* 
     
         Demo response:
             {
@@ -32,7 +32,7 @@
                 "mode": "web"
             }
     
-    *Flow 2 - This flow comes into play when the user has already created an account using `/users/create`.* 
+    *Flow 2 - This flow comes into play when the user has already created an account using `/users/create`.*<br/> 
     They will then validate their account using google authorization 
     by linking the user.id they recieved from `/users/create`. 
     
