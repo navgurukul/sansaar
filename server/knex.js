@@ -12,5 +12,9 @@ module.exports = {
       user: process.env.BOL_DB_USER,
       password: process.env.BOL_DB_PASS,
     },
+    pool: {
+      min: 4,
+      max: 200,
+    },
   }),
 };
