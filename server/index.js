@@ -1,9 +1,12 @@
 const Glue = require('@hapi/glue');
 const sdk = require('matrix-bot-sdk');
+/* eslint-disable */
 const cron = require('node-cron');
 const _ = require('lodash');
 const Manifest = require('./manifest');
 const botHandling = require('../lib/bot/index');
+/* eslint-disable */
+
 const CONFIG = require('../lib/config/index');
 
 exports.deployment = async (start) => {
@@ -41,6 +44,7 @@ exports.deployment = async (start) => {
   console.log(`Server started at ${server.info.uri}`);
   server.chatClient = client;
 
+  // eslint-disable-next-line
   const { chatService, classesService, displayService } = server.services();
 
   client.start().then(() => {
