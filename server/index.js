@@ -49,51 +49,6 @@ exports.deployment = async (start) => {
   });
   client.on('room.message', chatService.handleCommand.bind(this));
 
-  /* Scheduler */
-  const upcomingClasses = await classesService.getUpcomingClasses({});
-  _.forEach(upcomingClasses, async (upcomingClass) => {
-    let startFullTime = upcomingClass.start_time;
-
-    if (typeof upcomingClass.start_time !== 'string') {
-      startFullTime = startFullTime.toISOString();
-    }
-    const timeSplitted = startFullTime.split('T');
-
-    const month = timeSplitted[0].split('-')[1].toString();
-    const date = timeSplitted[0].split('-')[2].toString();
-    const hours = timeSplitted[1].split(':')[0];
-    const minutes = timeSplitted[1].split(':')[1];
-    // const seconds = timeSplitted[1].split(':')[2].split('.')[0];
-
-    let realMinutes = minutes - 15;
-    let realHours = hours;
-    if (realMinutes < 0) {
-      realHours = hours - 1;
-      if (realHours < 0) {
-        realHours = 23;
-      }
-      realMinutes += 60;
-    }
-    realHours = realHours.toString();
-    realMinutes = realMinutes.toString();
-
-    cron.schedule(`0 ${realMinutes} ${realHours} ${date} ${month} *`, async () => {
-      const users = await displayService.getClassRegisteredUsers(upcomingClass.id);
-      _.forEach(users, async (user) => {
-        const privateRoom = await botHandling.getPrivateRoomId(`@${user.chat_id}:navgurukul.org`);
-        if (privateRoom !== null) {
-          /* set timeout to avoid 'TOO MANY REQUESTS' error
-             Not Sure if it works when there are large number of attendees of a single class 
-             Will send messages to 60 people in a minute. */
-          setTimeout(async () => {
-            await chatService.sendScheduledMessage(privateRoom, upcomingClass);
-          }, 1000);
-        }
-      });
-    });
-  });
-  /* Scheduler */
-
   return server;
 };
 
