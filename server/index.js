@@ -6,6 +6,7 @@ const Promise = require('bluebird');
 const _ = require('lodash');
 const Manifest = require('./manifest');
 const botHandling = require('../lib/bot/actions');
+const { sleep } = require('../lib/helpers');
 /* eslint-disable */
 
 const CONFIG = require('../lib/config/index');
@@ -48,10 +49,19 @@ exports.deployment = async (start) => {
     const upcomingClasses = await classesService.getAllClasses(ISTTime);
     const getISTTime = ISTTime.getTime();
     const fifteenMinutesFromNow = new Date(ISTTime.setTime(getISTTime + 15 * 60 * 1000));
-    console.log(fifteenMinutesFromNow);
-    // console.log(upcomingClasses);
     const userPromises = [];
     const classResolved = [];
+
+    /**
+     * Iterate over the list of upcoming class
+     * and check if any class is scheduled at 15 minutes from now
+     * NOTE : Client and Server should be designed
+     *        to not allow any number other than 0(zero)
+     *        as the seconds value in timestamp,
+     *        because the cron job executes once every minute at 0th second
+     *        taking performance issues into consideration
+     */
+
     upcomingClasses.forEach(async (classes) => {
       let startTime = JSON.stringify(classes.start_time).substring(1, 17);
       let timePlus15 = JSON.stringify(fifteenMinutesFromNow).substring(1, 17);
@@ -61,120 +71,73 @@ exports.deployment = async (start) => {
         classResolved.push(classes);
       }
     });
-    const allUserAllClasses = await Promise.all(userPromises);
 
-    const TESTING_USERS = await userService.getUserByEmail('delete');
-    const mainPromise = [];
+    /**
+     * allUsersAllClasses is a 2D array containing arrays of registered users
+     * Each inner array represents a class
+     */
+    let allUsersAllClasses = await Promise.all(userPromises);
 
-    // allUserAllClasses.forEach(async (classUsers, index) => {
-    //   classUsers.forEach(async (users) => {
-    //     const privateRoom = await botHandling.getPrivateRoomId(
-    //       `@${users.chat_id}:navgurukul.org`
-    //     );
-    //     if (privateRoom !== null) {
-    //       console.log(privateRoom);
+    /**
+     * The following line
+     * is just for testing
+     * remove it after testing
+     * TESTING_USERS is just a testing simulation, gives you multiple fake accounts to test on
+     *
+     */
 
-    //       const sendMessage = await chatService.sendScheduledMessage(
-    //         privateRoom,
-    //         classResolved[index]
-    //       );
-    //       mainPromise.push(sendMessage);
-    //       console.log(`Sent to ${TESTING_USERS[index].name}`);
-    //     }
-    //   });
-    // });
-    allUserAllClasses.forEach(async (classUsers) => {
-      TESTING_USERS.forEach(async (USER) => {
-        const privateRoom = await botHandling.getPrivateRoomId(`@${USER.chat_id}:navgurukul.org`);
-        if (privateRoom !== null) {
-          console.log('HERE TOOOOOOO');
-          console.log(privateRoom);
+    // const TESTING_USERS = await userService.getUserByEmail('delete');
 
-          const sendMessage = chatService.sendScheduledMessage(privateRoom, classResolved[0]);
-          mainPromise.push(sendMessage);
-          console.log(`Sent to ${USER.name}`);
+    /**
+     * The following line
+     * is just for testing
+     * remove it after testing
+     */
+
+    // allUsersAllClasses = [TESTING_USERS];
+
+    //classResolved contains list of upcoming classes
+    await iterateOverClasses(0, classResolved);
+
+    async function iterateOverClasses(i, classResolved) {
+      if (i < classResolved.length) {
+        await iterateOverUsersOfClass(0, allUsersAllClasses[i], classResolved[i]);
+      }
+      if (i < classResolved.length - 1) {
+        await iterateOverClasses(i + 1, classResolved);
+      }
+      return null;
+    }
+
+    async function iterateOverUsersOfClass(i, classUsers, currentClass) {
+      if (classUsers[i].chat_id !== null) {
+        const privateRoom = await botHandling.getPrivateRoomId(
+          `@${classUsers[i].chat_id}:navgurukul.org`
+        );
+        if (privateRoom !== 'user_not_found') {
+          try {
+            await chatService.sendScheduledMessage(privateRoom, currentClass);
+          } catch {
+            /**
+             * We have upped the limit of matrix API
+             * requests per second (100) so it should
+             * never go into the catch statement
+             * However it stays as a fallback
+             */
+            await sleep(10000);
+            await chatService.sendScheduledMessage(privateRoom, currentClass);
+          }
         }
-      });
-    });
+      }
 
-    console.log('%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%');
-    console.log(mainPromise.length);
-    console.log('%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%');
-
-    // await Promise.all(mainPromise);
-    await Promise.each(
-      mainPromise,
-      (promiseFn) => {
-        return promiseFn();
-      },
-      { concurrency: 1 }
-    );
+      if (i < classUsers.length - 1) {
+        setTimeout(async () => {
+          await iterateOverUsersOfClass(i + 1, classUsers, currentClass);
+        }, Math.random() * 1000);
+      }
+      return null;
+    }
   });
-
-  // async function Scheduler(upcomingClasses) {
-  //   _.forEach(upcomingClasses, async (upcomingClass) => {
-  //     let startFullTime = upcomingClass.start_time;
-
-  //     if (typeof upcomingClass.start_time !== 'string') {
-  //       startFullTime = startFullTime.toISOString();
-  //     }
-  //     const timeSplitted = startFullTime.split('T');
-
-  //     const month = timeSplitted[0].split('-')[1].toString();
-  //     const date = timeSplitted[0].split('-')[2].toString();
-  //     const hours = timeSplitted[1].split(':')[0];
-  //     const minutes = timeSplitted[1].split(':')[1];
-
-  //     let realMinutes = minutes - 15;
-  //     let realHours = hours;
-  //     if (realMinutes < 0) {
-  //       realHours = hours - 1;
-  //       if (realHours < 0) {
-  //         realHours = 23;
-  //       }
-  //       realMinutes += 60;
-  //     }
-  //     realHours = realHours.toString();
-  //     realMinutes = realMinutes.toString();
-
-  //     // let realMinutesUR = (+realMinutes + 5).toString();
-  //     // let realHoursUR = realHours;
-
-  //     // if (+realMinutesUR >= 60) {
-  //     //   realMinutesUR = (+realMinutesUR - 60).toString();
-  //     //   realHoursUR = (+realHoursUR + 1).toString();
-  //     //   if (+realHoursUR > 23) {
-  //     //     realHoursUR = (+realHoursUR - 24).toString();
-  //     //   }
-  //     //   console.log(realMinutesUR, realHoursUR);
-  //     // }
-  //     console.log(`* ${realMinutes} ${realHours} ${date} ${month} *`);
-  //     cron.schedule(`*/20 ${realMinutes} ${realHours} ${date} ${month} *`, async () => {
-  //       const users = await displayService.getClassRegisteredUsers(upcomingClass.id);
-
-  //       _.forEach(users, async (user) => {
-  //         console.log('**************************************************');
-  //         console.log('TESTING REACHED HERE');
-  //         console.log('**************************************************');
-
-  //         const privateRoom = await botHandling.getPrivateRoomId(`@${user.chat_id}:navgurukul.org`);
-  //         if (privateRoom !== null) {
-  //           console.log('HERE TOOOOOOO');
-  //           /* set timeout to avoid 'TOO MANY REQUESTS' error
-  //              Not Sure if it works when there are large number of attendees of a single class
-  //              Will send messages to 60 people in a minute. */
-  //           console.log(privateRoom, upcomingClass);
-  //           // setTimeout(async () => {
-  //           //   await chatService.sendScheduledMessage(privateRoom, upcomingClass);
-  //           // }, 1000);
-  //         }
-  //       });
-  //     });
-  //     return '****************************SENT********************************';
-  //   });
-  //   // return 'DONE';
-  // }
-
   /* Scheduler */
 
   // eslint-disable-next-line no-console
