@@ -57,7 +57,7 @@ exports.deployment = async (start) => {
      * and check if any class is scheduled at 15 minutes from now
      * NOTE : Client and Server should be designed
      *        to not allow any number other than 0(zero)
-     *        as the seconds value in timestamp,
+     *        as the seconds value in timestamp while creating class,
      *        because the cron job executes once every minute at 0th second
      *        taking performance issues into consideration
      */
