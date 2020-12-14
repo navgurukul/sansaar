@@ -78,7 +78,28 @@ Your contribution is more than welcomed 🤩
     ├── Spec.md                         # Constants specifications documentation file
   ```
 
+We are following the MVC pattern here. 
+All routes reside inside **/lib/routes**. 
+All controllers inside **/lib/service**.
+All models inside **/lib/models**.
+### Tech Stack.
+- **NodeJS** : We share a love-hate relationship with JavaScript, but our love for it outweighs the hate 😛. 
+- **PostgreSQL** : One of the good things about Postgres is that it is ORDBMS (O for object)rather than just RDMS.
+- [**HapiJS**](https://hapi.dev/) : What Express does, HapiJS can do it in style. It's easy, it's clean and comes with a built in support for input validation, caching and error handling, so you can be Hapi (*pun intended*).
+    #### Hapi Plugin
+    - @hapi/boom : HTTP friendly error objects
+    - @hapi/bounce : Selective error catching and rewrite rules
+    - @hapi/glue : Server composer for HapiJS
+    - @hapi/inert : Static files and directory handlers plugin
+    - @hapi/joi : Object schema validation
+    - @hapi/vision : Templates rendering plugin support
+    - schmervice : Hapi service registry
+    - schwifty : Plugin integrating Objection ORM
 
+- [**matrix-bot-sdk**](https://github.com/turt2live/matrix-bot-sdk) : Matrix bot sdk provides a bot for the matrix server.
+- [**Objection**](https://vincit.github.io/objection.js/) : Objection coupled with [**knex**](http://knexjs.org/) lets you write clean and easy to understand SQL queries.
+
+*Other libraries and third-party packages where used as and when required*
 
 ## To Dos
 - [ ] How to show scope on Swagger?
