@@ -5,7 +5,7 @@ This repository holds (will hold, as we are building it) the universe of NavGuru
 All the APIs exist here.
 
 Your contribution is more than welcomed 🤩
-## Project set-up
+## Project setup
 - Clone the repo `git clone https://github.com/navgurukul/sansaar.git`
 - Install dependencies `npm install` and then chnage directory `cd sansaar`
 - `npm install -g knex`
@@ -13,7 +13,7 @@ Your contribution is more than welcomed 🤩
 - Run `knex migrate:latest` for updating migration file.
 - If any error is throwing while running above script then login to the postgres server and remove all the rows of the the knex_migrations table using `TRUNCATE TABLE knex_migrations` and run `knex migrate:latest` again.
 ## Code Strucutre
-- *The philosophy of the code strucutre is keeping things as small as they can be. Keeping functions small, components small, and files small. Basically keeping everything as small as they can be. Like Minions, We love Minions. Who doesn't .*
+- *The philosophy of the code structure is keeping things as small as they can be. Keeping functions small, components small, and files small. Basically keeping everything as small as they can be. Like Minions, We love Minions. Who doesn't .*
 
 ### The file structure looks something like this.
 ```
@@ -87,14 +87,14 @@ All models inside **/lib/models**.
 - **PostgreSQL** : One of the good things about Postgres is that it is ORDBMS (O for object) rather than just RDMS.
 - [**HapiJS**](https://hapi.dev/) : What Express does, HapiJS can do it in style. It's easy, it's clean and comes with a built in support for input validation, caching and error handling, so you can be Hapi (*pun intended*).
     #### Hapi Plugin
-    - @hapi/boom : HTTP friendly error objects
-    - @hapi/bounce : Selective error catching and rewrite rules
-    - @hapi/glue : Server composer for HapiJS
-    - @hapi/inert : Static files and directory handlers plugin
-    - @hapi/joi : Object schema validation
-    - @hapi/vision : Templates rendering plugin support
-    - schmervice : Hapi service registry
-    - schwifty : Plugin integrating Objection ORM
+    - [@hapi/boom](https://hapi.dev/module/boom/) : HTTP friendly error objects
+    - [@hapi/bounce](https://hapi.dev/module/bounce/) : Selective error catching and rewrite rules
+    - [@hapi/glue](https://hapi.dev/module/glue/) : Server composer for HapiJS
+    - [@hapi/inert](https://hapi.dev/module/inert/) : Static files and directory handlers plugin
+    - [@hapi/joi](https://joi.dev/) : Object schema validation
+    - [@hapi/vision](https://hapi.dev/module/vision/) : Templates rendering plugin support
+    - [schmervice](https://github.com/hapipal/schmervice) : Hapi service registry
+    - [schwifty](https://github.com/hapipal/schwifty) : Plugin integrating Objection ORM
 
 - [**matrix-bot-sdk**](https://github.com/turt2live/matrix-bot-sdk) : Matrix bot sdk provides a bot for the matrix server.
 - [**Objection**](https://vincit.github.io/objection.js/) : Objection coupled with [**knex**](http://knexjs.org/) lets you write clean and easy to understand SQL queries.
@@ -103,7 +103,7 @@ All models inside **/lib/models**.
 
 ### Understanding the flow of :-
  - **API calls** : The API calls are handled by routes, and data is fetched (or inserted) from (or into) the database through services to models. So basically :- 
-    ├── *Routes* : Handles your network request and returns a response but before returning a response, it obviously interact with the models through service functions.
+    - *Routes* : Handles your network request and returns a response but before returning a response, it obviously interact with the models through service functions.
 
     - *Service* : Services are the middlemen which abstract away the necessity of direct interaction of routes with the database models. Each component of data dealing with model has been handled through an exclusive service of their own. For example, to fetch, insert, update or delete into courses model, a courses service (*/services/courses.js*) exists. Same applies for classes model. However, *displayService.js* is the only service that has functions defined for fetching/inserting data using relation mapping among models and that's the reason why you will find it interacting with courses, classes, pathway, exercises etc.
     
