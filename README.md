@@ -119,10 +119,10 @@ All models inside **/lib/models**.
     ├── Send a class reminder message 15 minutes prior to class.
  The bot object is defined alongside with our server in `/server/index.js` since we want it to start and work synchronously with our server.
 
- *Enough talking, Now let's understand the actual flow of bot. The following is the folder structure:-*
-    ├── *lib/bot/action.js* : It is comprised of functions that are designed to do tasks related to matrix server. It interacts with our matrix database to perform tasks like getting a user's room ID with the bot, or even any public room ID as a matter of fact. It even does synapse API calls as an admin (the bot is a server admin) to create a room, join a room etc.
-    ├── *lib/bot/index.js* : Comprised of constants like class joining message body, class reminder message body etc
-    ├── *lib/services/chat.js* : Has all the functions that reads a user command and replies accordingly or send automated message. 
+ *Enough talking, Now let's understand the actual flow of bot. The following is the folder structure:-*<br />
+    ├── *lib/bot/action.js* : It is comprised of functions that are designed to do tasks related to matrix server. It interacts with our matrix database to perform tasks like getting a user's room ID with the bot, or even any public room ID as a matter of fact. It even does synapse API calls as an admin (the bot is a server admin) to create a room, join a room etc.<br />
+    ├── *lib/bot/index.js* : Comprised of constants like class joining message body, class reminder message body etc.<br />
+    ├── *lib/services/chat.js* : Has all the functions that reads a user command and replies accordingly or send automated message.<br />
 
 ## Course Seeder
 A course is designed and written in markdown and maintained at [**Newton**](https://github.com/navgurukul/newton). A dedicated team at NavGurukul works on designing the curriculum.
