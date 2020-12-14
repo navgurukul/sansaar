@@ -6,6 +6,11 @@ All the APIs exist here.
 
 Your contribution is more than welcomed 🤩
 ## Project setup
+- Update your node version to 14+. Follow the below steps to do so: 
+    - `npm cache clean -f`
+    - `npm install -g n`
+    - `n latest`
+    *You are free to update Node version without `n module`*
 - Clone the repo `git clone https://github.com/navgurukul/sansaar.git`
 - Install dependencies `npm install` and then chnage directory `cd sansaar`
 - `npm install -g knex`
