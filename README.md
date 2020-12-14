@@ -120,26 +120,28 @@ All models inside **/lib/models**.
     - Send a class reminder message 15 minutes prior to class.<br /><br />
  The bot object is defined alongside with our server in `/server/index.js` since we want it to start and work synchronously with our server.<br />
  *Enough talking, Now let's understand the actual flow of bot. The following is the folder structure:-*<br /><br />
-    - `*lib/bot/action.js*` : It is comprised of functions that are designed to do tasks related to matrix server. It interacts with our matrix database to perform tasks like getting a user's room ID with the bot, or even any public room ID as a matter of fact. It even does synapse API calls as an admin (the bot is a server admin) to create a room, join a room etc.<br />
-    - `*lib/bot/index.js*` : Comprised of constants like class joining message body, class reminder message body etc.<br />
-    - `*lib/services/chat.js*` : Has all the functions that reads a user command and replies accordingly or send automated message.<br />
+    - **`lib/bot/action.js`** : It is comprised of functions that are designed to do tasks related to matrix server. It interacts with our matrix database to perform tasks like getting a user's room ID with the bot, or even any public room ID as a matter of fact. It even does synapse API calls as an admin (the bot is a server admin) to create a room, join a room etc.<br />
+    - **`lib/bot/index.js`** : Comprised of constants like class joining message body, class reminder message body etc.<br />
+    - **`lib/services/chat.js`** : Has all the functions that reads a user command and replies accordingly or send automated message.<br />
 
 ## Course Seeder
 A course is designed and written in markdown and maintained at [**Newton**](https://github.com/navgurukul/newton). A dedicated team at NavGurukul works on designing the curriculum.
 
 **To seed a course from mark down into the database, follow the below steps :-**
 
-Pull your courses into **/lib/curriculum** directory
+- Pull your courses into **/lib/curriculum** directory
 ```bash
 git clone https://github.com/navgurukul/newton curriculum
 ```
 
-Seed a single course, of course replace {course_name} with the name of the folder of the course you want to seed
+- Seed a single course, of course replace {course_name} with the name of the folder of the course you want to seed
 ```bash
 node lib/courseSeeder/index.js --addUpdateSingleCourse {course_name}
 ```
 
-Seed all courses from the curriculum directory.
+OR
+
+- Seed all courses from the curriculum directory.
 ```bash
 node lib/courseSeeder/index.js 
 ```
