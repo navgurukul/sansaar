@@ -113,15 +113,15 @@ All models inside **/lib/models**.
 
 
  - **The Bot** : We have used [matrix-bot-sdk](https://github.com/turt2live/matrix-bot-sdk) that acts as a separate entity among users (only for chat service obviously) of Meraki and does a handful of tasks which includes :-<br /><br />
-    ├── Onboarding a new user, taking their language preference etc.<br /><br />
-    ├── Add a user to a channel using specific commands (we are going to add many more bot commands).<br /><br />
-    ├── Send class joining confirmation message with joining meet link.<br /><br />
-    ├── Send a class reminder message 15 minutes prior to class.<br /><br />
- The bot object is defined alongside with our server in `/server/index.js` since we want it to start and work synchronously with our server.
+    - Onboarding a new user, taking their language preference etc.<br /><br />
+    - Add a user to a channel using specific commands (we are going to add many more bot commands).<br /><br />
+    - Send class joining confirmation message with joining meet link.<br /><br />
+    - Send a class reminder message 15 minutes prior to class.<br /><br />
+ The bot object is defined alongside with our server in `/server/index.js` since we want it to start and work synchronously with our server.<br />
  *Enough talking, Now let's understand the actual flow of bot. The following is the folder structure:-*<br /><br />
-    ├── *lib/bot/action.js* : It is comprised of functions that are designed to do tasks related to matrix server. It interacts with our matrix database to perform tasks like getting a user's room ID with the bot, or even any public room ID as a matter of fact. It even does synapse API calls as an admin (the bot is a server admin) to create a room, join a room etc.<br /><br />
-    ├── *lib/bot/index.js* : Comprised of constants like class joining message body, class reminder message body etc.<br /><br />
-    ├── *lib/services/chat.js* : Has all the functions that reads a user command and replies accordingly or send automated message.<br />
+    - *lib/bot/action.js* : It is comprised of functions that are designed to do tasks related to matrix server. It interacts with our matrix database to perform tasks like getting a user's room ID with the bot, or even any public room ID as a matter of fact. It even does synapse API calls as an admin (the bot is a server admin) to create a room, join a room etc.<br /><br />
+    - *lib/bot/index.js* : Comprised of constants like class joining message body, class reminder message body etc.<br /><br />
+    - *lib/services/chat.js* : Has all the functions that reads a user command and replies accordingly or send automated message.<br />
 
 ## Course Seeder
 A course is designed and written in markdown and maintained at [**Newton**](https://github.com/navgurukul/newton). A dedicated team at NavGurukul works on designing the curriculum.
