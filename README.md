@@ -105,19 +105,19 @@ All models inside **/lib/models**.
  - **API calls** : The API calls are handled by routes, and data is fetched (or inserted) from (or into) the database through services to models. So basically :- 
     ├── *Routes* : Handles your network request and returns a response but before returning a response, it obviously interact with the models through service functions.
 
-    ├── *Service* : Services are the middlemen which abstract away the necessity of direct interaction of routes with the database models. Each component of data dealing with model has been handled through an exclusive service of their own. For example, to fetch, insert, update or delete into courses model, a courses service (*/services/courses.js*) exists. Same applies for classes model. However, *displayService.js* is the only service that has functions defined for fetching/inserting data using relation mapping among models and that's the reason why you will find it interacting with courses, classes, pathway, exercises etc.
+    - *Service* : Services are the middlemen which abstract away the necessity of direct interaction of routes with the database models. Each component of data dealing with model has been handled through an exclusive service of their own. For example, to fetch, insert, update or delete into courses model, a courses service (*/services/courses.js*) exists. Same applies for classes model. However, *displayService.js* is the only service that has functions defined for fetching/inserting data using relation mapping among models and that's the reason why you will find it interacting with courses, classes, pathway, exercises etc.
     
-    ├── *Models* : All database table/schema and their relations are defined here with the help of Objection. The validation is done through [@hapi/joi](https://joi.dev/)
+    - *Models* : All database table/schema and their relations are defined here with the help of Objection. The validation is done through [@hapi/joi](https://joi.dev/)
 
     So, to simplify things `Routes --> Services --> Models` 
 
     <br />
 
  - **The Bot** : We have used [matrix-bot-sdk](https://github.com/turt2live/matrix-bot-sdk) that acts as a separate entity among users (only for chat service obviously) of Meraki and does a handful of tasks which includes :-<br />
-    - Onboarding a new user, taking their language preference etc.<br /><br />
+    - Onboarding a new user, taking their language preference etc.<br />
     - Add a user to a channel using specific commands (we are going to add many more bot commands).<br />
     - Send class joining confirmation message with joining meet link.<br />
-    - Send a class reminder message 15 minutes prior to class.<br />
+    - Send a class reminder message 15 minutes prior to class.<br /><br />
  The bot object is defined alongside with our server in `/server/index.js` since we want it to start and work synchronously with our server.<br />
  *Enough talking, Now let's understand the actual flow of bot. The following is the folder structure:-*<br /><br />
     - `*lib/bot/action.js*` : It is comprised of functions that are designed to do tasks related to matrix server. It interacts with our matrix database to perform tasks like getting a user's room ID with the bot, or even any public room ID as a matter of fact. It even does synapse API calls as an admin (the bot is a server admin) to create a room, join a room etc.<br />
