@@ -104,8 +104,11 @@ All models inside **/lib/models**.
 ### Understanding the flow of :-
  - **API calls** : The API calls are handled by routes, and data is fetched (or inserted) from (or into) the database through services to models. So basically :- 
     ├── *Routes* : Handles your network request and returns a response but before returning a response, it obviously interact with the models through service functions.
-    ├── *Service* : Services are the middlemen which abstract away the necessity of direct interaction of routes with the database models.
-    ├── *Models* : All database table/schema and their relations are defined here with the help of Objection.
+
+    ├── *Service* : Services are the middlemen which abstract away the necessity of direct interaction of routes with the database models. Each component of data dealing with model has been handled through an exclusive service of their own. For example, to fetch, insert, update or delete into courses model, a courses service (*/services/courses.js*) exists. Same applies for classes model. However, *displayService.js* is the only service that has functions defined for fetching/inserting data using relation mapping among models and that's the reason why you will find it interacting with courses, classes, pathway, exercises etc.
+    
+    ├── *Models* : All database table/schema and their relations are defined here with the help of Objection. The validation is done through [@hapi/joi](https://joi.dev/)
+
     So, to simplify things `Routes --> Services --> Models` 
 
 
@@ -120,25 +123,27 @@ All models inside **/lib/models**.
     ├── *lib/bot/action.js* : It is comprised of functions that are designed to do tasks related to matrix server. It interacts with our matrix database to perform tasks like getting a user's room ID with the bot, or even any public room ID as a matter of fact. It even does synapse API calls as an admin (the bot is a server admin) to create a room, join a room etc.
     ├── *lib/bot/index.js* : Comprised of constants like class joining message body, class reminder message body etc
     ├── *lib/services/chat.js* : Has all the functions that reads a user command and replies accordingly or send automated message. 
-    
-## To Dos
-- [ ] How to show scope on Swagger?
-- [ ] Add service generator in .hc.js
-- [ ] Swagger API should work on prod
 
-## course add and update
+## Course Seeder
+A course is designed and written in markdown and maintained at [**Newton**](https://github.com/navgurukul/newton). A dedicated team at NavGurukul works on designing the curriculum.
 
-running it with `--addUpdateSingleCourse` will add or update single course returned by the server.
+**To seed a course from mark down into the database, follow the below steps :-**
 
+Pull your courses into **/lib/curriculum** directory
+```bash
+git clone https://github.com/navgurukul/newton curriculum
+```
+
+Seed a single course, of course replace {course_name} with the name of the folder of the course you want to seed
 ```bash
 node lib/courseSeeder/index.js --addUpdateSingleCourse {course_name}
 ```
 
-running below script will add or update all course returned by the server.
-
+Seed all courses from the curriculum directory.
 ```bash
 node lib/courseSeeder/index.js 
 ```
-
-## Curriculum
-1. ```git clone https://github.com/navgurukul/newton curriculum```
+## To Dos
+- [ ] How to show scope on Swagger?
+- [ ] Add service generator in .hc.js
+- [ ] Swagger API should work on prod
