@@ -106,7 +106,12 @@ All models inside **/lib/models**.
     ├── *Routes* : Handles your network request and returns a response but before returning a response, it obviously interact with the models through service functions.
     ├── *Service* : Services are the middlemen which abstract away the necessity of direct interaction of routes with the database models.
     ├── *Models* : All database table/schema and their relations are defined here with the help of Objection.
-    So, to simplify things `Routes --> Services --> Models`
+    So, to simplify things you can visualize the flow like this <br/> <br/>
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;`Routes` </br>
+### &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8595;
+&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;`Services`</br>
+### &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8595;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;`Models`</br> </br>
 
  - **The Bot** : We have used [matrix-bot-sdk](https://github.com/turt2live/matrix-bot-sdk) that acts as a separate entity among users (only for chat service obviously) of Meraki and does a handful of tasks which includes :-
     ├── Onboarding a new user, taking their language preference etc.
