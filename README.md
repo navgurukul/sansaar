@@ -133,28 +133,28 @@ All models inside **/lib/models**.
 
 **Schema** : main
 
-| Table                  |                              Description                             |
-| ---------------------  | :------------------------------------------------------------------: |
-| c_users                | Users table                                                          |
-| category               | Broad categories of subject, e.g. : Programming, Designing           |
-| class_registrations    | All class registrations along with feedback                          |
-| classes                | Details of a class(workshop/doubt)                                   |
-| contacts               | Contact details of candidates applying to join NavGurukul            |
-| course_completion      | Marks completion of a course for users                               |
-| course_enrolments      | Users enrolled in courses                                            |
-| course_relation        |                                                                      |
-| courses                | All courses details that have their own exercises                    |
-| daily_metrics          |                                                                      |
-| enrolment_keys         | Randomly generated test enrolment keys, different for each partner   |
-| exercise_completion    | Marks completion of an exercise for users                            |
-| exercises              | Exercises content of all courses                                     |
-| feedbacks              | Interview feedback on candidates applying at NavGurukul              |
-| incoming_calls         | All incoming calls made at NavGurukul helpline number                |
-| k_details              |                                                                      |
-| knex_migrations        | Knex migration table                                                 |
-| mentor_tree            | Table depicting mentoring model at NavGurukul                        |
-| mentors                | List of all mentors                                                  |
-| migrations             |                                                                      |
+| Table                              |                              Description                             |
+| ---------------------------------: | :------------------------------------------------------------------: |
+| c_users                            | Users table                                                          |
+| category                           | Broad categories of subject, e.g. : Programming, Designing           |
+| class_registrations                | All class registrations along with feedback                          |
+| classes                            | Details of a class(workshop/doubt)                                   |
+| contacts                           | Contact details of candidates applying to join NavGurukul            |
+| course_completion                  | Marks completion of a course for users                               |
+| course_enrolments                  | Users enrolled in courses                                            |
+| course_relation                    |                                                                      |
+| courses                            | All courses details that have their own exercises                    |
+| daily_metrics                      |                                                                      |
+| enrolment_keys                     | Randomly generated test enrolment keys, different for each partner   |
+| exercise_completion                | Marks completion of an exercise for users                            |
+| exercises                          | Exercises content of all courses                                     |
+| feedbacks                          | Interview feedback on candidates applying at NavGurukul              |
+| incoming_calls                     | All incoming calls made at NavGurukul helpline number                |
+| k_details                          |                                                                      |
+| knex_migrations                    | Knex migration table                                                 |
+| mentor_tree                        | Table depicting mentoring model at NavGurukul                        |
+| mentors                            | List of all mentors                                                  |
+| migrations                         |                                                                      |
 | partner_assessments                | Partner specific question set, test url, answer key url              |
 | partners                           | List of all organisations partnering with NavGurukul                 |
 | pathway_completion                 | Marks completion of a pathway for users                              |
