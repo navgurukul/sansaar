@@ -155,7 +155,13 @@ All models inside **/lib/models**.
 | mentor_tree            | Table depicting mentoring model at NavGurukul                        |
 | mentors                | List of all mentors                                                  |
 | migrations             |                                                                      |
-| partner_assessments    | Details like question set, test url, answer key url which are partner specific |
+| partner_assessments                | Partner specific question set, test url, answer key url              |
+| partners                           | List of all organisations partnering with NavGurukul                 |
+| pathway_completion                 | Marks completion of a pathway for users                              |
+| pathway_courses                    | List of all courses in a pathway                                     |
+| pathway_milestones                 | Pathways are divided into levels called milestones                   |
+| pathway_tracking_form_structure    | Marks completion of an exercise for users                            |
+
 
 
 
