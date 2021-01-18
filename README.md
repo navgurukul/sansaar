@@ -134,54 +134,54 @@ All models inside **/lib/models**.
 **Schema** : main
 
 | Table                              |                              Description                             |
-| ---------------------------------: | :------------------------------------------------------------------: |
-| c_users                            | Users table                                                          |
-| category                           | Broad categories of subject, e.g. : Programming, Designing           |
-| class_registrations                | All class registrations along with feedback                          |
-| classes                            | Details of a class(workshop/doubt)                                   |
-| contacts                           | Contact details of candidates applying to join NavGurukul            |
-| course_completion                  | Marks completion of a course for users                               |
-| course_enrolments                  | Users enrolled in courses                                            |
-| course_relation                    |                                                                      |
-| courses                            | All courses details that have their own exercises                    |
-| daily_metrics                      |                                                                      |
-| enrolment_keys                     | Randomly generated test enrolment keys, different for each partner   |
-| exercise_completion                | Marks completion of an exercise for users                            |
-| exercises                          | Exercises content of all courses                                     |
-| feedbacks                          | Interview feedback on candidates applying at NavGurukul              |
-| incoming_calls                     | All incoming calls made at NavGurukul helpline number                |
-| k_details                          |                                                                      |
-| knex_migrations                    | Knex migration table                                                 |
-| mentor_tree                        | Table depicting mentoring model at NavGurukul                        |
-| mentors                            | List of all mentors                                                  |
-| migrations                         |                                                                      |
-| partner_assessments                | Partner specific question set, test url, answer key url              |
-| partners                           | List of all organisations partnering with NavGurukul                 |
-| pathway_completion                 | Marks completion of a pathway for users                              |
-| pathway_courses                    | List of all courses in a pathway                                     |
-| pathway_milestones                 | Pathways are divided into levels called milestones                   |
-| pathway_tracking_form_structure    | Form structure to track pathway                                      |
-| pathway_tracking_request           | Pathway tracking request raised by meentes to mentors                            |
-| pathway_tracking_request details   | Details of a pathway tracking request                                |
+| --------------------------------------------: | :-----------------------------------------------------------------------------  |
+| c_users                                       | Users table                                                                     |
+| category                                      | Broad categories of subject, e.g. : Programming, Designing                      |
+| classes                                       | Details of a class(workshop/doubt)                                              |
+| class_registrations                           | All class registrations along with feedback                                     |
+| contacts                                      | Contact details of candidates applying to join NavGurukul                       |
+| courses                                       | All courses details that have their own exercises                               |
+| course_completion                             | Marks completion of a course for users                                          |
+| course_enrolments                             | Users enrolled in courses                                                       |
+| course_relation                               |                                                                                 |
+| daily_metrics                                 |                                                                                 |
+| enrolment_keys                                | Randomly generated test enrolment keys, different for each partner              |
+| exercises                                     | Exercises content of all courses                                                |
+| exercise_completion                           | Marks completion of an exercise for users                                       |
+| feedbacks                                     | Interview feedback on candidates applying at NavGurukul                         |
+| incoming_calls                                | All incoming calls made at NavGurukul helpline number                           |
+| k_details                                     |                                                                                 |
+| knex_migrations                               | Knex migration table                                                            |
+| mentor_tree                                   | Table depicting mentoring model at NavGurukul                                   |
+| mentors                                       | List of all mentors                                                             |
+| migrations                                    |                                                                                 |
+| partner_assessments                           | Partner specific question set, test url, answer key url                         |
+| partners                                      | List of all organisations partnering with NavGurukul                            |
+| pathway_completion                            | Marks completion of a pathway for users                                         |
+| pathway_courses                               | List of all courses in a pathway                                                |
+| pathway_milestones                            | Pathways are divided into levels called milestones                              |
+| pathway_tracking_form_structure               | Form structure to track pathway                                                 |
+| pathway_tracking_request                      | Pathway tracking request raised by meentes to mentors                           |
+| pathway_tracking_request details              | Details of a pathway tracking request                                           |
 | pathway_tracking_request_parameters_details   | Details of the parameters a pathway tracking request                            |
-| pathway_tracking_request_questions_details    | Details of the question a pathway tracking request                            |
-| pathways                           | A list of curated courses constitutes a pathway                                |
-| progress_parameters                | Parameters for progress in pathways                                  |
-| progress_questions               | Questions for progress in pathways                                     |
-| question_attempts                | Answers of all questions attempted by each candidate applying at NavGurukul                            |
-| question_bucket                   | Topics for test questions                                             |
-| question_bucket_choices          | Set of questions based on topics (buckets)                            |
-| question_options                 | List of questions with options                                         |
-| question_sets                    | List of test question sets                                            |
-| questions                          | List of test questions                                               |
-| sansaar_user_roles               | Access based user roles                                                |
-| stage_transitions                | Change of state (for selection) for candidates appyling at NavGurukul                            |
-| student_pathways                 | Details of students enrolled for each pathway                                               |
-| students                         |                                                      |
-| user_roles                       | Roles of user within the organisation (admin, student, facilitator etc)                                                     |
-| users                            | All users                                                |
-| vb_words                         | Commonly used words and their Hindi translations(for vocabulary)                                                |
-| vb_sentences                     | Commonly used sentences and their Hindi translations (for vocabulary)                                               |
+| pathway_tracking_request_questions_details    | Details of the question a pathway tracking request                              |
+| pathways                                      | A list of curated courses constitutes a pathway                                 |
+| progress_parameters                           | Parameters for progress in pathways                                             |
+| progress_questions                            | Questions for progress in pathways                                              |
+| question_attempts                             | Answers of all questions attempted by each candidate applying at NavGurukul     |
+| question_bucket                               | Topics for test questions                                                       |
+| question_bucket_choices                       | Set of questions based on topics (buckets)                                      |
+| question_options                              | List of questions with options                                                  |
+| question_sets                                 | List of test question sets                                                      |
+| questions                                     | List of test questions                                                          |
+| sansaar_user_roles                            | Access based user roles                                                         |
+| stage_transitions                             | Change of state (for selection) for candidates appyling at NavGurukul           |
+| student_pathways                              | Details of students enrolled for each pathway                                   |
+| students                                      |                                                                                 |
+| user_roles                                    | Roles of user within the organisation (admin, student, facilitator etc)         |
+| users                                         | All users                                                                       |
+| vb_words                                      | Commonly used words and their Hindi translations(for vocabulary)                |
+| vb_sentences                                  | Commonly used sentences and their Hindi translations (for vocabulary)           |
 
 ## Course Seeder
 A course is designed and written in markdown and maintained at [**Newton**](https://github.com/navgurukul/newton). A dedicated team at NavGurukul works on designing the curriculum.
