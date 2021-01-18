@@ -109,7 +109,7 @@ module.exports = new Confidence.Store({
               },
               pool: {
                 min: 4,
-                max: 50,
+                max: 100,
               },
             },
           },
