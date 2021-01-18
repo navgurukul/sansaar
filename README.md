@@ -160,10 +160,10 @@ All models inside **/lib/models**.
 | pathway_completion                 | Marks completion of a pathway for users                              |
 | pathway_courses                    | List of all courses in a pathway                                     |
 | pathway_milestones                 | Pathways are divided into levels called milestones                   |
-| pathway_tracking_form_structure    | Marks completion of an exercise for users                            |
-
-
-
+| pathway_tracking_form_structure    | Form structure to track pathway                                      |
+| pathway_tracking_request           | Pathway tracking request raised by meentes to mentors                            |
+| pathway_tracking_request details   | Details of a pathway tracking request                                |
+| pathway_tracking_request_parameters_details   | Details of the parameters a pathway tracking request                            |
 
 
 
