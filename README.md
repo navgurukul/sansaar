@@ -129,6 +129,15 @@ All models inside **/lib/models**.
     - **`lib/bot/index.js`** : Comprised of constants like class joining message body, class reminder message body etc.<br />
     - **`lib/services/chat.js`** : Has all the functions that reads a user command and replies accordingly or send automated message.<br />
 
+## Database
+
+**Schema** : main
+
+| Table       |                           Description                           |
+| ----------- | --------------------------------------------------------------- |
+| c_users     | Users table                                                     |
+| category    | Broad categories of subject, e.g. : Programming, Designing      |
+
 ## Course Seeder
 A course is designed and written in markdown and maintained at [**Newton**](https://github.com/navgurukul/newton). A dedicated team at NavGurukul works on designing the curriculum.
 
