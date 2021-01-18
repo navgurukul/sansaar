@@ -133,10 +133,11 @@ All models inside **/lib/models**.
 
 **Schema** : main
 
-| Table       |                           Description                           |
-| ----------- | --------------------------------------------------------------- |
-| c_users     | Users table                                                     |
-| category    | Broad categories of subject, e.g. : Programming, Designing      |
+| Table                  |                           Description                           |
+| ---------------------  | :-------------------------------------------------------------: |
+| c_users                | Users table                                                     |
+| category               | Broad categories of subject, e.g. : Programming, Designing      |
+| class_registrations    | All class registrations with feedback                           |
 
 ## Course Seeder
 A course is designed and written in markdown and maintained at [**Newton**](https://github.com/navgurukul/newton). A dedicated team at NavGurukul works on designing the curriculum.
