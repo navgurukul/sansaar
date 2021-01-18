@@ -133,7 +133,7 @@ All models inside **/lib/models**.
 
 **Schema** : main
 
-| Table                              |                              Description                             |
+| Table                                         |                              Description                                        |
 | --------------------------------------------: | :-----------------------------------------------------------------------------  |
 | c_users                                       | Users table                                                                     |
 | category                                      | Broad categories of subject, e.g. : Programming, Designing                      |
