@@ -8,7 +8,8 @@ CREATE TYPE "lang_options" AS ENUM (
 CREATE TYPE "courses_type" AS ENUM (
   'html',
   'js',
-  'python'
+  'python',
+  'typing'
 );
 
 CREATE TYPE "exercises_review_type" AS ENUM (

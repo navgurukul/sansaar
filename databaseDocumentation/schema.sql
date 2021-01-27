@@ -76,6 +76,7 @@ Enum courses_type {
   html
   js
   python
+  typing
 }
 
 Table courses {
@@ -499,7 +500,3 @@ Table vb_words {
   word_type varchar(5)
   d_level bigint [not null]
 }
-
-// Creating references
-// You can also define relaionship separately
-// > many-to-one; < one-to-many; - one-to-one
