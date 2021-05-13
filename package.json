@@ -32,6 +32,7 @@
     "confidence": "4.x.x",
     "crypto": "^1.0.1",
     "crypto-random-string": "^3.3.0",
+    "dateformat": "^4.5.1",
     "dotenv": "8.x.x",
     "fs-extra": "^9.0.1",
     "google-auth-library": "^6.0.6",
