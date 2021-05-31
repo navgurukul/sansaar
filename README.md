@@ -10,6 +10,14 @@ Everything backend about NavGurukul :)
 - Run `knex migrate:latest` for updating migration file.
 - If any error is throwing while running above script then login to the postgres server and remove all the rows of the the knex_migrations table using `TRUNCATE TABLE knex_migrations` and run `knex migrate:latest` again.
 
+## To connect android app to your local dev server
+ - Install this build from [here](https://drive.google.com/file/d/1BJtHeEwQfuVhLHdLSo2Q6IAQYPpUOPtV/view?usp=sharing)
+ - Install [ngrok](https://dashboard.ngrok.com/get-started/setup)
+ - Set up your ngrok with your token
+ - Start your local server and tunnel it to a public IP 
+ - Go to the build installed from above link and open profile.
+ - Set the public IP provided by ngrok in server url field.
+
 ## To Dos
 - [ ] How to show scope on Swagger?
 - [ ] Add service generator in .hc.js
