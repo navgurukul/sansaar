@@ -16,6 +16,7 @@
     "lint:fix": "eslint lib server --fix"
   },
   "dependencies": {
+    "@google-cloud/translate": "^6.2.2",
     "@hapi/boom": "9.x.x",
     "@hapi/bounce": "^2.0.0",
     "@hapi/glue": "^7.0.0",
@@ -49,6 +50,7 @@
     "marked": ">=2.0.0",
     "matrix-bot-sdk": "^0.5.7",
     "node-cron": "^2.0.3",
+    "nodejs-base64": "^2.0.0",
     "objection": "^2.2.1",
     "objection-db-errors": "^1.1.2",
     "pg": "^8.3.0",
