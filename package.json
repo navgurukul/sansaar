@@ -24,6 +24,7 @@
     "@hapi/inert": "^6.0.1",
     "@hapi/joi": "17.x.x",
     "@hapi/vision": "^6.0.0",
+    "@joi/date": "^2.1.0",
     "avocat": "^2.0.0",
     "aws-sdk": "^2.766.0",
     "axios": ">=0.21.1",
