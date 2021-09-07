@@ -29,7 +29,13 @@ module.exports = new Confidence.Store({
     routes: {
       cors: {
         origin: ['*'],
-        additionalHeaders: ['cache-control', 'x-requested-with', 'platform', 'version-code', 'role'],
+        additionalHeaders: [
+          'cache-control',
+          'x-requested-with',
+          'platform',
+          'version-code',
+          'role',
+        ],
         headers: ['Accept', 'Authorization', 'Content-Type', 'If-None-Match', 'Accept-language'],
       },
       timeout: {
