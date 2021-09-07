@@ -34,7 +34,13 @@ module.exports = new Confidence.Store({
           'x-requested-with',
           'platform',
           'version-code',
+          'register-to-all',
+          'unregister-all',
+          'register-to-all',
+          'delete-all',
+          'update-all',
           'role',
+
         ],
         headers: ['Accept', 'Authorization', 'Content-Type', 'If-None-Match', 'Accept-language'],
       },
