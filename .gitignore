@@ -111,3 +111,6 @@ curriculum/
 
 #bot.json
 bot.json
+
+#package-lock.json
+package-lock.json
