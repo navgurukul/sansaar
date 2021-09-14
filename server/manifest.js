@@ -34,6 +34,7 @@ module.exports = new Confidence.Store({
           'x-requested-with',
           'platform',
           'version-code',
+          'code',
           'register-to-all',
           'unregister-all',
           'register-to-all',
