@@ -12,6 +12,9 @@ const knex = require('knex')(knexfile);
 
 /* eslint-disable */
 
+// disable matrix logs
+sdk.LogService.setLevel(sdk.LogLevel.WARN);
+
 const CONFIG = require('../lib/config/index');
 const {
   classReminderScheduler,
