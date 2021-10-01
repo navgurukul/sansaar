@@ -41,7 +41,7 @@ module.exports = new Confidence.Store({
           'delete-all',
           'update-all',
           'role',
-          'course_type',
+          'course-type',
         ],
         headers: ['Accept', 'Authorization', 'Content-Type', 'If-None-Match', 'Accept-language'],
       },
