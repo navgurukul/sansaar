@@ -18,6 +18,7 @@ const transport = new DailyRotateFile({
   prepend: true,
   level: config.get('logConfig.logLevel'),
 });
+// eslint-disable-next-line
 transport.on(`rotate`, function (oldFilename, newFilename) {
   // call function like upload to s3 or on cloud
 });
