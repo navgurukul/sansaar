@@ -20,7 +20,6 @@ const {
   classReminderScheduler,
   classFeedbackScheduler,
   clearInactiveKnexConnections,
-  sendFeedbackMail,
 } = require('../lib/schedulers');
 
 exports.deployment = async (start) => {
@@ -58,7 +57,6 @@ exports.deployment = async (start) => {
   cron.schedule('0 * * * * *', async () => {
     classReminderScheduler(classesService, chatService, displayService);
     classFeedbackScheduler(classesService, chatService, displayService);
-    sendFeedbackMail(classesService);
   });
 
   // cron.schedule('0 * * * * *', async () => {
