@@ -1,0 +1,8 @@
+{
+    "port": 5000,
+    "logConfig": {
+        "logFolder": ".//logs//",
+        "logFile": "NodeWinstonApp-%DATE%.log",
+        "logLevel": "info"
+    }
+}
