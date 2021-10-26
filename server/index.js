@@ -7,6 +7,9 @@ const Manifest = require('./manifest');
 const knexfile = require('../knexfile');
 const knex = require('knex')(knexfile);
 
+// const config = require('config');
+const logger = require('./logger');
+
 // const bolKnexfile = require('./knex');
 // const bolKnex = require('knex')({ client: 'pg' })(bolKnexfile);
 
@@ -70,7 +73,7 @@ exports.deployment = async (start) => {
   /* Scheduler */
 
   // eslint-disable-next-line no-console
-  console.log(`Server started at ${server.info.uri}`);
+  logger.info(`Server started at ${server.info.uri}`);
   server.chatClient = client;
 
   // eslint-disable-next-line
@@ -78,7 +81,7 @@ exports.deployment = async (start) => {
 
   client.start().then(() => {
     // eslint-disable-next-line
-    console.log('Client started!');
+    logger.info('Client started!');
   });
   client.on('room.message', chatService.handleCommand.bind(this));
 
