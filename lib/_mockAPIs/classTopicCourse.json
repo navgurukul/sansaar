@@ -1,0 +1,65 @@
+{
+    "id": 60,
+    "code": "PRGPYT",
+    "name": "Python",
+    "description": "Learn the basics of programming with Python",
+    "logo": "https://merakidebug.s3.ap-south-1.amazonaws.com/pathway_images/python-logo.png",
+    "courses": [
+        {
+            "id": "115",
+            "name": "Loops 101 (Using Python)",
+            "logo": "https://cdn1.iconfinder.com/data/icons/it-terms/512/loop-512.png",
+            "description": "Loops ko thoda depth mein samajhte hain.",
+            "lang_available": [
+              "en"
+            ]
+        },
+        {
+            "id": "1000",
+            "name": "Testing Class Topics",
+            "logo": "https://cdn1.iconfinder.com/data/icons/it-terms/512/loop-512.png",
+            "description": ".",
+            "lang_available": [
+              "en"
+            ]
+        },
+        {
+            "id": "117",
+            "name": "Introduction To Python",
+            "logo": "https://bit.ly/1h4FwSY",
+            "description": "Iss topic mai hum python ka Introduction ke bare mai janege",
+            "lang_available": [
+            "en",
+            "hi"
+            ]
+        },
+        {
+            "id": "254",
+            "name": "Variables",
+            "logo": "http://navgurukul.org/img/sqlogo.jpg",
+            "description": "Iss topic mai hum Variables ke bare mai janege",
+            "lang_available": [
+            "en"
+            ]
+        },
+        {
+            "id": "115",
+            "name": "Loops 101 (Using Python)",
+            "logo": "https://cdn1.iconfinder.com/data/icons/it-terms/512/loop-512.png",
+            "description": "Loops ko thoda depth mein samajhte hain.",
+            "lang_available": [
+            "en"
+            ]
+        }
+        ],
+        "lang_available": [
+        {
+            "code": "en",
+            "label": "English"
+        },
+        {
+            "code": "hi",
+            "label": "Hindi"
+        }
+    ]
+}
