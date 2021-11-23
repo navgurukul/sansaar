@@ -1,0 +1,354 @@
+{
+    "course": {
+      "id": "385",
+      "name": "Home Row (Typing)",
+      "logo": "http://navgurukul.org/img/sqlogo.jpg",
+      "course_type": "json",
+      "lang_available": [
+        "en"
+      ],
+      "exercises": [
+        {
+          "id": "6844",
+          "parent_exercise_id": null,
+          "course_id": "385",
+          "name": "keys_f_j",
+          "sequence_num": 0,
+          "github_link": "https://github.com/navgurukul/newton/tree/master/home-row-tg_json/keys_f_j.json",
+          "content": [
+            {
+              "component": "header",
+              "variant": 2,
+              "value": "Home Row, <span style=\"\">keys</span> f and j"
+            },
+            {
+              "component": "text",
+              "value": "In the first part of the Home Rows tutorial, we'll learn the use of <span style=\"\">keys</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">f</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">j</span>.<br>Position your left index finger on the left groove on the <span style=\"\">key</span>board, and your right index finger on the right groove of the <span style=\"\">key</span>board. Look away from the <span style=\"\">key</span>board and feel the grooves with your fingers and try to find them by moving your fingers away.<br>Enter the following text once you're comfor<span style=\"\">tab</span>le with the home row <span style=\"\">keys</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">f</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">j</span>"
+            }
+          ],
+          "content_type": "content"
+        },
+        {
+          "id": "6852",
+          "parent_exercise_id": null,
+          "course_id": "385",
+          "name": "keys_space_bar_with_f_j",
+          "sequence_num": 100,
+          "github_link": "https://github.com/navgurukul/newton/tree/master/home-row-tg_json/keys_space_bar_with_f_j.json",
+          "content": [
+            {
+              "component": "header",
+              "variant": 2,
+              "value": "Home Row, <span style=\"\">keys</span> f and j with space bar;"
+            },
+            {
+              "component": "text",
+              "value": "In this part, we'll learn the use of <span style=\"\">keys</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">f</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">j</span> along with <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">space bar</span>.<br>Position your left index finger on the left groove on the <span style=\"\">key</span>board, and your right index finger on the right groove of the <span style=\"\">key</span>board. Look away from the <span style=\"\">key</span>board and feel the grooves with your fingers and try to find them by moving your fingers away. Tip: Press <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">space bar</span> with your thumbs."
+            }
+          ],
+          "content_type": "assessment"
+        },
+        {
+          "id": "6847",
+          "parent_exercise_id": null,
+          "course_id": "385",
+          "name": "keys_d_k",
+          "sequence_num": 200,
+          "github_link": "https://github.com/navgurukul/newton/tree/master/home-row-tg_json/keys_d_k.json",
+          "content": [
+            {
+              "component": "header",
+              "variant": 2,
+              "value": "Home Row, <span style=\"\">keys</span> f and j"
+            },
+            {
+              "component": "text",
+              "value": "In the second part of the Home Rows tutorial, we'll learn the use of <span style=\"\">keys</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">d</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">k</span>.<br>Position your left index finger on the left groove on the <span style=\"\">key</span>board, and your right index finger on the right groove of the <span style=\"\">key</span>board. Look away from the <span style=\"\">key</span>board and feel the grooves with your fingers and try to find them by moving your fingers away.<br>Enter the following text with your middle fingers once you're comfor<span style=\"\">tab</span>le with the home row <span style=\"\">keys</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">d</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">k</span>"
+            },
+            {
+              "component": "banner",
+              "value": "Class for  TPF +  Nirantar  Python - by Swati",
+              "title": "",
+              "image": "ic_class_nudge",
+              "actions": [
+                {
+                  "url": "https://merakilearn.org/classes",
+                  "label": "Enroll to class",
+                  "data": "",
+                  "icon": "ic_arrow_right",
+                  "variant": "secondary"
+                }
+              ]
+            }
+          ],
+          "content_type": "class_topic"
+        },
+        {
+          "id": "6854",
+          "parent_exercise_id": null,
+          "course_id": "385",
+          "name": "keys_f_j_d_k",
+          "sequence_num": 300,
+          "github_link": "https://github.com/navgurukul/newton/tree/master/home-row-tg_json/keys_f_j_d_k.json",
+          "content": [
+            {
+              "component": "header",
+              "variant": 2,
+              "value": "Home Row, <span style=\"\">keys</span> f, j, d and k"
+            },
+            {
+              "component": "text",
+              "value": "Now, we'll practice the <span style=\"\">keys</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">f</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">j</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">d</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">k</span>.<br>Position your left index finger on the left groove on the <span style=\"\">key</span>board, and your right index finger on the right groove of the <span style=\"\">key</span>board. Look away from the <span style=\"\">key</span>board and feel the grooves with your fingers and try to find them by moving your fingers away.<br>As an exercise, type the following text without making any mistakes."
+            }
+          ],
+          "content_type": "content"
+        },
+        {
+          "id": "6853",
+          "parent_exercise_id": null,
+          "course_id": "385",
+          "name": "keys_s_l",
+          "sequence_num": 400,
+          "github_link": "https://github.com/navgurukul/newton/tree/master/home-row-tg_json/keys_s_l.json",
+          "content": [
+            {
+              "component": "header",
+              "variant": 2,
+              "value": "Home Row, <span style=\"\">keys</span> a and ;"
+            },
+            {
+              "component": "text",
+              "value": "In the third part of the Home Rows tutorial, we'll learn the use of <span style=\"\">keys</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">s</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">l</span>.<br>Position your left index finger on the left groove on the <span style=\"\">key</span>board, and your right index finger on the right groove of the <span style=\"\">key</span>board. Look away from the <span style=\"\">key</span>board and feel the grooves with your fingers and try to find them by moving your fingers away.<br>Enter the following text with your ring fingers once you're comfor<span style=\"\">tab</span>le with the home row <span style=\"\">keys</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">s</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">l</span>"
+            }
+          ],
+          "content_type": "assessment"
+        },
+        {
+          "id": "6845",
+          "parent_exercise_id": null,
+          "course_id": "385",
+          "name": "keys_g_h",
+          "sequence_num": 500,
+          "github_link": "https://github.com/navgurukul/newton/tree/master/home-row-tg_json/keys_g_h.json",
+          "content": [
+            {
+              "component": "header",
+              "variant": 2,
+              "value": "Home Row, <span style=\"\">keys</span> f and j"
+            },
+            {
+              "component": "text",
+              "value": "In the next tutorial, we'll learn the use of <span style=\"\">keys</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">g</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">h</span>.<br>Position your left index finger on the left groove on the <span style=\"\">key</span>board, and your right index finger on the right groove of the <span style=\"\">key</span>board. Look away from the <span style=\"\">key</span>board and feel the grooves with your fingers and try to find them by moving your fingers away.<br>Enter the following text by moving your index fingers towards each other but your hands fixed <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">g</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">h</span>"
+            },
+            {
+              "component": "banner",
+              "value": "Class for  TPF +  Nirantar  Python - by Swati",
+              "title": "",
+              "image": "ic_class_nudge",
+              "actions": [
+                {
+                  "url": "https://merakilearn.org/classes",
+                  "label": "Enroll to class",
+                  "data": "",
+                  "icon": "ic_arrow_right",
+                  "variant": "secondary"
+                }
+              ]
+            }
+          ],
+          "content_type": "class_topic"
+        },
+        {
+          "id": "6846",
+          "parent_exercise_id": null,
+          "course_id": "385",
+          "name": "keys_s_l_g_h",
+          "sequence_num": 600,
+          "github_link": "https://github.com/navgurukul/newton/tree/master/home-row-tg_json/keys_s_l_g_h.json",
+          "content": [
+            {
+              "component": "header",
+              "variant": 2,
+              "value": "Home Row, <span style=\"\">keys</span> s, l, g and h"
+            },
+            {
+              "component": "text",
+              "value": "Now, we'll learn the use of <span style=\"\">keys</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">s</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">l</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">g</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">h</span>.<br>Position your left index finger on the left groove on the <span style=\"\">key</span>board, and your right index finger on the right groove of the <span style=\"\">key</span>board. Look away from the <span style=\"\">key</span>board and feel the grooves with your fingers and try to find them by moving your fingers away."
+            }
+          ],
+          "content_type": "content"
+        },
+        {
+          "id": "6843",
+          "parent_exercise_id": null,
+          "course_id": "385",
+          "name": "keys_a_;",
+          "sequence_num": 700,
+          "github_link": "https://github.com/navgurukul/newton/tree/master/home-row-tg_json/keys_a_;.json",
+          "content": [
+            {
+              "component": "header",
+              "variant": 2,
+              "value": "Home Row, <span style=\"\">keys</span> a and ;"
+            },
+            {
+              "component": "text",
+              "value": "In the fourth part of the Home Rows tutorial, we'll learn the use of <span style=\"\">keys</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">a</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">;</span>.<br>Position your left index finger on the left groove on the <span style=\"\">key</span>board, and your right index finger on the right groove of the <span style=\"\">key</span>board. Look away from the <span style=\"\">key</span>board and feel the grooves with your fingers and try to find them by moving your fingers away.<br>Enter the following text with your little fingers once you're comfor<span style=\"\">tab</span>le with the home row <span style=\"\">keys</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">a</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">;</span>"
+            }
+          ],
+          "content_type": "assessment"
+        },
+        {
+          "id": "6842",
+          "parent_exercise_id": null,
+          "course_id": "385",
+          "name": "keys_s_l_a_;",
+          "sequence_num": 800,
+          "github_link": "https://github.com/navgurukul/newton/tree/master/home-row-tg_json/keys_s_l_a_;.json",
+          "content": [
+            {
+              "component": "header",
+              "variant": 2,
+              "value": "Home Row, <span style=\"\">keys</span> s, l and a"
+            },
+            {
+              "component": "text",
+              "value": "Now, we'll learn the use of <span style=\"\">keys</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">s</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">l</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">a</span>.<br>Position your left index finger on the left groove on the <span style=\"\">key</span>board, and your right index finger on the right groove of the <span style=\"\">key</span>board. Look away from the <span style=\"\">key</span>board and feel the grooves with your fingers and try to find them by moving your fingers away."
+            },
+            {
+              "component": "banner",
+              "value": "Class for  TPF +  Nirantar  Python - by Swati",
+              "title": "",
+              "image": "ic_class_nudge",
+              "actions": [
+                {
+                  "url": "https://merakilearn.org/classes",
+                  "label": "Enroll to class",
+                  "data": "",
+                  "icon": "ic_arrow_right",
+                  "variant": "secondary"
+                }
+              ]
+            }
+          ],
+          "content_type": "class_topic"
+        },
+        {
+          "id": "6849",
+          "parent_exercise_id": null,
+          "course_id": "385",
+          "name": "keys_a_s_d_f",
+          "sequence_num": 900,
+          "github_link": "https://github.com/navgurukul/newton/tree/master/home-row-tg_json/keys_a_s_d_f.json",
+          "content": [
+            {
+              "component": "header",
+              "variant": 2,
+              "value": "Home Row, <span style=\"\">keys</span> a, s, d and f"
+            },
+            {
+              "component": "text",
+              "value": "In this part of the Home Rows tutorial, we'll try the combination of left hand <span style=\"\">keys</span> only.<br>Position your left index finger on the left groove on the <span style=\"\">key</span>board, and your right index finger on the right groove of the <span style=\"\">key</span>board. Look away from the <span style=\"\">key</span>board and feel the grooves with your fingers and try to find them by moving your fingers away.<br>Enter the following text with your ring fingers once you're comfor<span style=\"\">tab</span>le with the home row <span style=\"\">keys</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">a</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">s</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">d</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">f</span>"
+            }
+          ],
+          "content_type": "content"
+        },
+        {
+          "id": "6851",
+          "parent_exercise_id": null,
+          "course_id": "385",
+          "name": "keys_j_k_l_;",
+          "sequence_num": 1000,
+          "github_link": "https://github.com/navgurukul/newton/tree/master/home-row-tg_json/keys_j_k_l_;.json",
+          "content": [
+            {
+              "component": "header",
+              "variant": 2,
+              "value": "Home Row, <span style=\"\">keys</span> j, k, l and ;"
+            },
+            {
+              "component": "text",
+              "value": "In this part of the Home Rows tutorial, we'll try the combination of right hand <span style=\"\">keys</span> only.<br>Position your left index finger on the left groove on the <span style=\"\">key</span>board, and your right index finger on the right groove of the <span style=\"\">key</span>board. Look away from the <span style=\"\">key</span>board and feel the grooves with your fingers and try to find them by moving your fingers away.<br>Enter the following text with your ring fingers once you're comfor<span style=\"\">tab</span>le with the home row <span style=\"\">keys</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">j</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">k</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">l</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">;</span>"
+            }
+          ],
+          "content_type": "assessment"
+        },
+        {
+          "id": "6850",
+          "parent_exercise_id": null,
+          "course_id": "385",
+          "name": "keys_a_s_g_j",
+          "sequence_num": 1100,
+          "github_link": "https://github.com/navgurukul/newton/tree/master/home-row-tg_json/keys_a_s_g_j.json",
+          "content": [
+            {
+              "component": "header",
+              "variant": 2,
+              "value": "Home Row, <span style=\"\">keys</span> a, s, g and j"
+            },
+            {
+              "component": "text",
+              "value": "Position your left index finger on the left groove on the <span style=\"\">key</span>board, and your right index finger on the right groove of the <span style=\"\">key</span>board. Look away from the <span style=\"\">key</span>board and feel the grooves with your fingers and try to find them by moving your fingers away.<br>Enter the following text with your ring fingers once you're comfor<span style=\"\">tab</span>le with the home row <span style=\"\">keys</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">a</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">s</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">g</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">j</span>"
+            },
+            {
+              "component": "banner",
+              "value": "Class for  TPF +  Nirantar  Python - by Swati",
+              "title": "",
+              "image": "ic_class_nudge",
+              "actions": [
+                {
+                  "url": "https://merakilearn.org/classes",
+                  "label": "Enroll to class",
+                  "data": "",
+                  "icon": "ic_arrow_right",
+                  "variant": "secondary"
+                }
+              ]
+            }
+          ],
+          "content_type": "class_topic"
+        },
+        {
+          "id": "6848",
+          "parent_exercise_id": null,
+          "course_id": "385",
+          "name": "keys_a_s_k_l",
+          "sequence_num": 1200,
+          "github_link": "https://github.com/navgurukul/newton/tree/master/home-row-tg_json/keys_a_s_k_l.json",
+          "content": [
+            {
+              "component": "header",
+              "variant": 2,
+              "value": "Home Row, <span style=\"\">keys</span> a, s, k and l"
+            },
+            {
+              "component": "text",
+              "value": "Position your left index finger on the left groove on the <span style=\"\">key</span>board, and your right index finger on the right groove of the <span style=\"\">key</span>board. Look away from the <span style=\"\">key</span>board and feel the grooves with your fingers and try to find them by moving your fingers away.<br>Enter the following text with your ring fingers once you're comfor<span style=\"\">tab</span>le with the home row <span style=\"\">keys</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">a</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">s</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">k</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">l</span>"
+            }
+          ],
+          "content_type": "content"
+        },
+        {
+          "id": "6855",
+          "parent_exercise_id": null,
+          "course_id": "385",
+          "name": "keys_d_f_h_;",
+          "sequence_num": 1300,
+          "github_link": "https://github.com/navgurukul/newton/tree/master/home-row-tg_json/keys_d_f_h_;.json",
+          "content": [
+            {
+              "component": "header",
+              "variant": 2,
+              "value": "Home Row, <span style=\"\">keys</span> d, f, h and ;"
+            },
+            {
+              "component": "text",
+              "value": "Position your left index finger on the left groove on the <span style=\"\">key</span>board, and your right index finger on the right groove of the <span style=\"\">key</span>board. Look away from the <span style=\"\">key</span>board and feel the grooves with your fingers and try to find them by moving your fingers away.<br>Enter the following text with your ring fingers once you're comfor<span style=\"\">tab</span>le with the home row <span style=\"\">keys</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">d</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">f</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">h</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">;</span>"
+            }
+          ],
+          "content_type": "assessment"
+        }
+      ],
+      "description": "Let's learn typing"
+    }
+  }
