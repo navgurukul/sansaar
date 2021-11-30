@@ -45,8 +45,8 @@ def send_slack_message(e):
 
 def check_server_status():
     try:
-        url = "http://localhost:5000/courses"
-        # url = "https://dev-api.merakilearn.org/courses"
+        # url = "http://localhost:5000/courses"
+        url = "https://dev-api.merakilearn.org/courses"
         response = requests.request("GET", url)
         print(response, "response")
         if response.status_code != 200:
