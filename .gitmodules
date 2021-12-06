@@ -1,0 +1,3 @@
+[submodule "curriculum_new"]
+	path = curriculum_new
+	url = git@github.com:navgurukul/tesla.git
