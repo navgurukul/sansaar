@@ -34,9 +34,9 @@ def check_server_status():
         response = requests.request("GET", url)
         print(response, "response")
         if response.status_code != 200:
-            send_slack_message("`Hey developers, there is some bug in your server please fix it ASAP`")
+            send_slack_message("<b>Hey developers, production server is down with error code : </b>" + "`"response.status_code"`" + "<b>please fix it ASAP</b>")
         elif len(response.json())<0:
-            send_slack_message("`Hey developers, there is some bug in your server please fix it ASAP`")
+            send_slack_message("<b>Hey developers, response in the production system was empty. Please take a look.</b>")
     except Exception as e:
-        send_slack_message(f'`Hey developers, there is some bug in your server please fix it ASAP`\n```${e}```')
+        send_slack_message(f'`Hey developers, production server is down. Please fix it ASAP`\n```${e}```')
 check_server_status()
