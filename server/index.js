@@ -76,8 +76,18 @@ exports.deployment = async (start) => {
   logger.info(`Server started at ${server.info.uri}`);
   server.chatClient = client;
 
-  // eslint-disable-next-line
-  const { chatService, classesService, userService, displayService } = server.services();
+  const {
+    chatService,
+    classesService,
+    userService,
+    displayService,
+    partnerService,
+  } = server.services();
+
+  /* Scheduler- Assign role to Partners*/
+  cron.schedule('0 40 * * * *', async () => {
+    await partnerService.assignPartnerRole();
+  });
 
   client.start().then(() => {
     // eslint-disable-next-line
