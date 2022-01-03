@@ -1,0 +1,287 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "Types_Assignment_key1"
+  },
+  {
+    "component": "text",
+    "value": "Types_Assignment_key2"
+  },
+  {
+    "component": "table",
+    "value": [
+      {
+        "header": "Types_Assignment_key3",
+        "items": [
+          "Types_Assignment_key4",
+          "Types_Assignment_key5",
+          "Types_Assignment_key6",
+          "Types_Assignment_key7",
+          "Types_Assignment_key8",
+          "Types_Assignment_key9",
+          "Types_Assignment_key10",
+          "Types_Assignment_key11"
+        ]
+      },
+      {
+        "header": "Types_Assignment_key12",
+        "items": [
+          "Types_Assignment_key13",
+          "Types_Assignment_key14",
+          "Types_Assignment_key15",
+          "Types_Assignment_key16",
+          "Types_Assignment_key17",
+          "Types_Assignment_key18",
+          "Types_Assignment_key19",
+          "Types_Assignment_key20"
+        ]
+      },
+      {
+        "header": "Types_Assignment_key21",
+        "items": [
+          "Types_Assignment_key22",
+          "Types_Assignment_key23",
+          "Types_Assignment_key24",
+          "Types_Assignment_key25",
+          "Types_Assignment_key26",
+          "Types_Assignment_key27",
+          "Types_Assignment_key28",
+          "Types_Assignment_key29"
+        ]
+      }
+    ]
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Types_Assignment_key30"
+  },
+  {
+    "component": "text",
+    "value": "Types_Assignment_key31"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Types_Assignment_key32"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "x=5<br>print(x)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Types_Assignment_key33"
+  },
+  {
+    "component": "text",
+    "value": "Types_Assignment_key34"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Types_Assignment_key35"
+  },
+  {
+    "component": "text",
+    "value": "Types_Assignment_key36"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Types_Assignment_key37"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "x=5<br>y=10<br>x+=y<br>print(x)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Types_Assignment_key38"
+  },
+  {
+    "component": "text",
+    "value": "Types_Assignment_key39"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Types_Assignment_key40"
+  },
+  {
+    "component": "text",
+    "value": "Types_Assignment_key41"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Types_Assignment_key42"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "x=10<br>y=5<br>x-=y<br>print(x)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Types_Assignment_key43"
+  },
+  {
+    "component": "text",
+    "value": "Types_Assignment_key44"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Types_Assignment_key45"
+  },
+  {
+    "component": "text",
+    "value": "Types_Assignment_key46"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Types_Assignment_key47"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "x=5<br>y=10<br>x*=y<br>print(x)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Types_Assignment_key48"
+  },
+  {
+    "component": "text",
+    "value": "Types_Assignment_key49"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Types_Assignment_key50"
+  },
+  {
+    "component": "text",
+    "value": "Types_Assignment_key51"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Types_Assignment_key52"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "x=50<br>y=10<br>x/=y<br>print(x)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Types_Assignment_key53"
+  },
+  {
+    "component": "text",
+    "value": "Types_Assignment_key54"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Types_Assignment_key55"
+  },
+  {
+    "component": "text",
+    "value": "Types_Assignment_key56"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Types_Assignment_key57"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "x=25<br>y=10<br>x/=y<br>print(x)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Types_Assignment_key58"
+  },
+  {
+    "component": "text",
+    "value": "Types_Assignment_key59"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Types_Assignment_key60"
+  },
+  {
+    "component": "text",
+    "value": "Types_Assignment_key61"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Types_Assignment_key62"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "x=5<br>y=2<br>x**=y<br>print(x)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Types_Assignment_key63"
+  },
+  {
+    "component": "text",
+    "value": "Types_Assignment_key64"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Types_Assignment_key65"
+  },
+  {
+    "component": "text",
+    "value": "Types_Assignment_key66"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Types_Assignment_key67"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "x=5<br>y=2<br>x//=y<br>print(x)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Types_Assignment_key68"
+  },
+  {
+    "component": "text",
+    "value": "Types_Assignment_key69"
+  }
+]
