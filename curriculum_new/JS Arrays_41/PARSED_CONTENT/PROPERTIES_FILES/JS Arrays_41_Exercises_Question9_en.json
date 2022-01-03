@@ -1,0 +1,7 @@
+{
+	"Exercises_Question9_key1": "Write a program to  check the second max of the array, and console it.",
+	"Exercises_Question9_key2": "Sample <span style=\"\">Input</span>:",
+	"Exercises_Question9_key3": "var numbers=[50, 40, 23, 70, 56, 12, 5, 10, 7]",
+	"Exercises_Question9_key4": "sample <span style=\"\">Output</span>:",
+	"Exercises_Question9_key5": "56"
+}
