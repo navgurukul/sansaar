@@ -1,1 +1,198 @@
-{"course":{"id":"385","name":"Home Row (Typing)","logo":"http://navgurukul.org/img/sqlogo.jpg","course_type":"json","lang_available":["en"],"exercises":[{"id":"6844","course_id":"385","name":"keys_f_j","sequence_num":0,"github_link":"https://github.com/navgurukul/newton/tree/master/home-row-tg_json/keys_f_j.json","content":[{"component":"header","variant":2,"value":"Home Row, keys f and j"},{"component":"text","value":"In the first part of the Home Rows tutorial, we'll learn the use of keys f and j.Position your left index finger on the left groove on the keyboard, and your right index finger on the right groove of the keyboard. Look away from the keyboard and feel the grooves with your fingers and try to find them by moving your fingers away.Enter the following text once you're comfortable with the home row keys f and j"}],"content_type":"exercise"},{"id":"6847","course_id":"385","name":"keys_d_k","sequence_num":200,"github_link":"https://github.com/navgurukul/newton/tree/master/home-row-tg_json/keys_d_k.json","content":[{"id":3576,"title":"Class on Loops","description":"class ","course_id":115,"lang":"en","type":"doubt_class","meet_link":"https://meet.google.com/zuu-gpyc-rje","facilitator":{"name":"Komal Ahire","email":"komalahire162000@gmail.com"}}],"content_type":"class_topic"},{"id":"6854","course_id":"385","name":"keys_f_j_d_k","sequence_num":300,"github_link":"https://github.com/navgurukul/newton/tree/master/home-row-tg_json/keys_f_j_d_k.json","content":[{"component":"header","variant":2,"value":"Home Row, keys f, j, d and k"},{"component":"text","value":"Now, we'll practice the keys f, j, d and k. Position your left index finger on the left groove on the keyboard, and your right index finger on the right groove of the keyboard. Look away from the keyboard and feel the grooves with your fingers and try to find them by moving your fingers away. As an exercise, type the following text without making any mistakes."}],"content_type":"exercise"},{"id":"6845","course_id":"385","name":"keys_g_h","sequence_num":500,"github_link":"https://github.com/navgurukul/newton/tree/master/home-row-tg_json/keys_g_h.json","content":[{"id":3577,"title":"Class on Variables","description":"class ","course_id":115,"lang":"en","type":"doubt_class","meet_link":"https://meet.google.com/zuu-gpyc-rje","facilitator":{"name":"Anand Patel","email":"anand@navgurukul.org"}}],"content_type":"class_topic"},{"id":"6846","course_id":"385","name":"keys_s_l_g_h","sequence_num":600,"github_link":"https://github.com/navgurukul/newton/tree/master/home-row-tg_json/keys_s_l_g_h.json","content":[{"component":"header","variant":2,"value":"Home Row, keys s, l, g and h"},{"component":"text","value":"Now, we'll learn the use of keys s, l, g and h. Position your left index finger on the left groove on the keyboard, and your right index finger on the right groove of the keyboard. Look away from the keyboard and feel the grooves with your fingers and try to find them by moving your fingers away."}],"content_type":"exercise"},{"id":"6842","course_id":"385","name":"keys_s_l_a_;","sequence_num":800,"github_link":"https://github.com/navgurukul/newton/tree/master/home-row-tg_json/keys_s_l_a_;.json","content":[{"id":3576,"title":"Class on Lists","description":"class ","course_id":115,"lang":"en","type":"doubt_class","meet_link":"https://meet.google.com/zuu-gpyc-rje","facilitator":{"name":"Muskan Thakur","email":"muskanth@navgurukul.org"}}],"content_type":"class_topic"},{"id":"6849","course_id":"385","name":"keys_a_s_d_f","sequence_num":900,"github_link":"https://github.com/navgurukul/newton/tree/master/home-row-tg_json/keys_a_s_d_f.json","content":[{"component":"header","variant":2,"value":"Home Row, keys a, s, d and f"},{"component":"text","value":"In this part of the Home Rows tutorial, we'll try the combination of left hand keys only. Position your left index finger on the left groove on the keyboard, and your right index finger on the right groove of the keyboard. Look away from the keyboard and feel the grooves with your fingers and try to find them by moving your fingers away. Enter the following text with your ring fingers once you're comfortable with the home row keys a, s, d, f"}],"content_type":"exercise"},{"id":"6850","course_id":"385","name":"keys_a_s_g_j","sequence_num":1100,"github_link":"https://github.com/navgurukul/newton/tree/master/home-row-tg_json/keys_a_s_g_j.json","content":[{"id":3576,"title":"Class on Loops","description":"class ","course_id":115,"lang":"en","type":"doubt_class","meet_link":"https://meet.google.com/zuu-gpyc-rje","facilitator":{"name":"Komal Ahire","email":"komalahire162000@gmail.com"}}],"content_type":"class_topic"},{"id":"6848","course_id":"385","name":"keys_a_s_k_l","sequence_num":1200,"github_link":"https://github.com/navgurukul/newton/tree/master/home-row-tg_json/keys_a_s_k_l.json","content":[{"component":"header","variant":2,"value":"Home Row, keys a, s, k and l"},{"component":"text","value":"Position your left index finger on the left groove on the keyboard, and your right index finger on the right groove of the keyboard. Look away from the keyboard and feel the grooves with your fingers and try to find them by moving your fingers away.Enter the following text with your ring fingers once you're comfortable with the home row keys a, s, k, l"}],"content_type":"exercise"}],"description":"Let's learn typing"}}
+{
+  "course": {
+    "id": "385",
+    "name": "Home Row (Typing)",
+    "logo": "http://navgurukul.org/img/sqlogo.jpg",
+    "course_type": "json",
+    "lang_available": ["en"],
+    "exercises": [
+      {
+        "id": "6844",
+        "course_id": "385",
+        "name": "keys_f_j",
+        "sequence_num": 0,
+        "content": [
+          {
+            "component": "header",
+            "variant": 2,
+            "value": "Home Row, keys f and j"
+          },
+          {
+            "component": "text",
+            "value": "In the first part of the Home Rows tutorial, we'll learn the use of keys f and j.Position your left index finger on the left groove on the keyboard, and your right index finger on the right groove of the keyboard. Look away from the keyboard and feel the grooves with your fingers and try to find them by moving your fingers away.Enter the following text once you're comfortable with the home row keys f and j"
+          }
+        ],
+        "content_type": "exercise"
+      },
+      {
+        "id": "3576",
+        "course_id": "385",
+        "name": "Home Row (Typing)",
+        "lang": "en",
+        "sequence_num": 200,
+        "content": [
+          {
+            "id": 3576,
+            "title": "Class on Loops",
+            "description": "class ",
+            "course_id": 385,
+            "exercise_id": 6844,
+            "lang": "en",
+            "type": "doubt_class",
+            "meet_link": "https://meet.google.com/zuu-gpyc-rje",
+            "facilitator": {
+              "name": "Komal Ahire",
+              "email": "komalahire162000@gmail.com"
+            }
+          }
+        ],
+        "content_type": "class_topic"
+      },
+      {
+        "id": "6854",
+        "course_id": "385",
+        "name": "keys_f_j_d_k",
+        "sequence_num": 300,
+        "content": [
+          {
+            "component": "header",
+            "variant": 2,
+            "value": "Home Row, keys f, j, d and k"
+          },
+          {
+            "component": "text",
+            "value": "Now, we'll practice the keys f, j, d and k. Position your left index finger on the left groove on the keyboard, and your right index finger on the right groove of the keyboard. Look away from the keyboard and feel the grooves with your fingers and try to find them by moving your fingers away. As an exercise, type the following text without making any mistakes."
+          }
+        ],
+        "content_type": "exercise"
+      },
+      {
+        "id": "3577",
+        "course_id": "385",
+        "name": "Home Row (Typing)",
+        "lang": "en",
+        "sequence_num": 500,
+        "content": [
+          {
+            "id": 3577,
+            "title": "Class on Variables",
+            "description": "class ",
+            "course_id": 385,
+            "exercise_id": 6854,
+            "lang": "en",
+            "type": "doubt_class",
+            "meet_link": "https://meet.google.com/zuu-gpyc-rje",
+            "facilitator": {
+              "name": "Anand Patel",
+              "email": "anand@navgurukul.org"
+            }
+          }
+        ],
+        "content_type": "class_topic"
+      },
+      {
+        "id": "6846",
+        "course_id": "385",
+        "name": "keys_s_l_g_h",
+        "sequence_num": 600,
+        "content": [
+          {
+            "component": "header",
+            "variant": 2,
+            "value": "Home Row, keys s, l, g and h"
+          },
+          {
+            "component": "text",
+            "value": "Now, we'll learn the use of keys s, l, g and h. Position your left index finger on the left groove on the keyboard, and your right index finger on the right groove of the keyboard. Look away from the keyboard and feel the grooves with your fingers and try to find them by moving your fingers away."
+          }
+        ],
+        "content_type": "exercise"
+      },
+      {
+        "id": "3578",
+        "course_id": "385",
+        "name": "Home Row (Typing)",
+        "lang": "en",
+        "sequence_num": 800,
+        "content": [
+          {
+            "id": 3578,
+            "title": "Class on Lists",
+            "description": "class ",
+            "course_id": 385,
+            "exercise_id": 6846,
+            "lang": "en",
+            "type": "doubt_class",
+            "meet_link": "https://meet.google.com/zuu-gpyc-rje",
+            "facilitator": {
+              "name": "Muskan Thakur",
+              "email": "muskanth@navgurukul.org"
+            }
+          }
+        ],
+        "content_type": "class_topic"
+      },
+      {
+        "id": "6849",
+        "course_id": "385",
+        "name": "keys_a_s_d_f",
+        "sequence_num": 900,
+        "content": [
+          {
+            "component": "header",
+            "variant": 2,
+            "value": "Home Row, keys a, s, d and f"
+          },
+          {
+            "component": "text",
+            "value": "In this part of the Home Rows tutorial, we'll try the combination of left hand keys only. Position your left index finger on the left groove on the keyboard, and your right index finger on the right groove of the keyboard. Look away from the keyboard and feel the grooves with your fingers and try to find them by moving your fingers away. Enter the following text with your ring fingers once you're comfortable with the home row keys a, s, d, f"
+          }
+        ],
+        "content_type": "exercise"
+      },
+      {
+        "id": "3579",
+        "course_id": "385",
+        "name": "Home Row (Typing)",
+        "lang": "en",
+        "sequence_num": 1100,
+        "content": [
+          {
+            "id": 3579,
+            "title": "Class on Loops",
+            "description": "class ",
+            "course_id": 385,
+            "exercise_id": 6849,
+            "lang": "en",
+            "type": "doubt_class",
+            "meet_link": "https://meet.google.com/zuu-gpyc-rje",
+            "facilitator": {
+              "name": "Komal Ahire",
+              "email": "komalahire162000@gmail.com"
+            }
+          }
+        ],
+        "content_type": "class_topic"
+      },
+      {
+        "id": "6848",
+        "course_id": "385",
+        "name": "keys_a_s_k_l",
+        "sequence_num": 1200,
+        "content": [
+          {
+            "component": "header",
+            "variant": 2,
+            "value": "Home Row, keys a, s, k and l"
+          },
+          {
+            "component": "text",
+            "value": "Position your left index finger on the left groove on the keyboard, and your right index finger on the right groove of the keyboard. Look away from the keyboard and feel the grooves with your fingers and try to find them by moving your fingers away.Enter the following text with your ring fingers once you're comfortable with the home row keys a, s, k, l"
+          }
+        ],
+        "content_type": "exercise"
+      }
+    ],
+    "description": "Let's learn typing"
+  }
+}
