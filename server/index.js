@@ -87,6 +87,7 @@ exports.deployment = async (start) => {
   /* Scheduler- Assign role to Partners*/
   cron.schedule('0 40 * * * *', async () => {
     await partnerService.assignPartnerRole();
+    await partnerService.assignPartnerRoleToTeacher();
   });
 
   client.start().then(() => {
