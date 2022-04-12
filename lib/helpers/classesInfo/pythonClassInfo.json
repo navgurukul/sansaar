@@ -1,170 +1,170 @@
 [
-    {
-        "subTitle":"Class 1 - Introduction to Computers, Programming and Python",
-        "description":"What are computers and what do they do? What is programming? Instances of programming in daily life. Basic definitions.Continue with basic definitions. Why Python? Explore the interface of Python. How to use indentation and comments in the Meraki app.",
-        "exerciseId":709,
-        "courseId":88
-    },
-    {
-        "subTitle":"Class 2 - Variables Part-1",
-        "description":"What are variables and why are they important. How to name a variable. How to assign values to variables. Practice questions",
-        "exerciseId":1036,
-        "courseId":116
-    },    
-    {
-        "subTitle":"Class 3 - Data types Part-1",
-        "description":"Which all data types are their? Numeric data types-Integer, float, complex. Practice questions",
-        "exerciseId":765,
-        "courseId":91
-    },
-    {
-        "subTitle":"Class 4 - Data types Part-2",
-        "description":"String and Boolean data types. Data type conversion. Practice questions",
-        "exerciseId":766,
-        "courseId":91
-    },
-    {
-        "subTitle":"Class 5 - Variables Part-2",
-        "description":"How can variables change values. How to check the data type of a variable. How to swap variables ?",
-        "exerciseId":1039,
-        "courseId":116
-    },
-    {
-        "subTitle":"Class 6 - Input",
-        "description":"How to input a value from the user. How to set data type for inputted value. How to convert inputted value into other data types",
-        "exerciseId":1040,
-        "courseId":116
-    },
-    {
-        "subTitle":"Class 7 - Operators Part-1",
-        "description":"What are Operators? What are the different types of Operators in Python? In depth explanation of Arithmetic Operators, with examples. Practice Questions and Quizzes",
-        "exerciseId":895,
-        "courseId":106
-    },
-    {
-        "subTitle":"Class 8 - Operators Part-2",
-        "description":"What are Assignment Operators, Comparison Operators and Logical Operators? Membership operators. Share lots of examples, Practice Questions and Quizzes",
-        "exerciseId":896,
-        "courseId":106
-    },
-    {
-        "subTitle":"Class 9 - Operators Part-3",
-        "description":"Lots of practice question on operators. How different data types behave with operators",
-        "exerciseId":897,
-        "courseId":106
-    },
-    {
-        "subTitle":"Class 10 - If-else Part-1",
-        "description":"Why do we use conditions? What is a condition? How to use If-Else? What are flowcharts and how should we prepare them? How should we write an If-Else code?",
-        "exerciseId":998,
-        "courseId":113
-    },
-    {
-        "subTitle":"Class 11 - If-else Part-2",
-        "description":"Introduction and examples of If-Elif. If-Else with 'and' and 'or'. Dry run code for revision. Practice Questions and Quizzes",
-        "exerciseId":1001,
-        "courseId":113
-    },
-    {
-        "subTitle":"Class 12 - If-else Part-3",
-        "description":"Nested If-Else. Practice Questions and Quizzes",
-        "exerciseId":1002,
-        "courseId":113
-    },
-    {
-        "subTitle":"Class 13 - If-else Part-4",
-        "description":"Revision and Practice Questions on If-Else Condition",
-        "exerciseId":1003,
-        "courseId":113
-    },
-    {
-        "subTitle":"Class 14 - Loops Part-1",
-        "description":"What are Loops? What are the Advantages of using Loops? What is Counter? Examples of Counters. Different types of loops in Python - While loop. Practice Questions and Quizzes",
-        "exerciseId":720,
-        "courseId":89
-    },
-    {
-        "subTitle":"Class-15 - Loops Part-2",
-        "description":"Loop control statements such as continue, break, pass. Nested while loops. Share live examples and Practice Questions.",
-        "exerciseId":721,
-        "courseId":89
-    },
-    {
-        "subTitle":"Class-16 - Loops Part-3",
-        "description":"Basics of For Loops. For Loop using Sequence (String) and using Range(). Practice Questions and Quizzes. When to use if loop and when to use while loop",
-        "exerciseId":722,
-        "courseId":89
-    },
-    {
-        "subTitle":"Class-17 - Loops Part-4",
-        "description":"Nested loops, how to create a loop with unknown number of iterations",
-        "exerciseId":723,
-        "courseId":89
-    },
-    {
-        "subTitle":"Class-18 - Loops Part-5",
-        "description":"Cover all types of examples. Share live examples.",
-        "exerciseId":724,
-        "courseId":89
-    },
-    {
-        "subTitle":"Class-19 - Revision Class",
-        "description":"From Variables to Loops",
-        "exerciseId":725,
-        "courseId":89
-    },
-    {
-        "subTitle":"Class-20 - List Part-1",
-        "description":"What is List? Characteristics of list. Defining list - list of strings - list of integer - list of float - mixed list. Practice Questions and Quizzes. Introduce Index and reverse index",
-        "exerciseId":828,
-        "courseId":98
-    },
-    {
-        "subTitle":"Class-21 - List Part-2",
-        "description":"Continue teaching index. List operations: Length. Membership. Work with loop(Live examples). Practice Questions and Quizzes. How to slice a list. ",
-        "exerciseId":829,
-        "courseId":98
-    },
-    {
-        "subTitle":"Class-22 - List Part-3",
-        "description":"Python built-in methods with exampes - append(), clear(), count(), Index(), insert(), pop(), remove(), reverse() , sort(), min(), max(). Practice Questions and Quizzes.",
-        "exerciseId":830,
-        "courseId":98
-    },
-    {
-        "subTitle":"Class-23 - List Part-4",
-        "description":"Nested List. More examples on list. Practice Questions and Quizzes.",
-        "exerciseId":831,
-        "courseId":98
-    },    
-    {
-        "subTitle":"Class-24 - Dictionary Part-1",
-        "description":"Introduction to dictionary. Accessing Elements from a Dictionary. Adding Elements to a Dictionary. Upading a Dictionary. Practice Questions and Quizzes.",
-        "exerciseId":1044,
-        "courseId":119
-    },
-    {
-        "subTitle":"Class-25 - Dictionary Part-2",
-        "description":"Removing element from a Dictionary. Iterating Dictionary. Iterate through all keys and values. More Exmaples on Dictionary.Built-in functions in Dictionary - get (), update(), clear(), copy(), delete(). Built in methods in Dictionary.",
-        "exerciseId":1047,
-        "courseId":119
-    },
-    {
-        "subTitle":"Class-26 - Function Part-1",
-        "description":"What is function?  How to call the function ?What are arguments? How to create a function",
-        "exerciseId":905,
-        "courseId":107
-    },
-    {
-        "subTitle":"Class-27 - Function Part-2",
-        "description":"Continue on how to create a function, practice questions",
-        "exerciseId":906,
-        "courseId":107
-    },
-    {
-        "subTitle":"Class-28 - Revision Class 2",
-        "description":"From List to functions",
-        "exerciseId":907,
-        "courseId":107
-    }
+  {
+    "subTitle": "Class 1 - Introduction to Computers, Programming and Python",
+    "description": "What are computers and what do they do? What is programming? Instances of programming in daily life. Basic definitions.Continue with basic definitions. Why Python? Explore the interface of Python. How to use indentation and comments in the Meraki app.",
+    "exerciseId": 4137,
+    "courseId": 370
+  },
+  {
+    "subTitle": "Class 2 - Variables Part-1",
+    "description": "What are variables and why are they important. How to name a variable. How to assign values to variables. Practice questions",
+    "exerciseId": 4148,
+    "courseId": 371
+  },
+  {
+    "subTitle": "Class 3 - Data types Part-1",
+    "description": "Which all data types are their? Numeric data types-Integer, float, complex. Practice questions",
+    "exerciseId": 4157,
+    "courseId": 372
+  },
+  {
+    "subTitle": "Class 4 - Data types Part-2",
+    "description": "String and Boolean data types. Data type conversion. Practice questions",
+    "exerciseId": 4158,
+    "courseId": 372
+  },
+  {
+    "subTitle": "Class 5 - Variables Part-2",
+    "description": "How can variables change values. How to check the data type of a variable. How to swap variables ?",
+    "exerciseId": 4149,
+    "courseId": 371
+  },
+  {
+    "subTitle": "Class 6 - Input",
+    "description": "How to input a value from the user. How to set data type for inputted value. How to convert inputted value into other data types",
+    "exerciseId": 4150,
+    "courseId": 371
+  },
+  {
+    "subTitle": "Class 7 - Operators Part-1",
+    "description": "What are Operators? What are the different types of Operators in Python? In depth explanation of Arithmetic Operators, with examples. Practice Questions and Quizzes",
+    "exerciseId": 4262,
+    "courseId": 375
+  },
+  {
+    "subTitle": "Class 8 - Operators Part-2",
+    "description": "What are Assignment Operators, Comparison Operators and Logical Operators? Membership operators. Share lots of examples, Practice Questions and Quizzes",
+    "exerciseId": 4263,
+    "courseId": 375
+  },
+  {
+    "subTitle": "Class 9 - Operators Part-3",
+    "description": "Lots of practice question on operators. How different data types behave with operators",
+    "exerciseId": 4264,
+    "courseId": 375
+  },
+  {
+    "subTitle": "Class 10 - If-else Part-1",
+    "description": "Why do we use conditions? What is a condition? How to use If-Else? What are flowcharts and how should we prepare them? How should we write an If-Else code?",
+    "exerciseId": 4869,
+    "courseId": 443
+  },
+  {
+    "subTitle": "Class 11 - If-else Part-2",
+    "description": "Introduction and examples of If-Elif. If-Else with 'and' and 'or'. Dry run code for revision. Practice Questions and Quizzes",
+    "exerciseId": 4870,
+    "courseId": 443
+  },
+  {
+    "subTitle": "Class 12 - If-else Part-3",
+    "description": "Nested If-Else. Practice Questions and Quizzes",
+    "exerciseId": 4872,
+    "courseId": 443
+  },
+  {
+    "subTitle": "Class 13 - If-else Part-4",
+    "description": "Revision and Practice Questions on If-Else Condition",
+    "exerciseId": 4874,
+    "courseId": 443
+  },
+  {
+    "subTitle": "Class 14 - Loops Part-1",
+    "description": "What are Loops? What are the Advantages of using Loops? What is Counter? Examples of Counters. Different types of loops in Python - While loop. Practice Questions and Quizzes",
+    "exerciseId": 4192,
+    "courseId": 373
+  },
+  {
+    "subTitle": "Class-15 - Loops Part-2",
+    "description": "Loop control statements such as continue, break, pass. Nested while loops. Share live examples and Practice Questions.",
+    "exerciseId": 4172,
+    "courseId": 373
+  },
+  {
+    "subTitle": "Class-16 - Loops Part-3",
+    "description": "Basics of For Loops. For Loop using Sequence (String) and using Range(). Practice Questions and Quizzes. When to use if loop and when to use while loop",
+    "exerciseId": 4249,
+    "courseId": 373
+  },
+  {
+    "subTitle": "Class-17 - Loops Part-4",
+    "description": "Nested loops, how to create a loop with unknown number of iterations",
+    "exerciseId": 4191,
+    "courseId": 373
+  },
+  {
+    "subTitle": "Class-18 - Loops Part-5",
+    "description": "Cover all types of examples. Share live examples.",
+    "exerciseId": 4217,
+    "courseId": 373
+  },
+  {
+    "subTitle": "Class-19 - Revision Class",
+    "description": "From Variables to Loops",
+    "exerciseId": 4218,
+    "courseId": 373
+  },
+  {
+    "subTitle": "Class-20 - List Part-1",
+    "description": "What is List? Characteristics of list. Defining list - list of strings - list of integer - list of float - mixed list. Practice Questions and Quizzes. Introduce Index and reverse index",
+    "exerciseId": 4239,
+    "courseId": 374
+  },
+  {
+    "subTitle": "Class-21 - List Part-2",
+    "description": "Continue teaching index. List operations: Length. Membership. Work with loop(Live examples). Practice Questions and Quizzes. How to slice a list. ",
+    "exerciseId": 4220,
+    "courseId": 374
+  },
+  {
+    "subTitle": "Class-22 - List Part-3",
+    "description": "Python built-in methods with exampes - append(), clear(), count(), Index(), insert(), pop(), remove(), reverse() , sort(), min(), max(). Practice Questions and Quizzes.",
+    "exerciseId": 4221,
+    "courseId": 374
+  },
+  {
+    "subTitle": "Class-23 - List Part-4",
+    "description": "Nested List. More examples on list. Practice Questions and Quizzes.",
+    "exerciseId": 4222,
+    "courseId": 374
+  },
+  {
+    "subTitle": "Class-24 - Dictionary Part-1",
+    "description": "Introduction to dictionary. Accessing Elements from a Dictionary. Adding Elements to a Dictionary. Upading a Dictionary. Practice Questions and Quizzes.",
+    "exerciseId": 4273,
+    "courseId": 376
+  },
+  {
+    "subTitle": "Class-25 - Dictionary Part-2",
+    "description": "Removing element from a Dictionary. Iterating Dictionary. Iterate through all keys and values. More Exmaples on Dictionary.Built-in functions in Dictionary - get (), update(), clear(), copy(), delete(). Built in methods in Dictionary.",
+    "exerciseId": 4302,
+    "courseId": 376
+  },
+  {
+    "subTitle": "Class-26 - Function Part-1",
+    "description": "What is function?  How to call the function ?What are arguments? How to create a function",
+    "exerciseId": 4310,
+    "courseId": 377
+  },
+  {
+    "subTitle": "Class-27 - Function Part-2",
+    "description": "Continue on how to create a function, practice questions",
+    "exerciseId": 4311,
+    "courseId": 377
+  },
+  {
+    "subTitle": "Class-28 - Revision Class 2",
+    "description": "From List to functions",
+    "exerciseId": 4312,
+    "courseId": 377
+  }
 ]
