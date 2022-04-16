@@ -2,26 +2,26 @@
     {
         "subTitle":"Class 1 - Introduction to Computers, Programming and Python",
         "description":"What are computers and what do they do? What is programming? Instances of programming in daily life. Basic definitions.Continue with basic definitions. Why Python? Explore the interface of Python. How to use indentation and comments in the Meraki app.",
-        "exerciseId":3,
-        "courseId":2
+        "exerciseId":709,
+        "courseId":88
     },
     {
         "subTitle":"Class 2 - Variables Part-1",
         "description":"What are variables and why are they important. How to name a variable. How to assign values to variables. Practice questions",
-        "exerciseId":4,
-        "courseId":2
+        "exerciseId":1036,
+        "courseId":116
     },    
     {
         "subTitle":"Class 3 - Data types Part-1",
         "description":"Which all data types are their? Numeric data types-Integer, float, complex. Practice questions",
-        "exerciseId":5,
-        "courseId":2
+        "exerciseId":765,
+        "courseId":91
     },
     {
         "subTitle":"Class 4 - Data types Part-2",
         "description":"String and Boolean data types. Data type conversion. Practice questions",
-        "exerciseId":6,
-        "courseId":2
+        "exerciseId":766,
+        "courseId":91
     },
     {
         "subTitle":"Class 5 - Variables Part-2",
