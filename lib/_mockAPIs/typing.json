@@ -1,0 +1,51 @@
+{
+  "course": {
+    "id": "201",
+    "name": "Demo (Typing)",
+    "logo": "https://merakilearn.s3.ap-south-1.amazonaws.com/coursev2_images/Typing/home_row.jpg",
+    "notes": null,
+    "days_to_complete": null,
+    "short_description": "Let's learn typing",
+    "type": "typing",
+    "course_type": "json",
+    "lang_available": ["en"],
+    "exercises": [
+      {
+        "id": "5982",
+        "parent_exercise_id": null,
+        "course_id": "201",
+        "name": "keys_f_j",
+        "slug": "home-row-tg_json__keys_f_j_json",
+        "sequence_num": 0,
+        "review_type": "manual",
+        "submission_type": null,
+        "github_link": "https://github.com/navgurukul/newton/tree/master/home-row-tg_json/keys_f_j.json",
+        "solution": null,
+        "content": [
+          {
+            "component": "header",
+            "variant": 2,
+            "value": "Home Row, <span style=\"\">keys</span> f and j"
+          },
+          {
+            "component": "text",
+            "value": "In the first part of the Home Rows tutorial, we'll learn the use of f and j."
+          },
+          {
+            "component": "banner",
+            "title": "Home Row, keys f and j",
+            "value": "",
+            "actions": [
+              {
+                "url": "https://merakilearn.org/typing",
+                "label": "Practice Typing",
+                "data": "{\"content\":[\"dog\",\"cat\",\"cow\",\"snake\",\"rat\"],\"code\":\"trytyping\"}",
+                "variant": "secondary"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
