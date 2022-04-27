@@ -1,6 +1,6 @@
 {
   "course": {
-    "id": "201",
+    "id": "2000",
     "name": "Demo (Typing)",
     "logo": "https://merakilearn.s3.ap-south-1.amazonaws.com/coursev2_images/Typing/home_row.jpg",
     "notes": null,
@@ -13,7 +13,7 @@
       {
         "id": "5982",
         "parent_exercise_id": null,
-        "course_id": "201",
+        "course_id": "2000",
         "name": "keys_f_j",
         "slug": "home-row-tg_json__keys_f_j_json",
         "sequence_num": 0,
