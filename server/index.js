@@ -85,51 +85,49 @@ exports.deployment = async (start) => {
     calendarService,
   } = server.services();
 
-  /* Scheduler- call calendar patch API*/
-  cron.schedule('00 */10 * * * *', function () {
-    console.log('running a task every 10 Minute');
-  });
-  cron.schedule('00 */10 * * * *', async () => {
-    const [err, nextTwoHoursClasses] = await classesService.getClassesForTwoHours();
-    if (!err) {
-      for (const c of nextTwoHoursClasses) {
-        let emailList = [];
-        var { start_time, end_time, ..._c } = c;
-        for (const regUser of c.registrations) {
-          if (regUser.google_registration_status === false) {
-            const [err, classRegUser] = await userService.findById(regUser.user_id);
-            if (!err) {
-              emailList.push({ email: classRegUser.email });
+  /* Scheduler- call calendar patch API in every 10 min*/
+  // cron.schedule('00 */10 * * * *', async () => {
+  const [err, nextTwoHoursClasses] = await classesService.getClassesForTwoHours();
+  if (!err) {
+    for (const c of nextTwoHoursClasses) {
+      let emailList = [];
+      var { start_time, end_time, ..._c } = c;
+      for (const regUser of c.registrations) {
+        if (regUser.google_registration_status === false) {
+          const [err, classRegUser] = await userService.findById(regUser.user_id);
+          if (!err) {
+            emailList.push({ email: classRegUser.email });
+          }
+          // letting google calendar deciding the previous attendees
+          let regUsers;
+          try {
+            if (c.recurring_id !== null) {
+              regUsers = await calendarService.getCalendarEvent(
+                c.parent_class.calendar_event_id,
+                c.facilitator_id,
+                c.facilitator_email
+              );
+            } else {
+              regUsers = await calendarService.getCalendarEvent(
+                c.calendar_event_id,
+                c.facilitator_id,
+                c.facilitator_email
+              );
             }
-            // letting google calendar deciding the previous attendees
-            let regUsers;
-            try {
-              if (c.recurring_id !== null) {
-                regUsers = await calendarService.getCalendarEvent(
-                  c.parent_class.calendar_event_id,
-                  c.facilitator_id,
-                  c.facilitator_email
-                );
-              } else {
-                regUsers = await calendarService.getCalendarEvent(
-                  c.calendar_event_id,
-                  c.facilitator_id,
-                  c.facilitator_email
-                );
-              }
-              if (regUsers.data.attendees) emailList.push(...regUsers.data.attendees);
-            } catch (err) {
-              console.log(err, 'err\n\n');
-              console.log('Calendar event error route me end\n');
-            }
+            if (regUsers.data.attendees) emailList.push(...regUsers.data.attendees);
+          } catch (err) {
+            console.log(err, 'err\n\n');
+            console.log('Calendar event error route me end\n');
+            return { error: true, message: 'Calendar event error, please contact to admin' };
           }
         }
-        // console.log(c, emailList, 'c, emailList\n\n');
-        await calendarService.patchCalendarEvent(_c, emailList);
-        await classesService.updateGRegistrationStatusById(c.id);
       }
+      // console.log(c, emailList, 'c, emailList\n\n');
+      await calendarService.patchCalendarEvent(_c, emailList);
+      await classesService.updateGRegistrationStatusById(c.id);
     }
-  });
+  }
+  // });
 
   client.start().then(() => {
     // eslint-disable-next-line
