@@ -108,6 +108,7 @@ dist
 
 # curriculum
 curriculum/
+curriculum_new/
 
 #bot.json
 bot.json
