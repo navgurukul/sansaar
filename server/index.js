@@ -94,7 +94,7 @@ exports.deployment = async (start) => {
   });
 
   /* Scheduler- call calendar patch API in every 10 min*/
-  cron.schedule('00 */30 * * * *', async () => {
+  cron.schedule('00 */10 * * * *', async () => {
     // 2 hours duration
     const duration = UTCToISTConverter(
       new Date(new Date().setMinutes(new Date().getMinutes() + 120))
