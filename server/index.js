@@ -127,7 +127,6 @@ exports.deployment = async (start) => {
             }
           }
         }
-        // console.log(c, emailList, 'c, emailList\n\n');
         await calendarService.patchCalendarEvent(_c, emailList);
         await classesService.updateGRegistrationStatusById(c.id, userIds);
       }
