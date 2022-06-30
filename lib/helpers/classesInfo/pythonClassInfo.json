@@ -14,13 +14,13 @@
   {
     "subTitle": "Class 3 - Data types Part-1",
     "description": "Which all data types are their? Numeric data types-Integer, float, complex. Practice questions",
-    "exerciseId": 492,
+    "exerciseId": 399,
     "courseId": 17
   },
   {
     "subTitle": "Class 4 - Data types Part-2",
     "description": "String and Boolean data types. Data type conversion. Practice questions",
-    "exerciseId": 399,
+    "exerciseId": 492,
     "courseId": 17
   },
   {
@@ -80,7 +80,7 @@
   {
     "subTitle": "Class 14 - Loops Part-1",
     "description": "What are Loops? What are the Advantages of using Loops? What is Counter? Examples of Counters. Different types of loops in Python - While loop. Practice Questions and Quizzes",
-    "exerciseId": 370,
+    "exerciseId": 353,
     "courseId": 11
   },
   {
@@ -92,13 +92,13 @@
   {
     "subTitle": "Class-16 - Loops Part-3",
     "description": "Basics of For Loops. For Loop using Sequence (String) and using Range(). Practice Questions and Quizzes. When to use if loop and when to use while loop",
-    "exerciseId": 353,
+    "exerciseId": 361,
     "courseId": 11
   },
   {
     "subTitle": "Class-17 - Loops Part-4",
     "description": "Nested loops, how to create a loop with unknown number of iterations",
-    "exerciseId": 361,
+    "exerciseId": 370,
     "courseId": 11
   },
   {
