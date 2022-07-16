@@ -92,6 +92,7 @@ exports.deployment = async (start) => {
     const duration = UTCToISTConverter(
       new Date(new Date().setMinutes(new Date().getMinutes() + 120))
     );
+    await courseEditorService.StoreTranslatedContent()
     const [err, nextTwoHoursClasses] = await classesService.getClassesForXXXTime(duration);
     if (!err) {
       for (const c of nextTwoHoursClasses) {
