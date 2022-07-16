@@ -54,6 +54,7 @@
     "marked": ">=2.0.0",
     "matrix-bot-sdk": "^0.5.7",
     "node-cron": "^2.0.3",
+    "node-global-storage": "^1.2.3",
     "nodejs-base64": "^2.0.0",
     "objection": "^2.2.1",
     "objection-db-errors": "^1.1.2",
