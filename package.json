@@ -70,7 +70,7 @@
     "@hapi/code": "8.x.x",
     "@hapi/eslint-config-hapi": "13.x.x",
     "@hapi/eslint-plugin-hapi": "4.x.x",
-    "@hapi/lab": "22.x.x",
+    "@hapi/lab": "^22.0.5",
     "babel-eslint": "10.x.x",
     "eslint": "^7.5.0",
     "eslint-config-airbnb-base": "^14.2.0",
