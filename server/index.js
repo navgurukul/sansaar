@@ -85,6 +85,7 @@ exports.deployment = async (start) => {
     displayService,
     partnerService,
     calendarService,
+    coursesServiceV2,
   } = server.services();
 
   /* Scheduler- Assign role to Partners*/
@@ -132,6 +133,8 @@ exports.deployment = async (start) => {
       }
     }
   });
+
+  await coursesServiceV2.StoreTranslatedContent()
 
   client.start().then(() => {
     // eslint-disable-next-line
