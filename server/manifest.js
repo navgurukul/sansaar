@@ -134,18 +134,20 @@ module.exports = new Confidence.Store({
         plugin: './plugins/swagger',
       },
       {
-        plugin:require('hapi-sentry'),
-        options:{
-          client:{dsn: {
-            $env: 'DSN',
+        // eslint-disable-next-line
+        plugin: require('hapi-sentry'),
+        options: {
+          client: {
+            dsn: {
+              $env: 'DSN',
+            },
+            // Set tracesSampleRate to 1.0 to capture 100%
+            // of transactions for performance monitoring.
+            // We recommend adjusting this value in production
+            tracesSampleRate: 1.0,
           },
-        
-          // Set tracesSampleRate to 1.0 to capture 100%
-          // of transactions for performance monitoring.
-          // We recommend adjusting this value in production
-          tracesSampleRate: 1.0,}
-        }
-      }
+        },
+      },
     ],
   },
 });
