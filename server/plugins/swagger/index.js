@@ -25,6 +25,7 @@ module.exports = {
               in: 'header',
             },
           },
+          schemes: ['http', 'https'],
           security: [{ jwt: [] }],
           swaggerUIPath: CONSTANTS.swagger.uiPath,
           jsonPath: CONSTANTS.swagger.jsonPath,
