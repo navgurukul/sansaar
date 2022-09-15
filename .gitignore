@@ -110,5 +110,8 @@ dist
 curriculum/
 curriculum_new/
 
+# assessment
+assessment/
+
 #bot.json
 bot.json

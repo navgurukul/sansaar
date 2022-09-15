@@ -13,7 +13,7 @@ const transport = new DailyRotateFile({
   filename: config.get('logConfig.logFolder') + config.get('logConfig.logFile'),
   datePattern: `YYYY-MM-DD-HH`,
   zippedArchive: true,
-  maxSize: `20m`,
+  maxSize: `50m`,
   maxFiles: `20`,
   prepend: true,
   level: config.get('logConfig.logLevel'),

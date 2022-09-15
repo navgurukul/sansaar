@@ -83,11 +83,19 @@ exports.deployment = async (start) => {
     classesService,
     userService,
     displayService,
+    partnerService,
     calendarService,
+    coursesServiceV2,
   } = server.services();
 
+  /* Scheduler- Assign role to Partners*/
+  cron.schedule('0 40 * * * *', async () => {
+    await partnerService.assignPartnerRole();
+    await partnerService.assignPartnerRoleToTeacher();
+  });
+
   /* Scheduler- call calendar patch API in every 10 min*/
-  cron.schedule('00 */30 * * * *', async () => {
+  cron.schedule('00 */10 * * * *', async () => {
     // 2 hours duration
     const duration = UTCToISTConverter(
       new Date(new Date().setMinutes(new Date().getMinutes() + 120))
@@ -120,12 +128,13 @@ exports.deployment = async (start) => {
             }
           }
         }
-        // console.log(c, emailList, 'c, emailList\n\n');
         await calendarService.patchCalendarEvent(_c, emailList);
         await classesService.updateGRegistrationStatusById(c.id, userIds);
       }
     }
   });
+
+  await coursesServiceV2.StoreTranslatedContent()
 
   client.start().then(() => {
     // eslint-disable-next-line
