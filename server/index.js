@@ -86,13 +86,18 @@ exports.deployment = async (start) => {
     partnerService,
     calendarService,
     coursesServiceV2,
+    userRoleService
   } = server.services();
 
-  /* Scheduler- Assign role to Partners*/
-  cron.schedule('0 40 * * * *', async () => {
-    await partnerService.assignPartnerRole();
-    await partnerService.assignPartnerRoleToTeacher();
+  cron.schedule('0 00 08 * * *', async () => {
+    await userRoleService.setStatusInVolunteer();
   });
+
+  /* Scheduler- Assign role to Partners*/
+  // cron.schedule('0 40 * * * *', async () => {
+  //   await partnerService.assignPartnerRole();
+  //   await partnerService.assignPartnerRoleToTeacher();
+  // });
 
   /* Scheduler- call calendar patch API in every 10 min*/
   cron.schedule('00 */10 * * * *', async () => {
