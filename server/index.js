@@ -86,7 +86,13 @@ exports.deployment = async (start) => {
     partnerService,
     calendarService,
     coursesServiceV2,
+    userRoleService
   } = server.services();
+
+ 
+  cron.schedule('0 00 08 * * *', async () => {
+    await userRoleService.setStatusInVolunteer();
+  });
 
   /* Scheduler- Assign role to Partners*/
   // cron.schedule('0 40 * * * *', async () => {
