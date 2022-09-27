@@ -89,6 +89,7 @@ exports.deployment = async (start) => {
     userRoleService
   } = server.services();
 
+ 
   cron.schedule('0 00 08 * * *', async () => {
     await userRoleService.setStatusInVolunteer();
   });
