@@ -62,7 +62,6 @@
     "objection-db-errors": "^1.1.2",
     "pg": "^8.3.0",
     "random-animal-name-generator": "^0.1.1",
-    "redis": "^4.3.1",
     "schmervice": "^1.5.0",
     "schwifty": "^5.3.0",
     "showdown": "^1.9.1",
