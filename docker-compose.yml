@@ -1,0 +1,29 @@
+version: "3.7"
+services:
+  db:  
+    image: postgres:14.1-alpine
+    restart: always
+    environment:
+      - DB_NAME=postgres
+      - DB_HOST=localhost
+      - DB_USER=postgres
+      - DB_PASS=hello
+    ports:
+      - '2983:2983'
+  #   volumes: 
+  #     - db:/var/lib/postgresql/data 
+  # volumes:
+  #   db:
+  #     driver: local 
+  sansaar:
+    build:
+      context: .
+      dockerfile: .Dockerfile
+    image : sansaar
+    container_name: nodejs
+    depends_on:
+    - db
+    ports:
+      - "5000:5000"
+        
+
