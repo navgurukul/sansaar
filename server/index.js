@@ -51,7 +51,7 @@ exports.deployment = async (start) => {
 
 	const cache = server.cache({
 		cache: 'my_cache',
-		segment: '-',
+		segment: CONFIG.redis,
 		expiresIn: 24 * 60 * 60 * 1000,
 	});
 	server.app.cache = cache;
