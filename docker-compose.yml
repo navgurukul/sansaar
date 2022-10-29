@@ -4,26 +4,28 @@ services:
     image: postgres:14.1-alpine
     restart: always
     environment:
-      - DB_NAME=postgres
-      - DB_HOST=localhost
-      - DB_USER=postgres
-      - DB_PASS=hello
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=easy
     ports:
-      - '2983:2983'
-  #   volumes: 
-  #     - db:/var/lib/postgresql/data 
-  # volumes:
-  #   db:
-  #     driver: local 
+      - '5432:5432'
+    volumes: 
+      - db:/var/lib/postgresql/data 
   sansaar:
     build:
       context: .
-      dockerfile: .Dockerfile
+      dockerfile: Dockerfile
     image : sansaar
     container_name: nodejs
     depends_on:
     - db
     ports:
       - "5000:5000"
-        
-
+    environment:
+      DB_HOST: db
+      DB_PORT: 5432
+      DB_USER: postgres
+      DB_PASSWORD: easy
+      DB_NAME: ndb
+volumes:
+  db:
+    driver: local
