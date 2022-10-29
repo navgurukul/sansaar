@@ -22,7 +22,7 @@ module.exports = new Confidence.Store({
               constructor: CatboxRedis,
               options: {
                   partition : 'sansaar',
-                  host: 'localhost',
+                  host: 'redis',
                   port: 6379,
               }
           }
