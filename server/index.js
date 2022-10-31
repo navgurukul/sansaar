@@ -49,12 +49,12 @@ exports.deployment = async (start) => {
   // Set the matrix client before initializing the server
   server.app.chatClient = client;
 
-	const cache = server.cache({
-		cache: 'my_cache',
-		segment: CONFIG.redis,
-		expiresIn: 24 * 60 * 60 * 1000,
-	});
-	server.app.cache = cache;
+	// const cache = server.cache({
+	// 	cache: 'my_cache',
+	// 	segment: CONFIG.redis,
+	// 	expiresIn: 24 * 60 * 60 * 1000,
+	// });
+	// server.app.cache = cache;
   await server.initialize();
 
   if (!start) {
