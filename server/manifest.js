@@ -2,7 +2,7 @@ const Dotenv = require('dotenv');
 const Confidence = require('confidence');
 const Toys = require('toys');
 const Boom = require('@hapi/boom');
-const CatboxRedis = require('@hapi/catbox-redis');
+// const CatboxRedis = require('@hapi/catbox-redis');
 // Pull .env into process.env
 Dotenv.config({ path: `${__dirname}/.env` });
 
@@ -15,19 +15,19 @@ module.exports = new Confidence.Store({
       $coerce: 'number',
       $default: 5000,
     },
-    cache : [
-      {
-          name: 'my_cache',
-          provider: {
-              constructor: CatboxRedis,
-              options: {
-                  partition : 'sansaar',
-                  host: 'localhost',
-                  port: 6379,
-              }
-          }
-      }
-  ],
+    // cache: [
+    //   {
+    //     name: 'my_cache',
+    //     provider: {
+    //       constructor: CatboxRedis,
+    //       options: {
+    //         partition: 'sansaar',
+    //         host: 'localhost',
+    //         port: 6379,
+    //       },
+    //     },
+    //   },
+    // ],
     debug: {
       $filter: { $env: 'NODE_ENV' },
       $default: {
