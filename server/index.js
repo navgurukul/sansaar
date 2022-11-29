@@ -43,11 +43,11 @@ exports.deployment = async (start) => {
   const homeserverUrl = 'https://m.navgurukul.org';
   const { accessToken } = CONFIG.auth.chat;
   const storage = new SimpleFsStorageProvider('bot.json');
-  const client = new MatrixClient(homeserverUrl, accessToken, storage);
-  AutojoinRoomsMixin.setupOnClient(client);
+  // const client = new MatrixClient(homeserverUrl, accessToken, storage);
+  // AutojoinRoomsMixin.setupOnClient(client);
 
   // Set the matrix client before initializing the server
-  server.app.chatClient = client;
+  // server.app.chatClient = client;
 
 	// const cache = server.cache({
 	// 	cache: 'my_cache',
@@ -81,7 +81,7 @@ exports.deployment = async (start) => {
 
   // eslint-disable-next-line no-console
   logger.info(`Server started at ${server.info.uri}`);
-  server.chatClient = client;
+  // server.chatClient = client;
 
   // eslint-disable-next-line
   const {
@@ -148,19 +148,22 @@ exports.deployment = async (start) => {
 
   await coursesServiceV2.StoreTranslatedContent()
 
+/*
   client.start().then(() => {
     // eslint-disable-next-line
     logger.info('Client started!');
   });
   client.on('room.message', chatService.handleCommand.bind(this));
-
+*/
   return server;
 };
 
 if (!module.parent) {
   exports.deployment(true);
+  // exports.deployment(false);
 
   process.on('unhandledRejection', (err) => {
-    throw err;
+    console.log(err);
+    // throw err;
   });
 }

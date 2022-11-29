@@ -145,7 +145,7 @@ module.exports = new Confidence.Store({
       },
       {
         plugin: './plugins/swagger',
-      },
+      },/*
       {
         // eslint-disable-next-line
         plugin: require('hapi-sentry'),
@@ -160,7 +160,7 @@ module.exports = new Confidence.Store({
             tracesSampleRate: 1.0,
           },
         },
-      },
+      },*/
     ],
   },
 });
