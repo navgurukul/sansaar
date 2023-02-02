@@ -1,0 +1,21 @@
+{
+	"DataTypes_numbericQ_key1": "Example-1",
+	"DataTypes_numbericQ_key2": "Create a variable with name <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number</span> and assign any <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">INTEGER</span> value to it.",
+	"DataTypes_numbericQ_key3": "Print the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number</span>.",
+	"DataTypes_numbericQ_key4": "Assign a <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">FLOAT</span> value to the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number</span> variable. ",
+	"DataTypes_numbericQ_key5": "Print the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number</span>.",
+	"DataTypes_numbericQ_key6": "Assign a <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Complex</span> value to the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number</span> variable. ",
+	"DataTypes_numbericQ_key7": "Print the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number</span>.",
+	"DataTypes_numbericQ_key8": "<span style=\"\">Program - </span> :-",
+	"DataTypes_numbericQ_key9": "number=6<br>print(number)<br>number=56.67<br>print(number)<br>number=5+7j<br>print(number)",
+	"DataTypes_numbericQ_key10": "<span style=\"\">Output</span> :-",
+	"DataTypes_numbericQ_key11": "6<br>56.67<br>(5+7j)",
+	"DataTypes_numbericQ_key12": "Example-2",
+	"DataTypes_numbericQ_key13": "Take 2 inputs from the user with data type <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">INTEGER</span>.   ",
+	"DataTypes_numbericQ_key14": "Store the sum of the 2 user inputs in a variable with name <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">SUM</span>.",
+	"DataTypes_numbericQ_key15": "Print <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">SUM</span>.",
+	"DataTypes_numbericQ_key16": "<span style=\"\">Program -</span> :-",
+	"DataTypes_numbericQ_key17": "a=int(input(\"enter the first number=\"))<br>b=int(input(\"Enter the second number=\"))<br>SUM=a+b<br>print(SUM)",
+	"DataTypes_numbericQ_key18": "<span style=\"\">Output</span> :-",
+	"DataTypes_numbericQ_key19": "If user enter a = 5 , b = 5 then output will be 10."
+}

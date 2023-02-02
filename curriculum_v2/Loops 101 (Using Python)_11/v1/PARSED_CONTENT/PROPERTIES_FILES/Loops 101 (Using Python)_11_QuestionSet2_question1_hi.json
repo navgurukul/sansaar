@@ -1,0 +1,12 @@
+{
+	"QuestionSet2_question1_key1": "उदाहरण 1",
+	"QuestionSet2_question1_key2": "एक प्रोग्राम बनाएं जो <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">1 to 100</span> से उन सभी नंबरों को प्रिंट करे जो <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">divisible by 7</span> हैं।",
+	"QuestionSet2_question1_key3": "ध्यान दें :",
+	"QuestionSet2_question1_key4": "<span style=\"\">loop</span> जो आप लिखेंगे वह 556 से शुरू होगा।",
+	"QuestionSet2_question1_key5": "आपका <span style=\"\">output</span> इस प्रकार होना चाहिए।",
+	"QuestionSet2_question1_key6": "7<br> 14<br> 21<br> 28<br> 35<br> 42<br> 49<br> 56<br> 63<br> 70<br> 77<br> 84<br> 91<br> 98",
+	"QuestionSet2_question1_key7": "<span style=\"\">कार्यक्रम</span> :-",
+	"QuestionSet2_question1_key8": "मैं = 1<br> जबकि(i&lt;=100): # मैं 1 से शुरू होता है और 100 . पर समाप्त होता है<br> if(i%7==0):# मौसम की जाँच करना i 7 का गुणज है या नहीं<br> प्रिंट (i) # प्रिंटिंग i<br> i+=1 # i को 1 . से बढ़ा दिया गया है",
+	"QuestionSet2_question1_key9": "<span style=\"\">Output</span> :-",
+	"QuestionSet2_question1_key10": "7<br> 14<br> 21<br> 28<br> 35<br> 42<br> 49<br> 56<br> 63<br> 70<br> 77<br> 84<br> 91<br> 98"
+}

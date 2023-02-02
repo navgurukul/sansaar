@@ -1,0 +1,88 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "functions-question4_key1"
+  },
+  {
+    "component": "text",
+    "value": "functions-question4_key2"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "functions-question4_key3"
+  },
+  {
+    "component": "text",
+    "value": "functions-question4_key4"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def check_numbers(a,b):<br>&emsp;if(a%2==0 and b%2==0):<br>&emsp;&emsp;print(\"both are even\")<br>&emsp;&emsp;print(a/2,b/2)<br>&emsp;else:<br>&emsp;&emsp;print(\"both numbers are not even\")<br>check_numbers(10,20)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "functions-question4_key5"
+  },
+  {
+    "component": "text",
+    "value": "functions-question4_key6"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "functions-question4_key7"
+  },
+  {
+    "component": "text",
+    "value": "functions-question4_key8"
+  },
+  {
+    "component": "text",
+    "value": "functions-question4_key9"
+  },
+  {
+    "component": "text",
+    "value": "functions-question4_key10"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "functions-question4_key11"
+  },
+  {
+    "component": "text",
+    "value": "functions-question4_key12"
+  },
+  {
+    "component": "text",
+    "value": "functions-question4_key13"
+  },
+  {
+    "component": "text",
+    "value": "functions-question4_key14"
+  },
+  {
+    "component": "text",
+    "value": "functions-question4_key15"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def check_numbers(a,b):<br>&emsp;for i in range(len(a)):<br>&emsp;&emsp;if(a[i]%2==0 and b[i]%2==0):<br>&emsp;&emsp;&emsp;print(\"both are even\")<br>&emsp;&emsp;else:<br>&emsp;&emsp;&emsp;print(\"both numbers are not even\")<br>l1=[10,13,20,21,22]<br>l2=[16,18,19,21,27]<br>check_numbers(l1,l2)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "functions-question4_key16"
+  },
+  {
+    "component": "text",
+    "value": "functions-question4_key17"
+  }
+]

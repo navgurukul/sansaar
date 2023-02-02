@@ -1,0 +1,20 @@
+{
+	"DataTypes_StringQ_key1": "குறிப்பு :",
+	"DataTypes_StringQ_key2": "<span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">ஸ்டிரிங் இணைப்பு</span> பற்றி படிக்கவும்.",
+	"DataTypes_StringQ_key3": "உதாரணம்-1",
+	"DataTypes_StringQ_key4": "<span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">STRING</span> தரவு வகையைக் கொண்ட பயனரிடமிருந்து நீங்கள் இரண்டு உள்ளீடுகளை எடுக்க வேண்டும்.",
+	"DataTypes_StringQ_key5": "பின்னர் பெயர் <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">சேர்</span> என்ற மாறியில், இரண்டு பயனர் உள்ளீடுகளின் கூட்டுத்தொகையை சேமிக்கவும்.",
+	"DataTypes_StringQ_key6": "மாறி <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">சேர்வை</span> அச்சிடுக.",
+	"DataTypes_StringQ_key7": "<span style=\"\">நிகழ்ச்சி</span> :-",
+	"DataTypes_StringQ_key8": "a=input(&quot;முதல் மதிப்பை உள்ளிடவும்=&quot;)<br> b=input(&quot;இரண்டாவது மதிப்பை உள்ளிடவும்=&quot;)<br> add=a+b<br> அச்சிட (சேர்)",
+	"DataTypes_StringQ_key9": "<span style=\"\">வெளியீடு</span> :-",
+	"DataTypes_StringQ_key10": "பயனர் a = hii மற்றும் b = sam ஐ உள்ளிட்டால், வெளியீடு hiisam ஆக இருக்க வேண்டும்.",
+	"DataTypes_StringQ_key11": "உதாரணம்-2",
+	"DataTypes_StringQ_key12": "பயனரிடமிருந்து ஒரு <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">INTEGER</span> வகை உள்ளீட்டையும் ஒரு <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">STRING</span> வகை உள்ளீட்டையும் எடுக்கவும்.",
+	"DataTypes_StringQ_key13": "பின்னர் பெயர் <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">சேர்</span> என்ற மாறியில், இரண்டு பயனர் உள்ளீடுகளின் கூட்டுத்தொகையை சேமிக்கவும்.",
+	"DataTypes_StringQ_key14": "மாறி <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">சேர்வை</span> அச்சிடுக.",
+	"DataTypes_StringQ_key15": "<span style=\"\">நிகழ்ச்சி -</span> :-",
+	"DataTypes_StringQ_key16": "a=int(உள்ளீடு(&quot;முதல் மதிப்பை உள்ளிடவும்=&quot;))<br> b=input(&quot;இரண்டாவது மதிப்பை உள்ளிடவும்=&quot;)<br> add=a+b<br> அச்சிட (சேர்)",
+	"DataTypes_StringQ_key17": "<span style=\"\">வெளியீடு</span> :-",
+	"DataTypes_StringQ_key18": "தட்டச்சுப் பிழை: str ('int' அல்ல) str ஐ மட்டுமே இணைக்க முடியும்"
+}

@@ -1,0 +1,16 @@
+{
+	"Exercises_Question-14_key1": "Write a function named check<i>numbers</i>list which takes two lists of <span style=\"\">integers</span> and checks the numbers of the same index numbers whether they both are even or not. For checking both even or not you can use the function written in the previous question.",
+	"Exercises_Question-14_key2": "If you give these lists [2, 6, 18, 10, 3, 75] and [6, 19, 24, 12, 3, 87] then the <span style=\"\">output</span> should come like this.",
+	"Exercises_Question-14_key3": "dono even hain",
+	"Exercises_Question-14_key4": "<hr>",
+	"Exercises_Question-14_key5": "dono even nahi hai",
+	"Exercises_Question-14_key6": "<hr>",
+	"Exercises_Question-14_key7": "dono even hain",
+	"Exercises_Question-14_key8": "<hr>",
+	"Exercises_Question-14_key9": "dono even hain",
+	"Exercises_Question-14_key10": "<hr>",
+	"Exercises_Question-14_key11": "dono even nahi hain",
+	"Exercises_Question-14_key12": "<hr>",
+	"Exercises_Question-14_key13": "dono even nahi hain",
+	"Exercises_Question-14_key14": "<hr>"
+}

@@ -1,0 +1,49 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "if-statement-with-code_if-code-question3_key1"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-code-question3_key2"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-code-question3_key3"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-code-question3_key4"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "if-statement-with-code_if-code-question3_key5"
+  },
+  {
+    "component": "image",
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/course_images_v2/If-else_10/assets/question1-example3.png",
+    "alt": "if-statement-with-code_if-code-question3_key6"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "if-statement-with-code_if-code-question3_key7"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "number = 44 * 30 <br>num1 = int(input(\"enter a number: \")) <br>if(num1  >= number): <br>&emsp;&emsp;print(\"greater than or equal\") <br>else: <br>&emsp;&emsp;print(\"lesser\")"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "if-statement-with-code_if-code-question3_key8"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-code-question3_key9"
+  }
+]

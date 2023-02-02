@@ -1,0 +1,13 @@
+{
+	"variables_variables-naming-question4_key1": "Variables naming Example-4",
+	"variables_variables-naming-question4_key2": "Example",
+	"variables_variables-naming-question4_key3": "Assign a <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">STRING</span> value to a variable named as <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Varx</span>.",
+	"variables_variables-naming-question4_key4": "Assign a <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">FLOAT</span> value to a variable named as <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">vaRx</span>.",
+	"variables_variables-naming-question4_key5": "Try to <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">print</span> it, to see if <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Varx</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">vaRx</span> are same or not. If not, then write your reason in the comment in your file.",
+	"variables_variables-naming-question4_key6": "<span style=\"\">Program</span> :-",
+	"variables_variables-naming-question4_key7": "Varx = \"hii\"<br>vaRx = 56.76<br>print(Varx)<br>print(vaRx)",
+	"variables_variables-naming-question4_key8": "<span style=\"\">Output</span> :-",
+	"variables_variables-naming-question4_key9": "hi<br>56.76",
+	"variables_variables-naming-question4_key10": "<span style=\"\">Explanation</span> :-",
+	"variables_variables-naming-question4_key11": "Varx and vaRx are not same because the letters in them have different casses."
+}

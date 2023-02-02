@@ -1,0 +1,21 @@
+[
+  {
+    "value": "Which Angle is it: (Teacher Models)_key1",
+    "component": "header",
+    "variant": 2
+  },
+  {
+    "value": "Which Angle is it: (Teacher Models)_key2",
+    "component": "text"
+  },
+  {
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/67c2889c-3172-4aa2-9236-9e0d77f7617a-image.png",
+    "component": "image",
+    "alt": "Which Angle is it: (Teacher Models)_key3"
+  },
+  {
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/90e53756-c65c-41eb-bb4e-a7f5753e7288-image.png",
+    "component": "image",
+    "alt": "Which Angle is it: (Teacher Models)_key4"
+  }
+]

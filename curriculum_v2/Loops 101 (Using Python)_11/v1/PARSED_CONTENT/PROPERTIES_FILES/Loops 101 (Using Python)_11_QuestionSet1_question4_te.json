@@ -1,0 +1,15 @@
+{
+	"QuestionSet1_question4_key1": "ఉదాహరణ 5",
+	"QuestionSet1_question4_key2": "<span style=\"\">లూప్‌లను</span> ఉపయోగించి ఈ నమూనాను ముద్రించండి.",
+	"QuestionSet1_question4_key3": "<b>1, -2, 3, -4, 5, -6 ..99, -100</b>",
+	"QuestionSet1_question4_key4": "సూచన:",
+	"QuestionSet1_question4_key5": "మొదటి సంఖ్య <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">ధనాత్మకమైనది</span> మరియు రెండవ సంఖ్య <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">ప్రతికూలమైనది</span> అని గమనించండి, ఆపై మళ్లీ ధనాత్మక మరియు ప్రతికూల సంఖ్య మరియు మొదలైనవి ముద్రించబడాలి. నమూనా ఈ <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">సానుకూల (+) సంఖ్య</span> , <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">ప్రతికూల (-) సంఖ్య</span> , <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">సానుకూల (+) సంఖ్య</span> , <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">ప్రతికూల (-) సంఖ్య</span> మొదలైన వాటితో సమానంగా కనిపిస్తుంది.",
+	"QuestionSet1_question4_key6": "మనం ఏదైనా సంఖ్యను <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">-1</span> తో గుణించడం ద్వారా ప్రతికూలంగా చేయవచ్చు.",
+	"QuestionSet1_question4_key7": "ఉదాహరణ :-",
+	"QuestionSet1_question4_key8": "10 * -1 = -10<br> 2 * -1 = 2",
+	"QuestionSet1_question4_key9": "ప్రోగ్రామ్‌ను వ్రాయడానికి మీరు పై <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">సూచనను</span> ఉపయోగించవచ్చు.",
+	"QuestionSet1_question4_key10": "<span style=\"\">కార్యక్రమం</span> :-",
+	"QuestionSet1_question4_key11": "i=1<br> అయితే(i&lt;=100):<br> ఉంటే(i%2==0):<br> ప్రింట్(i*-1,end=&quot;&quot;)<br> లేకపోతే:<br> ప్రింట్(i,end=&quot;&quot;)<br> i+=1",
+	"QuestionSet1_question4_key12": "<span style=\"\">అవుట్‌పుట్</span> :-",
+	"QuestionSet1_question4_key13": "1 -2 3 -4 5 -6 7 -8 9 -10 11 -12 13 -14 15 -16 17 -18 19 -20 21 -22 23 -24 25 -26 27 -28 29 -30 31 -32 33 - 34 35 -36 37 -38 39 -40 41 -42 43 -44 45 -46 47 -48 49 -50 51 -52 53 -54 55 -56 57 -58 59 -60 61 -62 63 -64 65 - -68 69 -70 71 -72 73 -74 75 -76 77 -78 79 -80 81 -82 83 -84 85 -86 87 -88 89 -90 91 -92 93 -94 95 -96 97 -90 99 -"
+}

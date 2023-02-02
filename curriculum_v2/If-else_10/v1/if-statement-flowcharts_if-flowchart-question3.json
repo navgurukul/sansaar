@@ -1,0 +1,31 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Example 3 :-"
+	},
+	{
+		"component": "text",
+		"value": "Check whether <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">1000</span> is equal to <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">1000</span>. If yes, print <b>\"barabar hai\"</b>, else print <b>\"barabar nahi hai\"</b>. Write the code for above statement."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Program</span> :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "if 1000 >= 1000:<br>&emsp;print(\"barabar hai\")<br>else:<br>&emsp;print(\"barabar nahi hai\")"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "barabar hai"
+	}
+]

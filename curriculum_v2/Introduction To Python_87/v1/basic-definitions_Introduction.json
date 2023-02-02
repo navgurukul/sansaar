@@ -1,0 +1,28 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Introduction of Python in English :-"
+	},
+	{
+		"component": "youtube",
+		"value": "UlpurGz1-TU"
+	},
+	{
+		"component": "text",
+		"value": "It is important to understand that programming isn't a skill only important to the app developers. You can be in any profession and use programming. For instance, in this video Steph who is a football player, and is also learning programming."
+	},
+	{
+		"component": "youtube",
+		"value": "NYzN0a1U8mI"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Introduction of Python in Hindi :-"
+	},
+	{
+		"component": "youtube",
+		"value": "iWNpVTYSt74"
+	}
+]

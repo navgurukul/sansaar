@@ -1,0 +1,16 @@
+[
+	{
+		"value": "What’s CEL Hackathon",
+		"component": "header",
+		"variant": 2
+	},
+	{
+		"value": "Code to Enhance Learning, a nonprofit, uses coding to build critical thinking, creativity, collaboration, and perseverance in children in grades 4-9.<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/ec23c81e-2d5e-4f32-9234-26d889e35ef1-image1.png",
+		"component": "image",
+		"alt": ""
+	}
+]

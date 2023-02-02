@@ -1,0 +1,38 @@
+[
+	{
+		"value": "Help with Tables: (Teacher Models - 2)",
+		"component": "header",
+		"variant": 2
+	},
+	{
+		"value": "Let’s write codes for the sprites<br>",
+		"component": "text"
+	},
+	{
+		"value": "Teacher<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/faef39fa-68b5-4a9e-aef1-a62227b0c1d7-image2.png",
+		"component": "image",
+		"alt": ""
+	},
+	{
+		"value": "To ask the character to learn the table if the multiple is wrong<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/1a570bf9-7bd3-421e-a9bd-5df89f83f65f-image6.png",
+		"component": "image",
+		"alt": ""
+	},
+	{
+		"value": "To decide a random number of which the character will say the multiples<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/c0deabf0-f2e1-49f6-9292-cf9fe50a6234-image17.png",
+		"component": "image",
+		"alt": ""
+	}
+]

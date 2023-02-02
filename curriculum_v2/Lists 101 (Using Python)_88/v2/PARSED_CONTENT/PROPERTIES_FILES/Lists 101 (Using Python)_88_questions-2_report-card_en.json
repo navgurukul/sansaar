@@ -1,0 +1,12 @@
+{
+	"questions-2_report-card_key1": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Example 2",
+	"questions-2_report-card_key2": "Please see this list :",
+	"questions-2_report-card_key3": "Output:-",
+	"questions-2_report-card_key4": "1142",
+	"questions-2_report-card_key5": "These are the marks of any student for the last three years. You have to calculate total marks for all the three years.",
+	"questions-2_report-card_key6": "Sum of the nested list given above - 1142.",
+	"questions-2_report-card_key7": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Edge Cases</span>",
+	"questions-2_report-card_key8": "Check your program for following nested lists as well (your <span style=\"\">code</span> should run without making any change, if its not running properly then that means that you have not written the <span style=\"\">code</span> properly ) :",
+	"questions-2_report-card_key9": "Sum of the nested list given above - 965.",
+	"questions-2_report-card_key10": "Sum of the nested list given above - 1324."
+}

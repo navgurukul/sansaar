@@ -1,0 +1,21 @@
+{
+	"DataTypes_numbericQ_key1": "ఉదాహరణ-1",
+	"DataTypes_numbericQ_key2": "పేరు <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">సంఖ్యతో</span> వేరియబుల్‌ని సృష్టించండి మరియు దానికి ఏదైనా <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">INTEGER</span> విలువను కేటాయించండి.",
+	"DataTypes_numbericQ_key3": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">సంఖ్యను</span> ప్రింట్ చేయండి.",
+	"DataTypes_numbericQ_key4": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">సంఖ్య</span> వేరియబుల్‌కు <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">FLOAT</span> విలువను కేటాయించండి.",
+	"DataTypes_numbericQ_key5": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">సంఖ్యను</span> ప్రింట్ చేయండి.",
+	"DataTypes_numbericQ_key6": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">సంఖ్య</span> వేరియబుల్‌కు <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">సంక్లిష్ట</span> విలువను కేటాయించండి.",
+	"DataTypes_numbericQ_key7": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">సంఖ్యను</span> ప్రింట్ చేయండి.",
+	"DataTypes_numbericQ_key8": "<span style=\"\">కార్యక్రమం -</span> :-",
+	"DataTypes_numbericQ_key9": "సంఖ్య=6<br> ప్రింట్ (సంఖ్య)<br> సంఖ్య = 56.67<br> ప్రింట్ (సంఖ్య)<br> సంఖ్య=5+7j<br> ప్రింట్ (సంఖ్య)",
+	"DataTypes_numbericQ_key10": "<span style=\"\">అవుట్‌పుట్</span> :-",
+	"DataTypes_numbericQ_key11": "6<br> 56.67<br> (5+7j)",
+	"DataTypes_numbericQ_key12": "ఉదాహరణ-2",
+	"DataTypes_numbericQ_key13": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">INTEGER</span> డేటా రకంతో వినియోగదారు నుండి 2 ఇన్‌పుట్‌లను తీసుకోండి.",
+	"DataTypes_numbericQ_key14": "2 వినియోగదారు ఇన్‌పుట్‌ల మొత్తాన్ని <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">SUM</span> పేరుతో వేరియబుల్‌లో నిల్వ చేయండి.",
+	"DataTypes_numbericQ_key15": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">SUMని</span> ముద్రించండి.",
+	"DataTypes_numbericQ_key16": "<span style=\"\">కార్యక్రమం -</span> :-",
+	"DataTypes_numbericQ_key17": "a=int(ఇన్‌పుట్(&quot;మొదటి సంఖ్యను నమోదు చేయండి=&quot;))<br> b=int(ఇన్‌పుట్(&quot;రెండవ సంఖ్యను నమోదు చేయండి=&quot;))<br> SUM=a+b<br> ప్రింట్ (మొత్తం)",
+	"DataTypes_numbericQ_key18": "<span style=\"\">అవుట్‌పుట్</span> :-",
+	"DataTypes_numbericQ_key19": "వినియోగదారు a = 5 , b = 5 ఎంటర్ చేస్తే అవుట్‌పుట్ 10 అవుతుంది."
+}

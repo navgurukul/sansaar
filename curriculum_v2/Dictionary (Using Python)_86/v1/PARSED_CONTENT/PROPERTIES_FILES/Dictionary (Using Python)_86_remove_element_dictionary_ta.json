@@ -1,0 +1,16 @@
+{
+	"remove_element_dictionary_key1": "அகராதியிலிருந்து கூறுகளை நீக்குதல்:-",
+	"remove_element_dictionary_key2": "அகராதி கூறுகளை நாம் பல முறைகள் மூலம் அகற்றலாம்.<br> கீழே கொடுக்கப்பட்டுள்ளது போல்.",
+	"remove_element_dictionary_key3": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">பாப்()</span> :-",
+	"remove_element_dictionary_key4": "<b>பாப்()</b> முறையைப் பயன்படுத்தி, அகராதியிலிருந்து ஒரு குறிப்பிட்ட உறுப்பை அகற்றலாம்.",
+	"remove_element_dictionary_key5": "<span style=\"\">வெளியீடு</span> :-",
+	"remove_element_dictionary_key6": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">{&#39;பிராண்ட்&#39;: &#39;ஃபோர்டு&#39;, &#39;ஆண்டு&#39;: 1964}</span>",
+	"remove_element_dictionary_key7": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">பானம்()</span> :-",
+	"remove_element_dictionary_key8": "<b>popitem()</b> முறை கடைசியாக செருகப்பட்ட உருப்படியை நீக்குகிறது:",
+	"remove_element_dictionary_key9": "<span style=\"\">வெளியீடு</span> :-",
+	"remove_element_dictionary_key10": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">{&#39;name&#39;:&#39;jack&#39;,&#39;id&#39;:22}</span>",
+	"remove_element_dictionary_key11": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">டெல்</span> :-",
+	"remove_element_dictionary_key12": "<b>டெல்</b> <span style=\"\">முக்கிய</span> வார்த்தையைப் பயன்படுத்தி அகராதியிலிருந்து ஒரு குறிப்பிட்ட உறுப்பை அகற்றலாம்.",
+	"remove_element_dictionary_key13": "<span style=\"\">வெளியீடு</span> :-",
+	"remove_element_dictionary_key14": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">{&#39;name&#39;:&#39;jack&#39;,&#39;id&#39;:22}</span>"
+}

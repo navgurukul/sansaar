@@ -1,0 +1,42 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "DataTypes_table_key1"
+  },
+  {
+    "component": "table",
+    "value": [
+      {
+        "header": "DataTypes_table_key2",
+        "items": [
+          "DataTypes_table_key3",
+          "DataTypes_table_key4",
+          "DataTypes_table_key5",
+          "DataTypes_table_key6",
+          "DataTypes_table_key7"
+        ]
+      },
+      {
+        "header": "DataTypes_table_key8",
+        "items": [
+          "DataTypes_table_key9",
+          "DataTypes_table_key10",
+          "DataTypes_table_key11",
+          "DataTypes_table_key12",
+          "DataTypes_table_key13"
+        ]
+      },
+      {
+        "header": "DataTypes_table_key14",
+        "items": [
+          "DataTypes_table_key15",
+          "DataTypes_table_key16",
+          "DataTypes_table_key17",
+          "DataTypes_table_key18",
+          "DataTypes_table_key19"
+        ]
+      }
+    ]
+  }
+]

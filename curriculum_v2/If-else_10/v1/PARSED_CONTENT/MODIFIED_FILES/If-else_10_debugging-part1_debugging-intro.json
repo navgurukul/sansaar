@@ -1,0 +1,88 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "debugging-part1_debugging-intro_key1"
+  },
+  {
+    "component": "image",
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/course_images_v2/If-else_10/assets/debugging-intro.jpg",
+    "alt": "debugging-part1_debugging-intro_key2"
+  },
+  {
+    "component": "text",
+    "value": "debugging-part1_debugging-intro_key3"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "debugging-part1_debugging-intro_key4"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "&emsp;number1 = 234<br>&emsp;print(numer1)"
+  },
+  {
+    "component": "text",
+    "value": "debugging-part1_debugging-intro_key5"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "debugging-part1_debugging-intro_key6"
+  },
+  {
+    "component": "text",
+    "value": "debugging-part1_debugging-intro_key7"
+  },
+  {
+    "component": "text",
+    "value": "debugging-part1_debugging-intro_key8"
+  },
+  {
+    "component": "text",
+    "value": "debugging-part1_debugging-intro_key9"
+  },
+  {
+    "component": "text",
+    "value": "debugging-part1_debugging-intro_key10"
+  },
+  {
+    "component": "text",
+    "value": "debugging-part1_debugging-intro_key11"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "debugging-part1_debugging-intro_key12"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "number1 = 234<br>number2 = \"1\"<br>print(number1 + number2)"
+  },
+  {
+    "component": "text",
+    "value": "debugging-part1_debugging-intro_key13"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "debugging-part1_debugging-intro_key14"
+  },
+  {
+    "component": "text",
+    "value": "debugging-part1_debugging-intro_key15"
+  },
+  {
+    "component": "text",
+    "value": "debugging-part1_debugging-intro_key16"
+  },
+  {
+    "component": "text",
+    "value": "debugging-part1_debugging-intro_key17"
+  }
+]

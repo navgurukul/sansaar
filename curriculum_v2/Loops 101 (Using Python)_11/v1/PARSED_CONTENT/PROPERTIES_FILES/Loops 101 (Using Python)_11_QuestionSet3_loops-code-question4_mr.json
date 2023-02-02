@@ -1,0 +1,8 @@
+{
+	"QuestionSet3_loops-code-question4_key1": "उदाहरण ४",
+	"QuestionSet3_loops-code-question4_key2": "एक <span style=\"\">code</span> लिहा जे MzAgdG8gNDIw मधील संख्यांची बेरीज <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\"></span> जे <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">multiples of 8</span> म्हणजे त्या संख्या <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">8</span> च्या <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">table</span> मध्ये येतात.",
+	"QuestionSet3_loops-code-question4_key3": "<span style=\"\">कार्यक्रम</span> :-",
+	"QuestionSet3_loops-code-question4_key4": "मी श्रेणीतील (३०,४२०):<br> जर(i%8==0):<br> प्रिंट(i)",
+	"QuestionSet3_loops-code-question4_key5": "<span style=\"\">Output</span> : -",
+	"QuestionSet3_loops-code-question4_key6": "32<br> 40<br> ४८<br> ५६<br> ६४<br> ७२<br> 80<br> ८८<br> ९६<br> 104<br> 112<br> 120<br> 128<br> 136<br> 144<br> १५२<br> 160<br> 168<br> १७६<br> 184<br> १९२<br> 200<br> 208<br> 216<br> 224<br> 232<br> 240<br> २४८<br> २५६<br> २६४<br> २७२<br> 280<br> 288<br> 296<br> 304<br> 312<br> 320<br> 328<br> ३३६<br> ३४४<br> 352<br> 360<br> ३६८<br> ३७६<br> ३८४<br> ३९२<br> 400<br> 408<br> ४१६<br>"
+}

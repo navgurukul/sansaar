@@ -1,0 +1,25 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "if-statement-flowcharts_if-flowchart-question4_key1"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-flowcharts_if-flowchart-question4_key2"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-flowcharts_if-flowchart-question4_key3"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "if-statement-flowcharts_if-flowchart-question4_key4"
+  },
+  {
+    "component": "image",
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/course_images_v2/If-else_10/assets/question_images/question4-image1.png",
+    "alt": "if-statement-flowcharts_if-flowchart-question4_key5"
+  }
+]

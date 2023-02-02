@@ -1,0 +1,12 @@
+[
+  {
+    "value": "How to share the project_key1",
+    "component": "header",
+    "variant": 2
+  },
+  {
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/0317bae2-fa90-4eb9-b0c3-1b6517be78b6-image3.png",
+    "component": "image",
+    "alt": "How to share the project_key2"
+  }
+]

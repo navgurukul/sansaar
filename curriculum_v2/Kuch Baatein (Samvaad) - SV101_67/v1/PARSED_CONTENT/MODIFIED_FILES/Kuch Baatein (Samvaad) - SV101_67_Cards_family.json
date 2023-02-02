@@ -1,0 +1,39 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "Cards_family_key1"
+  },
+  {
+    "component": "text",
+    "value": "Cards_family_key2",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "Cards_family_key3",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "Cards_family_key4",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "youtube",
+    "value": "R49zGknt7EE"
+  },
+  {
+    "component": "youtube",
+    "value": "2S9Q_hrpS3I"
+  }
+]

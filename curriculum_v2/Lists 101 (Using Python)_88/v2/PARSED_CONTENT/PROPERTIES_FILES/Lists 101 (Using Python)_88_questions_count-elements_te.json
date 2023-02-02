@@ -1,0 +1,7 @@
+{
+	"questions_count-elements_key1": "ఉదాహరణ 1<br><br> మూలకాలను లెక్కించండి",
+	"questions_count-elements_key2": "ఇచ్చిన జాబితాలో ఎన్ని అంశాలు ఉన్నాయో తెలిపే ప్రోగ్రామ్‌ను వ్రాయండి. ఇది <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">len() ఫంక్షన్‌ని</span> పోలి ఉంటుంది, కాబట్టి ఈ ప్రోగ్రామ్‌ను అమలు చేయడానికి మేము <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">len() ఫంక్షన్‌ని</span> ఉపయోగించము, అయితే ఏ ప్రోగ్రామర్ ఈ <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">len()</span> ఫంక్షన్‌ని ఎలా అమలు చేసారో అర్థం చేసుకోవడానికి ప్రయత్నిస్తాము.",
+	"questions_count-elements_key3": "అవుట్‌పుట్:-",
+	"questions_count-elements_key4": "జాబితాలోని మూలకాల సంఖ్య: 9",
+	"questions_count-elements_key5": "ఈ <span style=\"\">కోడ్ వ్రాసిన తర్వాత, ఈ కోడ్‌ని</span> <span style=\"\">అప్‌లోడ్</span> <span style=\"\">చేయండి</span> :)"
+}

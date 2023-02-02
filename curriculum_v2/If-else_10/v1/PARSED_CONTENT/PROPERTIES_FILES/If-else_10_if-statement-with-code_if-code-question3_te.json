@@ -1,0 +1,11 @@
+{
+	"if-statement-with-code_if-code-question3_key1": "ఉదాహరణ 3 :-",
+	"if-statement-with-code_if-code-question3_key2": "మీరు చూపిన విధంగా విలువతో <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">నంబర్</span> అనే <span style=\"\">వేరియబుల్‌ని</span> కలిగి ఉన్నారు:",
+	"if-statement-with-code_if-code-question3_key3": "ఫ్లోచార్ట్‌ను సృష్టించండి మరియు వినియోగదారు నుండి ఒక సంఖ్యను <span style=\"\">ఇన్‌పుట్‌గా</span> తీసుకునే ప్రోగ్రామ్‌ను కూడా వ్రాయండి. ఈ సంఖ్య <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">సంఖ్య</span> కంటే ఎక్కువ లేదా సమానంగా ఉందా అని తనిఖీ చేయండి.",
+	"if-statement-with-code_if-code-question3_key4": "నమోదు చేసిన సంఖ్య <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">సంఖ్య</span> కంటే ఎక్కువ లేదా సమానంగా ఉంటే , <b>&quot;కంటే ఎక్కువ లేదా సమానం&quot;</b> లేకపోతే <b>&quot;తక్కువ&quot;</b> అని ముద్రించండి.",
+	"if-statement-with-code_if-code-question3_key5": "ఫ్లోచార్ట్:-",
+	"if-statement-with-code_if-code-question3_key6": "ప్రశ్న1-ఉదాహరణ3",
+	"if-statement-with-code_if-code-question3_key7": "<span style=\"\">కార్యక్రమం</span> :-",
+	"if-statement-with-code_if-code-question3_key8": "<span style=\"\">అవుట్‌పుట్</span> :-",
+	"if-statement-with-code_if-code-question3_key9": "సంఖ్యను నమోదు చేయండి:<br> 300<br> తక్కువ"
+}

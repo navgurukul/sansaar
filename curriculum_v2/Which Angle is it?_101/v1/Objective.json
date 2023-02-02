@@ -1,0 +1,16 @@
+[
+	{
+		"value": "Objective",
+		"component": "header",
+		"variant": 2
+	},
+	{
+		"value": "We will make an application to identify the type of a given angle.<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/659361e3-6bac-4321-b0bd-8e68f8dfc43d-image.png",
+		"component": "image",
+		"alt": "Objective_key4"
+	}
+]

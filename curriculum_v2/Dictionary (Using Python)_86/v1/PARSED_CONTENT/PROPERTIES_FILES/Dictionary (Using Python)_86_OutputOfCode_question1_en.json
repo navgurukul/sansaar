@@ -1,0 +1,12 @@
+{
+	"OutputOfCode_question1_key1": "Example 1",
+	"OutputOfCode_question1_key2": "What will be the <span style=\"\">output</span> of the following <span style=\"\">code</span> snippet?",
+	"OutputOfCode_question1_key3": "<span style=\"\">Program</span> :-",
+	"OutputOfCode_question1_key4": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Options :-</span>",
+	"OutputOfCode_question1_key5": "A.     <span style=\"\">Key</span> <span style=\"\">Error</span>",
+	"OutputOfCode_question1_key6": "B.     1",
+	"OutputOfCode_question1_key7": "C.     {(2,3):2}",
+	"OutputOfCode_question1_key8": "D.     {(1,2):1}",
+	"OutputOfCode_question1_key9": "Output:-",
+	"OutputOfCode_question1_key10": "B.1"
+}

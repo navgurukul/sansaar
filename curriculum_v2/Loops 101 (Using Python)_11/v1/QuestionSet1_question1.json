@@ -1,0 +1,37 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Example 2"
+	},
+	{
+		"component": "text",
+		"value": "Write a program that prints all those numbers from 1 to 100  which are divisible by 7."
+	},
+	{
+		"component": "text",
+		"value": "The <span style=\"\">output</span> should come as follows :-"
+	},
+	{
+		"component": "text",
+		"value": "7<br>14<br>21<br>28<br>35<br>42<br>49<br>56<br>63<br>70<br>77<br>84<br>91<br>98"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Program</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "i=1<br>While i<=100:<br>&emsp;if(i%7==0):<br>&emsp;&emsp;print(i)<br>&emsp;i+=1"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "7<br>14<br>21<br>28<br>35<br>42<br>49<br>56<br>63<br>70<br>77<br>84<br>91<br>98"
+	}
+]

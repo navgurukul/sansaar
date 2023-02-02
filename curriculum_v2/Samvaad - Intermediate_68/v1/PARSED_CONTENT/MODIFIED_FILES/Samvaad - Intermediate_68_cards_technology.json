@@ -1,0 +1,34 @@
+[
+  {
+    "component": "text",
+    "value": "cards_technology_key1",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "cards_technology_key2",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "cards_technology_key3",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "cards_technology_key4",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "functions-question1_key1"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "functions-question1_key2"
+  },
+  {
+    "component": "text",
+    "value": "functions-question1_key3"
+  },
+  {
+    "component": "text",
+    "value": "functions-question1_key4"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "functions-question1_key5"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def ask_question():<br>&emsp;print(\"once\")<br>#calling function 5 times to print once<br>ask_question()<br>ask_question()<br>ask_question()<br>ask_question()<br>ask_question()"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "functions-question1_key6"
+  },
+  {
+    "component": "text",
+    "value": "functions-question1_key7"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "functions-question1_key8"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "#defining function with name ask_question<br>def ask_question():<br>&emsp;print(\"once\")<br>#calling function 100 times to print once<br>i=1<br>#Using while loop we are calling function 100 times<br>while(i<=100):<br>&emsp;ask_question()<br>&emsp;i+=1"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "functions-question1_key9"
+  },
+  {
+    "component": "text",
+    "value": "functions-question1_key10"
+  },
+  {
+    "component": "text",
+    "value": "functions-question1_key11"
+  },
+  {
+    "component": "text",
+    "value": "functions-question1_key12"
+  }
+]

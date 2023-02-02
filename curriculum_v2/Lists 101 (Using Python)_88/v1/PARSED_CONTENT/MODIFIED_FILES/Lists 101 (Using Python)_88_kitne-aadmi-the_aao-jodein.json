@@ -1,0 +1,26 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "kitne-aadmi-the_aao-jodein_key1"
+  },
+  {
+    "component": "text",
+    "value": "kitne-aadmi-the_aao-jodein_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "elements = [23, 14, 56, 12, 19, 9, 15, 25, 31, 42, 43]<br># printing original list<br>print(\"The original list is : \" + str(elements))<br><br>odd_sum = 0<br>even_sum = 0<br><br>for sub in elements:<br>&emsp;for item in str(sub):<br><br>&emsp;&emsp;# adding in particular summation according to value<br>&emsp;&emsp;if int(item) % 2 == 0:<br>&emsp;&emsp;&emsp;even_sum += int(item)<br>&emsp;&emsp;else:<br>&emsp;&emsp;&emsp;odd_sum += int(item)<br><br># printing result<br>print(\"Odd digit sum : \" + str(odd_sum))<br>print(\"Even digit sum : \" + str(even_sum))"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "kitne-aadmi-the_aao-jodein_key3"
+  },
+  {
+    "component": "text",
+    "value": "kitne-aadmi-the_aao-jodein_key4"
+  }
+]

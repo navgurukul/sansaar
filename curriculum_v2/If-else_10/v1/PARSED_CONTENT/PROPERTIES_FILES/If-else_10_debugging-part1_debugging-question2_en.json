@@ -1,0 +1,10 @@
+{
+	"debugging-part1_debugging-question2_key1": "Example 2 :-",
+	"debugging-part1_debugging-question2_key2": "<span style=\"\">Bug</span> :-",
+	"debugging-part1_debugging-question2_key3": "<span style=\"\">Output</span> :-",
+	"debugging-part1_debugging-question2_key4": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">NameError:</span> name 'name' is not defined",
+	"debugging-part1_debugging-question2_key5": "Corrected code is given below.",
+	"debugging-part1_debugging-question2_key6": "<span style=\"\">Debug</span> :-",
+	"debugging-part1_debugging-question2_key7": "<span style=\"\">Output</span> :-",
+	"debugging-part1_debugging-question2_key8": "NavGurukul, 2016 mein start hua tha!"
+}

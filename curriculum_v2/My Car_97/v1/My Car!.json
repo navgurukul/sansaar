@@ -1,0 +1,16 @@
+[
+	{
+		"value": "My Car",
+		"component": "header",
+		"variant": 2
+	},
+	{
+		"value": "Throughout this course, we will make a car move with wheels rolling on the road.<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/724f7e5f-b59f-4cbb-8ed2-833848d1008f-image13.png",
+		"component": "image",
+		"alt": ""
+	}
+]

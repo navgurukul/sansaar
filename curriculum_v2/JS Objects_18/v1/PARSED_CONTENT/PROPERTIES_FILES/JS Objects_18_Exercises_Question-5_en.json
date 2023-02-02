@@ -1,0 +1,7 @@
+{
+	"Exercises_Question-5_key1": "Write a program to take 1 <span style=\"\">input</span> and check whether given <span style=\"\">input</span> exists in our object or not, if it exists print exists or else prints not exist.",
+	"Exercises_Question-5_key2": "Example :",
+	"Exercises_Question-5_key3": "dict={“name”:”Raju”, “marks”:56}",
+	"Exercises_Question-5_key4": "if <span style=\"\">input</span> is “name” then <span style=\"\">output</span> will be “exist”",
+	"Exercises_Question-5_key5": "If <span style=\"\">input</span> is “class” then <span style=\"\">output</span> will be “not exists”."
+}

@@ -1,0 +1,73 @@
+[
+	{
+		"value": "Abstraction: (Teacher Models)",
+		"component": "header",
+		"variant": 2
+	},
+	{
+		"value": "Let’s do abstraction to understand the project and make it simple<br>",
+		"component": "text"
+	},
+	{
+		"value": "What will happen on the stage?",
+		"component": "header",
+		"variant": 3
+	},
+	{
+		"value": "The user will enter their name.",
+		"component": "text",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"value": "The application will ask the user a question.",
+		"component": "text",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"value": "The user will enter the answer.. The application will check the answer input by the user. If the answer is correct, the application will tell that the answer is correct, increase the score by 1 and show the next question. If the answer is wrong then the application will tell that the answer is wrong, decrease the score by 1 and show the next question.",
+		"component": "text",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"value": "The application will store the score of the user at the end of the quiz.",
+		"component": "text",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"value": "What sprite and backdrop will be needed on the stage?",
+		"component": "header",
+		"variant": 3
+	},
+	{
+		"value": "Pappu sprite<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/bc3c5991-ef7e-4186-a43a-079f565cb12f-image4.png",
+		"component": "image",
+		"alt": ""
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/fbc7fbd7-21e8-42a1-bd40-9a23bd242650-image2.png",
+		"component": "image",
+		"alt": ""
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/dfd8625b-aa51-40d5-9dcc-51b01b197be9-image5.png",
+		"component": "image",
+		"alt": ""
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/8042335d-313e-495a-965d-45fd13875b85-image3.png",
+		"component": "image",
+		"alt": ""
+	}
+]

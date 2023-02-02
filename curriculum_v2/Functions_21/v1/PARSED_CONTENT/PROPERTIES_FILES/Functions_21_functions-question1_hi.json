@@ -1,0 +1,14 @@
+{
+	"functions-question1_key1": "कार्यों",
+	"functions-question1_key2": "उदाहरण 1 :-",
+	"functions-question1_key3": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">ask_question</span> नाम का एक फंक्शन लिखें जो \"once\" टेक्स्ट को प्रिंट करेगा।",
+	"functions-question1_key4": "इस प्रश्न को हम दो विधियों से हल कर सकते हैं -",
+	"functions-question1_key5": "<span style=\"\">मैं) कार्यक्रम</span> : -",
+	"functions-question1_key6": "<span style=\"\">Output</span> :-",
+	"functions-question1_key7": "एक बार<br> एक बार<br> एक बार<br> एक बार<br> एक बार",
+	"functions-question1_key8": "<span style=\"\">ii) कार्यक्रम</span> : -",
+	"functions-question1_key9": "<span style=\"\">Output</span> :-",
+	"functions-question1_key10": "एक बार<br> एक बार<br> एक बार<br> एक बार<br> .<br> .<br> .<br> एक बार<br> एक बार",
+	"functions-question1_key11": "(नोट:- एक बार 100 बार प्रिंट होगा)",
+	"functions-question1_key12": "फिर इस फ़ंक्शन को 100 बार कॉल करने के लिए, while <span style=\"\">loop</span> <span style=\"\"></span> का कोड लिखे।"
+}

@@ -1,0 +1,6 @@
+{
+	"Event Broadcasting_key1": "घटना प्रसारण",
+	"Event Broadcasting_key2": "यह एक घटना है जहां अन्य चीजों को घटित करने के लिए प्रेत या पृष्ठभूमि से निर्देश प्रेषित किए जाते हैं। <br><span style=\"font-size:13.999999999999998pt;font-family:Lato,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\"></span>",
+	"Event Broadcasting_key3": "<span style=\"font-size:13.999999999999998pt;font-family:Lato,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">प्रेषित निर्देश एक स्प्राइट द्वारा भी प्राप्त किए जा सकते हैं और समानांतर में सभी स्प्राइट/बैकड्रॉप द्वारा भी प्राप्त किए जा सकते हैं।</span>",
+	"Event Broadcasting_key4": "जब निर्देश समानांतर में एक से अधिक स्प्राइट द्वारा प्राप्त किया जाता है, तो यह समानांतरता की ओर ले जाता है। समानता एक ही समय में कई चीजें घटित होती हैं।<br>"
+}

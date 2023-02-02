@@ -1,0 +1,39 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "list_character-picture-grid_key1"
+  },
+  {
+    "component": "text",
+    "value": "list_character-picture-grid_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "grid = [['.', '.', '.', '.', '.', '.'],<br>&emsp;&emsp;['.', 'O', 'O', '.', '.', '.'],<br>&emsp;&emsp;['O', 'O', 'O', 'O', '.', '.'],<br>&emsp;&emsp;['O', 'O', 'O', 'O', 'O', '.'],<br>&emsp;&emsp;['.', 'O', 'O', 'O', 'O', 'O'],<br>&emsp;&emsp;['O', 'O', 'O', 'O', 'O', '.'],<br>&emsp;&emsp;['O', 'O', 'O', 'O', '.', '.'],<br>&emsp;&emsp;['.', 'O', 'O', '.', '.', '.'],<br>&emsp;&emsp;['.', '.', '.', '.', '.', '.']]"
+  },
+  {
+    "component": "text",
+    "value": "list_character-picture-grid_key3"
+  },
+  {
+    "component": "text",
+    "value": "list_character-picture-grid_key4"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "..OO.OO..<br>.OOOOOOO.<br>.OOOOOOO.<br>..OOOOO..<br>...OOO...<br>....O...."
+  },
+  {
+    "component": "text",
+    "value": "list_character-picture-grid_key5"
+  },
+  {
+    "component": "text",
+    "value": "list_character-picture-grid_key6"
+  }
+]

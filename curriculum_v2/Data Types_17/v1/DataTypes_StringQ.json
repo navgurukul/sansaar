@@ -1,0 +1,105 @@
+[
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Note :"
+	},
+	{
+		"component": "text",
+		"value": "Please read about <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">String Concatenation</span>."
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Example-1"
+	},
+	{
+		"component": "text",
+		"value": "You have to take two inputs from the user whose data type is <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">STRING</span>.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Then in variable by name <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">add</span>, store the sum of both the user inputs.",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "Print the variable <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">add</span>.",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Program</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "a=input(\"enter first value=\")<br>b=input(\"enter second value=\")<br>add=a+b<br>print(add)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "If user enter a = hii and b = sam ,  then output should be hiisam."
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Example-2"
+	},
+	{
+		"component": "text",
+		"value": "Take one <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">INTEGER</span> type input and one <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">STRING</span> type input from the user.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Then in variable by name <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">add</span>, store the sum of both the user inputs.",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "Print the variable <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">add</span>.",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Program -</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "a=int(input(\"enter first value=\"))<br>b=input(\"enter second value=\")<br>add=a+b<br>print(add)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "TypeError: can only concatenate str (not 'int') to str"
+	}
+]

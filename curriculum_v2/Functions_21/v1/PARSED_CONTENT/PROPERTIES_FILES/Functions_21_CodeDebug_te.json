@@ -1,0 +1,12 @@
+{
+	"CodeDebug_key1": "<span style=\"\">కోడ్‌లో బగ్‌ని కనుగొనడం</span>",
+	"CodeDebug_key2": "<span style=\"\">ఉదాహరణ 1</span> :-",
+	"CodeDebug_key3": "<span style=\"\">అవుట్‌పుట్</span> :-",
+	"CodeDebug_key4": "టైప్‌లో లోపం: గ్రీట్() 1 పొజిషనల్ ఆర్గ్యుమెంట్ తీసుకుంటుంది కానీ 4 ఇవ్వబడ్డాయి",
+	"CodeDebug_key5": "<span style=\"\">ఉదాహరణ 2</span> :-",
+	"CodeDebug_key6": "<span style=\"\">అవుట్‌పుట్</span> :-",
+	"CodeDebug_key7": "TypeError: info() 1 తప్పిపోయింది స్థాన వాదన అవసరం: 'వయస్సు'",
+	"CodeDebug_key8": "<span style=\"\">ఉదాహరణ 3</span> :-",
+	"CodeDebug_key9": "<span style=\"\">అవుట్‌పుట్</span> :-",
+	"CodeDebug_key10": "టైప్‌లో లోపం: స్టూడెంట్‌డిటెయిల్స్() 1 అవసరం లేదు పొజిషనల్ ఆర్గ్యుమెంట్: 'మెంటర్ నేమ్'"
+}

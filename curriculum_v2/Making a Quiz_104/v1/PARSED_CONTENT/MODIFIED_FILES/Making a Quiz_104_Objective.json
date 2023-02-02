@@ -1,0 +1,16 @@
+[
+  {
+    "value": "Objective_key1",
+    "component": "header",
+    "variant": 2
+  },
+  {
+    "value": "Objective_key2",
+    "component": "text"
+  },
+  {
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/44ec660d-c62f-4843-af11-7d8e84b612a0-image.png",
+    "component": "image",
+    "alt": "Objective_key3"
+  }
+]

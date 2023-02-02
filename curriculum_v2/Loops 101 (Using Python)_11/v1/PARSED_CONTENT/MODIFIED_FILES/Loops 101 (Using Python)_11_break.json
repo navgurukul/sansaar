@@ -1,0 +1,26 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "break_key1"
+  },
+  {
+    "component": "text",
+    "value": "break_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "index = 0;  <br>while 1:  <br>&emsp;print(index,\" \",end = \"\")  <br>&emsp;index=index+1;  <br>&emsp;if index == 10:  <br>&emsp;&emsp;break;  <br>print(\"Found at\",index,\"location\")"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "break_key3"
+  },
+  {
+    "component": "text",
+    "value": "break_key4"
+  }
+]

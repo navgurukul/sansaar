@@ -1,0 +1,15 @@
+{
+	"Abstraction: (Teacher Models)_key1": "Abstraction: (Teacher Models)",
+	"Abstraction: (Teacher Models)_key2": "Let’s do abstraction to understand the project and make it simple<br>",
+	"Abstraction: (Teacher Models)_key3": "What will happen on the stage?",
+	"Abstraction: (Teacher Models)_key4": "The user will enter their name.",
+	"Abstraction: (Teacher Models)_key5": "The application will ask the user a question.",
+	"Abstraction: (Teacher Models)_key6": "The user will enter the answer.. The application will check the answer input by the user. If the answer is correct, the application will tell that the answer is correct, increase the score by 1 and show the next question. If the answer is wrong then the application will tell that the answer is wrong, decrease the score by 1 and show the next question.",
+	"Abstraction: (Teacher Models)_key7": "The application will store the score of the user at the end of the quiz.",
+	"Abstraction: (Teacher Models)_key8": "What sprite and backdrop will be needed on the stage?",
+	"Abstraction: (Teacher Models)_key9": "Pappu sprite<br>",
+	"Abstraction: (Teacher Models)_key10": "",
+	"Abstraction: (Teacher Models)_key11": "",
+	"Abstraction: (Teacher Models)_key12": "",
+	"Abstraction: (Teacher Models)_key13": ""
+}

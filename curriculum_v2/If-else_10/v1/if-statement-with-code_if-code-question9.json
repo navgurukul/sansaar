@@ -1,0 +1,97 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Example 9 :-"
+	},
+	{
+		"component": "text",
+		"value": "Consider the following rules:"
+	},
+	{
+		"component": "text",
+		"value": "People <b>5 years and above</b> in age can go to school.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "People <b>18 years and above</b> in age can vote in elections.",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "People <b>21 years and above</b> in age can drive a car.",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "People <b>24 years and above</b> in age can marry.",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "People <b>25 years and above</b> in age can legally drink.",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	},
+	{
+		"component": "text",
+		"value": "Create a flowchart that takes the <b>age</b> of the user as <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">input</span>. Print what all activities the user can do from the list above. For example, if user enters age as <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">20</span>, the <span style=\"\">code</span> should print:"
+	},
+	{
+		"component": "text",
+		"value": "You can go to school<br>You can vote in elections"
+	},
+	{
+		"component": "text",
+		"value": "If user enters age as <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">24</span>, the <span style=\"\">code</span> will print:-"
+	},
+	{
+		"component": "text",
+		"value": "You can go to school<br>You can vote in elections<br>You can drive a car<br>You can marry"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Flowchart -"
+	},
+	{
+		"component": "image",
+		"value": "assets/question9-image1.png",
+		"alt": "question 14 png"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Program</span> :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "age = int(input(\"enter the age of a person: \")) <br>if(age >= 5): <br>&emsp;&emsp;print(\"can go to school\") <br>if(age >= 18 ): <br>&emsp;&emsp;print(\"can vote in elections\") <br>if(age >= 21): <br>&emsp;&emsp;print(\"can drive a car\") <br>if(age>=24): <br>&emsp;&emsp;print(\"can marry\") <br>if(age>=25): <br>&emsp;&emsp;print(\"can drink legally\")"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "enter the age of a person: <br>25 <br>can go to school <br>can vote in elections <br>can drive a car <br>can marry <br>can drink legally"
+	}
+]

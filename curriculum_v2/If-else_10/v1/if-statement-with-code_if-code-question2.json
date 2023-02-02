@@ -1,0 +1,49 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Example 2 :-"
+	},
+	{
+		"component": "text",
+		"value": "You have a <span style=\"\">variable</span> called <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">varx</span> with the value as shown:-"
+	},
+	{
+		"component": "text",
+		"value": "Create a flowchart and also write the program to take a number as <span style=\"\">input</span> from the user. Convert this <span style=\"\">input</span> to <span style=\"\">integer</span>. Check if it is equal to <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">varx</span>. "
+	},
+	{
+		"component": "text",
+		"value": "If the number is equal to <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">varx</span>, print <b>\"Equal\"</b> else print <b>\"Not equal\"</b>."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Flowchart :-"
+	},
+	{
+		"component": "image",
+		"value": "assets/question1-example2.png",
+		"alt": "question1-example3"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Program</span> :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "varx = 300 - 123 <br>number = int(input(\"enter a number: \")) <br>if(number == varx): <br>&emsp;&emsp;print(\"equal\") <br>else: <br>&emsp;&emsp;print(\"not equal\")"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "enter a number: <br>200 <br>Not equal"
+	}
+]

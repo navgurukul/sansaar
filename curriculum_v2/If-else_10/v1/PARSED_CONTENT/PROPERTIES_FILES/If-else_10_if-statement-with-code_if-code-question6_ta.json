@@ -1,0 +1,12 @@
+{
+	"if-statement-with-code_if-code-question6_key1": "எடுத்துக்காட்டு 6 :-",
+	"if-statement-with-code_if-code-question6_key2": "இந்தக் கேள்விக்கான பாய்வு விளக்கப்படத்தை வரைந்து நிரலை எழுதவும்.",
+	"if-statement-with-code_if-code-question6_key3": "மாறிகள் <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">varx</span> இல் பயனரிடமிருந்து இரண்டு எண்களை உள்ளீடாக எடுத்து <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">மாறுபடவும்</span> .",
+	"if-statement-with-code_if-code-question6_key4": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">varx மாறுபாட்டால்</span> வகுக்கப்படுகிறதா <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">என்பதைச்</span> சரிபார்க்கவும்.",
+	"if-statement-with-code_if-code-question6_key5": "ஆம் எனில், வகுபடக்கூடியதை அச்சிடவும் <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">இல்லையெனில் வகுபடவில்லை என்பதை அச்சிடவும்</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">.</span>",
+	"if-statement-with-code_if-code-question6_key6": "பாய்வு விளக்கப்படம்:-",
+	"if-statement-with-code_if-code-question6_key7": "கேள்வி 10 png",
+	"if-statement-with-code_if-code-question6_key8": "<span style=\"\">நிகழ்ச்சி</span> :-",
+	"if-statement-with-code_if-code-question6_key9": "<span style=\"\">வெளியீடு</span> :-",
+	"if-statement-with-code_if-code-question6_key10": "எண் 1 ஐ உள்ளிடவும்:<br> 24<br> எண் 2 ஐ உள்ளிடவும்:<br> 12<br> வகுபடக்கூடியது"
+}

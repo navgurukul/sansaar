@@ -1,0 +1,10 @@
+{
+	"QuestionSet2_question4_key1": "ఉదాహరణ 5",
+	"QuestionSet2_question4_key2": "1 నుండి 10 వరకు సంఖ్యలను ముద్రించడానికి ప్రోగ్రామ్‌ను రూపొందించండి. <span style=\"\">లూప్</span> కౌంటర్ <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">156</span> నుండి ప్రారంభం కావాలి.",
+	"QuestionSet2_question4_key3": "మీ <span style=\"\">అవుట్‌పుట్</span> క్రింది విధంగా ఉండాలి.",
+	"QuestionSet2_question4_key4": "1<br> 2<br> 3<br> 4<br> 5<br> 6<br> 7<br> 8<br> 9<br> 10",
+	"QuestionSet2_question4_key5": "<span style=\"\">కార్యక్రమం</span> :-",
+	"QuestionSet2_question4_key6": "c=156<br> i=1<br> అయితే c&lt;166:<br> ప్రింట్ (i)<br> i+=1<br> c+=1",
+	"QuestionSet2_question4_key7": "<span style=\"\">అవుట్‌పుట్</span> :-",
+	"QuestionSet2_question4_key8": "1<br> 2<br> 3<br> 4<br> 5<br> 6<br> 7<br> 8<br> 9<br> 10"
+}

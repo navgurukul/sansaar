@@ -1,0 +1,21 @@
+{
+	"variables_variables-question_key1": "వేరియబుల్ ఉదాహరణ",
+	"variables_variables-question_key2": "<i>ఏదైనా ప్రశ్నకు సమాధానం ఇవ్వడానికి మీరు <span style=\"\">ఫైల్‌ను</span> <span style=\"\">అప్‌లోడ్</span> చేయవచ్చు.</i>",
+	"variables_variables-question_key3": "<i><span style=\"\">పైథాన్</span> <span style=\"\">ఫైల్</span> పొడిగింపు <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">.py</span> అని గుర్తుంచుకోండి.</i>",
+	"variables_variables-question_key4": "<b>మీ సౌలభ్యం కోసం మేము ఈ ప్రశ్నను అనేక భాగాలుగా విభజించాము. కానీ మీరు సమర్పణను సింగిల్ <span style=\"\">ఫైల్‌లో</span> మాత్రమే చేయాలి.</b>",
+	"variables_variables-question_key5": "ఉదాహరణ భాగం 1",
+	"variables_variables-question_key6": "variable_nav అనే <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">వేరియబుల్‌కు</span> INTEGER విలువను కేటాయించండి.",
+	"variables_variables-question_key7": "ఆపై <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">వేరియబుల్_నవ్‌ని</span> ప్రింట్ చేయండి.",
+	"variables_variables-question_key8": "<span style=\"\">కార్యక్రమం</span> :-",
+	"variables_variables-question_key9": "వేరియబుల్_నవ్ = 50<br> ప్రింట్ (variable_nav)",
+	"variables_variables-question_key10": "<span style=\"\">అవుట్‌పుట్</span> :-",
+	"variables_variables-question_key11": "50",
+	"variables_variables-question_key12": "ఉదాహరణ భాగం 2",
+	"variables_variables-question_key13": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">గురుకులం</span> పేరుతో కొత్త వేరియబుల్‌ని తీసుకోండి మరియు దానికి ఏదైనా STRING విలువను కేటాయించండి.",
+	"variables_variables-question_key14": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">variable_nav</span> కి FLOAT విలువను కేటాయించి, దాన్ని సెట్ చేయండి.",
+	"variables_variables-question_key15": "ఇప్పుడు <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">variable_nav</span> మరియు <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">gurukul</span> విలువను ప్రింట్ చేయండి.",
+	"variables_variables-question_key16": "<span style=\"\">కార్యక్రమం</span> :-",
+	"variables_variables-question_key17": "గురుకులం = &quot;హాయ్&quot;<br> వేరియబుల్_నవ్ = 67.78<br> ప్రింట్ (గురుకులం)<br> ప్రింట్ (variable_nav)",
+	"variables_variables-question_key18": "<span style=\"\">అవుట్‌పుట్</span> :-",
+	"variables_variables-question_key19": "ఇది<br> 67.78గా ఉంది"
+}

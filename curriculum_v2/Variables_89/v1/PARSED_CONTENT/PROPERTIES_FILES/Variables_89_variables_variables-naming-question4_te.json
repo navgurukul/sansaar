@@ -1,0 +1,13 @@
+{
+	"variables_variables-naming-question4_key1": "వేరియబుల్స్ పేరు ఉదాహరణ-4",
+	"variables_variables-naming-question4_key2": "ఉదాహరణ",
+	"variables_variables-naming-question4_key3": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Varx</span> అనే వేరియబుల్‌కు <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">STRING</span> విలువను కేటాయించండి.",
+	"variables_variables-naming-question4_key4": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">vaRx</span> అనే వేరియబుల్‌కు <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">FLOAT</span> విలువను కేటాయించండి.",
+	"variables_variables-naming-question4_key5": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Varx</span> మరియు <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">vaRx ఒకేలా</span> ఉన్నాయో లేదో చూడటానికి దాన్ని <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">ప్రింట్</span> చేయడానికి ప్రయత్నించండి. కాకపోతే, మీ ఫైల్‌లోని వ్యాఖ్యలో మీ కారణాన్ని వ్రాయండి.",
+	"variables_variables-naming-question4_key6": "<span style=\"\">కార్యక్రమం</span> :-",
+	"variables_variables-naming-question4_key7": "వర్క్స్ = &quot;హాయ్&quot;<br> vaRx = 56.76<br> ప్రింట్ (వర్క్స్)<br> ప్రింట్ (vaRx)",
+	"variables_variables-naming-question4_key8": "<span style=\"\">అవుట్‌పుట్</span> :-",
+	"variables_variables-naming-question4_key9": "హాయ్<br> 56.76",
+	"variables_variables-naming-question4_key10": "<span style=\"\">వివరణ</span> :-",
+	"variables_variables-naming-question4_key11": "Varx మరియు vaRx ఒకేలా ఉండవు ఎందుకంటే వాటిలోని అక్షరాలు వేర్వేరు కేస్‌లను కలిగి ఉంటాయి."
+}

@@ -1,0 +1,16 @@
+[
+	{
+		"value": "Try it out!",
+		"component": "header",
+		"variant": 2
+	},
+	{
+		"value": "How do you think the code shown in the image will run?<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/f8a48ed2-5ce6-450e-a02c-d7312e6974ef-image3.png",
+		"component": "image",
+		"alt": ""
+	}
+]

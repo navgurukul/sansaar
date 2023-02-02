@@ -1,0 +1,29 @@
+[
+	{
+		"value": "E-Catalogue: (Teacher Models)",
+		"component": "header",
+		"variant": 2
+	},
+	{
+		"value": "Let’s write codes for the sprites<br>",
+		"component": "text"
+	},
+	{
+		"value": "Add button<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/9d382b32-ac82-45a9-8245-0af4a7d9ecf3-image9.png",
+		"component": "image",
+		"alt": ""
+	},
+	{
+		"value": "To add a book in the e-catalogue with name and serial number<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/5d0438d3-9f88-4c06-aa15-cdeb53f5a912-image11.png",
+		"component": "image",
+		"alt": ""
+	}
+]

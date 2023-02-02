@@ -1,0 +1,10 @@
+{
+	"Operators_key1": "Operators",
+	"Operators_key2": "Operators are a part of an expression and allow us to operate on values, i.e., operands. The expression returns a value.<br>",
+	"Operators_key3": "For example: 3 + 5 = 8<br>",
+	"Operators_key4": "There are four types of operators in our scope:<br>",
+	"Operators_key5": "Logic.&nbsp;",
+	"Operators_key6": "Comparative.",
+	"Operators_key7": "Arithmetic.",
+	"Operators_key8": "String"
+}

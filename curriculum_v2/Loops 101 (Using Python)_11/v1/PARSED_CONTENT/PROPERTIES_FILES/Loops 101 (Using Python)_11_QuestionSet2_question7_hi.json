@@ -1,0 +1,9 @@
+{
+	"QuestionSet2_question7_key1": "उदाहरण 8",
+	"QuestionSet2_question7_key2": "इस पैटर्न को प्रिंट करें।",
+	"QuestionSet2_question7_key3": "5 5 5 5 5<br> 4 4 4 4 4<br> 3 3 3 3 3<br> 2 2 2 2 2<br> 1 1 1 1 1 1",
+	"QuestionSet2_question7_key4": "<span style=\"\">कार्यक्रम</span> :-",
+	"QuestionSet2_question7_key5": "मैं = 5<br> जबकि (i&gt; 0):<br> जे = 1<br> जबकि (जे &lt;= 5):<br> प्रिंट (i, अंत = &quot;&quot;)<br> जे+=1<br> प्रिंट (&quot;&quot;)<br> मैं- = 1",
+	"QuestionSet2_question7_key6": "<span style=\"\">Output</span> :-",
+	"QuestionSet2_question7_key7": "5 5 5 5 5<br> 4 4 4 4 4<br> 3 3 3 3 3<br> 2 2 2 2 2<br> 1 1 1 1 1 1"
+}

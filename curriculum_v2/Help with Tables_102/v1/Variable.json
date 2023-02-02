@@ -1,0 +1,31 @@
+[
+	{
+		"value": "Variable",
+		"component": "header",
+		"variant": 2
+	},
+	{
+		"value": "Suppose, let’s take a table of 2. How variables are going to help us in making this application?<br>",
+		"component": "text"
+	},
+	{
+		"value": "                                          2 x 1 = 2",
+		"component": "header",
+		"variant": 3
+	},
+	{
+		"value": "                                          2 x 2 = 4",
+		"component": "header",
+		"variant": 3
+	},
+	{
+		"value": "                                          2 x 3 = 6",
+		"component": "header",
+		"variant": 3
+	},
+	{
+		"value": "                                Tab_i x i = (Tab_i) x i",
+		"component": "header",
+		"variant": 3
+	}
+]

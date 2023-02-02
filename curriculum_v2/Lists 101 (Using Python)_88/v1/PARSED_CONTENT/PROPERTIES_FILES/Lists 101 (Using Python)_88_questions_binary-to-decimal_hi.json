@@ -1,0 +1,16 @@
+{
+	"questions_binary-to-decimal_key1": "उदाहरण 7<br><br> दशमलव से बाइनरी",
+	"questions_binary-to-decimal_key2": "इस प्रोग्राम में यदि हमें कोई संख्या <b>बाइनरी रूप</b> में दी जाती है, तो हम उस संख्या को <b>दशमलव रूप</b> में बदलना सीखेंगे।",
+	"questions_binary-to-decimal_key3": "बायनरी",
+	"questions_binary-to-decimal_key4": "कृपया यह आरेख(diagram) देखें।",
+	"questions_binary-to-decimal_key5": "आउटपुट:-",
+	"questions_binary-to-decimal_key6": "एक बाइनरी नंबर इनपुट करें: 110011<br> संख्या का दशमलव मान 51 . है",
+	"questions_binary-to-decimal_key7": "इस नंबर को <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">decimal form</span> में बदलने के लिए:-",
+	"questions_binary-to-decimal_key8": "last element ko 2^0 yaani 1 se<br>second last element ko 2^1 yaani 2 se<br>third last element ko 2^2 yaani 4 se<br>fourth last element ko 2^3 yaani 8 se<br>…<br>…<br>multiply kar kar<br>add karna hai",
+	"questions_binary-to-decimal_key9": "उपरोक्त चरणों को करने के बाद, आपको उत्तर के रूप में <b>155 मिलेगा।</b>",
+	"questions_binary-to-decimal_key10": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Edge Case</span>",
+	"questions_binary-to-decimal_key11": "इस कार्यक्रम का <span style=\"\">आउटपुट</span> क्या होगा? यदि आपका प्रोग्राम <b>मजबूत</b> है तो यह अमान्य <span style=\"\">आउटपुट</span> देगा, अन्यथा यह एक <span style=\"\">त्रुटि</span> फेंक देगा।",
+	"questions_binary-to-decimal_key12": "यदि आपका program <b>मजबूत है</b> :",
+	"questions_binary-to-decimal_key13": "- तो यह अमान्य आउटपुट देगा, या<br> - यह &quot;1&quot; को 1 मानेगा और प्रश्न को हल करेगा।",
+	"questions_binary-to-decimal_key14": "लेकिन, अगर यह <b>मजबूत</b> नहीं होगा, तो यह code<span style=\"\">error</span> देगा।"
+}

@@ -1,0 +1,7 @@
+{
+	"DebugCode_question3_key1": "எடுத்துக்காட்டு 3",
+	"DebugCode_question3_key2": "கீழே ஒரு நிரல் உள்ளது, அதில் <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">விசைகள்</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">1 முதல் 15 வரை</span> இருக்கும் மற்றும் மதிப்புகள் <span style=\"\">விசைகளின்</span> சதுரங்கள் ஆகும்.",
+	"DebugCode_question3_key3": "நிகழ்ச்சி:-",
+	"DebugCode_question3_key4": "<span style=\"\">எதிர்பார்க்கப்படும் வெளியீடு</span> :-",
+	"DebugCode_question3_key5": "{1: 1, 2: 4, 3: 9, 4: 16, 5: 25, 6: 36, 7: 49, 8: 64,9: 81, 10: 100,<br> 11: 121, 12: 144, 13: 169, 14: 196, 15: 225}"
+}

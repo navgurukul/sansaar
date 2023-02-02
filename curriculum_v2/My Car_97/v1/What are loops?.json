@@ -1,0 +1,15 @@
+[
+	{
+		"value": "What are loops?",
+		"component": "header",
+		"variant": 2
+	},
+	{
+		"value": "Loops mean the same thing happening multiple times.<br>",
+		"component": "text"
+	},
+	{
+		"value": "Question: Where do you see loops in real life?<br>",
+		"component": "text"
+	}
+]

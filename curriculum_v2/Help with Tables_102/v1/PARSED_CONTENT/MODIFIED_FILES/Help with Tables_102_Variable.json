@@ -1,0 +1,31 @@
+[
+  {
+    "value": "Variable_key1",
+    "component": "header",
+    "variant": 2
+  },
+  {
+    "value": "Variable_key2",
+    "component": "text"
+  },
+  {
+    "value": "Variable_key3",
+    "component": "header",
+    "variant": 3
+  },
+  {
+    "value": "Variable_key4",
+    "component": "header",
+    "variant": 3
+  },
+  {
+    "value": "Variable_key5",
+    "component": "header",
+    "variant": 3
+  },
+  {
+    "value": "Variable_key6",
+    "component": "header",
+    "variant": 3
+  }
+]

@@ -1,0 +1,38 @@
+[
+	{
+		"value": "Help with Tables: (Teacher Models - 3)",
+		"component": "header",
+		"variant": 2
+	},
+	{
+		"value": "Let’s write codes for the sprites<br>",
+		"component": "text"
+	},
+	{
+		"value": "Peer Students<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/5456c916-ff9f-4c5d-95c5-d8b52281b312-image11.png",
+		"component": "image",
+		"alt": ""
+	},
+	{
+		"value": "To cheer the character when the multiple entered is correct.<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/9548ff7b-1e2a-4422-8663-a4f0c037d25e-image17.png",
+		"component": "image",
+		"alt": ""
+	},
+	{
+		"value": "To make a sad sound when the multiple entered is incorrect.<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/b263d75e-2320-4368-a966-3b0a9be88504-image16.png",
+		"component": "image",
+		"alt": ""
+	}
+]

@@ -1,0 +1,12 @@
+{
+	"access_element_dictionary_key1": "నిఘంటువు నుండి మూలకాలను <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">యాక్సెస్ చేయడం</span> :-",
+	"access_element_dictionary_key2": "మేము స్క్వేర్ బ్రాకెట్‌లను ఉపయోగించి నిఘంటువు విలువలను <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">యాక్సెస్</span> చేయవచ్చు. అర్థం చేసుకోవడానికి దిగువ ఉదాహరణ చూడండి.",
+	"access_element_dictionary_key3": "ఉదాహరణ :-",
+	"access_element_dictionary_key4": "<span style=\"\">అవుట్‌పుట్</span> :-",
+	"access_element_dictionary_key5": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">సంస్థ<br> పురుషుడు<br> 20</span>",
+	"access_element_dictionary_key6": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">పొందండి()</span> :-",
+	"access_element_dictionary_key7": "నిఘంటువు విలువలను యాక్సెస్ చేయడానికి మనం <b>get()</b> ఫంక్షన్‌ని కూడా ఉపయోగించుకోవచ్చు.",
+	"access_element_dictionary_key8": "ఉదాహరణ :-",
+	"access_element_dictionary_key9": "<span style=\"\">అవుట్‌పుట్</span> :-",
+	"access_element_dictionary_key10": "పురుషుడు<br> {&#39;సంస్థ&#39;: &#39;నవగురుకులం&#39;, &#39;స్థలం&#39;: &#39;ధర్మశాల&#39;}<br> ధర్మశాల"
+}

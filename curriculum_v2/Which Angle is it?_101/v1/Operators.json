@@ -1,0 +1,51 @@
+[
+	{
+		"value": "Operators",
+		"component": "header",
+		"variant": 2
+	},
+	{
+		"value": "Operators are a part of an expression and allow us to operate on values, i.e., operands. The expression returns a value.<br>",
+		"component": "text"
+	},
+	{
+		"value": "For example: 3 + 5 = 8<br>",
+		"component": "text"
+	},
+	{
+		"value": "There are four types of operators in our scope:<br>",
+		"component": "text"
+	},
+	{
+		"value": "Logic.&nbsp;",
+		"component": "text",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"value": "Comparative.",
+		"component": "text",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"value": "Arithmetic.",
+		"component": "text",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"value": "String",
+		"component": "text",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	}
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "value": "What’s CEL Hackathon_key1",
+    "component": "header",
+    "variant": 2
+  },
+  {
+    "value": "What’s CEL Hackathon_key2",
+    "component": "text"
+  },
+  {
+    "value": "What’s CEL Hackathon_key3",
+    "component": "text"
+  },
+  {
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/9ea002b7-35a0-451b-806f-6f02c25d7fd4-image3.png",
+    "component": "image",
+    "alt": "What’s CEL Hackathon_key4"
+  },
+  {
+    "value": "What’s CEL Hackathon_key5",
+    "component": "text"
+  },
+  {
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/4126ef56-3ea7-4009-a585-a710999f4b4a-image2.png",
+    "component": "image",
+    "alt": "What’s CEL Hackathon_key6"
+  },
+  {
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/bb7e1d3d-11d2-4504-ba72-690eb6e16dbb-image6.png",
+    "component": "image",
+    "alt": "What’s CEL Hackathon_key7"
+  },
+  {
+    "value": "What’s CEL Hackathon_key8",
+    "component": "text"
+  },
+  {
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/48c7a99e-57a3-44fb-bb94-c7ca0aea6d63-image2.png",
+    "component": "image",
+    "alt": "What’s CEL Hackathon_key9"
+  },
+  {
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/61690d1f-cc5c-4da7-83a3-75e69512f26f-image8.png",
+    "component": "image",
+    "alt": "What’s CEL Hackathon_key10"
+  },
+  {
+    "value": "What’s CEL Hackathon_key11",
+    "component": "text"
+  },
+  {
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/c00a169d-5690-46d3-bf96-b578f13ef336-image9.png",
+    "component": "image",
+    "alt": "What’s CEL Hackathon_key12"
+  },
+  {
+    "value": "What’s CEL Hackathon_key13",
+    "component": "text"
+  },
+  {
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/0f33bdf8-0c3e-4dbd-ad1e-1bd4e1d291d5-image2.png",
+    "component": "image",
+    "alt": "What’s CEL Hackathon_key14"
+  },
+  {
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/cb9a900d-d417-4a9d-858c-ca9d72b5730b-image7.png",
+    "component": "image",
+    "alt": "What’s CEL Hackathon_key15"
+  },
+  {
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/139856bb-9616-4bbb-bac8-f132239397fa-image5.png",
+    "component": "image",
+    "alt": "What’s CEL Hackathon_key16"
+  },
+  {
+    "value": "What’s CEL Hackathon_key17",
+    "component": "text"
+  },
+  {
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/abc2d6d4-df08-4d32-bc23-94a6bebc3fca-image2.png",
+    "component": "image",
+    "alt": "What’s CEL Hackathon_key18"
+  },
+  {
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/0620ba2b-3b7c-4dd6-a593-370719022549-image4.png",
+    "component": "image",
+    "alt": "What’s CEL Hackathon_key19"
+  },
+  {
+    "value": "What’s CEL Hackathon_key20",
+    "component": "text"
+  }
+]

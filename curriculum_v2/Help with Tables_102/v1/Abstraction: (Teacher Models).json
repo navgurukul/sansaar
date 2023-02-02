@@ -1,0 +1,92 @@
+[
+	{
+		"value": "Abstraction: (Teacher Models)",
+		"component": "header",
+		"variant": 2
+	},
+	{
+		"value": "Let’s do abstraction to make understand the project and make it simple<br>",
+		"component": "text"
+	},
+	{
+		"value": "What will happen on the stage?",
+		"component": "header",
+		"variant": 3
+	},
+	{
+		"value": "The teacher character decides the random number.",
+		"component": "text",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"value": "The student character recites the multiples of a given random number.",
+		"component": "text",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"value": "The user helps the character to recite the multiple.",
+		"component": "text",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"value": "The game moves ahead if the user helps the character with the correct answer.",
+		"component": "text",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"value": "The audience cheers if the answer is correct and gasps if the answer is wrong.",
+		"component": "text",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"value": "What sprite and backdrop will be needed on the stage?",
+		"component": "header",
+		"variant": 3
+	},
+	{
+		"value": "Start button sprite<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/1d2adf03-d509-4420-b220-3cf34a04e8b7-image3.png",
+		"component": "image",
+		"alt": ""
+	},
+	{
+		"value": "Main Character sprite<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/7d0fc1fe-4c45-47cf-a1c3-94f20a7121a0-image18.png",
+		"component": "image",
+		"alt": ""
+	},
+	{
+		"value": "Teacher sprite<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/c37fd498-fb89-4e9c-ad4d-193d8d6f3e3e-image2.png",
+		"component": "image",
+		"alt": ""
+	},
+	{
+		"value": "Students sprite<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/3a4124a0-e3cd-4088-b0be-0aaea40d3563-image11.png",
+		"component": "image",
+		"alt": ""
+	}
+]

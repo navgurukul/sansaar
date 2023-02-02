@@ -1,0 +1,11 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Dictionary Exercise"
+	},
+	{
+		"component": "text",
+		"value": "Please give this quiz with proper details to understand how much of this course did you understand."
+	}
+]

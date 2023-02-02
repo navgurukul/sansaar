@@ -1,0 +1,16 @@
+[
+	{
+		"value": "Objective",
+		"component": "header",
+		"variant": 2
+	},
+	{
+		"value": "We will make an application where the user has to help a character to say multiplication tables.<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/53c1d5a3-3e2e-4f17-b4ef-6a9a4d1a2e7f-image19.png",
+		"component": "image",
+		"alt": ""
+	}
+]

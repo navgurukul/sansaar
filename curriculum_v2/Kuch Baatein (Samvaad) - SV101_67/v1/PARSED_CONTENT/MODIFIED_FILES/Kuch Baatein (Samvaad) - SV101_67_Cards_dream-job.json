@@ -1,0 +1,43 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "Cards_dream-job_key1"
+  },
+  {
+    "component": "text",
+    "value": "Cards_dream-job_key2",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "Cards_dream-job_key3",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "Cards_dream-job_key4",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "youtube",
+    "value": "fcKniJHVQ3w"
+  },
+  {
+    "component": "youtube",
+    "value": "L7GXRiKejZU"
+  },
+  {
+    "component": "youtube",
+    "value": "nCDxYGMzeRw"
+  }
+]

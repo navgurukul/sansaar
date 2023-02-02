@@ -1,0 +1,46 @@
+[
+	{
+		"value": "E-Catalogue",
+		"component": "header",
+		"variant": 2
+	},
+	{
+		"value": "An E-Catalogue has information like:&nbsp;",
+		"component": "text"
+	},
+	{
+		"value": "Name of the book.",
+		"component": "text",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"value": "The number of the book.",
+		"component": "text",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"value": "Name of the author and much other information…",
+		"component": "text",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/a6dd117c-112d-4731-9371-cdeee7e94771-image5.png",
+		"component": "image",
+		"alt": ""
+	},
+	{
+		"value": "Question to think about",
+		"component": "header",
+		"variant": 3
+	},
+	{
+		"value": "How do you think we can store this much information and manipulate it?<br>",
+		"component": "text"
+	}
+]

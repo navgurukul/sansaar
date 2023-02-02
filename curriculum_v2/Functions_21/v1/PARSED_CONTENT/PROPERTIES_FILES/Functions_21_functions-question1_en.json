@@ -1,0 +1,14 @@
+{
+	"functions-question1_key1": "Functions",
+	"functions-question1_key2": "Example 1 :-",
+	"functions-question1_key3": "Write a function named <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">ask_question</span> which will print the text \"Once\".",
+	"functions-question1_key4": "We can solve this question using two methods -",
+	"functions-question1_key5": "<span style=\"\">i) Program</span> :-",
+	"functions-question1_key6": "<span style=\"\">Output</span> :-",
+	"functions-question1_key7": "once<br>once<br>once<br>once<br>once",
+	"functions-question1_key8": "<span style=\"\">ii) Program</span> :-",
+	"functions-question1_key9": "<span style=\"\">Output</span> :-",
+	"functions-question1_key10": "once<br>once<br>once<br>once<br>.<br>.<br>.<br>once<br>once",
+	"functions-question1_key11": "(Note:-Once will be printed 100 times)",
+	"functions-question1_key12": "Then using the while <span style=\"\">loop</span> wrote the <span style=\"\">code</span> to call this function 100 times."
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "flow_control_break_key1"
+  },
+  {
+    "component": "text",
+    "value": "flow_control_break_key2"
+  },
+  {
+    "component": "text",
+    "value": "flow_control_break_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "while True:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; # (1)<br>&emsp;print('Please type your name.')<br>&emsp;name = input()&emsp;&emsp;&emsp;&emsp;  # (2)<br>&emsp;if name == 'your name':&emsp;&emsp; # (3)<br>&emsp;&emsp;break&emsp;&emsp;&emsp;&emsp;&emsp;   # (4)<br>print('Thank you!')&emsp;&emsp;&emsp;&emsp; # (5)"
+  },
+  {
+    "component": "text",
+    "value": "flow_control_break_key4"
+  },
+  {
+    "component": "text",
+    "value": "flow_control_break_key5"
+  },
+  {
+    "component": "text",
+    "value": "flow_control_break_key6"
+  },
+  {
+    "component": "text",
+    "value": "flow_control_break_key7"
+  }
+]

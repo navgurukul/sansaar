@@ -1,0 +1,24 @@
+[
+	{
+		"value": "Variable Examples",
+		"component": "header",
+		"variant": 2
+	},
+	{
+		"value": "Think of an example where something is changing in real life.<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/49e6c036-f1b7-479c-abfd-6137a29c60c1-image15.jpg",
+		"component": "image",
+		"alt": ""
+	},
+	{
+		"value": "When you play a game your score got changes throughout the time you play the game.<br>",
+		"component": "text"
+	},
+	{
+		"value": "Imagine, you have your birthday today. You buy a box of chocolate which have 100 chocolates in it. You go to your school and distribute them in everyone. You have 30 students in your class and 50 staff members in your school. Now, how much chocolate do you have?<br>",
+		"component": "text"
+	}
+]

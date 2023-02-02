@@ -1,0 +1,12 @@
+{
+	"if-statement-with-code_if-code-question6_key1": "Example 6 :-",
+	"if-statement-with-code_if-code-question6_key2": "Draw a flowchart for this question and write the program.",
+	"if-statement-with-code_if-code-question6_key3": "Take two numbers as input from the user in variables <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">varx</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">vary</span>.",
+	"if-statement-with-code_if-code-question6_key4": "Check whether <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">varx</span> is divisible by <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">vary</span>.",
+	"if-statement-with-code_if-code-question6_key5": "If yes, print <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Divisible</span> else print <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Not Divisible</span>.",
+	"if-statement-with-code_if-code-question6_key6": "Flowchart :-",
+	"if-statement-with-code_if-code-question6_key7": "question 10 png",
+	"if-statement-with-code_if-code-question6_key8": "<span style=\"\">Program</span> :-",
+	"if-statement-with-code_if-code-question6_key9": "<span style=\"\">Output</span> :-",
+	"if-statement-with-code_if-code-question6_key10": "enter number1: <br>24 <br>enter number2: <br>12 <br>Divisible"
+}

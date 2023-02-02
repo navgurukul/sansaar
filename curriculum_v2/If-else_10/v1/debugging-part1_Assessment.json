@@ -1,0 +1,11 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "If-else exercise"
+	},
+	{
+		"component": "text",
+		"value": "Please guive this quiz with proper details to understand how much of this course did you understand."
+	}
+]

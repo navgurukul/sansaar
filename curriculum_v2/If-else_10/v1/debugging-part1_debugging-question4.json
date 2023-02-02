@@ -1,0 +1,51 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Example 4 :-"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Bug</span> :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "number = input(\"please enter a decimal number> \")<br>print(\"your number divided by 2 is equal to = \" + number/2)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "please enter a decimal number> <br>10.5 <br><span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">TypeError:</span> cannot concatenate 'str' and 'float' objects"
+	},
+	{
+		"component": "text",
+		"value": "Corrected code is given below."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Debug</span> :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "number = float(input(\"please enter a decimal number> \"))<br>answer = str(number/2)<br>print(\"your number divided by 2 is equal to = \" + answer)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "please enter a decimal number> <br>10.5 <br>your number divided by 2 is equal to = 5.25"
+	}
+]

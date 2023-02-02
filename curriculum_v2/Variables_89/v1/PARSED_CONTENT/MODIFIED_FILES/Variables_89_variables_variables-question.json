@@ -1,0 +1,105 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "variables_variables-question_key1"
+  },
+  {
+    "component": "text",
+    "value": "variables_variables-question_key2"
+  },
+  {
+    "component": "text",
+    "value": "variables_variables-question_key3"
+  },
+  {
+    "component": "text",
+    "value": "variables_variables-question_key4"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "variables_variables-question_key5"
+  },
+  {
+    "component": "text",
+    "value": "variables_variables-question_key6",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "variables_variables-question_key7",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "variables_variables-question_key8"
+  },
+  {
+    "component": "text",
+    "value": "variables_variables-question_key9"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "variables_variables-question_key10"
+  },
+  {
+    "component": "text",
+    "value": "variables_variables-question_key11"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "variables_variables-question_key12"
+  },
+  {
+    "component": "text",
+    "value": "variables_variables-question_key13",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "variables_variables-question_key14",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "variables_variables-question_key15",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "variables_variables-question_key16"
+  },
+  {
+    "component": "text",
+    "value": "variables_variables-question_key17"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "variables_variables-question_key18"
+  },
+  {
+    "component": "text",
+    "value": "variables_variables-question_key19"
+  }
+]

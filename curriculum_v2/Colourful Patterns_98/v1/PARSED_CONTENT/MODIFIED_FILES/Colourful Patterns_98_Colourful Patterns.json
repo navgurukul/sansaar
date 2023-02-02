@@ -1,0 +1,16 @@
+[
+  {
+    "value": "Colourful Patterns_key1",
+    "component": "header",
+    "variant": 2
+  },
+  {
+    "value": "Colourful Patterns_key2",
+    "component": "text"
+  },
+  {
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/29a372e3-3c21-483f-9f00-792cc83adc6f-image10.png",
+    "component": "image",
+    "alt": "Colourful Patterns_key3"
+  }
+]

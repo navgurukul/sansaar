@@ -1,0 +1,14 @@
+{
+	"functions-question1_key1": "कार्ये",
+	"functions-question1_key2": "उदाहरण १ :-",
+	"functions-question1_key3": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">ask_question</span> नावाचे फंक्शन लिहा जे &quot;एकदा&quot; मजकूर मुद्रित करेल.",
+	"functions-question1_key4": "आपण दोन पद्धती वापरून हा प्रश्न सोडवू शकतो -",
+	"functions-question1_key5": "<span style=\"\">i) कार्यक्रम</span> :-",
+	"functions-question1_key6": "<span style=\"\">Output</span> : -",
+	"functions-question1_key7": "एकदा<br> एकदा<br> एकदा<br> एकदा<br> एकदा",
+	"functions-question1_key8": "<span style=\"\">ii) कार्यक्रम</span> :-",
+	"functions-question1_key9": "<span style=\"\">Output</span> : -",
+	"functions-question1_key10": "एकदा<br> एकदा<br> एकदा<br> एकदा<br> .<br> .<br> .<br> एकदा<br> एकदा",
+	"functions-question1_key11": "(टीप:-एकदा 100 वेळा मुद्रित केले जाईल)",
+	"functions-question1_key12": "नंतर हे फंक्शन 100 वेळा कॉल करण्यासाठी असताना <span style=\"\">loop</span> <span style=\"\">�݆</span> ."
+}

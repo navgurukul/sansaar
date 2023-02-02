@@ -1,0 +1,14 @@
+{
+	"Debug_intro_key1": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">డీబగ్ కోడ్</span>",
+	"Debug_intro_key2": "ఇప్పుడు మనం డేటా రకాలకు సంబంధించిన <span style=\"\">కోడ్‌ని</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">డీబగ్</span> చేస్తాము.",
+	"Debug_intro_key3": "ఎ.",
+	"Debug_intro_key4": "<span style=\"\">సరైన కోడ్</span> :-<br> a = &#39;మేఘ&#39;<br> ప్రింట్ (ఎ)",
+	"Debug_intro_key5": "బి.",
+	"Debug_intro_key6": "<span style=\"\">సరైన కోడ్</span> :-<br> a=&#39;నవగురుకుల్&#39;<br> b = 201<br> b = str(b)<br> ప్రింట్(a+&#39;,&#39;+ b + &#39;మే షురు హువా థా&#39;)",
+	"Debug_intro_key7": "సి.",
+	"Debug_intro_key8": "<span style=\"\">సరైన కోడ్</span> :-<br> a=&#39;నవగురుకుల్&#39;<br> b = 13<br> b = str(b)<br> ప్రింట్ (a+b)",
+	"Debug_intro_key9": "డి.",
+	"Debug_intro_key10": "<span style=\"\">సరైన కోడ్</span> :-<br> a = &#39;12&#39;<br> b = 13.1<br> a = ఫ్లోట్(a)<br> ప్రింట్ (a+b)",
+	"Debug_intro_key11": "మరియు.",
+	"Debug_intro_key12": "<span style=\"\">సరైన కోడ్</span> :-<br> a = bool(&#39;&#39;)<br> b = bool(&#39; &#39;)<br> ప్రింట్ (a+b)"
+}

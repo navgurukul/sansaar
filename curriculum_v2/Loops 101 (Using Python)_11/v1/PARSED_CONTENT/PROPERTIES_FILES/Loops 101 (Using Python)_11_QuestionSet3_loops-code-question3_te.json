@@ -1,0 +1,8 @@
+{
+	"QuestionSet3_loops-code-question3_key1": "ఉదాహరణ 3",
+	"QuestionSet3_loops-code-question3_key2": "&quot;మొత్తం&quot; <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">12 నుండి 421 వరకు</span> లెక్కించే ప్రోగ్రామ్‌ను వ్రాయండి.",
+	"QuestionSet3_loops-code-question3_key3": "<span style=\"\">కార్యక్రమం</span> :-",
+	"QuestionSet3_loops-code-question3_key4": "s=0<br> నేను పరిధిలో (12,421):<br> s+=i<br> ముద్రణ(లు)",
+	"QuestionSet3_loops-code-question3_key5": "<span style=\"\">అవుట్‌పుట్</span> :-",
+	"QuestionSet3_loops-code-question3_key6": "88344"
+}

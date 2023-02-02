@@ -1,0 +1,8 @@
+{
+	"QuestionSet3_loops-code-question3_key1": "எடுத்துக்காட்டு 3",
+	"QuestionSet3_loops-code-question3_key2": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">12 முதல் 421</span> வரை &quot;மொத்தம்&quot; கணக்கிடும் ஒரு நிரலை எழுதவும்.",
+	"QuestionSet3_loops-code-question3_key3": "<span style=\"\">நிகழ்ச்சி</span> :-",
+	"QuestionSet3_loops-code-question3_key4": "s=0<br> நான் வரம்பில் (12,421):<br> s+=i<br> அச்சு(கள்)",
+	"QuestionSet3_loops-code-question3_key5": "<span style=\"\">வெளியீடு</span> :-",
+	"QuestionSet3_loops-code-question3_key6": "88344"
+}

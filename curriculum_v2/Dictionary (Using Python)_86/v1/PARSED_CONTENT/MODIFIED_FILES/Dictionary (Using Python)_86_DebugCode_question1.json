@@ -1,0 +1,32 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "DebugCode_question1_key1"
+  },
+  {
+    "component": "text",
+    "value": "DebugCode_question1_key2"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "DebugCode_question1_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "details={<br>&emsp;\"name\":\"Shanti\",<br>&emsp;\"age\":12,<br>&emsp;\"email\":\"shanti@navgurukul.org\",<br>&emsp;<br><br>print(details[\"name\"])<br>print(details[\"email\"])<br>print(details[\"age\"])<br>"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "DebugCode_question1_key4"
+  },
+  {
+    "component": "text",
+    "variant": 2,
+    "value": "DebugCode_question1_key5"
+  }
+]

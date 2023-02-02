@@ -1,0 +1,39 @@
+[
+	{
+		"value": "Project :",
+		"component": "header",
+		"variant": 2
+	},
+	{
+		"value": "Making a project for the Hackathon<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/1395f2f4-1059-4c82-8f67-6c4d42a00813-image11.png",
+		"component": "image",
+		"alt": ""
+	},
+	{
+		"value": "Phone using Meraki app",
+		"component": "header",
+		"variant": 3
+	},
+	{
+		"value": "Meraki app has in-built Scratch that allows you to learn to program on your smartphone<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/bcaec69b-d949-4822-a242-9284b38f1496-image10.png",
+		"component": "image",
+		"alt": ""
+	},
+	{
+		"value": "Laptop/Desktop on the Meraki website",
+		"component": "header",
+		"variant": 3
+	},
+	{
+		"value": "Meraki website will provide course content for reference to code on Scratch in Meraki app<br>",
+		"component": "text"
+	}
+]

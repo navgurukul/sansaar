@@ -1,0 +1,11 @@
+{
+	"Logic Operator_key1": "Logic Operator",
+	"Logic Operator_key2": "(The underlined sentences are called Operands)<br>",
+	"Logic Operator_key3": "AND is a logic operator which operates on expression and tells us (gives output as True) when both the expressions are True.<br>",
+	"Logic Operator_key4": "For example: I like Mango AND My favorite color is pink<br>",
+	"Logic Operator_key5": "The output will be: True<br>",
+	"Logic Operator_key6": "OR is also a Logic Operator which operates on expression and tells us (gives output as True) when any one of the expressions is True.<br>",
+	"Logic Operator_key7": "For example: I have one sibling OR I have 4 family members<br>",
+	"Logic Operator_key8": "NOT is also a Logic Operator which operates on expression and tells us (gives output as) True when the expression is incorrect.<br>",
+	"Logic Operator_key9": "For example: NOT My roll number is 15<br>"
+}

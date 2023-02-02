@@ -1,0 +1,30 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Example 2"
+	},
+	{
+		"component": "text",
+		"value": "Write a <span style=\"\">code</span>, that counts the numbers between 20 and 40 and then print its count."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def count(list1, l, r):<br>&emsp;c = 0<br>&emsp;# traverse in the list1<br>&emsp;for x in list1:<br>&emsp;&emsp;# condition check<br>&emsp;&emsp;if x>= l and x<= r:<br>&emsp;&emsp;&emsp;c+= 1<br>&emsp;return c<br><br># driver code<br>list1 = [50, 40, 23, 70, 56, 12, 5, 10, 7]<br>l = 20<br>r = 40<br>print (count(list1, l, r))"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Output:-"
+	},
+	{
+		"component": "text",
+		"value": "2"
+	},
+	{
+		"component": "text",
+		"value": "Write the <span style=\"\">code</span> and <span style=\"\">upload</span> the <span style=\"\">file</span>:)"
+	}
+]

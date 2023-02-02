@@ -1,0 +1,16 @@
+[
+	{
+		"value": "Objective",
+		"component": "header",
+		"variant": 2
+	},
+	{
+		"value": "We will make an application where the user has to answer some questions.<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/44ec660d-c62f-4843-af11-7d8e84b612a0-image.png",
+		"component": "image",
+		"alt": "Objective_key2"
+	}
+]

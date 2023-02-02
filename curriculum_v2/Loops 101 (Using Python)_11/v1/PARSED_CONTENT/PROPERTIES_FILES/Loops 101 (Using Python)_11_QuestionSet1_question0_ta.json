@@ -1,0 +1,10 @@
+{
+	"QuestionSet1_question0_key1": "எடுத்துக்காட்டு 1",
+	"QuestionSet1_question0_key2": "1 முதல் 100 வரையிலான அனைத்து எண்களையும் அச்சிடும் நிரலை உருவாக்கவும்.",
+	"QuestionSet1_question0_key3": "பின்வருவனவற்றை நீங்கள் ஒரு <span style=\"\">வெளியீட்டாகப்</span> பெற வேண்டும்.",
+	"QuestionSet1_question0_key4": "1<br> 2<br> 3<br> 4<br> 5<br> 6<br> …<br> …<br> …<br> 97<br> 98<br> 99<br> 100",
+	"QuestionSet1_question0_key5": "<span style=\"\">நிகழ்ச்சி</span> :-",
+	"QuestionSet1_question0_key6": "i=1<br> நான்&lt;=100:<br> அச்சு (i)<br> i+=1",
+	"QuestionSet1_question0_key7": "<span style=\"\">வெளியீடு</span> :-",
+	"QuestionSet1_question0_key8": "1<br> 2<br> 3<br> 4<br> 5<br> 6<br> …<br> …<br> …<br> 97<br> 98<br> 99<br> 100"
+}

@@ -1,0 +1,175 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "functions-question5_key1"
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key2"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "functions-question5_key3"
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key4"
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key5",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key6",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key7",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key8",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key9"
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key10",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key11",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key12",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key13",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key14"
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key15",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key16",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key17",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key18",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def calculator(number_x,number_y,operation):<br>&emsp;if(operation==\"add\"):<br>&emsp;&emsp;print(number_x+number_y)<br>&emsp;&emsp;print(number_x+number_y)<br>&emsp;elif(operation==\"sub\"):<br>&emsp;&emsp;print(number_x-number_y)<br>&emsp;elif(operation==\"divide\"):<br>&emsp;&emsp;print(number_x/number_y)<br>&emsp;elif(operation==\"multiply\"):<br>&emsp;&emsp;print(number_x*number_y)<br>&emsp;else:<br>&emsp;&emsp;print(\"invalid request\")<br>calculator(14,2,\"add\")"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "functions-question5_key19"
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key20"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "functions-question5_key21"
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key22"
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key23"
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key24"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def calculator(number_x,number_y,operation):<br>&emsp;l=[]<br>&emsp;if(operation==\"add\"):<br>&emsp;&emsp;print(number_x+number_y)<br>&emsp;elif(operation==\"sub\"):<br>&emsp;&emsp;print(number_x-number_y)<br>&emsp;elif(operation==\"divide\"):<br>&emsp;&emsp;print(number_x/number_y)<br>&emsp;elif(operation==\"multiply\"):<br>&emsp;&emsp;for i in range(len(number_x)):<br>&emsp;&emsp;&emsp;mul=number_x[i]*number_y[i]<br>&emsp;&emsp;&emsp;l.append(mul)<br>&emsp;&emsp;print(l)<br>&emsp;else:print(\"invalid request\")<br>l1=[10,20,30,40]<br>l2=[50,60,70,80]<br>calculator(l1,l2,\"multiply\")"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "functions-question5_key25"
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key26"
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key27"
+  }
+]

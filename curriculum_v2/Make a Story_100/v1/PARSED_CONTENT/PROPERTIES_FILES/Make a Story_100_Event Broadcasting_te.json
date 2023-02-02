@@ -1,0 +1,6 @@
+{
+	"Event Broadcasting_key1": "ఈవెంట్ బ్రాడ్‌కాస్టింగ్",
+	"Event Broadcasting_key2": "ఇది ఇతర విషయాలు జరగడానికి స్ప్రైట్ లేదా బ్యాక్‌డ్రాప్ నుండి సూచనలు ప్రసారం చేయబడిన సంఘటన. <br><span style=\"font-size:13.999999999999998pt;font-family:Lato,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\"></span>",
+	"Event Broadcasting_key3": "<span style=\"font-size:13.999999999999998pt;font-family:Lato,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">ప్రసారం చేయబడిన సూచనలను ఒక స్ప్రైట్ ద్వారా మరియు అన్ని స్ప్రిట్‌లు/బ్యాక్‌డ్రాప్‌లు సమాంతరంగా కూడా స్వీకరించవచ్చు.</span>",
+	"Event Broadcasting_key4": "సూచనలను ఒకటి కంటే ఎక్కువ స్ప్రైట్‌లు సమాంతరంగా స్వీకరించినప్పుడు, అది సమాంతరతకు దారి తీస్తుంది. సమాంతరత అనేది ఒకే సమయంలో సంభవించే అనేక విషయాలు.<br>"
+}

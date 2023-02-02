@@ -1,0 +1,67 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "<span style=\"\">Find the output of following code.</span>"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Example 1</span> :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def sum()<br>&emsp;print(12+13)<br>sum()"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "25"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Example 2</span> :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def welcome():<br>&emsp;print(\"Welcome to function\")<br>welcome()"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "Welcome to function"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Example 3</span> :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "<br>isEven()<br><br>def isEven():<br>&emsp;if(12%2==0):<br>&emsp;&emsp;print(\"Even Number\")<br>&emsp;else:<br>&emsp;&emsp;print(\"Old Number\")"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "Will give us an error as here we are calling function before defining it"
+	}
+]

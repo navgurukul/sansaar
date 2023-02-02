@@ -1,0 +1,120 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "questions-2_magic-square_key1"
+  },
+  {
+    "component": "text",
+    "value": "questions-2_magic-square_key2"
+  },
+  {
+    "component": "text",
+    "value": "questions-2_magic-square_key3"
+  },
+  {
+    "component": "text",
+    "value": "questions-2_magic-square_key4"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "N = 3<br># Returns true if mat[][] is magic<br># square, else returns false.<br>def isMagicSquare(mat) :<br># calculate the sum of the prime diagonal<br>&emsp;s = 0<br>&emsp;for i in range(0, N) :<br>&emsp;&emsp;s = s + mat[i][i]<br>&emsp;# For sums of Rows<br>&emsp;for i in range(0, N) :<br>&emsp;&emsp;rowSum = 0<br>&emsp;&emsp;for j in range(0, N) :<br>&emsp;&emsp;&emsp;rowSum += mat[i][j]<br>&emsp;&emsp;# check if every row sum is<br>&emsp;&emsp;# equal to prime diagonal sum<br>&emsp;&emsp;if (rowSum != s) :<br>&emsp;&emsp;&emsp;return False<br>&emsp;# For sums of Columns<br>&emsp;for i in range(0, N):<br>&emsp;&emsp;colSum = 0<br>&emsp;&emsp;for j in range(0, N) :<br>&emsp;&emsp;&emsp;colSum += mat[j][i]<br>&emsp;&emsp;# check if every column sum is<br>&emsp;&emsp;# equal to prime diagonal sum<br>&emsp;&emsp;if (s != colSum) :<br>&emsp;&emsp;&emsp;return False<br>&emsp;return True<br># Driver Code<br>mat =[<br>&emsp;[5, 3, 7],<br>&emsp;[1, 8, 9],<br>&emsp;[6, 4, 2]<br>]<br>if (isMagicSquare(mat)) :<br>&emsp;print(\"Magic Square\")<br>else :<br>&emsp;print(\"Not a magic Square\")"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "questions-2_magic-square_key5"
+  },
+  {
+    "component": "text",
+    "value": "questions-2_magic-square_key6"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "questions-2_magic-square_key7"
+  },
+  {
+    "component": "text",
+    "value": "questions-2_magic-square_key8"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "questions-2_magic-square_key9"
+  },
+  {
+    "component": "text",
+    "value": "questions-2_magic-square_key10"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "questions-2_magic-square_key11"
+  },
+  {
+    "component": "text",
+    "value": "questions-2_magic-square_key12"
+  },
+  {
+    "component": "text",
+    "value": "questions-2_magic-square_key13"
+  },
+  {
+    "component": "text",
+    "value": "questions-2_magic-square_key14"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "magic_square = [<br>&emsp;[5, 3, 7],<br>&emsp;[1, 8, 9],<br>&emsp;[6, 4, 2]<br>]"
+  },
+  {
+    "component": "text",
+    "value": "questions-2_magic-square_key15"
+  },
+  {
+    "component": "text",
+    "value": "questions-2_magic-square_key16"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "questions-2_magic-square_key17"
+  },
+  {
+    "component": "text",
+    "value": "questions-2_magic-square_key18"
+  },
+  {
+    "component": "text",
+    "value": "questions-2_magic-square_key19"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "questions-2_magic-square_key20"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "magic_square = [<br>&emsp;[8, 3, 4, 0],<br>&emsp;[1, 5, 9],<br>&emsp;[6, 7, 2]<br>]"
+  },
+  {
+    "component": "text",
+    "value": "questions-2_magic-square_key21"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "questions-2_magic-square_key22"
+  },
+  {
+    "component": "text",
+    "value": "questions-2_magic-square_key23"
+  }
+]

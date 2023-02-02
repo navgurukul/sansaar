@@ -1,0 +1,68 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "manipulating-strings_multiline-strings-with-triple-quotes_key1"
+  },
+  {
+    "component": "text",
+    "value": "manipulating-strings_multiline-strings-with-triple-quotes_key2"
+  },
+  {
+    "component": "text",
+    "value": "manipulating-strings_multiline-strings-with-triple-quotes_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "print('''Dear Alice,<br><br>Eve's cat has been arrested for catnapping, cat burglary, and extortion.<br><br>Sincerely,<br>Bob''')"
+  },
+  {
+    "component": "text",
+    "value": "manipulating-strings_multiline-strings-with-triple-quotes_key4"
+  },
+  {
+    "component": "text",
+    "value": "manipulating-strings_multiline-strings-with-triple-quotes_key5"
+  },
+  {
+    "component": "text",
+    "value": "manipulating-strings_multiline-strings-with-triple-quotes_key6"
+  },
+  {
+    "component": "text",
+    "value": "manipulating-strings_multiline-strings-with-triple-quotes_key7"
+  },
+  {
+    "component": "text",
+    "value": "manipulating-strings_multiline-strings-with-triple-quotes_key8"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "manipulating-strings_multiline-strings-with-triple-quotes_key9"
+  },
+  {
+    "component": "text",
+    "value": "manipulating-strings_multiline-strings-with-triple-quotes_key10"
+  },
+  {
+    "component": "text",
+    "value": "manipulating-strings_multiline-strings-with-triple-quotes_key11"
+  },
+  {
+    "component": "text",
+    "value": "manipulating-strings_multiline-strings-with-triple-quotes_key12"
+  },
+  {
+    "component": "text",
+    "value": "manipulating-strings_multiline-strings-with-triple-quotes_key13"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def spam():<br>&emsp;\"\"\"This is a multiline comment to help<br>&emsp;explain what the spam() function does.\"\"\"<br>&emsp;print('Hello!')"
+  }
+]

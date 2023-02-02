@@ -1,0 +1,10 @@
+{
+	"debugging-part1_debugging-question2_key1": "उदाहरण २ :-",
+	"debugging-part1_debugging-question2_key2": "<span style=\"\">बग</span> :-",
+	"debugging-part1_debugging-question2_key3": "<span style=\"\">Output</span> : -",
+	"debugging-part1_debugging-question2_key4": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">NameError:</span> नाव &#39;name&#39; परिभाषित केलेले नाही",
+	"debugging-part1_debugging-question2_key5": "दुरुस्त केलेला कोड खाली दिला आहे.",
+	"debugging-part1_debugging-question2_key6": "<span style=\"\">डीबग</span> :-",
+	"debugging-part1_debugging-question2_key7": "<span style=\"\">Output</span> : -",
+	"debugging-part1_debugging-question2_key8": "नवगुरुकुल, 2016 में शुरू हुआ था!"
+}

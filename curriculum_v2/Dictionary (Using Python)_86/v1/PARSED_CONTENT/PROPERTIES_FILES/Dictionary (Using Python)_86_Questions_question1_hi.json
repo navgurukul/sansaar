@@ -1,0 +1,7 @@
+{
+	"Questions_question1_key1": "उदाहरण 1",
+	"Questions_question1_key2": "एक प्रोग्राम इस तरह लिखें कि नीचे दी गयी <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">dictionaries</span> का इस्तेमाल करके एक नयी <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">single dictionary</span> बनायें जिसकी keys की values दी गयी dictionaries की values जोड़कर आये। ",
+	"Questions_question1_key3": "<span style=\"\">कार्यक्रम</span> :-",
+	"Questions_question1_key4": "<span style=\"\">Output</span> :-",
+	"Questions_question1_key5": "{1: 10, 2: 60, 3:30, 5:50, 6: 60}"
+}

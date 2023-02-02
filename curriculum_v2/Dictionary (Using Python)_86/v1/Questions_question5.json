@@ -1,0 +1,32 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Example 5"
+	},
+	{
+		"component": "text",
+		"value": "What will be the <span style=\"\">output</span> of the following <span style=\"\">code</span> snippet?"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Program</span> :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "my_dict = {}<br>my_dict[(1,2,4)] = 8<br>my_dict[(4,2,1)] = 10<br>my_dict[(1,2)] = 12<br><br>sum = 0<br>for k in my_dict:<br>&emsp;sum += my_dict[k]<br><br>print(sum)<br>print(my_dict)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Output: 30"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "  {(1, 2, 4): 8, (4, 2, 1): 10, (1, 2): 12}"
+	}
+]

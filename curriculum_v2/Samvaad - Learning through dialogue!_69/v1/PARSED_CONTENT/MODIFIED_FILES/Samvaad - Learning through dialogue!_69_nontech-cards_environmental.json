@@ -1,0 +1,55 @@
+[
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "nontech-cards_environmental_key1"
+  },
+  {
+    "component": "text",
+    "value": "nontech-cards_environmental_key2",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "nontech-cards_environmental_key3",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "nontech-cards_environmental_key4",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "nontech-cards_environmental_key5",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "nontech-cards_environmental_key6",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "nontech-cards_environmental_key7",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  }
+]

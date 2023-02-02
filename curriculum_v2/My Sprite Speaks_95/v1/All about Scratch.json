@@ -1,0 +1,83 @@
+[
+	{
+		"value": "All about Scratch",
+		"component": "header",
+		"variant": 2
+	},
+	{
+		"value": "What is Scratch?",
+		"component": "header",
+		"variant": 3
+	},
+	{
+		"value": "Scratch is a computer block-based programming language.<br>",
+		"component": "text"
+	},
+	{
+		"value": "What is Scratch used for?",
+		"component": "header",
+		"variant": 3
+	},
+	{
+		"value": "Scratch is used to make games, animations, and applications.<br>",
+		"component": "text"
+	},
+	{
+		"value": "Why should we learn to write programs?",
+		"component": "header",
+		"variant": 3
+	},
+	{
+		"value": "It helps to think, to be creative, and builds other relevant skills. It is one of the critical skills in the current digital world.<br>",
+		"component": "text"
+	},
+	{
+		"value": "Components of Scratch",
+		"component": "header",
+		"variant": 3
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/54a8dda5-eb54-45cd-98f3-b47009fc7098-2.png",
+		"component": "image",
+		"alt": ""
+	},
+	{
+		"value": "The essential components of Scratch are:<br>",
+		"component": "text"
+	},
+	{
+		"value": "Stage.",
+		"component": "text",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"value": "Block Box/Palette.",
+		"component": "text",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"value": "Editor",
+		"component": "text",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"value": "Sequence in Scratch",
+		"component": "header",
+		"variant": 3
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/9f838635-097e-4988-bc22-281a6a2ac69d-Screenshot from 2022-12-08 21-08-56.png",
+		"component": "image",
+		"alt": ""
+	},
+	{
+		"value": "Sequence means in proper logical order. Programs are logical sequences of instructions. Think of one example of a sequence from your daily life.<br>",
+		"component": "text"
+	}
+]

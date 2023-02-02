@@ -1,0 +1,13 @@
+{
+	"variables_variables-naming-question4_key1": "चर नामकरण उदाहरण -4",
+	"variables_variables-naming-question4_key2": "उदाहरण",
+	"variables_variables-naming-question4_key3": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Varx</span> नाम के वेरिएबल के लिए <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">STRING</span> वैल्यू असाइन/प्रदान करें।",
+	"variables_variables-naming-question4_key4": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">vaRx</span> नाम के वेरिएबल लिए <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">FLOAT</span> वैल्यू असाइन/प्रदान करें।",
+	"variables_variables-naming-question4_key5": "यह देखने के लिए कि क्या <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Varx</span> और <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">vaRx</span> समान हैं या नहीं, इसे <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">print</span> करने का प्रयास करें। अगर समान नहीं, तो अपनी फाइल में कमेंट में अपना कारण लिखें।",
+	"variables_variables-naming-question4_key6": "<span style=\"\">कार्यक्रम</span> :-",
+	"variables_variables-naming-question4_key7": "वारक्स = &quot;हाय&quot;<br> वीएआरएक्स = 56.76<br> प्रिंट (वारक्स)<br> प्रिंट (वीएआरएक्स)",
+	"variables_variables-naming-question4_key8": "<span style=\"\">Output</span> :-",
+	"variables_variables-naming-question4_key9": "नमस्ते<br> 56.76",
+	"variables_variables-naming-question4_key10": "<span style=\"\">व्याख्या</span> :-",
+	"variables_variables-naming-question4_key11": "Varx और vaRx समान नहीं हैं क्योंकि उनमें अक्षरों में अलग-अलग केस हैं।"
+}

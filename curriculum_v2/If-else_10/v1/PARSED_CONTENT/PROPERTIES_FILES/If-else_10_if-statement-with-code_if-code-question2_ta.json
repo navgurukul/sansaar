@@ -1,0 +1,11 @@
+{
+	"if-statement-with-code_if-code-question2_key1": "உதாரணம் 2 :-",
+	"if-statement-with-code_if-code-question2_key2": "காட்டப்பட்டுள்ளபடி மதிப்புடன் <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">varx</span> எனப்படும் <span style=\"\">மாறி</span> உங்களிடம் உள்ளது:-",
+	"if-statement-with-code_if-code-question2_key3": "ஒரு பாய்வு விளக்கப்படத்தை உருவாக்கி, பயனரிடமிருந்து ஒரு எண்ணை <span style=\"\">உள்ளீடாக</span> எடுக்க நிரலை எழுதவும். இந்த <span style=\"\">உள்ளீட்டை</span> <span style=\"\">முழு எண்ணாக</span> மாற்றவும். இது <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">varx</span> க்கு சமமாக உள்ளதா என சரிபார்க்கவும்.",
+	"if-statement-with-code_if-code-question2_key4": "எண் <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">varx</span> க்கு சமமாக இருந்தால், <b>&quot;சமம்&quot;</b> என்று அச்சிடவும், இல்லையெனில் <b>&quot;சமமாக இல்லை</b> &quot; என்று அச்சிடவும்.",
+	"if-statement-with-code_if-code-question2_key5": "பாய்வு விளக்கப்படம்:-",
+	"if-statement-with-code_if-code-question2_key6": "கேள்வி1-எடுத்துக்காட்டு3",
+	"if-statement-with-code_if-code-question2_key7": "<span style=\"\">நிகழ்ச்சி</span> :-",
+	"if-statement-with-code_if-code-question2_key8": "<span style=\"\">வெளியீடு</span> :-",
+	"if-statement-with-code_if-code-question2_key9": "எண்ணை உள்ளிடவும்:<br> 200<br> சமமாக இல்லை"
+}

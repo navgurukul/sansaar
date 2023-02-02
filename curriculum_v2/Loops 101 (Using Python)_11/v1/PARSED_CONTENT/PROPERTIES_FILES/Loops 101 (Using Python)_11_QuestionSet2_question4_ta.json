@@ -1,0 +1,10 @@
+{
+	"QuestionSet2_question4_key1": "எடுத்துக்காட்டு 5",
+	"QuestionSet2_question4_key2": "1 முதல் 10 வரையிலான எண்களை அச்சிட ஒரு நிரலை உருவாக்கவும். <span style=\"\">லூப்</span> கவுண்டர் <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">156</span> இலிருந்து தொடங்க வேண்டும்.",
+	"QuestionSet2_question4_key3": "உங்கள் <span style=\"\">வெளியீடு</span> பின்வருமாறு இருக்க வேண்டும்.",
+	"QuestionSet2_question4_key4": "1<br> 2<br> 3<br> 4<br> 5<br> 6<br> 7<br> 8<br> 9<br> 10",
+	"QuestionSet2_question4_key5": "<span style=\"\">நிகழ்ச்சி</span> :-",
+	"QuestionSet2_question4_key6": "c=156<br> i=1<br> c&lt;166:<br> அச்சு (i)<br> i+=1<br> c+=1",
+	"QuestionSet2_question4_key7": "<span style=\"\">வெளியீடு</span> :-",
+	"QuestionSet2_question4_key8": "1<br> 2<br> 3<br> 4<br> 5<br> 6<br> 7<br> 8<br> 9<br> 10"
+}

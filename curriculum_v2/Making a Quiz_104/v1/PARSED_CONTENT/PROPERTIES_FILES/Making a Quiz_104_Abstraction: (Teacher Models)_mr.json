@@ -1,0 +1,15 @@
+{
+	"Abstraction: (Teacher Models)_key1": "गोषवारा: (शिक्षक मॉडेल)",
+	"Abstraction: (Teacher Models)_key2": "प्रकल्प समजून घेण्यासाठी आणि ते सोपे करण्यासाठी अॅब्स्ट्रॅक्शन करू<br>",
+	"Abstraction: (Teacher Models)_key3": "स्टेजवर काय होणार?",
+	"Abstraction: (Teacher Models)_key4": "वापरकर्ता त्यांचे नाव प्रविष्ट करेल.",
+	"Abstraction: (Teacher Models)_key5": "अनुप्रयोग वापरकर्त्यास एक प्रश्न विचारेल.",
+	"Abstraction: (Teacher Models)_key6": "वापरकर्ता उत्तर प्रविष्ट करेल.. अनुप्रयोग वापरकर्त्याद्वारे उत्तर इनपुट तपासेल. उत्तर बरोबर असल्यास, अर्ज बरोबर असल्याचे सांगेल, स्कोअर 1 ने वाढवा आणि पुढील प्रश्न दाखवा. जर उत्तर चुकीचे असेल तर अॅप्लिकेशन उत्तर चुकीचे असल्याचे सांगेल, स्कोअर 1 ने कमी करा आणि पुढील प्रश्न दाखवा.",
+	"Abstraction: (Teacher Models)_key7": "क्विझच्या शेवटी अनुप्रयोग वापरकर्त्याचा स्कोअर संग्रहित करेल.",
+	"Abstraction: (Teacher Models)_key8": "स्टेजवर कोणते स्प्राइट आणि बॅकड्रॉप आवश्यक असेल?",
+	"Abstraction: (Teacher Models)_key9": "पप्पू स्प्राइट<br>",
+	"Abstraction: (Teacher Models)_key10": "",
+	"Abstraction: (Teacher Models)_key11": "",
+	"Abstraction: (Teacher Models)_key12": "",
+	"Abstraction: (Teacher Models)_key13": ""
+}

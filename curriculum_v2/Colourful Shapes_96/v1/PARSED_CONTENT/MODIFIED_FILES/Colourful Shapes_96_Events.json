@@ -1,0 +1,15 @@
+[
+  {
+    "value": "Events_key1",
+    "component": "header",
+    "variant": 2
+  },
+  {
+    "value": "Events_key2",
+    "component": "text"
+  },
+  {
+    "value": "Events_key3",
+    "component": "text"
+  }
+]

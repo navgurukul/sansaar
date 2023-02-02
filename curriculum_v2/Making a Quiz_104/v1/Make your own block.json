@@ -1,0 +1,21 @@
+[
+	{
+		"value": "Make your own block",
+		"component": "header",
+		"variant": 2
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/26d3d449-5a3e-44c3-a3bb-7759af9a6a97-image.png",
+		"component": "image",
+		"alt": ""
+	},
+	{
+		"value": "Make your own block with the combination of these three code blocks<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/bee063a8-aa44-48e0-bd08-3377c0e5a604-image.png",
+		"component": "image",
+		"alt": ""
+	}
+]

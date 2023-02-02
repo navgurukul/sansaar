@@ -1,0 +1,50 @@
+[
+  {
+    "value": "Conditionals_key1",
+    "component": "header",
+    "variant": 3
+  },
+  {
+    "value": "Conditionals_key2",
+    "component": "text",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "value": "Conditionals_key3",
+    "component": "text",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "value": "Conditionals_key4",
+    "component": "text",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "value": "Conditionals_key5",
+    "component": "text"
+  },
+  {
+    "value": "Conditionals_key6",
+    "component": "text"
+  },
+  {
+    "value": "Conditionals_key7",
+    "component": "header",
+    "variant": 3
+  },
+  {
+    "value": "Conditionals_key8",
+    "component": "text"
+  },
+  {
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/77739e6d-4d4b-419f-a0b6-9a7f7aa5dd74-image.png",
+    "component": "image",
+    "alt": "Conditionals_key9"
+  }
+]

@@ -1,0 +1,5 @@
+{
+	"debugging-part2_debugging-question1_key1": "உதாரணம் 1",
+	"debugging-part2_debugging-question1_key2": "கொடுக்கப்பட்ட பட்டியலில் உங்களுக்கு <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">மதிப்பெண்கள்</span> உள்ளன என்று வைத்துக்கொள்வோம். நாங்கள் கீழே ஒரு <span style=\"\">குறியீட்டை</span> எழுதியுள்ளோம், அதில் மொத்த மதிப்பெண்களை மதிப்பெண் பட்டியலின் கூட்டுத்தொகையாகக் கணக்கிட்டுள்ளோம். ஆனால் இந்த <span style=\"\">குறியீடு</span> இயங்காது. இந்தக் <span style=\"\">குறியீட்டை</span> பிழைத்திருத்தம் செய்து பின்னர் அதைச் சமர்ப்பிக்கவும்.",
+	"debugging-part2_debugging-question1_key3": "திருத்தப்பட்ட <span style=\"\">குறியீட்டை</span> ஒரு <span style=\"\">கோப்பில்</span> <span style=\"\">சேமித்து</span> , அதை <span style=\"\">பதிவேற்றவும்</span> ."
+}

@@ -1,0 +1,16 @@
+[
+	{
+		"value": "Try it out!",
+		"component": "header",
+		"variant": 2
+	},
+	{
+		"value": "What will happen if we give the below-mentioned instructions to a Sprite?<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/d6e62880-574d-4f65-b511-73fd2e58302c-Annotation 2022-12-10 120232.png",
+		"component": "image",
+		"alt": ""
+	}
+]

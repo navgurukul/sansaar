@@ -1,0 +1,39 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "section-1-council_training_key1"
+  },
+  {
+    "component": "text",
+    "value": "section-1-council_training_key2"
+  },
+  {
+    "component": "text",
+    "value": "section-1-council_training_key3",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "section-1-council_training_key4",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "section-1-council_training_key5",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "section-1-council_training_key6",
+    "decoration": {
+      "type": "bullet"
+    }
+  }
+]
