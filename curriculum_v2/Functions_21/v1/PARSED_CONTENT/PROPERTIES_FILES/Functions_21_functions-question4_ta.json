@@ -1,0 +1,19 @@
+{
+	"functions-question4_key1": "எடுத்துக்காட்டு 5 :-",
+	"functions-question4_key2": "இந்த உதாரணம் 2 பகுதிகளாக உள்ளது. இரண்டு பகுதிகளின் <span style=\"\">குறியீட்டையும்</span> ஒரே <span style=\"\">கோப்பில்</span> எழுதுவதன் மூலம் சமர்ப்பிக்கவும்.",
+	"functions-question4_key3": "<span style=\"\">எடுத்துக்காட்டு 5 (பகுதி 1)</span> :-",
+	"functions-question4_key4": "இரண்டு எண்களை எடுக்கும் <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">check_numbers</span> என்ற செயல்பாட்டை எழுதவும், பின்னர் இரண்டு எண்களும் சமமாக இருந்தால் (2 ஆல் வகுக்கவும்) &quot;இரண்டும் கூட&quot; என்று அச்சிடவும், இல்லையெனில் &quot;இரண்டு எண்களும் சமமாக இல்லை&quot; என்று அச்சிடவும்.",
+	"functions-question4_key5": "<span style=\"\">வெளியீடு</span> :-",
+	"functions-question4_key6": "இரண்டும் சமமானவை<br> 5.0 10.0",
+	"functions-question4_key7": "<span style=\"\">எடுத்துக்காட்டு 5 (பகுதி 2)</span> :-",
+	"functions-question4_key8": "இப்போது <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">check_numbers_list</span> என்ற பெயரில் ஒரு செயல்பாட்டை எழுதவும், இது ஒரு <span style=\"\">முழு எண்ணின்</span> பட்டியலை ஒரு வாதமாக எடுத்து, பின்னர் ஒரே குறியீட்டைக் கொண்ட இரண்டு <span style=\"\">முழு எண்களும்</span> சமமாக உள்ளதா இல்லையா என்பதைச் சரிபார்க்கிறது.",
+	"functions-question4_key9": "இதைச் சரிபார்க்க, முந்தைய <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">பகுதி 1</span> இல் எழுதப்பட்ட <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">சரிபார்ப்பு_எண்கள்</span> செயல்பாட்டைப் பயன்படுத்தவும்.",
+	"functions-question4_key10": "உங்கள் செயல்பாட்டை <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">[2, 6, 18, 10, 3, 75]</span> மற்றும் <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">[6, 19, 24, 12, 3, 87]</span> என்று அழைத்தால், அது பின்வரும் <span style=\"\">வெளியீட்டைக்</span> கொடுக்க வேண்டும்:",
+	"functions-question4_key11": "<span style=\"\">குறிப்பு</span> :-",
+	"functions-question4_key12": "ஒரே குறியீட்டில் உள்ள முழு எண்கள் சமமாக இருந்தால்",
+	"functions-question4_key13": "இரண்டு இடைநிலைகளும் சமமானவை.",
+	"functions-question4_key14": "ஒரே குறியீட்டில் உள்ள முழு எண்கள் சமமாக இல்லை என்றால்",
+	"functions-question4_key15": "இரண்டு இடையீடுகளும் சமமாக இல்லை",
+	"functions-question4_key16": "<span style=\"\">வெளியீடு</span> :-",
+	"functions-question4_key17": "இரண்டும் சமமானவை<br> இரண்டு எண்களும் சமமாக இல்லை<br> இரண்டு எண்களும் சமமாக இல்லை<br> இரண்டு எண்களும் சமமாக இல்லை<br> இரண்டு எண்களும் சமமாக இல்லை"
+}

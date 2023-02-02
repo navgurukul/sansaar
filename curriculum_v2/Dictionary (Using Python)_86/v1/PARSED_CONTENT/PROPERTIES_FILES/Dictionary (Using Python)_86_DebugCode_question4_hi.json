@@ -1,0 +1,7 @@
+{
+	"DebugCode_question4_key1": "उदाहरण 4",
+	"DebugCode_question4_key2": "आपको दो Dictionaries दी गयी हैं, आपको इन्हे <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">concatenate</span> करना है।",
+	"DebugCode_question4_key3": "कार्यक्रम :-",
+	"DebugCode_question4_key4": "<span style=\"\">अपेक्षित आउटपुट</span> :-",
+	"DebugCode_question4_key5": "{'umesh':21,'bijender':54,'amar':67,'peter':89,'sonu':56,'python':20,\"gaurav\":300,'dev':34,\"karan\":43}</span>"
+}

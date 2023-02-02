@@ -1,0 +1,16 @@
+{
+	"questions_binary-to-decimal_key1": "ఉదాహరణ 7<br><br> బైనరీ నుండి దశాంశం",
+	"questions_binary-to-decimal_key2": "ఈ ప్రోగ్రామ్‌లో, మనకు ఏదైనా సంఖ్యను <b>బైనరీ రూపంలో</b> ఇచ్చినట్లయితే, ఆ సంఖ్యను <b>దశాంశ రూపంలో</b> మార్చడం నేర్చుకుంటాము.",
+	"questions_binary-to-decimal_key3": "బైనరీ",
+	"questions_binary-to-decimal_key4": "దయచేసి ఈ రేఖాచిత్రాన్ని చూడండి.",
+	"questions_binary-to-decimal_key5": "అవుట్‌పుట్:-",
+	"questions_binary-to-decimal_key6": "బైనరీ సంఖ్యను ఇన్‌పుట్ చేయండి: 110011<br> సంఖ్య యొక్క దశాంశ విలువ 51",
+	"questions_binary-to-decimal_key7": "ఈ సంఖ్యను <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">దశాంశ రూపంలో</span> మార్చడానికి:-",
+	"questions_binary-to-decimal_key8": "చివరి మూలకం కో 2^0 యాని 1 సె<br> రెండవ చివరి మూలకం కో 2^1 యాని 2 సె<br> మూడవ చివరి మూలకం కో 2^2 యాని 4 సె<br> నాల్గవ చివరి మూలకం కో 2^3 యాని 8 సె<br> ,<br> ,<br> కర్ కర్ను గుణించండి<br> కర్నా హై జోడించండి",
+	"questions_binary-to-decimal_key9": "పై దశలను చేసిన తర్వాత, మీకు సమాధానంగా <b>155</b> వస్తుంది.",
+	"questions_binary-to-decimal_key10": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">ఎడ్జ్ కేసు</span>",
+	"questions_binary-to-decimal_key11": "ఈ ప్రోగ్రామ్ యొక్క <span style=\"\">అవుట్‌పుట్</span> ఎలా ఉంటుంది? మీ ప్రోగ్రామ్ <b>పటిష్టంగా</b> ఉంటే అది చెల్లని <span style=\"\">అవుట్‌పుట్‌ను</span> ఇస్తుంది, లేకుంటే అది <span style=\"\">ఎర్రర్‌ను విసురుతుంది</span> .",
+	"questions_binary-to-decimal_key12": "మీ ప్రోగ్రామ్ <b>పటిష్టంగా</b> ఉంటే:",
+	"questions_binary-to-decimal_key13": "- అప్పుడు అది చెల్లని అవుట్‌పుట్ ఇస్తుంది, లేదా<br> - ఇది &quot;1&quot;ని 1గా పరిగణిస్తుంది మరియు ప్రశ్నను పరిష్కరిస్తుంది.",
+	"questions_binary-to-decimal_key14": "కానీ , అది <b>దృఢంగా</b> ఉండకపోతే , అది <span style=\"\">లోపాన్ని విసురుతుంది</span> ."
+}

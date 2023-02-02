@@ -1,0 +1,8 @@
+{
+	"QuestionSet3_loops-code-question1_key1": "ఉదాహరణ 1",
+	"QuestionSet3_loops-code-question1_key2": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">2</span> ద్వారా భాగించబడే <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">20 నుండి 100</span> మధ్య ఉన్న అన్ని సంఖ్యలను ప్రింట్ చేసే <span style=\"\">కోడ్‌ను</span> వ్రాయండి, అంటే మీరు ఏదైనా సంఖ్యను <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">2</span> తో భాగించినప్పుడు మిగిలినది <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">0</span> గా వస్తుంది.",
+	"QuestionSet3_loops-code-question1_key3": "<span style=\"\">కార్యక్రమం</span> :-",
+	"QuestionSet3_loops-code-question1_key4": "నేను పరిధిలో (20,100):<br> ఉంటే(i%2==0):<br> ప్రింట్ (i)",
+	"QuestionSet3_loops-code-question1_key5": "<span style=\"\">అవుట్‌పుట్</span> :-",
+	"QuestionSet3_loops-code-question1_key6": "20<br> 22<br> 24<br> 26<br> 28<br> 30<br> 32<br> 34<br> 36<br> 38<br> 40<br> 42<br> 44<br> 46<br> 48<br> 50<br> 52<br> 54<br> 56<br> 58<br> 60<br> 62<br> 64<br> 66<br> 68<br> 70<br> 72<br> 74<br> 76<br> 78<br> 80<br> 82<br> 84<br> 86<br> 88<br> 90<br> 92<br> 94<br> 96<br> 98"
+}

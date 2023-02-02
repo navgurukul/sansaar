@@ -1,0 +1,12 @@
+{
+	"QuestionSet2_question1_key1": "Example 1",
+	"QuestionSet2_question1_key2": "Make a program that prints all those numbers from <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">1 to 100</span> which are <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">divisible by 7</span>.",
+	"QuestionSet2_question1_key3": "Note :",
+	"QuestionSet2_question1_key4": "The <span style=\"\">loop</span> that you will write will start from 556.",
+	"QuestionSet2_question1_key5": "Your <span style=\"\">output</span> should be as follows.",
+	"QuestionSet2_question1_key6": "7<br>14<br>21<br>28<br>35<br>42<br>49<br>56<br>63<br>70<br>77<br>84<br>91<br>98",
+	"QuestionSet2_question1_key7": "<span style=\"\">Program</span> :-",
+	"QuestionSet2_question1_key8": "i=1<br>while(i<=100): # i starts from 1 and ends on 100<br>&emsp;if(i%7==0):# checking weather i is multiple of 7 or not<br>&emsp;&emsp;print(i)  # printing i<br>&emsp;i+=1  # i is incremented by 1",
+	"QuestionSet2_question1_key9": "<span style=\"\">Output</span> :-",
+	"QuestionSet2_question1_key10": "7<br>14<br>21<br>28<br>35<br>42<br>49<br>56<br>63<br>70<br>77<br>84<br>91<br>98"
+}

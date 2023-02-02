@@ -1,0 +1,97 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "if-statement-with-code_if-code-question9_key1"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-code-question9_key2"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-code-question9_key3",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-code-question9_key4",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-code-question9_key5",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-code-question9_key6",
+    "decoration": {
+      "type": "number",
+      "value": 4
+    }
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-code-question9_key7",
+    "decoration": {
+      "type": "number",
+      "value": 5
+    }
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-code-question9_key8"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-code-question9_key9"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-code-question9_key10"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-code-question9_key11"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "if-statement-with-code_if-code-question9_key12"
+  },
+  {
+    "component": "image",
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/course_images_v2/If-else_10/assets/question9-image1.png",
+    "alt": "if-statement-with-code_if-code-question9_key13"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "if-statement-with-code_if-code-question9_key14"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "age = int(input(\"enter the age of a person: \")) <br>if(age >= 5): <br>&emsp;&emsp;print(\"can go to school\") <br>if(age >= 18 ): <br>&emsp;&emsp;print(\"can vote in elections\") <br>if(age >= 21): <br>&emsp;&emsp;print(\"can drive a car\") <br>if(age>=24): <br>&emsp;&emsp;print(\"can marry\") <br>if(age>=25): <br>&emsp;&emsp;print(\"can drink legally\")"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "if-statement-with-code_if-code-question9_key15"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-code-question9_key16"
+  }
+]

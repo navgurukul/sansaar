@@ -1,0 +1,12 @@
+{
+	"CodeDebug_key1": "<span style=\"\">कोड में बग ढूँढना</span>",
+	"CodeDebug_key2": "<span style=\"\">उदाहरण 1</span> :-",
+	"CodeDebug_key3": "<span style=\"\">Output</span> :-",
+	"CodeDebug_key4": "लेखन त्रुटि: अभिवादन () 1 स्थितीय तर्क लेता है लेकिन 4 दिए गए थे",
+	"CodeDebug_key5": "<span style=\"\">उदाहरण 2</span> :-",
+	"CodeDebug_key6": "<span style=\"\">Output</span> :-",
+	"CodeDebug_key7": "लेखन त्रुटि: जानकारी () लापता 1 आवश्यक स्थितीय तर्क: 'उम्र'",
+	"CodeDebug_key8": "<span style=\"\">उदाहरण 3</span> :-",
+	"CodeDebug_key9": "<span style=\"\">Output</span> :-",
+	"CodeDebug_key10": "लेखन त्रुटि: छात्र विवरण () लापता 1 आवश्यक स्थितिगत तर्क: 'सलाहकारनाम'"
+}

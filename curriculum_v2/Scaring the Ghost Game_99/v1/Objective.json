@@ -1,0 +1,16 @@
+[
+	{
+		"value": "Objective",
+		"component": "header",
+		"variant": 2
+	},
+	{
+		"value": "Throughout this course, We will make a game to scare the ghost away<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/5a0e8f77-5941-4338-8c4a-f64b611e1341-image4.png",
+		"component": "image",
+		"alt": ""
+	}
+]

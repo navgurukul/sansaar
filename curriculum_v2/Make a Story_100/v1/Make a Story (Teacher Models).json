@@ -1,0 +1,78 @@
+[
+	{
+		"value": "Make a Story (Teacher Models)",
+		"component": "header",
+		"variant": 3
+	},
+	{
+		"value": "Let’s do abstraction to understand the project and make it simple.<br>",
+		"component": "text"
+	},
+	{
+		"value": "What will happen on the stage?&nbsp; &nbsp; &nbsp;",
+		"component": "header",
+		"variant": 4
+	},
+	{
+		"value": "When the scene starts, we will see a story will play out in front of us.<br>",
+		"component": "text",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"value": "Your story can show a problem",
+		"component": "text",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"value": "In the end, you can show some solutions.",
+		"component": "text",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"value": "What sprite and backdrop will be needed on the stage?",
+		"component": "header",
+		"variant": 4
+	},
+	{
+		"value": "Avery in different walking costumes<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/0e4e2569-762f-4555-85e6-c0b3b3476f55-Annotation 2022-12-09 113326.png",
+		"component": "image",
+		"alt": ""
+	},
+	{
+		"value": "A girl<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/27e9df96-3fb3-4662-b6ee-cbc259dacca2-Annotation 2022-12-09 113349.png",
+		"component": "image",
+		"alt": ""
+	},
+	{
+		"value": "A boy with laughing costumes<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/56d38ce2-0735-4006-8c45-89e7f201b699-Annotation 2022-12-09 113418.png",
+		"component": "image",
+		"alt": ""
+	},
+	{
+		"value": "A school as a backdrop<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/12d9be07-7ddb-46d8-96e0-7fcba2b675c3-Annotation 2022-12-09 113445.png",
+		"component": "image",
+		"alt": ""
+	}
+]

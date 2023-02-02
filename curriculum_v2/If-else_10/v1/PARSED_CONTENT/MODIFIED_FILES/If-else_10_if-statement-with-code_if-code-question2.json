@@ -1,0 +1,49 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "if-statement-with-code_if-code-question2_key1"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-code-question2_key2"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-code-question2_key3"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-code-question2_key4"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "if-statement-with-code_if-code-question2_key5"
+  },
+  {
+    "component": "image",
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/course_images_v2/If-else_10/assets/question1-example2.png",
+    "alt": "if-statement-with-code_if-code-question2_key6"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "if-statement-with-code_if-code-question2_key7"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "varx = 300 - 123 <br>number = int(input(\"enter a number: \")) <br>if(number == varx): <br>&emsp;&emsp;print(\"equal\") <br>else: <br>&emsp;&emsp;print(\"not equal\")"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "if-statement-with-code_if-code-question2_key8"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-code-question2_key9"
+  }
+]

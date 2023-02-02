@@ -1,0 +1,15 @@
+{
+	"type-conversion_user-input-question2_key1": "ఉదాహరణ-2",
+	"type-conversion_user-input-question2_key2": "<i>మీ <span style=\"\">కోడ్‌ను</span> <span style=\"\">పైథాన్</span> <span style=\"\">ఫైల్‌గా</span> ( <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">.py పొడిగింపుతో</span> ) <span style=\"\">సేవ్</span> చేసి, సమర్పించండి.</i>",
+	"type-conversion_user-input-question2_key3": "ఈ ఉదాహరణ వివిధ భాగాలుగా విభజించబడింది. అన్ని <span style=\"\">కోడ్‌లను</span> ఒకే <span style=\"\">పైథాన్</span> <span style=\"\">ఫైల్‌లో</span> వ్రాసి <span style=\"\">అప్‌లోడ్</span> చేయాలి.",
+	"type-conversion_user-input-question2_key4": "1 వ భాగము",
+	"type-conversion_user-input-question2_key5": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">var_a</span> లో <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">ఇన్‌పుట్‌ని</span> ఉపయోగించి నంబర్ <span style=\"\">ఇన్‌పుట్‌ని</span> తీసుకోండి మరియు దానిని <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">INTEGER</span> కి మార్చడం మర్చిపోవద్దు.",
+	"type-conversion_user-input-question2_key6": "పార్ట్ 2",
+	"type-conversion_user-input-question2_key7": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">var_b</span> లో <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">ఇన్‌పుట్‌ని</span> ఉపయోగించి నంబర్ <span style=\"\">ఇన్‌పుట్‌ని</span> తీసుకోండి మరియు దానిని <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">INTEGER</span> కి మార్చడం మర్చిపోవద్దు.",
+	"type-conversion_user-input-question2_key8": "పార్ట్ 3",
+	"type-conversion_user-input-question2_key9": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">var_a</span> మరియు <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">var_b</span> మొత్తాన్ని ముద్రించండి.",
+	"type-conversion_user-input-question2_key10": "<span style=\"\">కార్యక్రమం</span> :-",
+	"type-conversion_user-input-question2_key11": "var_a = ఇన్‌పుట్ (&quot;మొదటి సంఖ్యను నమోదు చేయండి: &quot;)<br> var_b = ఇన్‌పుట్ (&quot;రెండవ సంఖ్యను నమోదు చేయండి: &quot;)<br> var_a=int(var_a)<br> var_b=int(var_b)<br> ప్రింట్(var_a + var_b)",
+	"type-conversion_user-input-question2_key12": "<span style=\"\">అవుట్‌పుట్</span> :-",
+	"type-conversion_user-input-question2_key13": "మీరు var_aలో 4ని మరియు var_bలో 5ని ఎంటర్ చేస్తే అవుట్‌పుట్ 9 అవుతుంది."
+}

@@ -1,0 +1,67 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "<span style=\"\">Finding bug in the code</span>"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Example 1</span> :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def greet(names):<br>&emsp;for name in names:<br>&emsp;&emsp;print(\"Welcome\", name)<br><br><br>greet(\"Rinki\", \"Vishal\", \"Kartik\", \"Bijender\")"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "TypeError: greet() takes 1 positional argument but 4 were given"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Example 2</span> :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def info(name, age = ):<br>   print(name + \" is \" + age + \" years old\")<br><br>info(\"Sonu\")<br>info(\"Sana\", \"17\")<br>info(\"Umesh\", \"18\")"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "TypeError: info() missing 1 required positional argument: 'age'"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Example 3</span> :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "<br>def studentDetails(name,currentMilestone,mentorName):<br>&emsp;print(\"Hello \" , name, \"your\" , currentMilestone, \"concept \" , \"is clear with the help of \", mentorName)<br><br><br>studentDetails(\"Nilam\",\"loop\")"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "TypeError: studentDetails() missing 1 required positional argument: 'mentorName'"
+	}
+]

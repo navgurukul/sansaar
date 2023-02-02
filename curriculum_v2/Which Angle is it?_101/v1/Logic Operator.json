@@ -1,0 +1,39 @@
+[
+	{
+		"value": "Logic Operator",
+		"component": "header",
+		"variant": 2
+	},
+	{
+		"value": "(The underlined sentences are called Operands)<br>",
+		"component": "text"
+	},
+	{
+		"value": "AND is a logic operator which operates on expression and tells us (gives output as True) when both the expressions are True.<br>",
+		"component": "text"
+	},
+	{
+		"value": "For example: I like Mango AND My favorite color is pink<br>",
+		"component": "text"
+	},
+	{
+		"value": "The output will be: True<br>",
+		"component": "text"
+	},
+	{
+		"value": "OR is also a Logic Operator which operates on expression and tells us (gives output as True) when any one of the expressions is True.<br>",
+		"component": "text"
+	},
+	{
+		"value": "For example: I have one sibling OR I have 4 family members<br>",
+		"component": "text"
+	},
+	{
+		"value": "NOT is also a Logic Operator which operates on expression and tells us (gives output as) True when the expression is incorrect.<br>",
+		"component": "text"
+	},
+	{
+		"value": "For example: NOT My roll number is 15<br>",
+		"component": "text"
+	}
+]

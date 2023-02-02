@@ -1,0 +1,52 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "OutputOfCode_question2_key1"
+  },
+  {
+    "component": "text",
+    "value": "OutputOfCode_question2_key2"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "OutputOfCode_question2_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "a = {'a':1,'b':2,'c':3}<br><br>print(a['a','b'])"
+  },
+  {
+    "component": "text",
+    "value": "OutputOfCode_question2_key4"
+  },
+  {
+    "component": "text",
+    "value": "OutputOfCode_question2_key5"
+  },
+  {
+    "component": "text",
+    "value": "OutputOfCode_question2_key6"
+  },
+  {
+    "component": "text",
+    "value": "OutputOfCode_question2_key7"
+  },
+  {
+    "component": "text",
+    "value": "OutputOfCode_question2_key8"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "OutputOfCode_question2_key9"
+  },
+  {
+    "component": "text",
+    "variant": 4,
+    "value": "OutputOfCode_question2_key10"
+  }
+]

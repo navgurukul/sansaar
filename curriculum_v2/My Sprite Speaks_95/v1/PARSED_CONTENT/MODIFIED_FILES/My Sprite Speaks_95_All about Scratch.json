@@ -1,0 +1,83 @@
+[
+  {
+    "value": "All about Scratch_key1",
+    "component": "header",
+    "variant": 2
+  },
+  {
+    "value": "All about Scratch_key2",
+    "component": "header",
+    "variant": 3
+  },
+  {
+    "value": "All about Scratch_key3",
+    "component": "text"
+  },
+  {
+    "value": "All about Scratch_key4",
+    "component": "header",
+    "variant": 3
+  },
+  {
+    "value": "All about Scratch_key5",
+    "component": "text"
+  },
+  {
+    "value": "All about Scratch_key6",
+    "component": "header",
+    "variant": 3
+  },
+  {
+    "value": "All about Scratch_key7",
+    "component": "text"
+  },
+  {
+    "value": "All about Scratch_key8",
+    "component": "header",
+    "variant": 3
+  },
+  {
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/54a8dda5-eb54-45cd-98f3-b47009fc7098-2.png",
+    "component": "image",
+    "alt": "All about Scratch_key9"
+  },
+  {
+    "value": "All about Scratch_key10",
+    "component": "text"
+  },
+  {
+    "value": "All about Scratch_key11",
+    "component": "text",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "value": "All about Scratch_key12",
+    "component": "text",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "value": "All about Scratch_key13",
+    "component": "text",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "value": "All about Scratch_key14",
+    "component": "header",
+    "variant": 3
+  },
+  {
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/9f838635-097e-4988-bc22-281a6a2ac69d-Screenshot from 2022-12-08 21-08-56.png",
+    "component": "image",
+    "alt": "All about Scratch_key15"
+  },
+  {
+    "value": "All about Scratch_key16",
+    "component": "text"
+  }
+]

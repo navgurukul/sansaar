@@ -1,0 +1,15 @@
+{
+	"update_element_dictionary_key1": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">அகராதியிலுள்ள கூறுகளைப் புதுப்பித்தல் :</span> :-",
+	"update_element_dictionary_key2": "அகராதியைப் <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">புதுப்பிக்க</span> , அதில் உள்ளீடு செய்யலாம் அல்லது <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">விசை-மதிப்பு</span> ஜோடியைச் சேர்க்கலாம் அல்லது ஏற்கனவே உள்ள <span style=\"\">விசையின்</span> மதிப்பை மாற்றலாம். விளக்கப்பட்ட எடுத்துக்காட்டில் கொடுக்கப்பட்டுள்ளபடி:-",
+	"update_element_dictionary_key3": "எடுத்துக்காட்டு 1:-",
+	"update_element_dictionary_key4": "<span style=\"\">வெளியீடு</span> :-",
+	"update_element_dictionary_key5": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">{&#39;1&#39;: &#39;ரேம்&#39;, &#39;2&#39;: 17,&#39;3&#39;:&#39;ஆண்&#39;}</span>",
+	"update_element_dictionary_key6": "உதாரணம் 2 :-",
+	"update_element_dictionary_key7": "<span style=\"\">வெளியீடு</span> :-",
+	"update_element_dictionary_key8": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">{&#39;பெயர்&#39;: &#39;ரேம்&#39;, &#39;வயது&#39;: 17, &#39;மாணவர்&#39;: {&#39;id&#39;: 35, &#39;இடம்&#39;: &#39;தர்மசாலா&#39;}}</span>",
+	"update_element_dictionary_key9": "அகராதியின் நகல்:-",
+	"update_element_dictionary_key10": "நாம் ஒரு அகராதியை இரண்டு வழிகளில் நகலெடுக்கலாம், முதல் முறை <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">நகல்()</span> மற்றும் இரண்டாவது முறை உள்ளமைக்கப்பட்ட செயல்பாட்டின் மூலம் <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">dict()</span> .",
+	"update_element_dictionary_key11": "எடுத்துக்காட்டு 1 :-",
+	"update_element_dictionary_key12": "<span style=\"\">வெளியீடு</span> :-",
+	"update_element_dictionary_key13": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">{&#39;அறை2&#39;: &#39;7வது&#39;, &#39;அறை3&#39;: &#39;8வது&#39;, &#39;அறை1&#39;: &#39;6வது&#39;}</span>"
+}

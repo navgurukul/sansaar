@@ -1,0 +1,186 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "if-statement-with-code_if-statement-code-intro_key1"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-statement-code-intro_key2"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "if-statement-with-code_if-statement-code-intro_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "day = input(\"Aaj ka din kya hai? (monday/tuesday) > \\n\") <br>time = input(\"Kaunse samay ka khana banana hai? (lunch/dinner) > \\n\") <br>if day == \"monday\" or day == \"tuesday\": <br>&emsp;print(\"Daal-Roti banegi aaj\") <br>elif day == \"tuesday\" and time == \"dinner\": <br>&emsp;print(\"Pav-Bhaji banegi aaj toh :)\")"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "if-statement-with-code_if-statement-code-intro_key4"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-statement-code-intro_key5"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-statement-code-intro_key6"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "if-statement-with-code_if-statement-code-intro_key7"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-statement-code-intro_key8"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-statement-code-intro_key9"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-statement-code-intro_key10",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-statement-code-intro_key11",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-statement-code-intro_key12",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-statement-code-intro_key13",
+    "decoration": {
+      "type": "number",
+      "value": 4
+    }
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-statement-code-intro_key14",
+    "decoration": {
+      "type": "number",
+      "value": 5
+    }
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-statement-code-intro_key15"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "if-statement-with-code_if-statement-code-intro_key16"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-statement-code-intro_key17"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "value = \"delhi\"<br>guess = input(\"Sheher ka naam guess karo> \")<br>if guess != value:<br>&emsp;print(\"Aapka guess galat hai\")<br>else:<br>&emsp;print(\"Aapka guess sahi hai\")"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "if-statement-with-code_if-statement-code-intro_key18"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-statement-code-intro_key19"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "if-statement-with-code_if-statement-code-intro_key20"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-statement-code-intro_key21"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "speed = input(\"Gaadi ki kya speed thi?\")<br>speed = int(speed)<br>if speed <= 60:<br>&emsp;print(\"Gaadi speed limit ke andar thi.\")<br>else:<br>&emsp;print(\"Gaadi speed limit ke bahar thi.\")"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "if-statement-with-code_if-statement-code-intro_key22"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-statement-code-intro_key23"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "if-statement-with-code_if-statement-code-intro_key24"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-statement-code-intro_key25"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "if-statement-with-code_if-statement-code-intro_key26"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-statement-code-intro_key27"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-statement-code-intro_key28"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "if-statement-with-code_if-statement-code-intro_key29"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "day = input(\"Din enter karo> \")<br>meal = input(\"Meal enter karo, jaise breakfast lunch aur dinner mein se ek> \")<br>if day == \"monday\":<br>&emsp;# code yahan andar tab hi aayega jab day ki value \"monday\" hogi, nahi andar aayega hi nahi<br>&emsp;if meal == \"breafast\":<br>&emsp;&emsp;print(\"Poha\")<br>&emsp;elif meal == \"lunch\":<br>&emsp;&emsp;print(\"Rajma Chawal\")<br>&emsp;else:<br>&emsp;&emsp;print(\"Roti Sabzi\")<br>elif day == \"tuesday\":<br>&emsp;if meal == \"breakfast\":<br>&emsp;&emsp;print(\"Poori Sabzi\")<br>&emsp;elif meal == \"lunch\":<br>&emsp;&emsp;print(\"Thukpa\")<br>&emsp;else:<br>&emsp;&emsp;print(\"Chicken Chawal\")<br>else:<br>&emsp;print(\"Aur kisi bhi din hum daal roti sabzi khaynege.\")"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "if-statement-with-code_if-statement-code-intro_key30"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-statement-code-intro_key31"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-statement-code-intro_key32"
+  }
+]

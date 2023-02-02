@@ -1,0 +1,38 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Example 8"
+	},
+	{
+		"component": "text",
+		"value": "Make an algorithm that takes <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">2 numbers as inputs</span> from the user. Then we will multiply those numbers and print the result. Example :-, if we <span style=\"\">input</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">5 and 4</span> then <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">20</span> should be printed. "
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Note :-"
+	},
+	{
+		"component": "text",
+		"value": "Don't use <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">*</span> multiply <span style=\"\">operator</span> to <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">multiply</span> , you can use any other <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">operators</span> like <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">+,-</span>)."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Program</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "a=int(input(\"Enter a number:\"))   # user gives input<br>b=int(input(\"Enter another number:\"))  # user gives input<br>i=1<br>s=0<br>while(i<=b):  # loops runs until i is smaller than by b<br>&emsp;s+=a   s  is incremented by a<br>&emsp;i+=1 # i is incremented by 1<br>print(s)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "Enter a number:4<br>Enter another number:2<br>8"
+	}
+]

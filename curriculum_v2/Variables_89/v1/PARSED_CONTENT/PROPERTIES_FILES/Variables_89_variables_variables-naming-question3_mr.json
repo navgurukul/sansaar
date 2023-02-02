@@ -1,0 +1,10 @@
+{
+	"variables_variables-naming-question3_key1": "चलांचे नामकरण उदाहरण-3",
+	"variables_variables-naming-question3_key2": "उदाहरण",
+	"variables_variables-naming-question3_key3": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">var.123</span> नावाच्या व्हेरिएबलला पूर्णांक मूल्य नियुक्त करा.",
+	"variables_variables-naming-question3_key4": "तुमचा कोड सहज चालत असल्यास, तो <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">upload</span> . जर ते चालत नसेल तर कॉमेंटमध्ये कारण टाका आणि नंतर कोड अपलोड करा.",
+	"variables_variables-naming-question3_key5": "<span style=\"\">कार्यक्रम</span> :-",
+	"variables_variables-naming-question3_key6": "var.123 = 56<br>print(var.123)",
+	"variables_variables-naming-question3_key7": "<span style=\"\">Output</span> : -",
+	"variables_variables-naming-question3_key8": "सिंटॅक्स एरर: अवैध सिंटॅक्स"
+}

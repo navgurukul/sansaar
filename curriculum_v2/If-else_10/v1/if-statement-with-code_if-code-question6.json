@@ -1,0 +1,61 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Example 6 :-"
+	},
+	{
+		"component": "text",
+		"value": "Draw a flowchart for this question and write the program."
+	},
+	{
+		"component": "text",
+		"value": "Take two numbers as input from the user in variables <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">varx</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">vary</span>.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Check whether <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">varx</span> is divisible by <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">vary</span>.",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "If yes, print <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Divisible</span> else print <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Not Divisible</span>."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Flowchart :-"
+	},
+	{
+		"component": "image",
+		"value": "assets/question6-image1.png",
+		"alt": "question 10 png"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Program</span> :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "varx = int(input(\"enter number1: \")) <br>vary = int(input(\"enter number2: \")) <br>if(varx % vary == 0): <br>&emsp;&emsp;print(\"Divisible\") <br>else: <br>&emsp;&emsp;print(\"Not Divisible\") "
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "enter number1: <br>24 <br>enter number2: <br>12 <br>Divisible"
+	}
+]

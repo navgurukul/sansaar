@@ -1,0 +1,7 @@
+{
+	"Questions_question4_key1": "उदाहरण ४",
+	"Questions_question4_key2": "नेस्टेड <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">dictionary</span> मधून पहिली <span style=\"\">key</span> व्हॅल्यू जोडी काढून टाकण्यासाठी प्रोग्राम लिहा.",
+	"Questions_question4_key3": "<span style=\"\">कार्यक्रम</span> :-",
+	"Questions_question4_key4": "<span style=\"\">Output</span> : -",
+	"Questions_question4_key5": "Dic = {<br> 1: &#39;नवगुरुकुल&#39;,<br> 2: &#39;IN&#39;,<br> ३:<br> { &#39;ब&#39; : &#39;ते&#39;,<br> &#39;C&#39; : &#39;धर्मशाला&#39;<br> }<br> }"
+}

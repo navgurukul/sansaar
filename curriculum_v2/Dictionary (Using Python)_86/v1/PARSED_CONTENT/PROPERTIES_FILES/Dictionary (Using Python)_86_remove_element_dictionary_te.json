@@ -1,0 +1,16 @@
+{
+	"remove_element_dictionary_key1": "నిఘంటువు నుండి మూలకాలను తీసివేయడం:-",
+	"remove_element_dictionary_key2": "మేము అనేక పద్ధతుల ద్వారా నిఘంటువు మూలకాలను తొలగించవచ్చు.<br> క్రింద ఇచ్చినట్లుగా.",
+	"remove_element_dictionary_key3": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">పాప్()</span> :-",
+	"remove_element_dictionary_key4": "<b>పాప్()</b> పద్ధతిని ఉపయోగించి మనం డిక్షనరీ నుండి పేర్కొన్న మూలకాన్ని తీసివేయవచ్చు.",
+	"remove_element_dictionary_key5": "<span style=\"\">అవుట్‌పుట్</span> :-",
+	"remove_element_dictionary_key6": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">{&#39;బ్రాండ్&#39;: &#39;ఫోర్డ్&#39;, &#39;సంవత్సరం&#39;: 1964}</span>",
+	"remove_element_dictionary_key7": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">పానీయం()</span> :-",
+	"remove_element_dictionary_key8": "<b>popitem()</b> పద్ధతి చివరిగా చొప్పించిన అంశాన్ని తొలగిస్తుంది:",
+	"remove_element_dictionary_key9": "<span style=\"\">అవుట్‌పుట్</span> :-",
+	"remove_element_dictionary_key10": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">{&#39;name&#39;:&#39;jack&#39;,&#39;id&#39;:22}</span>",
+	"remove_element_dictionary_key11": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">డెల్</span> :-",
+	"remove_element_dictionary_key12": "<b>డెల్</b> <span style=\"\">కీ</span> పదాన్ని ఉపయోగించి మనం నిఘంటువు నుండి పేర్కొన్న మూలకాన్ని తీసివేయవచ్చు.",
+	"remove_element_dictionary_key13": "<span style=\"\">అవుట్‌పుట్</span> :-",
+	"remove_element_dictionary_key14": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">{&#39;name&#39;:&#39;jack&#39;,&#39;id&#39;:22}</span>"
+}

@@ -1,0 +1,30 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Example 4"
+	},
+	{
+		"component": "text",
+		"value": "Write a <span style=\"\">Code</span> that finds <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">second maximum element</span> from the list and print it."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "# List of numbers<br>list1 = [50, 40, 23, 70, 56, 12, 5, 10, 7]<br><br># Removing duplicates from the list<br>list2 = list(set(list1))<br><br># Sorting the  list<br>list2.sort()<br><br># Printing the second last element<br>print(\"Second largest element is:\", list2[-2])"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Output:-"
+	},
+	{
+		"component": "text",
+		"value": "Second largest element is: 56"
+	},
+	{
+		"component": "text",
+		"value": "For this list, the <span style=\"\">output</span> of your program should be <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">56</span>."
+	}
+]

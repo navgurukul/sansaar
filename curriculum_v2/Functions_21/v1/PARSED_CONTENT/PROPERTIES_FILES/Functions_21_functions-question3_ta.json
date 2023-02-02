@@ -1,0 +1,17 @@
+{
+	"functions-question3_key1": "எடுத்துக்காட்டு 4 :-",
+	"functions-question3_key2": "இந்த கேள்வி 2 பகுதிகளாக உள்ளது. இரண்டு பகுதிகளின் <span style=\"\">குறியீட்டையும்</span> ஒரே <span style=\"\">கோப்பில்</span> எழுதுவதன் மூலம் சமர்ப்பிக்கவும்.",
+	"functions-question3_key3": "<span style=\"\">எடுத்துக்காட்டு 4 (பகுதி 1)</span> :-",
+	"functions-question3_key4": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">add_numbers</span> என்ற பெயரில் ஒரு செயல்பாட்டை எழுதவும், இது இரண்டு எண்களை வாதங்களாக எடுத்து பின்னர் அவற்றின் கூட்டுத்தொகையை அச்சிடுகிறது. வாதங்களின் பெயர் <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">எண் 1</span> மற்றும் <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">எண் 2</span> ஆக இருக்க வேண்டும்.",
+	"functions-question3_key5": "<span style=\"\">வெளியீடு</span> :-",
+	"functions-question3_key6": "68",
+	"functions-question3_key7": "<span style=\"\">எடுத்துக்காட்டு 4 (பகுதி 2)</span> :-",
+	"functions-question3_key8": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">add_numbers_list</span> என்ற பெயரில் ஒரு செயல்பாட்டை எழுதவும், இது இரண்டு <span style=\"\">முழு எண்களின்</span> 2 பட்டியல்களை எடுத்து, பின்னர் முழு <span style=\"\">எண்களின்</span> கூட்டுத்தொகையை அதே நிலையில் அச்சிடுகிறது.",
+	"functions-question3_key9": "பகுதி 1 இல் கொடுக்கப்பட்டுள்ள add_numbers செயல்பாட்டைப் பயன்படுத்தி, அதே நிலை கொண்ட 2 <span style=\"\">முழு எண்களை</span> எண்ணவும்.",
+	"functions-question3_key10": "இந்த செயல்பாட்டிற்கு நாம் [50, 60, 10] மற்றும் [10, 20, 13] கொடுத்தால், அது இதை அச்சிடும்.",
+	"functions-question3_key11": "60",
+	"functions-question3_key12": "80",
+	"functions-question3_key13": "23",
+	"functions-question3_key14": "<span style=\"\">வெளியீடு</span> :-",
+	"functions-question3_key15": "50<br> 70<br> 90"
+}

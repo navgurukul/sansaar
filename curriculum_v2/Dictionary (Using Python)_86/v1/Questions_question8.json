@@ -1,0 +1,31 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Example 8"
+	},
+	{
+		"component": "text",
+		"value": "Take <span style=\"\">input</span> of name and marks of 10 students and store to a dictionary."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Program</span> :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "details={}<br>for i in range(10):<br>   n=input(\"enter name:\")<br>   m=input(\"enter marks:\")<br>   details[n]=m<br>print(details)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "{'sonu': 85, 'Kartik': 90, 'Deepak': 96, 'Aman': 76, 'Somesh': 60, 'Umesh': 85, 'Amarpal': 70, 'Roshan': 57, 'Riyaz': 98, 'Shabid': 56}"
+	}
+]

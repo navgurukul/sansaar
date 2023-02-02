@@ -1,0 +1,31 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "Questions_question6_key1"
+  },
+  {
+    "component": "text",
+    "value": "Questions_question6_key2"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Questions_question6_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "dic={\"ball\":\"red\",  \"bat\":4, \"wickets\":8, \"ball\":\"green\", \"bat\":3}<br>temp = []<br>res = dict()<br>for key, val in dic.items():<br>    if val not in temp:<br>      temp.append(val)<br>      res[key] = val<br>print(res)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Questions_question6_key4"
+  },
+  {
+    "component": "text",
+    "value": "Questions_question6_key5"
+  }
+]

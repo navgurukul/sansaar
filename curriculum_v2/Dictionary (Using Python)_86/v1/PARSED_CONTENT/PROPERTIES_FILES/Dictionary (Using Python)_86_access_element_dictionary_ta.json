@@ -1,0 +1,12 @@
+{
+	"access_element_dictionary_key1": "அகராதியிலிருந்து கூறுகளை <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">அணுகுதல்</span> :-",
+	"access_element_dictionary_key2": "சதுர அடைப்புக்குறிகளைப் பயன்படுத்தி அகராதி மதிப்புகளை நாம் <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">அணுகலாம்</span> . புரிந்து கொள்ள கீழே உள்ள உதாரணத்தைப் பாருங்கள்.",
+	"access_element_dictionary_key3": "உதாரணமாக :-",
+	"access_element_dictionary_key4": "<span style=\"\">வெளியீடு</span> :-",
+	"access_element_dictionary_key5": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">அமைப்பு<br> ஆண்<br> 20</span>",
+	"access_element_dictionary_key6": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">பெறு()</span> :-",
+	"access_element_dictionary_key7": "அகராதி மதிப்புகளை அணுக <b>get()</b> செயல்பாட்டையும் பயன்படுத்தலாம்.",
+	"access_element_dictionary_key8": "உதாரணமாக :-",
+	"access_element_dictionary_key9": "<span style=\"\">வெளியீடு</span> :-",
+	"access_element_dictionary_key10": "ஆண்<br> {&#39;அமைப்பு&#39;: &#39;நவகுருகுல்&#39;, &#39;இடம்&#39;: &#39;தர்மசாலா&#39;}<br> தர்மசாலா"
+}

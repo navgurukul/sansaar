@@ -1,0 +1,45 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "if-statement-with-code_if-code-question4_key1"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-code-question4_key2"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-code-question4_key3"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "if-statement-with-code_if-code-question4_key4"
+  },
+  {
+    "component": "image",
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/course_images_v2/If-else_10/assets/question4-image1.png",
+    "alt": "if-statement-with-code_if-code-question4_key5"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "if-statement-with-code_if-code-question4_key6"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "water = int(input(\"enter the value of water level in litre: \")) <br>if(water < 1): <br>&emsp;&emsp;print(\"more water needs to be filled\") <br>elif((water > 1) and (water < 10)): <br>&emsp;&emsp;print(\"no need to fill water\") <br>elif(water > 10): <br>&emsp;&emsp;print(\"overflow\")"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "if-statement-with-code_if-code-question4_key7"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-code-question4_key8"
+  }
+]

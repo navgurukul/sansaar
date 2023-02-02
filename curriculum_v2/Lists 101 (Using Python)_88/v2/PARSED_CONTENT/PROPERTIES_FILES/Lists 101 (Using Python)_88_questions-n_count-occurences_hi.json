@@ -1,0 +1,10 @@
+{
+	"questions-n_count-occurences_key1": "उदाहरण 2",
+	"questions-n_count-occurences_key2": "<b>घटनाएँ</b> - शब्द <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">घटित</span> से बना है जिसका अर्थ है कि एक निश्चित वर्ण या शब्द कितनी बार प्रकट होता है।",
+	"questions-n_count-occurences_key3": "<b>Sample list</b>",
+	"questions-n_count-occurences_key4": "<b>Sample list का <span style=\"\">Output</span></b>",
+	"questions-n_count-occurences_key5": "[[\"a\", 6], [\"n\", 3], [\"t\", 2], [\"x\", 2], [\"u\", 1], [\"g\", 1]]",
+	"questions-n_count-occurences_key6": "a - 6 बार<br> n - 3 बार<br> t - 2 बार<br> x - 2 बार<br> u - 1 बार<br> g - 1 बार",
+	"questions-n_count-occurences_key7": "हमें <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">char_list</span> में मौजूद वर्णों की <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">घटनाओं</span> को गिनना है और हमें <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">नेस्टेड सूची</span> में <span style=\"\">सहेजना</span> है, फिर हमें <span style=\"\">आउटपुट</span> को प्रिंट करने के लिए उस नेस्टेड सूची का उपयोग करना होगा।",
+	"questions-n_count-occurences_key8": "<span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">समाधान:-</span>"
+}

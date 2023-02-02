@@ -1,0 +1,11 @@
+{
+	"if-statement-with-code_if-code-question2_key1": "उदाहरण 2:-",
+	"if-statement-with-code_if-code-question2_key2": "आपके पास एक <span style=\"\">variable</span> जिसे <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">varx</span> कहा जाता है, मान के साथ दिखाया गया है: -",
+	"if-statement-with-code_if-code-question2_key3": "एक फ़्लोचार्ट बनाएं और उपयोगकर्ता से <span style=\"\">इनपुट</span> के रूप में एक नंबर लेने के लिए प्रोग्राम भी लिखें। इस <span style=\"\">इनपुट</span> को <span style=\"\">पूर्णांक</span> में बदलें। जांचें कि क्या यह <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">varx</span> के बराबर है।",
+	"if-statement-with-code_if-code-question2_key4": "यदि संख्या <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">varx</span> के बराबर है, तो <b>\"बराबर\"</b> प्रिंट करें अन्यथा \"बराबर <b>नहीं\"</b> प्रिंट करें।",
+	"if-statement-with-code_if-code-question2_key5": "फ़्लोचार्ट :-",
+	"if-statement-with-code_if-code-question2_key6": "प्रश्न1-उदाहरण3",
+	"if-statement-with-code_if-code-question2_key7": "<span style=\"\">कार्यक्रम</span> :-",
+	"if-statement-with-code_if-code-question2_key8": "<span style=\"\">Output</span> :-",
+	"if-statement-with-code_if-code-question2_key9": "एक नंबर दर्ज करें:<br> 200<br> बराबर नहीं"
+}

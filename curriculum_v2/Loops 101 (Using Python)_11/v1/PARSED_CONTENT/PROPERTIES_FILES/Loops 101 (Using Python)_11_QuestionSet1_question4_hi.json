@@ -1,0 +1,15 @@
+{
+	"QuestionSet1_question4_key1": "उदाहरण 5",
+	"QuestionSet1_question4_key2": "<span style=\"\">Loops</span> का उपयोग करके इस पैटर्न को प्रिंट करें।",
+	"QuestionSet1_question4_key3": "<b>1, -2, 3, -4, 5, -6 ..99, -100</b>",
+	"QuestionSet1_question4_key4": "संकेत:",
+	"QuestionSet1_question4_key5": "ध्यान दें कि पहली संख्या <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">positive</span> है, और दूसरी संख्या <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">negative</span> है, फिर एक धनात्मक और फिर ऋणात्मक संख्या इत्यादि मुद्रित की जानी चाहिए। पैटर्न इस तरह दिखता है <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Positive (+) Number</span> , <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Negative (-) Number</span> , <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Positive (+) Number</span> , <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Negative</span> और इसी तरह।",
+	"QuestionSet1_question4_key6": "हम किसी भी संख्या को <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">-1</span> से गुणा करके ऋणात्मक बना सकते हैं।",
+	"QuestionSet1_question4_key7": "उदाहरण :-",
+	"QuestionSet1_question4_key8": "10 * -1 = -10<br> 2* -1 = 2",
+	"QuestionSet1_question4_key9": "प्रोग्राम लिखने के लिए आप उपरोक्त <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Hint</span> का उपयोग कर सकते हैं।",
+	"QuestionSet1_question4_key10": "<span style=\"\">कार्यक्रम</span> :-",
+	"QuestionSet1_question4_key11": "मैं = 1<br> जबकि (मैं &lt;= 100):<br> अगर (मैं% 2 == 0):<br> प्रिंट (i * -1, अंत = &quot;&quot;)<br> वरना:<br> प्रिंट (i, अंत = &quot;&quot;)<br> मैं+=1",
+	"QuestionSet1_question4_key12": "<span style=\"\">Output</span> :-",
+	"QuestionSet1_question4_key13": "1 -2 3 -4 5 -6 7 -8 9 -10 11 -12 13 -14 15 -16 17 -18 19 -20 21 -22 23 -24 25 -26 27 -28 29 -30 31 -32 33 - 34 35 -36 37 -38 39 -40 41 -42 43 -44 45 -46 47 -48 49 -50 51 -52 53 -54 55 -56 57 -58 59 -60 61 -62 63 -64 65 -66 67 -68 69 -70 71 -72 73 -74 75 -76 77 -78 79 -80 81 -82 83 -84 85 -86 87 -88 89 -90 91 -92 93 -94 95 -96 97 -98 99 -100"
+}

@@ -1,0 +1,16 @@
+[
+	{
+		"value": "Nested Loop",
+		"component": "header",
+		"variant": 2
+	},
+	{
+		"value": "A nested Loop means a loop present within a loop.<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/2c6e7670-f2a5-43d1-94a2-17b1a5c2e029-image3.png",
+		"component": "image",
+		"alt": ""
+	}
+]

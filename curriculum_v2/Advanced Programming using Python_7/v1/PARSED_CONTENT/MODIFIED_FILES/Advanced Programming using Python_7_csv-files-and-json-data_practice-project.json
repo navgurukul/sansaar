@@ -1,0 +1,19 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "csv-files-and-json-data_practice-project_key1"
+  },
+  {
+    "component": "text",
+    "value": "csv-files-and-json-data_practice-project_key2"
+  },
+  {
+    "component": "text",
+    "value": "csv-files-and-json-data_practice-project_key3"
+  },
+  {
+    "component": "text",
+    "value": "csv-files-and-json-data_practice-project_key4"
+  }
+]

@@ -1,0 +1,10 @@
+{
+	"questions-n_count-occurences_key1": "उदाहरण २",
+	"questions-n_count-occurences_key2": "<b>घटना</b> - <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">घडणे</span> या शब्दापासून बनवले जाते ज्याचा अर्थ एखादे विशिष्ट वर्ण किंवा शब्द किती वेळा दिसून येतो.",
+	"questions-n_count-occurences_key3": "<b>नमुना यादी</b>",
+	"questions-n_count-occurences_key4": "<b>नमुना यादीतील <span style=\"\">Output</span></b>",
+	"questions-n_count-occurences_key5": "[[\"a\", 6], [\"n\", 3], [\"t\", 2], [\"x\", 2], [\"u\", 1], [\"g\", 1]]",
+	"questions-n_count-occurences_key6": "a - 6 वेळा<br> n - 3 वेळा<br> टी - 2 वेळा<br> x - 2 वेळा<br> u - 1 वेळा<br> g - 1 वेळा",
+	"questions-n_count-occurences_key7": "आपल्याला <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">char_list</span> मध्ये उपस्थित असलेल्या वर्णांच्या <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">घटना</span> मोजायच्या आहेत आणि आपल्याला <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">नेस्टेड लिस्टमध्ये</span> <span style=\"\">सेव्ह</span> करावे लागेल, नंतर <span style=\"\">आउटपुट</span> प्रिंट करण्यासाठी आपल्याला ती नेस्टेड सूची वापरावी लागेल.",
+	"questions-n_count-occurences_key8": "<span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">उपाय:-</span>"
+}

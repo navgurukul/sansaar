@@ -1,0 +1,10 @@
+{
+	"if-statement-with-code_if-code-question1_key1": "उदाहरण 1 :-",
+	"if-statement-with-code_if-code-question1_key2": "<span style=\"\">number</span> नाम के <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">variable</span> <span style=\"\"></span> में नंबर इनपुट ले और इसे <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">int</span> में बदलें।",
+	"if-statement-with-code_if-code-question1_key3": "अगर यह संख्या 10 से कम है तो <b>\"10 से छोटा है\"</b> प्रिंट करें। यदि यह 10 से अधिक और 20 से कम है तो <b>\"20 से छोटा है\"</b> प्रिंट करें। वरना अगर यह 20 से बड़ा है तो <b>\"20 से बड़ा है\"</b> प्रिंट करें। उपरोक्त निर्देशों के अनुसार फ्लोचार्ट को पूरा करें।",
+	"if-statement-with-code_if-code-question1_key4": "फ़्लोचार्ट :-",
+	"if-statement-with-code_if-code-question1_key5": "फ़्लोचार्ट-प्रश्न-1",
+	"if-statement-with-code_if-code-question1_key6": "<span style=\"\">कार्यक्रम</span> :-",
+	"if-statement-with-code_if-code-question1_key7": "<span style=\"\">Output</span> :-",
+	"if-statement-with-code_if-code-question1_key8": "Enter any number <br>12 <br>20 se chotta hai"
+}

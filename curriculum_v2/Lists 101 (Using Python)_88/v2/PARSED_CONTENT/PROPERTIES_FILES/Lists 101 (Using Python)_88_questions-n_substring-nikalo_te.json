@@ -1,0 +1,11 @@
+{
+	"questions-n_substring-nikalo_key1": "ఉదాహరణ 4",
+	"questions-n_substring-nikalo_key2": "<span style=\"\">స్ట్రింగ్</span>",
+	"questions-n_substring-nikalo_key3": "<span style=\"\">అవుట్‌పుట్:-</span>",
+	"questions-n_substring-nikalo_key4": "అసలు స్ట్రింగ్: త్వరిత గోధుమ నక్క సోమరి కుక్కపైకి దూకింది. కుక్క వరండాలో పడుకుంది.<br> సబ్‌స్ట్రింగ్ తీసివేసిన తర్వాత స్ట్రింగ్: త్వరిత గోధుమరంగు నక్క సోమరి కుక్కను ఎగరేసింది. కుక్క వరండాలో పడుకుంది.",
+	"questions-n_substring-nikalo_key5": "subStr యొక్క అన్ని సంఘటనలను <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">mainStr</span> నుండి తొలగించే విధంగా మీరు ప్రోగ్రామ్‌ను <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">వ్రాయాలి</span> . అంటే పై ప్రోగ్రామ్ యొక్క <span style=\"\">అవుట్‌పుట్</span> క్రింద ఇవ్వబడింది.",
+	"questions-n_substring-nikalo_key6": "బోనస్ భాగం",
+	"questions-n_substring-nikalo_key7": "ప్రధాన <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Str</span> నుండి subStrను రీప్లేస్‌మెంట్ <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">స్ట్రీని</span> ఉపయోగించి <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">రీప్లేస్</span> చేసి, ఆపై దానిని ప్రింట్ చేయండి.",
+	"questions-n_substring-nikalo_key8": "<span style=\"\">అవుట్‌పుట్:-</span>",
+	"questions-n_substring-nikalo_key9": "త్వరిత గోధుమ నక్క సోమరి కుక్కపైకి దూకింది. కుక్క వరండాలో పడుకుంది."
+}

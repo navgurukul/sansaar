@@ -1,0 +1,73 @@
+[
+  {
+    "value": "Abstraction: (Teacher Models)_key1",
+    "component": "header",
+    "variant": 2
+  },
+  {
+    "value": "Abstraction: (Teacher Models)_key2",
+    "component": "text"
+  },
+  {
+    "value": "Abstraction: (Teacher Models)_key3",
+    "component": "header",
+    "variant": 3
+  },
+  {
+    "value": "Abstraction: (Teacher Models)_key4",
+    "component": "text",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "value": "Abstraction: (Teacher Models)_key5",
+    "component": "text",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "value": "Abstraction: (Teacher Models)_key6",
+    "component": "text",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "value": "Abstraction: (Teacher Models)_key7",
+    "component": "text",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "value": "Abstraction: (Teacher Models)_key8",
+    "component": "header",
+    "variant": 3
+  },
+  {
+    "value": "Abstraction: (Teacher Models)_key9",
+    "component": "text"
+  },
+  {
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/bc3c5991-ef7e-4186-a43a-079f565cb12f-image4.png",
+    "component": "image",
+    "alt": "Abstraction: (Teacher Models)_key10"
+  },
+  {
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/fbc7fbd7-21e8-42a1-bd40-9a23bd242650-image2.png",
+    "component": "image",
+    "alt": "Abstraction: (Teacher Models)_key11"
+  },
+  {
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/dfd8625b-aa51-40d5-9dcc-51b01b197be9-image5.png",
+    "component": "image",
+    "alt": "Abstraction: (Teacher Models)_key12"
+  },
+  {
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/8042335d-313e-495a-965d-45fd13875b85-image3.png",
+    "component": "image",
+    "alt": "Abstraction: (Teacher Models)_key13"
+  }
+]

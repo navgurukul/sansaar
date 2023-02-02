@@ -1,0 +1,69 @@
+[
+	{
+		"value": "Abstraction: (Teacher Models)",
+		"component": "header",
+		"variant": 2
+	},
+	{
+		"value": "Let’s do abstraction to understand the project and make it simple<br>",
+		"component": "text"
+	},
+	{
+		"value": "What will happen on the stage?",
+		"component": "header",
+		"variant": 3
+	},
+	{
+		"value": "The user can add a book to the e-catalogue.",
+		"component": "text",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"value": "The user can remove a book from e-catalogue.",
+		"component": "text",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"value": "The user can check if a specific book is available in the e-catalogue and find the number serial number of the book.",
+		"component": "text",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"value": "What sprite and backdrop will be needed on the stage?",
+		"component": "header",
+		"variant": 3
+	},
+	{
+		"value": "Add book button sprite<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/9760f0cd-2c4c-441b-8984-17a9261efd98-image9.png",
+		"component": "image",
+		"alt": ""
+	},
+	{
+		"value": "Find book button sprite<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/6e2f7210-2e5a-4552-af77-0a7d8b8a88c4-image6.png",
+		"component": "image",
+		"alt": ""
+	},
+	{
+		"value": "Remove book button sprite<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/9fd32730-ff18-4ea8-81e4-eeca49fc4f4e-image8.png",
+		"component": "image",
+		"alt": ""
+	}
+]

@@ -1,0 +1,10 @@
+{
+	"questions-n_count-occurences_key1": "ఉదాహరణ 2",
+	"questions-n_count-occurences_key2": "<b>సంఘటనలు</b> - <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">సంభవించే</span> పదం నుండి తయారు చేయబడింది, అంటే నిర్దిష్ట అక్షరం లేదా పదం ఎన్నిసార్లు కనిపిస్తుంది.",
+	"questions-n_count-occurences_key3": "<b>నమూనా జాబితా</b>",
+	"questions-n_count-occurences_key4": "<b>నమూనా జాబితా <span style=\"\">అవుట్‌పుట్</span></b>",
+	"questions-n_count-occurences_key5": "[[\"a\", 6], [\"n\", 3], [\"t\", 2], [\"x\", 2], [\"u\", 1], [\"g\", 1]]",
+	"questions-n_count-occurences_key6": "a - 6 సార్లు<br> n - 3 సార్లు<br> t - 2 సార్లు<br> x - 2 సార్లు<br> u - 1 సార్లు<br> g - 1 సార్లు",
+	"questions-n_count-occurences_key7": "మేము <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">char_list</span> లో ఉన్న అక్షరాల <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">సంఘటనలను లెక్కించాలి</span> మరియు మేము <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">సమూహ జాబితాలో</span> <span style=\"\">సేవ్</span> చేయాలి, ఆపై <span style=\"\">అవుట్‌పుట్‌ను</span> ప్రింట్ చేయడానికి మనం ఆ సమూహ జాబితాను ఉపయోగించాలి.",
+	"questions-n_count-occurences_key8": "<span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">పరిష్కారం:-</span>"
+}

@@ -1,0 +1,11 @@
+{
+	"if-statement-with-code_if-code-question3_key1": "Example 3 :-",
+	"if-statement-with-code_if-code-question3_key2": "You have a <span style=\"\">variable</span> called <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number</span> with the value as shown:",
+	"if-statement-with-code_if-code-question3_key3": "Create a flowchart and also write the program that takes a number as <span style=\"\">input</span> from the user. Check if this number is greater than or equal to <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number</span>.",
+	"if-statement-with-code_if-code-question3_key4": "If the entered number is greater than or equal to <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number</span>, print <b>\"greater than or equal\"</b> else <b>\"lesser\"</b>. ",
+	"if-statement-with-code_if-code-question3_key5": "Flowchart :-",
+	"if-statement-with-code_if-code-question3_key6": "question1-example3",
+	"if-statement-with-code_if-code-question3_key7": "<span style=\"\">Program</span> :-",
+	"if-statement-with-code_if-code-question3_key8": "<span style=\"\">Output</span> :-",
+	"if-statement-with-code_if-code-question3_key9": "enter  a number: <br>300 <br>lesser"
+}

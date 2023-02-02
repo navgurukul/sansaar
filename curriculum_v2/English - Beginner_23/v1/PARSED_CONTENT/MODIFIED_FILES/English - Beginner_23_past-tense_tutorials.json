@@ -1,0 +1,21 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "past-tense_tutorials_key1"
+  },
+  {
+    "component": "text",
+    "value": "past-tense_tutorials_key2",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "past-tense_tutorials_key3",
+    "decoration": {
+      "type": "bullet"
+    }
+  }
+]

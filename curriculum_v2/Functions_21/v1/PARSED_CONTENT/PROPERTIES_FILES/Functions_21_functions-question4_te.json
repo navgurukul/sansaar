@@ -1,0 +1,19 @@
+{
+	"functions-question4_key1": "ఉదాహరణ 5 :-",
+	"functions-question4_key2": "ఈ ఉదాహరణ 2 భాగాలుగా ఉంది. రెండు భాగాల <span style=\"\">కోడ్‌ను</span> ఒకే <span style=\"\">ఫైల్‌లో</span> వ్రాయడం ద్వారా సమర్పించండి.",
+	"functions-question4_key3": "<span style=\"\">ఉదాహరణ 5 (భాగం 1)</span> :-",
+	"functions-question4_key4": "రెండు సంఖ్యలను తీసుకునే <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">check_numbers</span> పేరుతో ఒక ఫంక్షన్‌ను వ్రాసి, రెండు సంఖ్యలు సమానంగా ఉంటే (2 ద్వారా భాగించండి) &quot;రెండూ సమానంగా ఉంటాయి&quot; అని ప్రింట్ చేయండి, లేకపోతే &quot;రెండు సంఖ్యలు సరి కాదు&quot; అని ముద్రించండి.",
+	"functions-question4_key5": "<span style=\"\">అవుట్‌పుట్</span> :-",
+	"functions-question4_key6": "రెండూ సమానంగా ఉంటాయి<br> 5.0 10.0",
+	"functions-question4_key7": "<span style=\"\">ఉదాహరణ 5 (పార్ట్ 2)</span> :-",
+	"functions-question4_key8": "ఇప్పుడు <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">check_numbers_list</span> పేరుతో ఒక ఫంక్షన్‌ను వ్రాయండి, ఇది <span style=\"\">పూర్ణాంకం</span> యొక్క జాబితాను ఆర్గ్యుమెంట్‌గా తీసుకుంటుంది మరియు అదే సూచికతో ఉన్న <span style=\"\">పూర్ణాంకాలు</span> రెండూ సమానంగా ఉన్నాయా లేదా అని తనిఖీ చేస్తుంది.",
+	"functions-question4_key9": "దీన్ని తనిఖీ చేయడానికి, మునుపటి <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">పార్ట్ 1</span> లో వ్రాసిన <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">చెక్_నంబర్స్</span> ఫంక్షన్‌ని ఉపయోగించండి.",
+	"functions-question4_key10": "మీరు మీ ఫంక్షన్ <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">[2, 6, 18, 10, 3, 75]</span> మరియు <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">[6, 19, 24, 12, 3, 87]</span> అని పిలిస్తే, అది ఈ <span style=\"\">అవుట్‌పుట్</span> ఇవ్వాలి:",
+	"functions-question4_key11": "<span style=\"\">సూచన</span> :-",
+	"functions-question4_key12": "ఒకే ఇండెక్స్‌లోని పూర్ణాంకాలు సమానంగా ఉంటే",
+	"functions-question4_key13": "రెండు ఇంటర్‌జర్‌లు సమానంగా ఉంటాయి.",
+	"functions-question4_key14": "ఒకే ఇండెక్స్‌లోని పూర్ణాంకాలు సమానంగా లేకుంటే",
+	"functions-question4_key15": "రెండు ఇంటర్‌జర్‌లు కూడా లేవు",
+	"functions-question4_key16": "<span style=\"\">అవుట్‌పుట్</span> :-",
+	"functions-question4_key17": "రెండూ సమానంగా ఉంటాయి<br> రెండు సంఖ్యలు సమానంగా లేవు<br> రెండు సంఖ్యలు సమానంగా లేవు<br> రెండు సంఖ్యలు సమానంగా లేవు<br> రెండు సంఖ్యలు సమానంగా లేవు"
+}

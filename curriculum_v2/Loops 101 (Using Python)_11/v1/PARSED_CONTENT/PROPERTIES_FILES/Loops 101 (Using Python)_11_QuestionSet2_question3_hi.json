@@ -1,0 +1,12 @@
+{
+	"QuestionSet2_question3_key1": "उदाहरण 4",
+	"QuestionSet2_question3_key2": "एक <span style=\"\">loop</span> बनाएं कि <span style=\"\">inputs</span> 10 संख्याएं। <span style=\"\">input6\u0018a</span> उन सभी नंबरों का योग प्रिंट करता है।",
+	"QuestionSet2_question3_key3": "यह कार्यक्रम ऐसे चलेगा। संख्याओं को <span style=\"\">input</span> के रूप में लेने के लिए हर बार <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">input()</span> का उपयोग करें।",
+	"QuestionSet2_question3_key4": "10 में से चरण 1 :- कोई भी संख्या दर्ज करें &gt; 10<br> चरण 2 का 10 :- कोई भी संख्या दर्ज करें &gt; 16<br> 10 का चरण 3 :- कोई भी संख्या दर्ज करें&gt; 9<br> चरण 10 का 4 :- कोई भी संख्या दर्ज करें &gt; 10<br> चरण 10 का 5 :- कोई भी संख्या दर्ज करें &gt; 56<br> चरण 6 का 10 :- कोई भी संख्या दर्ज करें &gt; 78<br> चरण 10 का 7 :- कोई भी संख्या दर्ज करें &gt; 98<br> चरण 8 का 10 :- कोई भी संख्या दर्ज करें &gt; 43<br> चरण 10 का 9 :- कोई भी संख्या दर्ज करें &gt; 21<br> चरण 10 का 10 :- कोई भी संख्या दर्ज करें &gt; 76",
+	"QuestionSet2_question3_key5": "कुल योग: 417",
+	"QuestionSet2_question3_key6": "अंतिम पंक्ति में, <b>Total Sum: 417</b> प्रिंट किया जाएगा। इसे प्रिंट किया जाएगा क्योंकि <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">sum of **10+16+9+10+56+78+98+43+21+76**</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">417</span> है।",
+	"QuestionSet2_question3_key7": "<span style=\"\">कार्यक्रम</span> :-",
+	"QuestionSet2_question3_key8": "i = 0 # लूप को पुनरावृत्त करने के लिए<br> s = 0 # योग की गणना करने के लिए मान को 0 से प्रारंभ करना<br> जबकि मैं &lt;10:<br> a = int (इनपुट (&quot;कोई भी संख्या दर्ज करें:&quot;)) # इनपुट को पूर्णांक के रूप में लेना<br> s = s + a # प्रत्येक इनपुट के बाद योग की गणना करने के लिए चर को संशोधित करना<br> i += 1 # लूप काउंटर को बढ़ाना<br> प्रिंट (&quot;योग है =&quot;, s)",
+	"QuestionSet2_question3_key9": "<span style=\"\">Output</span> :-",
+	"QuestionSet2_question3_key10": "कोई भी नंबर दर्ज करें:1<br> कोई भी नंबर दर्ज करें:2<br><br> कोई भी नंबर दर्ज करें:3<br> कोई भी नंबर दर्ज करें:4<br> कोई भी नंबर दर्ज करें:5<br> कोई भी संख्या दर्ज करें: 6<br> कोई भी नंबर दर्ज करें:7<br> कोई भी नंबर दर्ज करें:8<br> कोई भी नंबर दर्ज करें:9<br> कोई भी नंबर दर्ज करें:10<br> योग है = 55"
+}

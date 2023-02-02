@@ -1,0 +1,61 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Example 4"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "<span style=\"\">string</span>"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "# initializing string<br>test_str = \"the quick brown fox jumped over the lazy dog. the dog slept over the verandah.\"<br># printing original string<br>print(\"The original string is : \" + test_str)<br># initializing sub list<br>sub_list = ['over']<br># Remove substring list from String<br># Using loop + replace()<br>for sub in sub_list:<br>&emsp;test_str = test_str.replace(' ' + sub + ' ', ' ')<br># printing result<br>print(\"The string after substring removal : \" + test_str)"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"\">Output:-</span>"
+	},
+	{
+		"component": "text",
+		"value": "The original string is : the quick brown fox jumped over the lazy dog. the dog slept over the verandah.<br>The string after substring removal : the quick brown fox jumped the lazy dog. the dog slept the verandah."
+	},
+	{
+		"component": "text",
+		"value": "You have to write a program in such a way that should remove all the occurences of <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">subStr</span> from <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">mainStr</span>. Means the <span style=\"\">output</span> of the above program is given below."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "the quick brown fox jumped the lazy dog. the dog slept the verandah."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Bonus Part"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "text = \"the quick brown fox jumped over the lazy dog. the dog slept over the verandah.\"<br><br># replace over with on<br>replaced_text = text.replace('over', 'on')<br>print(replaced_text)"
+	},
+	{
+		"component": "text",
+		"value": "Replace the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">subStr</span> from <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">mainStr</span> using <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">replacementStr</span> and then print it."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"\">Output:-</span>"
+	},
+	{
+		"component": "text",
+		"value": "the quick brown fox jumped on the lazy dog. the dog slept on the verandah."
+	}
+]

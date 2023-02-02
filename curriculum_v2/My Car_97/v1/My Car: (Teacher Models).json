@@ -1,0 +1,108 @@
+[
+	{
+		"value": "My Car: (Teacher Models)",
+		"component": "header",
+		"variant": 2
+	},
+	{
+		"value": "Let’s do abstraction to make the project clear in a better way and make it simple<br>",
+		"component": "text"
+	},
+	{
+		"value": "What will happen on the stage?",
+		"component": "header",
+		"variant": 3
+	},
+	{
+		"value": "Buildings are moving back",
+		"component": "text",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"value": "A traffic signal is moving back",
+		"component": "text",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"value": "Car wheels are rolling",
+		"component": "text",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"value": "The car stops when the brake is pressed playing the braking sound",
+		"component": "text",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"value": "Car plays horn",
+		"component": "text",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"value": "The car turns on/off light",
+		"component": "text",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"value": "What sprite and backdrop will be needed on the stage?",
+		"component": "header",
+		"variant": 3
+	},
+	{
+		"value": "Car Sprite<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/ece41b82-eda5-4c08-bc6f-61424c0c40f9-image6.png",
+		"component": "image",
+		"alt": ""
+	},
+	{
+		"value": "Building Sprite<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/8ffb012c-6eaa-4583-9a6a-4193c8558ed1-image8.png",
+		"component": "image",
+		"alt": ""
+	},
+	{
+		"value": "Traffic Signal Sprite<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/9176f2d0-19b3-4998-bf9b-67f4df971af4-image1.png",
+		"component": "image",
+		"alt": ""
+	},
+	{
+		"value": "Car Light Sprite<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/4ef0cc0f-fd83-4d98-a2ed-7a2df73f9c62-image12.png",
+		"component": "image",
+		"alt": ""
+	},
+	{
+		"value": "Backdrop Street<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/2bf1c2ac-1d21-4e40-8353-d7ccd43bed8d-image4.png",
+		"component": "image",
+		"alt": ""
+	}
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "questions-n_kitne-crorepati_key1"
+  },
+  {
+    "component": "text",
+    "value": "questions-n_kitne-crorepati_key2"
+  },
+  {
+    "component": "text",
+    "value": "questions-n_kitne-crorepati_key3"
+  },
+  {
+    "component": "text",
+    "value": "questions-n_kitne-crorepati_key4"
+  },
+  {
+    "component": "text",
+    "value": "questions-n_kitne-crorepati_key5"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "kitna_paisa_hai = [3000, 600000, 324990909, 90990900, 30000, 5600000, 690909090, 31010101, 532010, 510, 4100]<br>sumc=0<br>sumd=0<br>suml=0<br>for i in kitna_paisa_hai:<br>&emsp;if(i>=10000000):<br>&emsp;&emsp;sumc+=1<br>&emsp;elif(i>=100000):<br>&emsp;&emsp;suml+=1<br>&emsp;else:<br>&emsp;&emsp;sumd+=1<br>print(sumc,\"Crorepati\")<br>print(suml,\"Lakhpati\")<br>print(sumd,\"Dilwale\")"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "questions-n_kitne-crorepati_key6"
+  },
+  {
+    "component": "text",
+    "value": "questions-n_kitne-crorepati_key7"
+  }
+]

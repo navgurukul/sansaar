@@ -1,0 +1,53 @@
+[
+  {
+    "value": "My Car: (Teacher works with kids)_key1",
+    "component": "header",
+    "variant": 2
+  },
+  {
+    "value": "My Car: (Teacher works with kids)_key2",
+    "component": "header",
+    "variant": 4
+  },
+  {
+    "value": "My Car: (Teacher works with kids)_key3",
+    "component": "text"
+  },
+  {
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/160e369d-81fb-4db1-83c8-d5f31b2e7bf5-image15.png",
+    "component": "image",
+    "alt": "My Car: (Teacher works with kids)_key4"
+  },
+  {
+    "value": "My Car: (Teacher works with kids)_key5",
+    "component": "text"
+  },
+  {
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/31d94558-5026-4a90-ae2a-20366ae6763c-image14.png",
+    "component": "image",
+    "alt": "My Car: (Teacher works with kids)_key6"
+  },
+  {
+    "value": "My Car: (Teacher works with kids)_key7",
+    "component": "text"
+  },
+  {
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/ba944d32-8d4a-4e77-b17f-a9d0f4b20166-image5.png",
+    "component": "image",
+    "alt": "My Car: (Teacher works with kids)_key8"
+  },
+  {
+    "value": "My Car: (Teacher works with kids)_key9",
+    "component": "text"
+  },
+  {
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/634d4d09-e425-422c-9014-43128c08c649-image1.png",
+    "component": "image",
+    "alt": "My Car: (Teacher works with kids)_key10"
+  },
+  {
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/23ff491f-965f-4cd5-b2ad-e4d948fe8989-image9.png",
+    "component": "image",
+    "alt": "My Car: (Teacher works with kids)_key11"
+  }
+]

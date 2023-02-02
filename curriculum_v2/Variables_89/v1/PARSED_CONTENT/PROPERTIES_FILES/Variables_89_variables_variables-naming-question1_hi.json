@@ -1,0 +1,12 @@
+{
+	"variables_variables-naming-question1_key1": "चर नामकरण उदाहरण-1",
+	"variables_variables-naming-question1_key2": "उदाहरण",
+	"variables_variables-naming-question1_key3": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">var_12</span> नाम के VARIABLE को FLOAT वैल्यू असाइन/प्रदान करें।",
+	"variables_variables-naming-question1_key4": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">_var</span> नाम के VARIABLE को STRING वैल्यू असाइन/प्रदान करें।",
+	"variables_variables-naming-question1_key5": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">_12</span> नाम के VARIABLE को INTEGER वैल्यू असाइन/प्रदान करें। ",
+	"variables_variables-naming-question1_key6": "उपरोक्त 3 चरणों/स्टेप्स को करने के बाद, वे 3 variables को <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">print</span> करे ।",
+	"variables_variables-naming-question1_key7": "<span style=\"\">कार्यक्रम</span> :-",
+	"variables_variables-naming-question1_key8": "var_12 = 56.67<br> _var = &quot;हाय&quot;<br> _12 = 56<br> प्रिंट (var_12)<br> प्रिंट (_var)<br> प्रिंट(_12)",
+	"variables_variables-naming-question1_key9": "<span style=\"\">Output</span> :-",
+	"variables_variables-naming-question1_key10": "56.67<br> यह<br> 56"
+}

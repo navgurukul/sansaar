@@ -1,0 +1,29 @@
+[
+	{
+		"value": "E-Catalogue: (Teacher Models - 3)",
+		"component": "header",
+		"variant": 2
+	},
+	{
+		"value": "Let’s write codes for the sprites<br>",
+		"component": "text"
+	},
+	{
+		"value": "Remove a book<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/87771f0c-3bda-4e2b-9eb3-8560e06a8c54-image8.png",
+		"component": "image",
+		"alt": ""
+	},
+	{
+		"value": "To remove a book from e-catalogue<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/003149d9-b701-43b8-8fad-d75f27d60777-image1.png",
+		"component": "image",
+		"alt": ""
+	}
+]

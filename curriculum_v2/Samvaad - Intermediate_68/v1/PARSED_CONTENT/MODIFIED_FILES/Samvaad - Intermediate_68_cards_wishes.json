@@ -1,0 +1,51 @@
+[
+  {
+    "component": "text",
+    "value": "cards_wishes_key1",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "cards_wishes_key2"
+  },
+  {
+    "component": "text",
+    "value": "cards_wishes_key3",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "cards_wishes_key4",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "cards_wishes_key5",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "cards_wishes_key6",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "cards_wishes_key7",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  }
+]

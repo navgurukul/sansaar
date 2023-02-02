@@ -1,0 +1,26 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "kitne-aadmi-the_average-kitna-hai_key1"
+  },
+  {
+    "component": "text",
+    "value": "kitne-aadmi-the_average-kitna-hai_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "elements = [23, 14, 56, 12, 19, 9, 15, 25, 31, 42, 43]<br>sumeven=0<br>sumodd=0<br>for i in elements:<br>&emsp;if(i%2==0):<br>&emsp;&emsp;sumeven+=i<br>&emsp;else:<br>&emsp;&emsp;sumodd+=i<br>print(\"Sum of even numbers is=\",sumeven)<br>print(\"Sum of odd numbers is=\",sumodd)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "kitne-aadmi-the_average-kitna-hai_key3"
+  },
+  {
+    "component": "text",
+    "value": "kitne-aadmi-the_average-kitna-hai_key4"
+  }
+]

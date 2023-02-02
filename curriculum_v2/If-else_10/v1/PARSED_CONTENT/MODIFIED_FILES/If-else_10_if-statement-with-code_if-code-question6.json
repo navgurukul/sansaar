@@ -1,0 +1,61 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "if-statement-with-code_if-code-question6_key1"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-code-question6_key2"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-code-question6_key3",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-code-question6_key4",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-code-question6_key5"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "if-statement-with-code_if-code-question6_key6"
+  },
+  {
+    "component": "image",
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/course_images_v2/If-else_10/assets/question6-image1.png",
+    "alt": "if-statement-with-code_if-code-question6_key7"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "if-statement-with-code_if-code-question6_key8"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "varx = int(input(\"enter number1: \")) <br>vary = int(input(\"enter number2: \")) <br>if(varx % vary == 0): <br>&emsp;&emsp;print(\"Divisible\") <br>else: <br>&emsp;&emsp;print(\"Not Divisible\") "
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "if-statement-with-code_if-code-question6_key9"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-code-question6_key10"
+  }
+]

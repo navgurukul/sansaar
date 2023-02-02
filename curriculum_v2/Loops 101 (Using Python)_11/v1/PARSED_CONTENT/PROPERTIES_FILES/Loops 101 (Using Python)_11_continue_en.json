@@ -1,0 +1,8 @@
+{
+	"continue_key1": "<span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">continue</span>",
+	"continue_key2": "<span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">continue</span> is also a <span style=\"\">python</span> <b><span style=\"\">key</span>word</b>. <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">continue statement</span> skips some of the <span style=\"\">statements</span> of the <span style=\"\">loop</span> and <span style=\"\">executes</span> the other <span style=\"\">statements</span>.",
+	"continue_key3": "<span style=\"\">Output</span> :-",
+	"continue_key4": "1<br>2<br>3<br>4<br>Skipped Element: 5<br>6<br>7<br>8<br>9<br>10",
+	"continue_key5": "<span style=\"\">Output</span> :-",
+	"continue_key6": "v<br>g<br>r<br>k<br>l"
+}

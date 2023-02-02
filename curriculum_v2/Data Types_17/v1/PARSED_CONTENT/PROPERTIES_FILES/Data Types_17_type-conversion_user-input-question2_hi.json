@@ -1,0 +1,15 @@
+{
+	"type-conversion_user-input-question2_key1": "उदाहरण-2",
+	"type-conversion_user-input-question2_key2": "<i><span style=\"\">Save</span> आपका <span style=\"\">code</span> <span style=\"\"></span> <span style=\"\">�</span> में ( <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">.py extension</span> के साथ) और सबमिट करें।</i>",
+	"type-conversion_user-input-question2_key3": "इस उदाहरण को विभिन्न भागों में बांटा गया है। सभी <span style=\"\">कोड</span> को एक ही <span style=\"\">पायथन</span> <span style=\"\">फाइल</span> में <span style=\"\">लिखना</span> और अपलोड करना होता है।",
+	"type-conversion_user-input-question2_key4": "भाग 1",
+	"type-conversion_user-input-question2_key5": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">var_a</span> में <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">input</span> <span style=\"\">input</span> का उपयोग करके एक नंबर लें और इसे <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">INTEGER</span> में बदलना न भूलें।",
+	"type-conversion_user-input-question2_key6": "भाग 2",
+	"type-conversion_user-input-question2_key7": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">var_b</span> में <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">input</span> <span style=\"\">input</span> का उपयोग करके एक नंबर लें और इसे <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">INTEGER</span> में बदलना न भूलें।",
+	"type-conversion_user-input-question2_key8": "भाग 3",
+	"type-conversion_user-input-question2_key9": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">var_a</span> और <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">var_b</span> का योग प्रिंट करें।",
+	"type-conversion_user-input-question2_key10": "<span style=\"\">कार्यक्रम</span> :-",
+	"type-conversion_user-input-question2_key11": "var_a = इनपुट (&quot;पहला नंबर दर्ज करें:&quot;)<br> var_b = इनपुट (&quot;दूसरा नंबर दर्ज करें:&quot;)<br> var_a=int(var_a)<br> var_b=int(var_b)<br> प्रिंट (var_a + var_b)",
+	"type-conversion_user-input-question2_key12": "<span style=\"\">Output</span> :-",
+	"type-conversion_user-input-question2_key13": "मान लीजिए आप var_a में 4 और var_b में 5 दर्ज करते हैं तो आउटपुट 9 होगा।"
+}

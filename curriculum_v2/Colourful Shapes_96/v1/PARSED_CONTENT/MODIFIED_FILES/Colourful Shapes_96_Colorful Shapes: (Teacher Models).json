@@ -1,0 +1,53 @@
+[
+  {
+    "value": "Colorful Shapes: (Teacher Models)_key1",
+    "component": "header",
+    "variant": 2
+  },
+  {
+    "value": "Colorful Shapes: (Teacher Models)_key2",
+    "component": "text"
+  },
+  {
+    "value": "Colorful Shapes: (Teacher Models)_key3",
+    "component": "header",
+    "variant": 3
+  },
+  {
+    "value": "Colorful Shapes: (Teacher Models)_key4",
+    "component": "text",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "value": "Colorful Shapes: (Teacher Models)_key5",
+    "component": "text",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "value": "Colorful Shapes: (Teacher Models)_key6",
+    "component": "header",
+    "variant": 3
+  },
+  {
+    "value": "Colorful Shapes: (Teacher Models)_key7",
+    "component": "text"
+  },
+  {
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/89aede6b-80e7-4f09-998f-60ac4107b4a7-image6.png",
+    "component": "image",
+    "alt": "Colorful Shapes: (Teacher Models)_key8"
+  },
+  {
+    "value": "Colorful Shapes: (Teacher Models)_key9",
+    "component": "text"
+  },
+  {
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/52ff4d17-1cdc-4125-9ee3-113184c28ef1-image7.png",
+    "component": "image",
+    "alt": "Colorful Shapes: (Teacher Models)_key10"
+  }
+]

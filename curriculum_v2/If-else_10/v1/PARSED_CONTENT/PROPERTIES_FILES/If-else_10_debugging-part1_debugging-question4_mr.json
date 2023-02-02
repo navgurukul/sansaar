@@ -1,0 +1,10 @@
+{
+	"debugging-part1_debugging-question4_key1": "उदाहरण ४ :-",
+	"debugging-part1_debugging-question4_key2": "<span style=\"\">बग</span> :-",
+	"debugging-part1_debugging-question4_key3": "<span style=\"\">Output</span> : -",
+	"debugging-part1_debugging-question4_key4": "कृपया दशांश संख्या प्रविष्ट करा&gt;<br> १०.५<br> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">TypeError:</span> &#39;str&#39; आणि &#39;float&#39; ऑब्जेक्ट्स एकत्र करू शकत नाही",
+	"debugging-part1_debugging-question4_key5": "दुरुस्त केलेला कोड खाली दिला आहे.",
+	"debugging-part1_debugging-question4_key6": "<span style=\"\">डीबग</span> :-",
+	"debugging-part1_debugging-question4_key7": "<span style=\"\">Output</span> : -",
+	"debugging-part1_debugging-question4_key8": "कृपया दशांश संख्या प्रविष्ट करा&gt;<br> १०.५<br> तुमची संख्या 2 ने भागल्यास = 5.25 आहे"
+}

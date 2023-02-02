@@ -1,0 +1,26 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "kitne-aadmi-the_kitne-aadmi-the_key1"
+  },
+  {
+    "component": "text",
+    "value": "kitne-aadmi-the_kitne-aadmi-the_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "elements = [23, 14, 56, 12, 19, 9, 15, 25, 31, 42, 43]<br>even_count, odd_count = 0, 0<br># iterating each number in list<br>for num in elements:<br>&emsp;# checking condition<br>&emsp;if num % 2 == 0:<br>&emsp;&emsp;even_count += 1<br>&emsp;else:<br>&emsp;&emsp;odd_count += 1<br>print(\"Even numbers in the list: \", even_count)<br>print(\"Odd numbers in the list: \", odd_count)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "kitne-aadmi-the_kitne-aadmi-the_key3"
+  },
+  {
+    "component": "text",
+    "value": "kitne-aadmi-the_kitne-aadmi-the_key4"
+  }
+]

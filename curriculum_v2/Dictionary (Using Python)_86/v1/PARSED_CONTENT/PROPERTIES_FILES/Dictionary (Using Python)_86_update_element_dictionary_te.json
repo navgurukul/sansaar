@@ -1,0 +1,15 @@
+{
+	"update_element_dictionary_key1": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">డిక్షనరీలో ఎలిమెంట్స్‌ని అప్‌డేట్ చేస్తోంది :</span> :-",
+	"update_element_dictionary_key2": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">నిఘంటువుని నవీకరించడానికి</span> , మేము దానిలో నమోదు చేయవచ్చు లేదా <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">కీ-విలువ</span> జతని జోడించవచ్చు లేదా ఇప్పటికే ఉన్న <span style=\"\">కీ</span> విలువను మార్చవచ్చు. ఉదాహరణలో వివరించిన విధంగా:-",
+	"update_element_dictionary_key3": "ఉదాహరణ 1:-",
+	"update_element_dictionary_key4": "<span style=\"\">అవుట్‌పుట్</span> :-",
+	"update_element_dictionary_key5": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">{&#39;1&#39;: &#39;RAM&#39;, &#39;2&#39;: 17,&#39;3&#39;:&#39;పురుషుడు&#39;}</span>",
+	"update_element_dictionary_key6": "ఉదాహరణ 2 :-",
+	"update_element_dictionary_key7": "<span style=\"\">అవుట్‌పుట్</span> :-",
+	"update_element_dictionary_key8": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">{&#39;పేరు&#39;: &#39;RAM&#39;, &#39;వయస్సు&#39;: 17, &#39;విద్యార్థి&#39;: {&#39;id&#39;: 35, &#39;స్థలం&#39;: &#39;ధర్మశాల&#39;}}</span>",
+	"update_element_dictionary_key9": "నిఘంటువు కాపీ:-",
+	"update_element_dictionary_key10": "మేము నిఘంటువుని రెండు విధాలుగా కాపీ చేయవచ్చు, మొదటి పద్ధతిలో <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">కాపీ()</span> మరియు రెండవ పద్ధతి అంతర్నిర్మిత ఫంక్షన్ <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">డిక్ట్()</span> ని ఉపయోగించడం ద్వారా.",
+	"update_element_dictionary_key11": "ఉదాహరణ 1 :-",
+	"update_element_dictionary_key12": "<span style=\"\">అవుట్‌పుట్</span> :-",
+	"update_element_dictionary_key13": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">{&#39;రూమ్2&#39;: &#39;7వ&#39;, &#39;రూమ్3&#39;: &#39;8వ&#39;, &#39;గది1&#39;: &#39;6వ&#39;}</span>"
+}

@@ -1,0 +1,9 @@
+{
+	"functions-question2_key1": "செயல்பாடு எடுத்துக்காட்டு 2",
+	"functions-question2_key2": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">function_print_lines</span> என்ற பெயரில் ஒரு செயல்பாட்டை எழுதவும், இது 2 <span style=\"\">சரங்களை</span> எடுத்து, அவற்றை பின்வரும் முறையில் அச்சிடுகிறது.",
+	"functions-question2_key3": "இந்த 2 வாதங்களை நாம் கொடுத்தால் - <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">&quot;என் பெயர் ரிஷப்.&quot;</span> மற்றும் <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">&quot;நான் நவகுருகுலத்தின் இணை நிறுவனர்&quot;</span><br> பின்வரும் <span style=\"\">வெளியீட்டைப்</span> பெறுவோம்:",
+	"functions-question2_key4": "# உங்கள் செயல்பாட்டை இங்கே எழுதுங்கள்<br><br> # -வெளியீடு<br> # என் பெயர் ரிஷப்..<br> # நான் நவகுருகுலத்தின் இணை நிறுவனர்.",
+	"functions-question2_key5": "<span style=\"\">எடுத்துக்காட்டு 2 (பகுதி 1)</span> :-",
+	"functions-question2_key6": "<span style=\"\">வெளியீடு</span> :-",
+	"functions-question2_key7": "என் பெயர் ரிஷப்<br> நான் நவ் குருகுலத்தின் இணை நிறுவனர்"
+}

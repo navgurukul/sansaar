@@ -1,0 +1,89 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "sending-email-and-text-messages_smtp_key1"
+  },
+  {
+    "component": "text",
+    "value": "sending-email-and-text-messages_smtp_key2"
+  },
+  {
+    "component": "text",
+    "value": "sending-email-and-text-messages_smtp_key3"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "sending-email-and-text-messages_smtp_key4"
+  },
+  {
+    "component": "text",
+    "value": "sending-email-and-text-messages_smtp_key5"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "sending-email-and-text-messages_smtp_key6"
+  },
+  {
+    "component": "text",
+    "value": "sending-email-and-text-messages_smtp_key7"
+  },
+  {
+    "component": "text",
+    "value": "sending-email-and-text-messages_smtp_key8"
+  },
+  {
+    "component": "text",
+    "value": "sending-email-and-text-messages_smtp_key9"
+  },
+  {
+    "component": "text",
+    "value": "sending-email-and-text-messages_smtp_key10"
+  },
+  {
+    "component": "text",
+    "value": "sending-email-and-text-messages_smtp_key11"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> import smtplib<br>>>> smtpObj = smtplib.SMTP('smtp.example.com', 587)<br>>>> smtpObj.ehlo()"
+  },
+  {
+    "component": "text",
+    "value": "sending-email-and-text-messages_smtp_key12"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> smtpObj.starttls()"
+  },
+  {
+    "component": "text",
+    "value": "sending-email-and-text-messages_smtp_key13"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> smtpObj.login('bob@example.com', ' MY_SECRET_PASSWORD')"
+  },
+  {
+    "component": "text",
+    "value": "sending-email-and-text-messages_smtp_key14"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> smtpObj.sendmail('bob@example.com', 'alice@example.com', 'Subject: Solong.\\nDear Alice, so long and thanks for all the fish. Sincerely, Bob')<br>{}<br>>>> smtpObj.quit()"
+  },
+  {
+    "component": "text",
+    "value": "sending-email-and-text-messages_smtp_key15"
+  }
+]

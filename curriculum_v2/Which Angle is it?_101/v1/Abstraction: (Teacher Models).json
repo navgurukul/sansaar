@@ -1,0 +1,60 @@
+[
+	{
+		"value": "Abstraction: (Teacher Models)",
+		"component": "header",
+		"variant": 2
+	},
+	{
+		"value": "Let’s do abstraction to make understand the project and make it simple<br>",
+		"component": "text"
+	},
+	{
+		"value": "What will happen on the stage?",
+		"component": "header",
+		"variant": 3
+	},
+	{
+		"value": "Ask the user to enter the degree of the angle.",
+		"component": "text",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"value": "Application tells which type of angle is it.",
+		"component": "text",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"value": "Application shows how the angle looks on the stage",
+		"component": "text",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"value": "What sprite and backdrop will be needed on the stage?",
+		"component": "header",
+		"variant": 3
+	},
+	{
+		"value": "A cat sprite<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/80cdf600-3278-4f37-91ac-256fc49d5270-image.png",
+		"component": "image",
+		"alt": "Which Angle is it: (Teacher Models)_key9"
+	},
+	{
+		"value": "Different types of angles on different backdrops<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/e46d2025-51fa-4993-b5e6-ff0fb97233c6-image.png",
+		"component": "image",
+		"alt": "Which Angle is it: (Teacher Models)_key11"
+	}
+]

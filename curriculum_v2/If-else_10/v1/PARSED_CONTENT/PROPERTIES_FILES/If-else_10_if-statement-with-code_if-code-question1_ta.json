@@ -1,0 +1,10 @@
+{
+	"if-statement-with-code_if-code-question1_key1": "எடுத்துக்காட்டு 1 :-",
+	"if-statement-with-code_if-code-question1_key2": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">எண்ணின்</span> பெயரிடப்பட்ட <span style=\"\">மாறியில்</span> , பயனரிடமிருந்து <span style=\"\">உள்ளீட்டை</span> எடுத்து <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">எண்ணாக</span> மாற்றவும்.",
+	"if-statement-with-code_if-code-question1_key3": "இந்த எண் 10 ஐ விட குறைவாக இருந்தால், <b>&quot;10 se chota hai&quot;</b> என்று அச்சிடவும். 10ஐ விட அதிகமாகவும் 20க்கு குறைவாகவும் இருந்தால் <b>&quot;20 சே சோட்டா ஹை&quot;</b> என்று அச்சிடவும். இல்லையெனில் 20ஐ விட அதிகமாக இருந்தால் <b>&quot;20 சே படா ஹை&quot;</b> என்று அச்சிடவும். மேலே உள்ள வழிமுறைகளின்படி பாய்வு விளக்கப்படத்தை முடிக்கவும்.",
+	"if-statement-with-code_if-code-question1_key4": "பாய்வு விளக்கப்படம்:-",
+	"if-statement-with-code_if-code-question1_key5": "பாய்வு விளக்கப்படம்-கேள்வி-1",
+	"if-statement-with-code_if-code-question1_key6": "<span style=\"\">நிகழ்ச்சி</span> :-",
+	"if-statement-with-code_if-code-question1_key7": "<span style=\"\">வெளியீடு</span> :-",
+	"if-statement-with-code_if-code-question1_key8": "எந்த எண்ணையும் உள்ளிடவும்<br> 12<br> 20 செ சோட்டா ஹை"
+}

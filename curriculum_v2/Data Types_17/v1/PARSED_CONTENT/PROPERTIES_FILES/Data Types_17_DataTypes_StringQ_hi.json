@@ -1,0 +1,20 @@
+{
+	"DataTypes_StringQ_key1": "ध्यान दें :",
+	"DataTypes_StringQ_key2": "कृपया <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">स्ट्रिंग कॉन्सटेनेशन</span> के बारे में पढ़ें।",
+	"DataTypes_StringQ_key3": "उदाहरण 1",
+	"DataTypes_StringQ_key4": "आपको उस उपयोगकर्ता से दो इनपुट लेने होंगे जिसका डेटा प्रकार <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">STRING</span> है।",
+	"DataTypes_StringQ_key5": "फिर नाम से चर में <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">जोड़ें</span> , दोनों उपयोगकर्ता इनपुट का योग संग्रहीत करें।",
+	"DataTypes_StringQ_key6": "वेरिएबल <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">ऐड</span> प्रिंट करें।",
+	"DataTypes_StringQ_key7": "<span style=\"\">कार्यक्रम</span> :-",
+	"DataTypes_StringQ_key8": "ए = इनपुट (&quot;पहला मान दर्ज करें =&quot;)<br> बी = इनपुट (&quot;दूसरा मान दर्ज करें =&quot;)<br> जोड़ें=ए+बी<br> प्रिंट (जोड़ें)",
+	"DataTypes_StringQ_key9": "<span style=\"\">Output</span> :-",
+	"DataTypes_StringQ_key10": "यदि उपयोगकर्ता a = hii और b = sam दर्ज करता है, तो आउटपुट hiisam होना चाहिए।",
+	"DataTypes_StringQ_key11": "उदाहरण-2",
+	"DataTypes_StringQ_key12": "उपयोगकर्ता से एक <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">INTEGER</span> प्रकार का इनपुट और एक <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">STRING</span> प्रकार का इनपुट लें।",
+	"DataTypes_StringQ_key13": "फिर नाम से चर में <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">जोड़ें</span> , दोनों उपयोगकर्ता इनपुट का योग संग्रहीत करें।",
+	"DataTypes_StringQ_key14": "वेरिएबल <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">ऐड</span> प्रिंट करें।",
+	"DataTypes_StringQ_key15": "<span style=\"\">कार्यक्रम -</span> :-",
+	"DataTypes_StringQ_key16": "ए = इंट (इनपुट (&quot;पहला मान दर्ज करें =&quot;))<br> बी = इनपुट (&quot;दूसरा मान दर्ज करें =&quot;)<br> जोड़ें=ए+बी<br> प्रिंट (जोड़ें)",
+	"DataTypes_StringQ_key17": "<span style=\"\">Output</span> :-",
+	"DataTypes_StringQ_key18": "लेखन त्रुटि: केवल str (नहीं 'int') को str . से जोड़ सकता है"
+}

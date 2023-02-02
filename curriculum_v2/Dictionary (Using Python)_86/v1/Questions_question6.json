@@ -1,0 +1,31 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Example 6"
+	},
+	{
+		"component": "text",
+		"value": "Write a program to remove <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">duplicate keys</span>."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Program</span> :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "dic={\"ball\":\"red\",  \"bat\":4, \"wickets\":8, \"ball\":\"green\", \"bat\":3}<br>temp = []<br>res = dict()<br>for key, val in dic.items():<br>    if val not in temp:<br>      temp.append(val)<br>      res[key] = val<br>print(res)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "{“ball”:”red”,”bat”:4,”wickets”:8}"
+	}
+]

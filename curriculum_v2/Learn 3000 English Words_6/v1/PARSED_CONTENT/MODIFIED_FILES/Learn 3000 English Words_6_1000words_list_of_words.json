@@ -1,0 +1,11 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "1000words_list_of_words_key1"
+  },
+  {
+    "component": "text",
+    "value": "1000words_list_of_words_key2"
+  }
+]

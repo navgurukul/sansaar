@@ -1,0 +1,10 @@
+{
+	"QuestionSet1_question0_key1": "उदाहरण 1",
+	"QuestionSet1_question0_key2": "एक प्रोग्राम बनाएं जो 1 से 100 तक के सभी नंबरों को प्रिंट करे।",
+	"QuestionSet1_question0_key3": "आपको निम्नलिखित को <span style=\"\">output</span> के रूप में प्राप्त करना चाहिए।",
+	"QuestionSet1_question0_key4": "1<br> 2<br> 3<br> 4<br> 5<br> 6<br> …<br> …<br> …<br> 97<br> 98<br> 99<br> 100",
+	"QuestionSet1_question0_key5": "<span style=\"\">कार्यक्रम</span> :-",
+	"QuestionSet1_question0_key6": "मैं = 1<br> जबकि मैं&lt;=100:<br> प्रिंट (i)<br> मैं+=1",
+	"QuestionSet1_question0_key7": "<span style=\"\">Output</span> :-",
+	"QuestionSet1_question0_key8": "1<br> 2<br> 3<br> 4<br> 5<br> 6<br> …<br> …<br> …<br> 97<br> 98<br> 99<br> 100"
+}

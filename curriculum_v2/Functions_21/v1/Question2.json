@@ -1,0 +1,30 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Example 3 :-"
+	},
+	{
+		"component": "text",
+		"value": "You have to define a function named isGreaterThan20  in which you have to pass two parameters to the function and the first parameter by default should be 20.And then output should be True if both values are greater than 20 and  False if any one is equal to 20 or less than 20."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def isGreaterThan20(a, b = 20):<br>&emsp;if a > 20 and b > 20:<br>&emsp;&emsp;print('True')<br>&emsp;elif a <= 20 or b <= 20:<br>&emsp;&emsp;print('False')<br>isGreaterThan20(20)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "False"
+	},
+	{
+		"component": "text",
+		"value": "If you pass two numbers as parameter the output can be True or False, if you pass only one parameter output will be False."
+	}
+]

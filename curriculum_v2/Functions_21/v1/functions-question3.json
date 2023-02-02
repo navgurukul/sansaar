@@ -1,0 +1,82 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Example 4 :-"
+	},
+	{
+		"component": "text",
+		"value": "This question is in 2 parts. Submit the <span style=\"\">code</span> of both the parts by writing them in the same <span style=\"\">file</span>."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Example 4 (part 1)</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "Write a function named <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">add_numbers</span> which takes two numbers as arguments and then prints their sum. The name of the arguments should be <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number1</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number2</span>."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def add(number1,number2):<br>&emsp;print(number1+number2)<br>#calling function with two arguments as function is defined with two parameters<br>add(12,56)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "68"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Example 4 (part 2)</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "Write a function named <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">add_numbers_list</span> which takes 2 lists of two <span style=\"\">integers</span> and then prints the sum of the <span style=\"\">integers</span> with the same position."
+	},
+	{
+		"component": "text",
+		"value": "Use the add_numbers function given in Part 1 to count 2 <span style=\"\">integers</span> that have the same position."
+	},
+	{
+		"component": "text",
+		"value": "If we give [50, 60, 10] and [10, 20, 13] to this function it will print this"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "60"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "80"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "23"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def fun(l1,l2):<br>#setting range till the length of l1<br>for i in range(len(l1)):<br>&emsp;sum=l1[i]+l2[i]<br>&emsp;print(sum)<br>#passing two list as an arguments to our function<br>list1=[10,20,30]<br>list2=[40,50,60]<br>fun(list1,list2)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "50<br>70<br>90"
+	}
+]

@@ -1,0 +1,33 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Example 8"
+	},
+	{
+		"component": "text",
+		"value": "Print this pattern. "
+	},
+	{
+		"component": "text",
+		"value": "5 5 5 5 5<br>4 4 4 4 4<br>3 3 3 3 3<br>2 2 2 2 2<br>1 1 1 1 1"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Program</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "i=5<br>while(i>0):<br>&emsp;j=1<br>&emsp;while(j<=5):<br>&emsp;&emsp;print(i,end=\" \")<br>&emsp;&emsp;j+=1<br>&emsp;print(\"\n\")<br>&emsp;i-=1 "
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "5 5 5 5 5<br>4 4 4 4 4<br>3 3 3 3 3<br>2 2 2 2 2<br>1 1 1 1 1"
+	}
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "questions_lists-question4_key1"
+  },
+  {
+    "component": "text",
+    "value": "questions_lists-question4_key2"
+  },
+  {
+    "component": "text",
+    "value": "questions_lists-question4_key3"
+  },
+  {
+    "component": "text",
+    "value": "questions_lists-question4_key4"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "# initializing list<br>test_list = ['n','i','t','i','n']<br># Reversing the list<br>reverse = test_list[::-1]<br># checking if palindrome<br>res = test_list == reverse<br># printing result<br>if(res):<br>&emsp;print(\"Haan! palindrome hai\")<br>else:<br>&emsp;print(\"Nahi! palindrome nahi h\")"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "questions_lists-question4_key5"
+  },
+  {
+    "component": "text",
+    "value": "questions_lists-question4_key6"
+  },
+  {
+    "component": "text",
+    "value": "questions_lists-question4_key7"
+  },
+  {
+    "component": "text",
+    "value": "questions_lists-question4_key8"
+  },
+  {
+    "component": "text",
+    "value": "questions_lists-question4_key9"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "questions_lists-question4_key10"
+  },
+  {
+    "component": "text",
+    "value": "questions_lists-question4_key11"
+  },
+  {
+    "component": "text",
+    "value": "questions_lists-question4_key12"
+  },
+  {
+    "component": "table",
+    "value": [
+      {
+        "header": "questions_lists-question4_key13",
+        "items": [
+          "questions_lists-question4_key14",
+          "questions_lists-question4_key15",
+          "questions_lists-question4_key16",
+          "questions_lists-question4_key17",
+          "questions_lists-question4_key18"
+        ]
+      },
+      {
+        "header": "questions_lists-question4_key19",
+        "items": [
+          "questions_lists-question4_key20",
+          "questions_lists-question4_key21",
+          "questions_lists-question4_key22",
+          "questions_lists-question4_key23",
+          "questions_lists-question4_key24"
+        ]
+      },
+      {
+        "header": "questions_lists-question4_key25",
+        "items": [
+          "questions_lists-question4_key26",
+          "questions_lists-question4_key27",
+          "questions_lists-question4_key28",
+          "questions_lists-question4_key29",
+          "questions_lists-question4_key30"
+        ]
+      },
+      {
+        "header": "questions_lists-question4_key31",
+        "items": [
+          "questions_lists-question4_key32",
+          "questions_lists-question4_key33",
+          "questions_lists-question4_key34",
+          "questions_lists-question4_key35",
+          "questions_lists-question4_key36"
+        ]
+      }
+    ]
+  }
+]

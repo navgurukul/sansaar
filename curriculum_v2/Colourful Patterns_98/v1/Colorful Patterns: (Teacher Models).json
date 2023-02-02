@@ -1,0 +1,53 @@
+[
+	{
+		"value": "Colorful Patterns: (Teacher Models)",
+		"component": "header",
+		"variant": 2
+	},
+	{
+		"value": "Let’s do abstraction to make understand project and make it simple<br>",
+		"component": "text"
+	},
+	{
+		"value": "What will happen on the stage?",
+		"component": "header",
+		"variant": 3
+	},
+	{
+		"value": "User selects the pattern from the different patterns reading instructions on the stage",
+		"component": "text",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"value": "User creates the event to draw the pattern made with geometrical shapes<br>",
+		"component": "text",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"value": "What sprite and backdrop will be needed on the stage?",
+		"component": "header",
+		"variant": 3
+	},
+	{
+		"value": "Sprite Turtle<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/1b7a907c-dd62-4ca2-bb7b-31bab67e1ebd-image1.png",
+		"component": "image",
+		"alt": ""
+	},
+	{
+		"value": "Backdrop with instructions<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/211d8367-8e22-4f58-8272-0d4d61cfe590-image4.png",
+		"component": "image",
+		"alt": ""
+	}
+]

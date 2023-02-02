@@ -1,0 +1,16 @@
+[
+  {
+    "value": "My Car!_key1",
+    "component": "header",
+    "variant": 2
+  },
+  {
+    "value": "My Car!_key2",
+    "component": "text"
+  },
+  {
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/724f7e5f-b59f-4cbb-8ed2-833848d1008f-image13.png",
+    "component": "image",
+    "alt": "My Car!_key3"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "value": "Help with Tables: (Teacher Models)_key1",
+    "component": "header",
+    "variant": 2
+  },
+  {
+    "value": "Help with Tables: (Teacher Models)_key2",
+    "component": "text"
+  },
+  {
+    "value": "Help with Tables: (Teacher Models)_key3",
+    "component": "text"
+  },
+  {
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/8fb76ad6-d4a2-4d1b-992c-fb8e265ef63b-image3.png",
+    "component": "image",
+    "alt": "Help with Tables: (Teacher Models)_key4"
+  },
+  {
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/722d3b57-1632-450c-9a49-36b36d6131e7-image7.png",
+    "component": "image",
+    "alt": "Help with Tables: (Teacher Models)_key5"
+  },
+  {
+    "value": "Help with Tables: (Teacher Models)_key6",
+    "component": "text"
+  },
+  {
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/843f2bf0-a139-44d9-99b6-9e9071fbe787-image18.png",
+    "component": "image",
+    "alt": "Help with Tables: (Teacher Models)_key7"
+  },
+  {
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/e2d20548-db95-401f-95cb-ce6711ad0d5a-image7.png",
+    "component": "image",
+    "alt": "Help with Tables: (Teacher Models)_key8"
+  },
+  {
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/87cec057-7311-4106-8663-adcece2e2739-image5.png",
+    "component": "image",
+    "alt": "Help with Tables: (Teacher Models)_key9"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "QuestionSet1_question1_key1"
+  },
+  {
+    "component": "text",
+    "value": "QuestionSet1_question1_key2"
+  },
+  {
+    "component": "text",
+    "value": "QuestionSet1_question1_key3"
+  },
+  {
+    "component": "text",
+    "value": "QuestionSet1_question1_key4"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "QuestionSet1_question1_key5"
+  },
+  {
+    "component": "text",
+    "value": "QuestionSet1_question1_key6"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "QuestionSet1_question1_key7"
+  },
+  {
+    "component": "text",
+    "value": "QuestionSet1_question1_key8"
+  }
+]

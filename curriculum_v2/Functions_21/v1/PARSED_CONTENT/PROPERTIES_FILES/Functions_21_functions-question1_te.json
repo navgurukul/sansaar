@@ -1,0 +1,14 @@
+{
+	"functions-question1_key1": "విధులు",
+	"functions-question1_key2": "ఉదాహరణ 1 :-",
+	"functions-question1_key3": "&quot;ఒకసారి&quot; టెక్స్ట్‌ను ప్రింట్ చేసే <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">ask_question</span> అనే ఫంక్షన్‌ను వ్రాయండి.",
+	"functions-question1_key4": "మేము ఈ ప్రశ్నను రెండు పద్ధతులను ఉపయోగించి పరిష్కరించవచ్చు -",
+	"functions-question1_key5": "<span style=\"\">i) కార్యక్రమం</span> :-",
+	"functions-question1_key6": "<span style=\"\">అవుట్‌పుట్</span> :-",
+	"functions-question1_key7": "ఒకసారి<br> ఒకసారి<br> ఒకసారి<br> ఒకసారి<br> ఒకసారి",
+	"functions-question1_key8": "<span style=\"\">ii) కార్యక్రమం</span> :-",
+	"functions-question1_key9": "<span style=\"\">అవుట్‌పుట్</span> :-",
+	"functions-question1_key10": "ఒకసారి<br> ఒకసారి<br> ఒకసారి<br> ఒకసారి<br> .<br> .<br> .<br> ఒకసారి<br> ఒకసారి",
+	"functions-question1_key11": "(గమనిక:-ఒకసారి 100 సార్లు ముద్రించబడుతుంది)",
+	"functions-question1_key12": "అప్పుడు while <span style=\"\">లూప్‌ని</span> ఉపయోగించి ఈ ఫంక్షన్‌ను 100 సార్లు కాల్ చేయడానికి <span style=\"\">కోడ్‌ను</span> వ్రాసారు."
+}

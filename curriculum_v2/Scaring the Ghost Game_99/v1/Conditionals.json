@@ -1,0 +1,50 @@
+[
+	{
+		"value": "Conditionals",
+		"component": "header",
+		"variant": 3
+	},
+	{
+		"value": "We have to take sometimes so many decisions which are very tedious. For example, students that have passed in a class of 60 students.",
+		"component": "text",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"value": "Once we code a computer with conditionals then they would be able to make decisions on their own and things will become less tedious for us.",
+		"component": "text",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"value": "Also, underlined things are called conditions and italic things are called decisions. Both together are called conditional statements.",
+		"component": "text",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"value": "If you pick a red colour card then you will get 10 points<br>",
+		"component": "text"
+	},
+	{
+		"value": "If you pick a red jack/queen/king then you will get 15 points<br>",
+		"component": "text"
+	},
+	{
+		"value": "Conditionals in real life:",
+		"component": "header",
+		"variant": 3
+	},
+	{
+		"value": "Think of at least one example when you see conditionals in real life?<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/77739e6d-4d4b-419f-a0b6-9a7f7aa5dd74-image.png",
+		"component": "image",
+		"alt": ""
+	}
+]

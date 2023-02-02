@@ -1,0 +1,9 @@
+{
+	"functions-question2_key1": "फ़ंक्शन उदाहरण 2",
+	"functions-question2_key2": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">function_print_lines</span> नामक एक फ़ंक्शन लिखें, जो 2 <span style=\"\">strings</span> लेता है, और उन्हें निम्नलिखित तरीके से प्रिंट करता है।",
+	"functions-question2_key3": "अगर हम ये 2 arguments देते हैं - <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"My name is Rishabh.\"</span> और <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"I am the co-founder of NavGurukul\"</span><br> हम निम्नलिखित output प्राप्त करेंगे <span style=\"\">output</span> :",
+	"functions-question2_key4": "# अपना कार्य यहां लिखें<br><br> # -आउटपुट<br> #मेरा नाम ऋषभ है..<br> # मैं नवगुरुकुल का सह-संस्थापक हूं।",
+	"functions-question2_key5": "<span style=\"\">उदाहरण 2 (भाग 1)</span> :-",
+	"functions-question2_key6": "<span style=\"\">Output</span> :-",
+	"functions-question2_key7": "मेरा नाम ऋषभ है<br> मैं नव गुरुकुल का सह-संस्थापक हूं"
+}

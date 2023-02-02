@@ -1,0 +1,29 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Example 7"
+	},
+	{
+		"component": "text",
+		"value": "Given a positive integer N, The task is to write a Python program to check if the number is prime or not in python."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Program</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "num = 11<br># If given number is greater than 1<br>if num > 1:<br>&emsp;# Iterate from 2 to n / 2<br>&emsp;for i in range(2, int(num/2)+1):<br>&emsp;# If num is divisible by any number between<br>&emsp;# 2 and n / 2, it is not prime<br>&emsp;if (num % i) == 0:<br>&emsp;&emsp;&emsp;print(num, \"is not a prime number\")<br>&emsp;&emsp;&emsp;break<br>&emsp;else:<br>&emsp;&emsp;print(num, \"is a prime number\")<br>else:<br>&emsp;print(num, \"is not a prime number\")"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "11 is a prime number"
+	}
+]

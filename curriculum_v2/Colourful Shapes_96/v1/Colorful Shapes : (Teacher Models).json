@@ -1,0 +1,16 @@
+[
+	{
+		"value": "Colorful Shapes : (Teacher Models)",
+		"component": "header",
+		"variant": 2
+	},
+	{
+		"value": "Let’s write codes for the sprites and make the project.",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/814aaa94-2693-4712-87f1-25ab0eb0b86c-image9.png",
+		"component": "image",
+		"alt": ""
+	}
+]

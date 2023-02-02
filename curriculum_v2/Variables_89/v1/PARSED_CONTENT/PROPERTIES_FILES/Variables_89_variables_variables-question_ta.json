@@ -1,0 +1,21 @@
+{
+	"variables_variables-question_key1": "மாறி உதாரணம்",
+	"variables_variables-question_key2": "<i>எந்த கேள்விக்கும் பதிலளிக்க நீங்கள் <span style=\"\">கோப்பை</span> <span style=\"\">பதிவேற்றலாம்</span> .</i>",
+	"variables_variables-question_key3": "<i><span style=\"\">பைதான்</span> <span style=\"\">கோப்பு</span> நீட்டிப்பு <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">.py</span> என்பதை நினைவில் கொள்ளவும்.</i>",
+	"variables_variables-question_key4": "<b>உங்கள் எளிமைக்காக இந்தக் கேள்வியை பல பகுதிகளாகப் பிரித்துள்ளோம். ஆனால் நீங்கள் சமர்ப்பிப்பை ஒரு <span style=\"\">கோப்பில்</span> மட்டுமே செய்ய வேண்டும்.</b>",
+	"variables_variables-question_key5": "எடுத்துக்காட்டு பகுதி 1",
+	"variables_variables-question_key6": "variable_nav என பெயரிடப்பட்ட <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">மாறிக்கு</span> INTEGER மதிப்பை ஒதுக்கவும்.",
+	"variables_variables-question_key7": "பின்னர் <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">variable_nav</span> ஐ அச்சிடவும்.",
+	"variables_variables-question_key8": "<span style=\"\">நிகழ்ச்சி</span> :-",
+	"variables_variables-question_key9": "variable_nav = 50<br> அச்சு (variable_nav)",
+	"variables_variables-question_key10": "<span style=\"\">வெளியீடு</span> :-",
+	"variables_variables-question_key11": "50",
+	"variables_variables-question_key12": "எடுத்துக்காட்டு பகுதி 2",
+	"variables_variables-question_key13": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">குருகுலம்</span> என பெயரிடப்பட்ட புதிய மாறியை எடுத்து அதற்கு ஏதேனும் STRING மதிப்பை ஒதுக்கவும்.",
+	"variables_variables-question_key14": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">variable_nav</span> க்கு FLOAT மதிப்பை ஒதுக்கி அதை அமைக்கவும்.",
+	"variables_variables-question_key15": "இப்போது <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">variable_nav</span> மற்றும் <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">குருகுலத்தின்</span> மதிப்பை அச்சிடவும்.",
+	"variables_variables-question_key16": "<span style=\"\">நிகழ்ச்சி</span> :-",
+	"variables_variables-question_key17": "குருகுலம் = &quot;hii&quot;<br> variable_nav = 67.78<br> அச்சு (குருகுல்)<br> அச்சு (variable_nav)",
+	"variables_variables-question_key18": "<span style=\"\">வெளியீடு</span> :-",
+	"variables_variables-question_key19": "இது<br> 67.78"
+}

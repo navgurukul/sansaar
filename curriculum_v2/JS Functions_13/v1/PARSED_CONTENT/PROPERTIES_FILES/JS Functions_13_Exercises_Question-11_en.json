@@ -1,0 +1,8 @@
+{
+	"Exercises_Question-11_key1": "Write a function named add_numbers which takes two arguments and prints their sum, arguments names should be num1 and num2?",
+	"Exercises_Question-11_key2": "<span style=\"\">Input</span> :",
+	"Exercises_Question-11_key3": "num1 = 56",
+	"Exercises_Question-11_key4": "num2 = 12",
+	"Exercises_Question-11_key5": "add_numbers(num1,num2)",
+	"Exercises_Question-11_key6": "<span style=\"\">Output</span> :- 68"
+}

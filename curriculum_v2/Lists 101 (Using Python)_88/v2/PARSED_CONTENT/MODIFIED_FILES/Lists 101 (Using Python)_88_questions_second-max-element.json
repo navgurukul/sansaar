@@ -1,0 +1,30 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "questions_second-max-element_key1"
+  },
+  {
+    "component": "text",
+    "value": "questions_second-max-element_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "# List of numbers<br>list1 = [50, 40, 23, 70, 56, 12, 5, 10, 7]<br><br># Removing duplicates from the list<br>list2 = list(set(list1))<br><br># Sorting the  list<br>list2.sort()<br><br># Printing the second last element<br>print(\"Second largest element is:\", list2[-2])"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "questions_second-max-element_key3"
+  },
+  {
+    "component": "text",
+    "value": "questions_second-max-element_key4"
+  },
+  {
+    "component": "text",
+    "value": "questions_second-max-element_key5"
+  }
+]

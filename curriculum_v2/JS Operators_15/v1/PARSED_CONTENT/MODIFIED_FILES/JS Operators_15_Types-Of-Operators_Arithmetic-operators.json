@@ -1,0 +1,71 @@
+[
+  {
+    "component": "text",
+    "value": "Types-Of-Operators_Arithmetic-operators_key1"
+  },
+  {
+    "component": "text",
+    "value": "Types-Of-Operators_Arithmetic-operators_key2"
+  },
+  {
+    "component": "table",
+    "value": [
+      {
+        "header": "Types-Of-Operators_Arithmetic-operators_key3",
+        "items": [
+          "Types-Of-Operators_Arithmetic-operators_key4",
+          "Types-Of-Operators_Arithmetic-operators_key5",
+          "Types-Of-Operators_Arithmetic-operators_key6",
+          "Types-Of-Operators_Arithmetic-operators_key7",
+          "Types-Of-Operators_Arithmetic-operators_key8",
+          "Types-Of-Operators_Arithmetic-operators_key9",
+          "Types-Of-Operators_Arithmetic-operators_key10",
+          "Types-Of-Operators_Arithmetic-operators_key11"
+        ]
+      },
+      {
+        "header": "Types-Of-Operators_Arithmetic-operators_key12",
+        "items": [
+          "Types-Of-Operators_Arithmetic-operators_key13",
+          "Types-Of-Operators_Arithmetic-operators_key14",
+          "Types-Of-Operators_Arithmetic-operators_key15",
+          "Types-Of-Operators_Arithmetic-operators_key16",
+          "Types-Of-Operators_Arithmetic-operators_key17",
+          "Types-Of-Operators_Arithmetic-operators_key18",
+          "Types-Of-Operators_Arithmetic-operators_key19",
+          "Types-Of-Operators_Arithmetic-operators_key20"
+        ]
+      },
+      {
+        "header": "Types-Of-Operators_Arithmetic-operators_key21",
+        "items": [
+          "Types-Of-Operators_Arithmetic-operators_key22",
+          "Types-Of-Operators_Arithmetic-operators_key23",
+          "Types-Of-Operators_Arithmetic-operators_key24",
+          "Types-Of-Operators_Arithmetic-operators_key25",
+          "Types-Of-Operators_Arithmetic-operators_key26",
+          "Types-Of-Operators_Arithmetic-operators_key27",
+          "Types-Of-Operators_Arithmetic-operators_key28",
+          "Types-Of-Operators_Arithmetic-operators_key29"
+        ]
+      }
+    ]
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "Types-Of-Operators_Arithmetic-operators_key30"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "var x = 10, y = 20;<br> <br>console.log(x + y);<br>console.log(y - x);<br>console.log(x * y);<br>console.log(y / x);<br>console.log(x % 2);<br>console.log(x++);"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "solution",
+    "value": "30<br>10<br>200<br>2<br>0<br>10"
+  }
+]

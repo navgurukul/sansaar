@@ -1,0 +1,67 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "section-1-council_food_key1"
+  },
+  {
+    "component": "text",
+    "value": "section-1-council_food_key2"
+  },
+  {
+    "component": "text",
+    "value": "section-1-council_food_key3",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "section-1-council_food_key4",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "section-1-council_food_key5",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "section-1-council_food_key6",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "section-1-council_food_key7",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "section-1-council_food_key8",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "section-1-council_food_key9",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "section-1-council_food_key10",
+    "decoration": {
+      "type": "bullet"
+    }
+  }
+]

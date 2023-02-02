@@ -1,0 +1,51 @@
+[
+	{
+		"value": "Make a Story (Teacher Models Continued…)",
+		"component": "header",
+		"variant": 2
+	},
+	{
+		"value": "Let’s write codes for the sprites<br>",
+		"component": "text"
+	},
+	{
+		"value": "Avery in different walking costumes",
+		"component": "header",
+		"variant": 3
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/ec63f36c-799d-451e-8dbe-5e4ac42d4fd7-image.png",
+		"component": "image",
+		"alt": ""
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/3af27570-2746-45f7-9f54-fea42318a257-Annotation 2022-12-09 113933.png",
+		"component": "image",
+		"alt": ""
+	},
+	{
+		"value": "A boy with laughing costumes",
+		"component": "header",
+		"variant": 3
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/eef812b2-ef05-4099-9010-3b674a2f42d5-image.png",
+		"component": "image",
+		"alt": ""
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/9f1c957f-63f8-4aca-9cbd-1bd24bbb783e-Annotation 2022-12-09 114011.png",
+		"component": "image",
+		"alt": ""
+	},
+	{
+		"value": "A girl",
+		"component": "header",
+		"variant": 3
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/9a6c3343-f62e-4572-9597-1165566c43e2-Annotation 2022-12-09 114043.png",
+		"component": "image",
+		"alt": ""
+	}
+]

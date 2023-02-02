@@ -1,0 +1,24 @@
+[
+  {
+    "value": "Variable Examples_key1",
+    "component": "header",
+    "variant": 2
+  },
+  {
+    "value": "Variable Examples_key2",
+    "component": "text"
+  },
+  {
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/49e6c036-f1b7-479c-abfd-6137a29c60c1-image15.jpg",
+    "component": "image",
+    "alt": "Variable Examples_key3"
+  },
+  {
+    "value": "Variable Examples_key4",
+    "component": "text"
+  },
+  {
+    "value": "Variable Examples_key5",
+    "component": "text"
+  }
+]

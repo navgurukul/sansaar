@@ -1,0 +1,16 @@
+[
+  {
+    "value": "Introduction_key1",
+    "component": "header",
+    "variant": 2
+  },
+  {
+    "value": "Introduction_key2",
+    "component": "text"
+  },
+  {
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/ec23c81e-2d5e-4f32-9234-26d889e35ef1-image1.png",
+    "component": "image",
+    "alt": "Introduction_key3"
+  }
+]

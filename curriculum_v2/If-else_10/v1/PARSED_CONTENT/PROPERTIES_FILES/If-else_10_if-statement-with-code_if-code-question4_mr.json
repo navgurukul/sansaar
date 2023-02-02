@@ -1,0 +1,10 @@
+{
+	"if-statement-with-code_if-code-question4_key1": "उदाहरण ४ :-",
+	"if-statement-with-code_if-code-question4_key2": "जर फिल्टरमधील पाणी 1L पेक्षा कमी असेल तर जास्त पाणी भरावे लागेल. जर पाण्याचे प्रमाण 1L ते 10L दरम्यान असेल तर पाणी भरण्याची गरज नाही. जर पाणी 10L पेक्षा जास्त असेल तर पाणी ओव्हरफ्लो होईल. या अटींवर आधारित, खाली दिलेला फ्लोचार्ट पूर्ण करा.",
+	"if-statement-with-code_if-code-question4_key3": "पाण्याच्या पातळीसाठी, <span style=\"\">variable</span> नावाच्या <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">water</span> <span style=\"\"></span> मध्ये aW5wdXQ= वापरकर्ता घ्या आणि ते <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">integer</span> मध्ये रूपांतरित करा.",
+	"if-statement-with-code_if-code-question4_key4": "फ्लोचार्ट :-",
+	"if-statement-with-code_if-code-question4_key5": "प्रश्न 6 png",
+	"if-statement-with-code_if-code-question4_key6": "<span style=\"\">कार्यक्रम</span> :-",
+	"if-statement-with-code_if-code-question4_key7": "<span style=\"\">Output</span> : -",
+	"if-statement-with-code_if-code-question4_key8": "पाणी पातळीचे मूल्य लिटरमध्ये प्रविष्ट करा:<br> ५<br> पाणी भरण्याची गरज नाही"
+}

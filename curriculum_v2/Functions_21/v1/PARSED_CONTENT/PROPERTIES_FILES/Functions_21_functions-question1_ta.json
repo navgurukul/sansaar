@@ -1,0 +1,14 @@
+{
+	"functions-question1_key1": "செயல்பாடுகள்",
+	"functions-question1_key2": "எடுத்துக்காட்டு 1 :-",
+	"functions-question1_key3": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">ask_question</span> என்ற ஒரு செயல்பாட்டை எழுதவும், இது &quot;ஒருமுறை&quot; என்ற உரையை அச்சிடும்.",
+	"functions-question1_key4": "இந்த கேள்வியை நாம் இரண்டு முறைகளைப் பயன்படுத்தி தீர்க்கலாம் -",
+	"functions-question1_key5": "<span style=\"\">i) திட்டம்</span> : -",
+	"functions-question1_key6": "<span style=\"\">வெளியீடு</span> :-",
+	"functions-question1_key7": "ஒருமுறை<br> ஒருமுறை<br> ஒருமுறை<br> ஒருமுறை<br> ஒருமுறை",
+	"functions-question1_key8": "<span style=\"\">ii) திட்டம்</span> :-",
+	"functions-question1_key9": "<span style=\"\">வெளியீடு</span> :-",
+	"functions-question1_key10": "ஒருமுறை<br> ஒருமுறை<br> ஒருமுறை<br> ஒருமுறை<br> .<br> .<br> .<br> ஒருமுறை<br> ஒருமுறை",
+	"functions-question1_key11": "(குறிப்பு:-ஒருமுறை 100 முறை அச்சிடப்படும்)",
+	"functions-question1_key12": "பின்னர் while <span style=\"\">லூப்பைப்</span> பயன்படுத்தி இந்த செயல்பாட்டை 100 முறை அழைக்க <span style=\"\">குறியீட்டை</span> எழுதினார்."
+}

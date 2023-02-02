@@ -1,0 +1,10 @@
+{
+	"Types_intro_key1": "ஆபரேட்டர்களின் வகை",
+	"Types_intro_key2": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">எண்கணித இயக்கிகள்</span>",
+	"Types_intro_key3": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">பணி ஆபரேட்டர்கள்</span>",
+	"Types_intro_key4": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">ஒப்பீட்டு ஆபரேட்டர்கள்</span>",
+	"Types_intro_key5": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">லாஜிக்கல் ஆபரேட்டர்கள்</span>",
+	"Types_intro_key6": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">அடையாள ஆபரேட்டர்கள்</span> (பின்னர் கற்றுக்கொள்வோம்)",
+	"Types_intro_key7": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">உறுப்பினர் ஆபரேட்டர்கள்</span> (பின்னர் அறியலாம்)",
+	"Types_intro_key8": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">பிட்வைஸ் ஆபரேட்டர்கள்</span> (பின்னர் அறிந்து கொள்வார்கள்)"
+}

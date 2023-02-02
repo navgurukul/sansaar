@@ -1,0 +1,11 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "DebugCode_intro_key1"
+  },
+  {
+    "component": "text",
+    "value": "DebugCode_intro_key2"
+  }
+]

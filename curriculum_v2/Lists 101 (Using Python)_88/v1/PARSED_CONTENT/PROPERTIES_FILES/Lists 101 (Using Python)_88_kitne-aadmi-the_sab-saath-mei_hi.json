@@ -1,0 +1,12 @@
+{
+	"kitne-aadmi-the_sab-saath-mei_key1": "उदाहरण 9",
+	"kitne-aadmi-the_sab-saath-mei_key2": "<span style=\"\">code</span> लिखें जो सभी सूचियों(List) के लिए काम करता है। यह सब <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">odd numbers</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">even numbers</span> और दी गई सूची में सभी नंबरों के लिए निम्न गणना के रूप में <span style=\"\">output</span> print करना चाहिए:",
+	"kitne-aadmi-the_sab-saath-mei_key3": "गिनती",
+	"kitne-aadmi-the_sab-saath-mei_key4": "योग",
+	"kitne-aadmi-the_sab-saath-mei_key5": "औसत",
+	"kitne-aadmi-the_sab-saath-mei_key6": "और फिर इसे प्रिंट करें।",
+	"kitne-aadmi-the_sab-saath-mei_key7": "Sample <span style=\"\">Input</span>",
+	"kitne-aadmi-the_sab-saath-mei_key8": "Sample <span style=\"\">Output</span>",
+	"kitne-aadmi-the_sab-saath-mei_key9": "आउटपुट:-",
+	"kitne-aadmi-the_sab-saath-mei_key10": "विषम संख्याओं की संख्या = 7<br> सम संख्याओं की संख्या = 4<br> सभी संख्याओं की संख्या = 11<br> विषम संख्याओं का योग = 165<br> सम संख्याओं का योग = 124<br> सभी संख्याओं का योग = 289<br> विषम संख्याओं का औसत = 23.571428571428573<br> सम संख्याओं का औसत = 31.0<br> सभी संख्याओं का औसत = 26.27272727272727273"
+}

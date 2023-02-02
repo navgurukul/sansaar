@@ -1,0 +1,10 @@
+{
+	"if-statement-with-code_if-code-question1_key1": "ఉదాహరణ 1 :-",
+	"if-statement-with-code_if-code-question1_key2": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">నంబర్</span> అనే <span style=\"\">వేరియబుల్‌లో</span> , వినియోగదారు నుండి <span style=\"\">ఇన్‌పుట్</span> తీసుకొని దానిని <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">పూర్ణాంకానికి</span> మార్చండి.",
+	"if-statement-with-code_if-code-question1_key3": "ఈ సంఖ్య 10 కంటే తక్కువగా ఉంటే, <b>&quot;10 సె చోటా హై&quot;</b> అని ముద్రించండి. ఇది 10 కంటే ఎక్కువ మరియు 20 కంటే తక్కువ ఉంటే <b>&quot;20 సె చోటా హై&quot; అని</b> ప్రింట్ చేయండి. అది 20 కంటే ఎక్కువ <b>ఉంటే &quot;20 సే బడా హై&quot;</b> అని ప్రింట్ చేయండి. పై సూచనల ప్రకారం ఫ్లోచార్ట్‌ను పూర్తి చేయండి.",
+	"if-statement-with-code_if-code-question1_key4": "ఫ్లోచార్ట్:-",
+	"if-statement-with-code_if-code-question1_key5": "ఫ్లోచార్ట్-ప్రశ్న-1",
+	"if-statement-with-code_if-code-question1_key6": "<span style=\"\">కార్యక్రమం</span> :-",
+	"if-statement-with-code_if-code-question1_key7": "<span style=\"\">అవుట్‌పుట్</span> :-",
+	"if-statement-with-code_if-code-question1_key8": "ఏదైనా సంఖ్యను నమోదు చేయండి<br> 12<br> 20 సె చోటా హై"
+}
