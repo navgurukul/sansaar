@@ -109,6 +109,8 @@ dist
 # curriculum
 curriculum/
 curriculum_new/
+curriculum_v2/
+
 
 # assessment
 assessment/

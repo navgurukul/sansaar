@@ -49,6 +49,12 @@ exports.deployment = async (start) => {
   // Set the matrix client before initializing the server
   server.app.chatClient = client;
 
+	// const cache = server.cache({
+	// 	cache: 'my_cache',
+	// 	segment: CONFIG.redis,
+	// 	expiresIn: 24 * 60 * 60 * 1000,
+	// });
+	// server.app.cache = cache;
   await server.initialize();
 
   if (!start) {
@@ -86,13 +92,19 @@ exports.deployment = async (start) => {
     partnerService,
     calendarService,
     coursesServiceV2,
+    userRoleService
   } = server.services();
 
-  /* Scheduler- Assign role to Partners*/
-  cron.schedule('0 40 * * * *', async () => {
-    await partnerService.assignPartnerRole();
-    await partnerService.assignPartnerRoleToTeacher();
+ 
+  cron.schedule('0 00 08 * * *', async () => {
+    await userRoleService.setStatusInVolunteer();
   });
+
+  /* Scheduler- Assign role to Partners*/
+  // cron.schedule('0 40 * * * *', async () => {
+  //   await partnerService.assignPartnerRole();
+  //   await partnerService.assignPartnerRoleToTeacher();
+  // });
 
   /* Scheduler- call calendar patch API in every 10 min*/
   cron.schedule('00 */10 * * * *', async () => {
