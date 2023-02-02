@@ -1,0 +1,7 @@
+{
+	"Question2_key1": "Example 3 :-",
+	"Question2_key2": "You have to define a function named isGreaterThan20  in which you have to pass two parameters to the function and the first parameter by default should be 20.And then output should be True if both values are greater than 20 and  False if any one is equal to 20 or less than 20.",
+	"Question2_key3": "<span style=\"\">Output</span> :-",
+	"Question2_key4": "False",
+	"Question2_key5": "If you pass two numbers as parameter the output can be True or False, if you pass only one parameter output will be False."
+}

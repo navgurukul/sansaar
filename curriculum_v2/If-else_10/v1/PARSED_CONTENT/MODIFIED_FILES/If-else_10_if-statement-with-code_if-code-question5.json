@@ -1,0 +1,89 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "if-statement-with-code_if-code-question5_key1"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-code-question5_key2",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-code-question5_key3",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-code-question5_key4",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-code-question5_key5"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-code-question5_key6",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-code-question5_key7",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-code-question5_key8"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-code-question5_key9"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "if-statement-with-code_if-code-question5_key10"
+  },
+  {
+    "component": "image",
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/course_images_v2/If-else_10/assets/question5-image1.png",
+    "alt": "if-statement-with-code_if-code-question5_key11"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "if-statement-with-code_if-code-question5_key12"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "varx = int(input(\"enter a number\")) <br>if(varx % 2 == 0): <br>&emsp;&emsp;print(varx, \"is divisible by 2\") <br>else: <br>&emsp;&emsp;print(varx, \"is not divisible by 2\") "
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "if-statement-with-code_if-code-question5_key13"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-code-question5_key14"
+  }
+]

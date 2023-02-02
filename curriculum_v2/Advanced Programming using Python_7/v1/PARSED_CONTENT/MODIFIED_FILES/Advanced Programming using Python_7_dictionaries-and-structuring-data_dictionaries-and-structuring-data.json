@@ -1,0 +1,96 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "dictionaries-and-structuring-data_dictionaries-and-structuring-data_key1"
+  },
+  {
+    "component": "text",
+    "value": "dictionaries-and-structuring-data_dictionaries-and-structuring-data_key2"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "dictionaries-and-structuring-data_dictionaries-and-structuring-data_key3"
+  },
+  {
+    "component": "text",
+    "value": "dictionaries-and-structuring-data_dictionaries-and-structuring-data_key4"
+  },
+  {
+    "component": "text",
+    "value": "dictionaries-and-structuring-data_dictionaries-and-structuring-data_key5"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> myCat = {'size': 'fat', 'color': 'gray', 'disposition': 'loud'}"
+  },
+  {
+    "component": "text",
+    "value": "dictionaries-and-structuring-data_dictionaries-and-structuring-data_key6"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> myCat['size']<br>'fat'<br>>>> 'My cat has ' + myCat['color'] + ' fur.'<br>'My cat has gray fur.'"
+  },
+  {
+    "component": "text",
+    "value": "dictionaries-and-structuring-data_dictionaries-and-structuring-data_key7"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> spam = {12345: 'Luggage Combination', 42: 'The Answer'}"
+  },
+  {
+    "component": "text",
+    "value": "dictionaries-and-structuring-data_dictionaries-and-structuring-data_key8"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> spam = ['cats', 'dogs', 'moose']<br>>>> bacon = ['dogs', 'moose', 'cats']<br>>>> spam == bacon<br>False<br>>>> eggs = {'name': 'Zophie', 'species': 'cat', 'age': '8'}<br>>>> ham = {'species': 'cat', 'age': '8', 'name': 'Zophie'}<br>>>> eggs == ham<br>True"
+  },
+  {
+    "component": "text",
+    "value": "dictionaries-and-structuring-data_dictionaries-and-structuring-data_key9"
+  },
+  {
+    "component": "text",
+    "value": "dictionaries-and-structuring-data_dictionaries-and-structuring-data_key10"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> spam = {'name': 'Zophie', 'age': 7}<br>>>> spam['color']<br>Traceback (most recent call last):<br>  File \"<pyshell#1>\", line 1, in <module><br>&emsp;spam['color']<br>KeyError: 'color'"
+  },
+  {
+    "component": "text",
+    "value": "dictionaries-and-structuring-data_dictionaries-and-structuring-data_key11"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "❶ birthdays = {'Alice': 'Apr 1', 'Bob': 'Dec 12', 'Carol': 'Mar 4'}<br><br>   while True:<br>&emsp;   print('Enter a name: (blank to quit)')<br>&emsp;   name = input()<br>&emsp;   if name == '':<br>&emsp;&emsp;   break<br><br>❷&emsp; if name in birthdays:<br>❸&emsp;&emsp; print(birthdays[name] + ' is the birthday of ' + name)<br>&emsp;   else:<br>&emsp;&emsp;   print('I do not have birthday information for ' + name)<br>&emsp;&emsp;   print('What is their birthday?')<br>&emsp;&emsp;   bday = input()<br>❹&emsp;&emsp; birthdays[name] = bday<br>&emsp;&emsp;   print('Birthday database updated.')"
+  },
+  {
+    "component": "text",
+    "value": "dictionaries-and-structuring-data_dictionaries-and-structuring-data_key12"
+  },
+  {
+    "component": "text",
+    "value": "dictionaries-and-structuring-data_dictionaries-and-structuring-data_key13"
+  },
+  {
+    "component": "text",
+    "value": "dictionaries-and-structuring-data_dictionaries-and-structuring-data_key14"
+  }
+]

@@ -1,0 +1,12 @@
+{
+	"variables_variables-naming-question1_key1": "மாறிகள் பெயரிடும் எடுத்துக்காட்டு-1",
+	"variables_variables-naming-question1_key2": "உதாரணமாக",
+	"variables_variables-naming-question1_key3": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">var_12</span> என பெயரிடப்பட்ட VARIABLE க்கு FLOAT மதிப்பை ஒதுக்கவும்.",
+	"variables_variables-naming-question1_key4": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">_var</span> என பெயரிடப்பட்ட VARIABLE க்கு STRING மதிப்பை ஒதுக்கவும்.",
+	"variables_variables-naming-question1_key5": "_12 என பெயரிடப்பட்ட VARIABLE க்கு INTEGER மதிப்பை <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">ஒதுக்கவும்</span> .",
+	"variables_variables-naming-question1_key6": "மேலே உள்ள 3 படிகளைச் செய்த பிறகு, அந்த மூன்று மாறிகளை <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">அச்சிடவும்</span> .",
+	"variables_variables-naming-question1_key7": "<span style=\"\">நிகழ்ச்சி</span> :-",
+	"variables_variables-naming-question1_key8": "var_12 = 56.67<br> _var = &quot;hii&quot;<br> _12 = 56<br> அச்சு (var_12)<br> அச்சு (_var)<br> அச்சு(_12)",
+	"variables_variables-naming-question1_key9": "<span style=\"\">வெளியீடு</span> :-",
+	"variables_variables-naming-question1_key10": "56.67<br> இது<br> 56"
+}

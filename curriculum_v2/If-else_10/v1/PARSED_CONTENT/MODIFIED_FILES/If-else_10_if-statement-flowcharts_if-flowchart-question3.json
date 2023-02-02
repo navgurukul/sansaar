@@ -1,0 +1,31 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "if-statement-flowcharts_if-flowchart-question3_key1"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-flowcharts_if-flowchart-question3_key2"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "if-statement-flowcharts_if-flowchart-question3_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "if 1000 >= 1000:<br>&emsp;print(\"barabar hai\")<br>else:<br>&emsp;print(\"barabar nahi hai\")"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "if-statement-flowcharts_if-flowchart-question3_key4"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-flowcharts_if-flowchart-question3_key5"
+  }
+]

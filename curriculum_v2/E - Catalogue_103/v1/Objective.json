@@ -1,0 +1,16 @@
+[
+	{
+		"value": "Objective",
+		"component": "header",
+		"variant": 2
+	},
+	{
+		"value": "We will make an application of e-catalogue for the library.<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/313f80a3-3683-403f-92f8-f964b3500440-image2.png",
+		"component": "image",
+		"alt": ""
+	}
+]

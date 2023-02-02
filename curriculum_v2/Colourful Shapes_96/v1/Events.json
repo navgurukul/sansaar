@@ -1,0 +1,15 @@
+[
+	{
+		"value": "Events",
+		"component": "header",
+		"variant": 2
+	},
+	{
+		"value": "In modern applications, making it interactive is important to keep the users engage. For example, when you click on your phone the application starts, swiping a screen to change the content,  etc.<br>",
+		"component": "text"
+	},
+	{
+		"value": "Such actions tells computer what it is supposed to do and are called Events. Events are defined as an action which causes other things to happen.",
+		"component": "text"
+	}
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "DebugCode_key1"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "DebugCode_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def sum()<br>&emsp;print(12+13)<br>sum()"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "DebugCode_key3"
+  },
+  {
+    "component": "text",
+    "value": "DebugCode_key4"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "DebugCode_key5"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def welcome():<br>&emsp;print(\"Welcome to function\")<br>welcome()"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "DebugCode_key6"
+  },
+  {
+    "component": "text",
+    "value": "DebugCode_key7"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "DebugCode_key8"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "<br>isEven()<br><br>def isEven():<br>&emsp;if(12%2==0):<br>&emsp;&emsp;print(\"Even Number\")<br>&emsp;else:<br>&emsp;&emsp;print(\"Old Number\")"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "DebugCode_key9"
+  },
+  {
+    "component": "text",
+    "value": "DebugCode_key10"
+  }
+]

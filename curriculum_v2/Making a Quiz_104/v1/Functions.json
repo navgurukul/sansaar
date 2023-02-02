@@ -1,0 +1,16 @@
+[
+	{
+		"value": "Functions",
+		"component": "header",
+		"variant": 2
+	},
+	{
+		"value": "At this point in our exploration of Scratch, we have learned how to use many different blocks. However, when we want some functionality, we can create our blocks and use them just like some other code blocks from scratch.<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/445ca189-71cf-498c-bd6b-8668ed15bc09-image.png",
+		"component": "image",
+		"alt": ""
+	}
+]

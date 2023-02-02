@@ -1,0 +1,51 @@
+[
+  {
+    "value": "Operators_key1",
+    "component": "header",
+    "variant": 2
+  },
+  {
+    "value": "Operators_key2",
+    "component": "text"
+  },
+  {
+    "value": "Operators_key3",
+    "component": "text"
+  },
+  {
+    "value": "Operators_key4",
+    "component": "text"
+  },
+  {
+    "value": "Operators_key5",
+    "component": "text",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "value": "Operators_key6",
+    "component": "text",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "value": "Operators_key7",
+    "component": "text",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "value": "Operators_key8",
+    "component": "text",
+    "decoration": {
+      "type": "number",
+      "value": 4
+    }
+  }
+]

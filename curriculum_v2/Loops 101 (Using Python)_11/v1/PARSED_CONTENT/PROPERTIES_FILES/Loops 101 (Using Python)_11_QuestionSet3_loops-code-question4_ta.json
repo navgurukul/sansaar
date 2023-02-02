@@ -1,0 +1,8 @@
+{
+	"QuestionSet3_loops-code-question4_key1": "எடுத்துக்காட்டு 4",
+	"QuestionSet3_loops-code-question4_key2": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">8 இன்</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">பெருக்கல்களான 30 முதல் 420</span> வரையிலான அந்த எண்களின் கூட்டுத்தொகையைக் கணக்கிடும் <span style=\"\">குறியீட்டை</span> எழுதவும், அதாவது அந்த எண்கள் <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">8</span> இன் <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">அட்டவணையில்</span> வருகின்றன.",
+	"QuestionSet3_loops-code-question4_key3": "<span style=\"\">நிகழ்ச்சி</span> :-",
+	"QuestionSet3_loops-code-question4_key4": "நான் வரம்பில் (30,420):<br> என்றால்(i%8==0):<br> அச்சு (i)",
+	"QuestionSet3_loops-code-question4_key5": "<span style=\"\">வெளியீடு</span> :-",
+	"QuestionSet3_loops-code-question4_key6": "32<br> 40<br> 48<br> 56<br> 64<br> 72<br> 80<br> 88<br> 96<br> 104<br> 112<br> 120<br> 128<br> 136<br> 144<br> 152<br> 160<br> 168<br> 176<br> 184<br> 192<br> 200<br> 208<br> 216<br> 224<br> 232<br> 240<br> 248<br> 256<br> 264<br> 272<br> 280<br> 288<br> 296<br> 304<br> 312<br> 320<br> 328<br> 336<br> 344<br> 352<br> 360<br> 368<br> 376<br> 384<br> 392<br> 400<br> 408<br> 416<br>"
+}

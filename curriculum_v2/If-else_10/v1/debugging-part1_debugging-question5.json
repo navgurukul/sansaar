@@ -1,0 +1,51 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Example 5 :-"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Bug</span> :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "#Tumhare paas 5 mangoes hai<br>mangoes = 5<br># Kisi ne humhe 5 aur mangoes de diye<br>manGoes = mangoes + 5<br># Ab tumne unn mangoes ko 5 logo mei baant diya<br>print(mangoes / 5)<br># Par isse toh 1 mango hi mila. Par milne 2 chahiye the. Code ko sahi karo jisse ki sabko sahi mangoes mile."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "1"
+	},
+	{
+		"component": "text",
+		"value": "Corrected code is given below."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Debug</span> :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "mangoes = 5<br>mangoes = mangoes + 5<br># please take care of case sensitivity in variable name<br>print(mangoes / 5)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "2"
+	}
+]

@@ -1,0 +1,17 @@
+{
+	"csv-files-and-json-data_practice-questions_key1": "Practice Questions",
+	"csv-files-and-json-data_practice-questions_key2": "Q:",
+	"csv-files-and-json-data_practice-questions_key3": "What are some features Excel spreadsheets have that CSV spreadsheets don’t?",
+	"csv-files-and-json-data_practice-questions_key4": "Q:",
+	"csv-files-and-json-data_practice-questions_key5": "What do you pass to csv.reader() and csv.writer() to create Reader and Writer objects?",
+	"csv-files-and-json-data_practice-questions_key6": "Q:",
+	"csv-files-and-json-data_practice-questions_key7": "What modes do File objects for reader and Writer objects need to be opened in?",
+	"csv-files-and-json-data_practice-questions_key8": "Q:",
+	"csv-files-and-json-data_practice-questions_key9": "What method takes a list argument and writes it to a CSV file?",
+	"csv-files-and-json-data_practice-questions_key10": "Q:",
+	"csv-files-and-json-data_practice-questions_key11": "What do the delimiter and lineterminator keyword arguments do?",
+	"csv-files-and-json-data_practice-questions_key12": "Q:",
+	"csv-files-and-json-data_practice-questions_key13": "What function takes a string of JSON data and returns a Python data structure?",
+	"csv-files-and-json-data_practice-questions_key14": "Q:",
+	"csv-files-and-json-data_practice-questions_key15": "What function takes a Python data structure and returns a string of JSON data?"
+}

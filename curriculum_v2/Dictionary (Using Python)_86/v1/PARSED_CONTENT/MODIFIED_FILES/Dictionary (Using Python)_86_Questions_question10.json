@@ -1,0 +1,31 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "Questions_question10_key1"
+  },
+  {
+    "component": "text",
+    "value": "Questions_question10_key2"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Questions_question10_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "dict1 =  {'Alex': ['subj1', 'subj2', 'subj3'], 'David': ['subj1', 'subj2']}<br>sum=0<br>for i in dict1.values():<br>  for item in i:<br>    sum+=1<br>print(sum)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Questions_question10_key4"
+  },
+  {
+    "component": "text",
+    "value": "Questions_question10_key5"
+  }
+]

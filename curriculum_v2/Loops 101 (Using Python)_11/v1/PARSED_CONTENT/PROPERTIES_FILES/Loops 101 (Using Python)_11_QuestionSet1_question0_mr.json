@@ -1,0 +1,10 @@
+{
+	"QuestionSet1_question0_key1": "उदाहरण १",
+	"QuestionSet1_question0_key2": "1 ते 100 पर्यंत सर्व अंक मुद्रित करणारा प्रोग्राम बनवा.",
+	"QuestionSet1_question0_key3": "तुम्हाला खालील <span style=\"\">output</span> म्हणून मिळाले पाहिजे.",
+	"QuestionSet1_question0_key4": "१<br> 2<br> 3<br> 4<br> ५<br> 6<br> …<br> …<br> …<br> ९७<br> ९८<br> ९९<br> 100",
+	"QuestionSet1_question0_key5": "<span style=\"\">कार्यक्रम</span> :-",
+	"QuestionSet1_question0_key6": "i=1<br> मी&lt;=100 असताना:<br> प्रिंट(i)<br> i+=1",
+	"QuestionSet1_question0_key7": "<span style=\"\">Output</span> : -",
+	"QuestionSet1_question0_key8": "१<br> 2<br> 3<br> 4<br> ५<br> 6<br> …<br> …<br> …<br> ९७<br> ९८<br> ९९<br> 100"
+}

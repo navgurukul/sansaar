@@ -1,0 +1,108 @@
+[
+  {
+    "value": "My Car: (Teacher Models)_key1",
+    "component": "header",
+    "variant": 2
+  },
+  {
+    "value": "My Car: (Teacher Models)_key2",
+    "component": "text"
+  },
+  {
+    "value": "My Car: (Teacher Models)_key3",
+    "component": "header",
+    "variant": 3
+  },
+  {
+    "value": "My Car: (Teacher Models)_key4",
+    "component": "text",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "value": "My Car: (Teacher Models)_key5",
+    "component": "text",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "value": "My Car: (Teacher Models)_key6",
+    "component": "text",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "value": "My Car: (Teacher Models)_key7",
+    "component": "text",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "value": "My Car: (Teacher Models)_key8",
+    "component": "text",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "value": "My Car: (Teacher Models)_key9",
+    "component": "text",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "value": "My Car: (Teacher Models)_key10",
+    "component": "header",
+    "variant": 3
+  },
+  {
+    "value": "My Car: (Teacher Models)_key11",
+    "component": "text"
+  },
+  {
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/ece41b82-eda5-4c08-bc6f-61424c0c40f9-image6.png",
+    "component": "image",
+    "alt": "My Car: (Teacher Models)_key12"
+  },
+  {
+    "value": "My Car: (Teacher Models)_key13",
+    "component": "text"
+  },
+  {
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/8ffb012c-6eaa-4583-9a6a-4193c8558ed1-image8.png",
+    "component": "image",
+    "alt": "My Car: (Teacher Models)_key14"
+  },
+  {
+    "value": "My Car: (Teacher Models)_key15",
+    "component": "text"
+  },
+  {
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/9176f2d0-19b3-4998-bf9b-67f4df971af4-image1.png",
+    "component": "image",
+    "alt": "My Car: (Teacher Models)_key16"
+  },
+  {
+    "value": "My Car: (Teacher Models)_key17",
+    "component": "text"
+  },
+  {
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/4ef0cc0f-fd83-4d98-a2ed-7a2df73f9c62-image12.png",
+    "component": "image",
+    "alt": "My Car: (Teacher Models)_key18"
+  },
+  {
+    "value": "My Car: (Teacher Models)_key19",
+    "component": "text"
+  },
+  {
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/2bf1c2ac-1d21-4e40-8353-d7ccd43bed8d-image4.png",
+    "component": "image",
+    "alt": "My Car: (Teacher Models)_key20"
+  }
+]

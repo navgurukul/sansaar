@@ -1,0 +1,10 @@
+{
+	"debugging-part1_debugging-question4_key1": "उदाहरण 4 :-",
+	"debugging-part1_debugging-question4_key2": "<span style=\"\">बग</span> :-",
+	"debugging-part1_debugging-question4_key3": "<span style=\"\">Output</span> :-",
+	"debugging-part1_debugging-question4_key4": "कृपया एक दशमलव संख्या दर्ज करें&gt;<br> 10.5<br> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">लेखन त्रुटि:</span> &#39;str&#39; और &#39;float&#39; वस्तुओं को संयोजित नहीं कर सकता",
+	"debugging-part1_debugging-question4_key5": "सही कोड नीचे दिया गया है।",
+	"debugging-part1_debugging-question4_key6": "<span style=\"\">डिबग</span> :-",
+	"debugging-part1_debugging-question4_key7": "<span style=\"\">Output</span> :-",
+	"debugging-part1_debugging-question4_key8": "कृपया एक दशमलव संख्या दर्ज करें&gt;<br> 10.5<br> आपकी संख्या 2 से विभाजित = 5.25 . के बराबर है"
+}

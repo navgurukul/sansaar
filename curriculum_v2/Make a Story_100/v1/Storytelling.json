@@ -1,0 +1,34 @@
+[
+	{
+		"value": "Beginning",
+		"component": "header",
+		"variant": 3
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/37ea0955-003d-4387-b00d-65f544cfbf1a-Annotation 2022-12-09 112011.png",
+		"component": "image",
+		"alt": ""
+	},
+	{
+		"value": "Introduction of the characters and the setting<br>",
+		"component": "text"
+	},
+	{
+		"value": "Middle",
+		"component": "header",
+		"variant": 3
+	},
+	{
+		"value": "Introduction of the problem, the introduction of the solution, and its implementation.<br>",
+		"component": "text"
+	},
+	{
+		"value": "End",
+		"component": "header",
+		"variant": 3
+	},
+	{
+		"value": "The climax with the result of the solution appears.<br>",
+		"component": "text"
+	}
+]

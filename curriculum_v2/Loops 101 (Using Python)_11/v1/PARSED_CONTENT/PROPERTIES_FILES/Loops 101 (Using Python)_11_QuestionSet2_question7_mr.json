@@ -1,0 +1,9 @@
+{
+	"QuestionSet2_question7_key1": "उदाहरण 8",
+	"QuestionSet2_question7_key2": "हा नमुना मुद्रित करा.",
+	"QuestionSet2_question7_key3": "5 5 5 5 5<br> ४ ४ ४ ४ ४ ४<br> ३ ३ ३ ३ ३ ३<br> २ २ २ २ २<br> १ १ १ १ १",
+	"QuestionSet2_question7_key4": "<span style=\"\">कार्यक्रम</span> :-",
+	"QuestionSet2_question7_key5": "i=5<br> तेव्हा(i&gt;0):<br> j=1<br> तेव्हा(j&lt;=5):<br> प्रिंट(i,end=&quot; &quot;)<br> j+=1<br> प्रिंट (&quot;&quot;)<br> i-=1",
+	"QuestionSet2_question7_key6": "<span style=\"\">Output</span> : -",
+	"QuestionSet2_question7_key7": "5 5 5 5 5<br> ४ ४ ४ ४ ४ ४<br> ३ ३ ३ ३ ३ ३<br> २ २ २ २ २<br> १ १ १ १ १"
+}

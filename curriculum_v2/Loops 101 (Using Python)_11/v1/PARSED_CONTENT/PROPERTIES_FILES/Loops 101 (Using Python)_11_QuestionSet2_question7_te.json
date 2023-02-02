@@ -1,0 +1,9 @@
+{
+	"QuestionSet2_question7_key1": "ఉదాహరణ 8",
+	"QuestionSet2_question7_key2": "ఈ నమూనాను ముద్రించండి.",
+	"QuestionSet2_question7_key3": "5 5 5 5 5<br> 4 4 4 4 4<br> 3 3 3 3 3<br> 2 2 2 2 2<br> 1 1 1 1 1",
+	"QuestionSet2_question7_key4": "<span style=\"\">కార్యక్రమం</span> :-",
+	"QuestionSet2_question7_key5": "i=5<br> అయితే(i&gt;0):<br> j=1<br> అయితే(j&lt;=5):<br> ప్రింట్(i,end=&quot; &quot;)<br> j+=1<br> ముద్రణ(&quot; &quot;)<br> i-=1",
+	"QuestionSet2_question7_key6": "<span style=\"\">అవుట్‌పుట్</span> :-",
+	"QuestionSet2_question7_key7": "5 5 5 5 5<br> 4 4 4 4 4<br> 3 3 3 3 3<br> 2 2 2 2 2<br> 1 1 1 1 1"
+}

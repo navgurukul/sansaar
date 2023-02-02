@@ -1,0 +1,8 @@
+{
+	"QuestionSet3_loops-code-question2_key1": "उदाहरण २",
+	"QuestionSet3_loops-code-question2_key2": "<span style=\"\">code</span> लिहा की <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">prints</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">1 to 100</span> मधील त्या सर्व संख्या ज्या Nw <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\"></span> ने भागतात याचा अर्थ जेव्हा तुम्ही कोणत्याही संख्येला Nw <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\"></span> ने भागता तेव्हा उर्वरित 0 येते.",
+	"QuestionSet3_loops-code-question2_key3": "<span style=\"\">कार्यक्रम</span> :-",
+	"QuestionSet3_loops-code-question2_key4": "i=1<br> असताना(i&lt;=100): # i 1 पासून सुरू होतो आणि 100 ला संपतो<br> if(i%7==0): # हवामान तपासत आहे i 7 च्या पटीत आहे की नाही<br> print(i) # छपाई i<br> i+=1 # i 1 ने वाढवला आहे",
+	"QuestionSet3_loops-code-question2_key5": "<span style=\"\">Output</span> : -",
+	"QuestionSet3_loops-code-question2_key6": "७<br> 14<br> २१<br> २८<br> 35<br> 42<br> 49<br> ५६<br> ६३<br> 70<br> ७७<br> ८४<br> ९१<br> ९८"
+}

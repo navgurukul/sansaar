@@ -1,0 +1,40 @@
+[
+  {
+    "value": "E-Catalogue: (Teacher Models - 2)_key1",
+    "component": "header",
+    "variant": 2
+  },
+  {
+    "value": "E-Catalogue: (Teacher Models - 2)_key2",
+    "component": "text"
+  },
+  {
+    "value": "E-Catalogue: (Teacher Models - 2)_key3",
+    "component": "header",
+    "variant": 3
+  },
+  {
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/a548c92f-33c4-48a1-bcc2-8583b56dc838-image6.png",
+    "component": "image",
+    "alt": "E-Catalogue: (Teacher Models - 2)_key4"
+  },
+  {
+    "value": "E-Catalogue: (Teacher Models - 2)_key5",
+    "component": "text",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "value": "E-Catalogue: (Teacher Models - 2)_key6",
+    "component": "text",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/9b7f53f5-56df-4179-b4ec-ecce4a5b43eb-image7.png",
+    "component": "image",
+    "alt": "E-Catalogue: (Teacher Models - 2)_key7"
+  }
+]

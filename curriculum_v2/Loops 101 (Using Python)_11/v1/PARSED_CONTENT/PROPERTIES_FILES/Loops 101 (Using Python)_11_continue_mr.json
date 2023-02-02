@@ -1,0 +1,8 @@
+{
+	"continue_key1": "<span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">सुरू</span>",
+	"continue_key2": "<span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">continue</span> हा देखील <span style=\"\">पायथन</span> <b><span style=\"\">की</span> शब्द</b> आहे. <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">कंटिन्यू स्टेटमेंट</span> <span style=\"\">लूपची</span> <span style=\"\">काही</span> विधाने वगळते आणि इतर <span style=\"\">विधाने</span> <span style=\"\">कार्यान्वित करते</span> .",
+	"continue_key3": "<span style=\"\">Output</span> : -",
+	"continue_key4": "१<br> 2<br> 3<br> 4<br> वगळलेले घटक: ५<br> 6<br> ७<br> 8<br> ९<br> 10",
+	"continue_key5": "<span style=\"\">Output</span> : -",
+	"continue_key6": "v<br> g<br> आर<br> k<br> l"
+}

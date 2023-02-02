@@ -1,0 +1,12 @@
+{
+	"QuestionSet2_question1_key1": "எடுத்துக்காட்டு 1",
+	"QuestionSet2_question1_key2": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">7 ஆல் வகுபடும்</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">1 முதல் 100</span> வரையிலான அனைத்து எண்களையும் அச்சிடும் நிரலை உருவாக்கவும்.",
+	"QuestionSet2_question1_key3": "குறிப்பு :",
+	"QuestionSet2_question1_key4": "நீங்கள் எழுதும் <span style=\"\">லூப்</span> 556 இலிருந்து தொடங்கும்.",
+	"QuestionSet2_question1_key5": "உங்கள் <span style=\"\">வெளியீடு</span> பின்வருமாறு இருக்க வேண்டும்.",
+	"QuestionSet2_question1_key6": "7<br> 14<br> 21<br> 28<br> 35<br> 42<br> 49<br> 56<br> 63<br> 70<br> 77<br> 84<br> 91<br> 98",
+	"QuestionSet2_question1_key7": "<span style=\"\">நிகழ்ச்சி</span> :-",
+	"QuestionSet2_question1_key8": "i=1<br> while(i&lt;=100): # i 1 இல் தொடங்கி 100 இல் முடிகிறது<br> if(i%7==0):# வானிலை சரிபார்த்தல் i 7 இன் பெருக்கல் அல்லது இல்லை<br> அச்சு (i) # அச்சிடுதல் i<br> i+=1 # i 1 ஆல் அதிகரிக்கப்பட்டது",
+	"QuestionSet2_question1_key9": "<span style=\"\">வெளியீடு</span> :-",
+	"QuestionSet2_question1_key10": "7<br> 14<br> 21<br> 28<br> 35<br> 42<br> 49<br> 56<br> 63<br> 70<br> 77<br> 84<br> 91<br> 98"
+}

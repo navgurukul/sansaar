@@ -1,0 +1,12 @@
+{
+	"variables_variables-naming-question1_key1": "Variables naming Example-1",
+	"variables_variables-naming-question1_key2": "Example",
+	"variables_variables-naming-question1_key3": "Assign FLOAT value to a VARIABLE named as <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">var_12</span>.  ",
+	"variables_variables-naming-question1_key4": "Assign STRING value to a VARIABLE named as<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">_var</span>.  ",
+	"variables_variables-naming-question1_key5": "Assign INTEGER value to a VARIABLE named as<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">_12</span>.  ",
+	"variables_variables-naming-question1_key6": "After doing the above 3 steps, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">print</span> those three variables.",
+	"variables_variables-naming-question1_key7": "<span style=\"\">Program</span> :-",
+	"variables_variables-naming-question1_key8": "var_12 = 56.67<br>_var = \"hii\"<br>_12 = 56<br>print(var_12)<br>print(_var)<br>print(_12)",
+	"variables_variables-naming-question1_key9": "<span style=\"\">Output</span> :-",
+	"variables_variables-naming-question1_key10": "56.67<br>hii<br>56"
+}

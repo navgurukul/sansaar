@@ -1,0 +1,7 @@
+{
+	"DebugCode_question3_key1": "उदाहरण 3",
+	"DebugCode_question3_key2": "नीचे दिए गए प्रोग्राम में <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">keys</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">1 to 15</span> के बीच हैं और values <span style=\"\">keys</span> के square हैं।",
+	"DebugCode_question3_key3": "कार्यक्रम :-",
+	"DebugCode_question3_key4": "<span style=\"\">अपेक्षित आउटपुट</span> :-",
+	"DebugCode_question3_key5": "{1: 1, 2: 4, 3: 9, 4: 16, 5: 25, 6: 36, 7: 49, 8: 64,9: 81, 10: 100,<br> 11: 121, 12: 144, 13: 169, 14: 196, 15: 225}"
+}

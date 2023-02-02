@@ -1,0 +1,21 @@
+{
+	"iterations_key1": "सर्व <span style=\"\">keys</span> द्वारे पुनरावृत्ती करा :-",
+	"iterations_key2": "<span style=\"\">Output</span> : -",
+	"iterations_key3": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">गुजरात<br> महाराष्ट्र<br> राजस्थान<br> बिहार</span>",
+	"iterations_key4": "सर्व मूल्यांद्वारे पुनरावृत्ती करा:-",
+	"iterations_key5": "उदाहरण :-",
+	"iterations_key6": "<span style=\"\">Output</span> : -",
+	"iterations_key7": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">गांधीनगर<br> मुंबई<br> जयपूर<br> पाटणा</span>",
+	"iterations_key8": "उदाहरण :-",
+	"iterations_key9": "<span style=\"\">Output</span> : -",
+	"iterations_key10": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">१७<br> बिजेंदर<br> 10वी</span>",
+	"iterations_key11": "उदाहरण :-",
+	"iterations_key12": "शब्दकोशातून <i><span style=\"\">keys</span></i> आणि <i>मूल्ये</i> एकत्र कशी छापायची?",
+	"iterations_key13": "<span style=\"\">Output</span> : -",
+	"iterations_key14": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">(&#39;रेटिंग&#39;, 7.5)<br> (&#39;नायक&#39;, &#39;विजय&#39;)<br> (&#39;नाव&#39;, &#39;पुली&#39;)</span>",
+	"iterations_key15": "शब्दकोशाची लांबी:-",
+	"iterations_key16": "शब्दकोषातील आयटम/ <span style=\"\">key</span> मूल्य जोड्यांची संख्या शोधण्यासाठी आम्ही <b>शब्दकोश लांबी</b> वापरतो.",
+	"iterations_key17": "उदाहरण:-",
+	"iterations_key18": "<span style=\"\">Output</span> : -",
+	"iterations_key19": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">3</span>"
+}

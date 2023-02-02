@@ -1,0 +1,63 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "questions-2_report-card_key1"
+  },
+  {
+    "component": "text",
+    "value": "questions-2_report-card_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "marks = [<br>&emsp;[78, 76, 94, 86, 88],<br>&emsp;[91, 71, 98, 65, 76],<br>&emsp;[95, 45, 78, 52, 49]<br>]<br>totalMarks=0<br>for i in range (3):<br>&emsp;for j in range (5):<br>&emsp;&emsp; totalMarks = totalMarks+marks[i][j]<br>print(totalMarks)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "questions-2_report-card_key3"
+  },
+  {
+    "component": "text",
+    "value": "questions-2_report-card_key4"
+  },
+  {
+    "component": "text",
+    "value": "questions-2_report-card_key5"
+  },
+  {
+    "component": "text",
+    "value": "questions-2_report-card_key6"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "questions-2_report-card_key7"
+  },
+  {
+    "component": "text",
+    "value": "questions-2_report-card_key8"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "marks = [<br>&emsp;[78, 76, 94, 86, 88],<br>&emsp;[91, 71, 98, 65],<br>&emsp;[95, 45, 78]<br>]"
+  },
+  {
+    "component": "text",
+    "value": "questions-2_report-card_key9"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "marks = [<br>&emsp;[78, 76, 94, 86, 88],<br>&emsp;[91, 71, 98, 65],<br>&emsp;[95, 45, 78],<br>&emsp;[87, 67, 49, 68, 88]<br>]"
+  },
+  {
+    "component": "text",
+    "value": "questions-2_report-card_key10"
+  }
+]

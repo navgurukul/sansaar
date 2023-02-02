@@ -1,0 +1,16 @@
+{
+	"if-statement-with-code_if-code-question5_key1": "ఉదాహరణ 5 :-",
+	"if-statement-with-code_if-code-question5_key2": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">varx</span> అనే వేరియబుల్‌లో వినియోగదారు ఇన్‌పుట్‌ని తీసుకోండి.",
+	"if-statement-with-code_if-code-question5_key3": "దానిని <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">పూర్ణాంకానికి</span> మార్చండి.",
+	"if-statement-with-code_if-code-question5_key4": "ఈ సంఖ్య 2చే భాగించబడుతుందో లేదో తనిఖీ చేయండి.",
+	"if-statement-with-code_if-code-question5_key5": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">మాడ్యులస్ ఆపరేటర్‌ని</span> ఉపయోగించడం ద్వారా మీరు దీన్ని సాధించవచ్చు. గుర్తుంచుకోండి, మాడ్యులస్ <span style=\"\">ఆపరేటర్</span> రెండవ ఒపెరాండ్ ద్వారా మొదటి ఒపెరాండ్ విభజన యొక్క మిగిలిన భాగాన్ని తిరిగి ఇస్తుంది. ఉదాహరణ:",
+	"if-statement-with-code_if-code-question5_key6": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">6 % 2</span> 0ని అవుట్‌పుట్‌గా అందిస్తుంది ఎందుకంటే 2 పూర్తిగా 6ని విభజిస్తుంది మరియు మిగిలినది 0.",
+	"if-statement-with-code_if-code-question5_key7": "కానీ <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">9 % 2</span> అవుట్‌పుట్‌గా 1ని అందిస్తుంది, ఎందుకంటే 2 పూర్తిగా 9ని విభజించలేదు. మిగిలినది 1.",
+	"if-statement-with-code_if-code-question5_key8": "ముగించడానికి, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">6</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">2</span> ద్వారా భాగించబడుతుంది కానీ <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">9</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">2</span> ద్వారా భాగించబడదు.",
+	"if-statement-with-code_if-code-question5_key9": "సంఖ్యను 2తో భాగించగలిగితే, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">డివిజిబుల్‌ని</span> ప్రింట్ చేయండి లేకపోతే డివిజిబుల్ <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">కాదు అని</span> ప్రింట్ చేయండి",
+	"if-statement-with-code_if-code-question5_key10": "ఫ్లోచార్ట్:-",
+	"if-statement-with-code_if-code-question5_key11": "ప్రశ్న 9 png",
+	"if-statement-with-code_if-code-question5_key12": "<span style=\"\">కార్యక్రమం</span> :-",
+	"if-statement-with-code_if-code-question5_key13": "<span style=\"\">అవుట్‌పుట్</span> :-",
+	"if-statement-with-code_if-code-question5_key14": "ఒక సంఖ్యను నమోదు చేయండి<br> 23<br> 23 2చే భాగించబడదు"
+}

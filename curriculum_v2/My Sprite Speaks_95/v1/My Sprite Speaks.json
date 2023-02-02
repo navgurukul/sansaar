@@ -1,0 +1,55 @@
+[
+	{
+		"value": "Sprite Movements",
+		"component": "header",
+		"variant": 2
+	},
+	{
+		"value": "Throughout this course, we will make a sprite move left, right, up, and down when the arrow keys are pressed by playing a sound.<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/c4071bbd-57c5-419d-a207-2652c00413e9-1.png",
+		"component": "image",
+		"alt": ""
+	},
+	{
+		"value": "What is a program:",
+		"component": "header",
+		"variant": 3
+	},
+	{
+		"value": "I will tell the computer, and it will follow me. Let’s see what happens.<br>",
+		"component": "text"
+	},
+	{
+		"value": "Computer! Switch off!<br>",
+		"component": "text"
+	},
+	{
+		"value": "Computer! Play a song!<br>",
+		"component": "text"
+	},
+	{
+		"value": "Huh, nothing happened!",
+		"component": "header",
+		"variant": 3
+	},
+	{
+		"value": "Why do you think that the computer is not following our instructions?<br>",
+		"component": "text"
+	},
+	{
+		"value": "It is because telling a computer is not like saying something to humans. Here, we have to write a set of instructions and run it on the computer to follow those steps.<br><span style=\"font-size:13.999999999999998pt;font-family:Lato,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\"></span>",
+		"component": "text"
+	},
+	{
+		"value": "The instructions that a computer can understand to complete a given task is called a Program. A program is also called a code or a script.",
+		"component": "text"
+	},
+	{
+		"value": "So, now we will learn to write programs!",
+		"component": "header",
+		"variant": 3
+	}
+]

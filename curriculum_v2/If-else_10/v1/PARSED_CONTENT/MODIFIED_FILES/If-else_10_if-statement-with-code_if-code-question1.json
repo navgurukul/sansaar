@@ -1,0 +1,45 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "if-statement-with-code_if-code-question1_key1"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-code-question1_key2"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-code-question1_key3"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "if-statement-with-code_if-code-question1_key4"
+  },
+  {
+    "component": "image",
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/course_images_v2/If-else_10/assets/8.1-question1-image1.png",
+    "alt": "if-statement-with-code_if-code-question1_key5"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "if-statement-with-code_if-code-question1_key6"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "num = int(input(\"enter any number\"))<br>if num < 10:<br>&emsp;print(\"10 se chotta hai\")<br>elif num > 10 and num < 20:<br>&emsp;print(\"20 se chotta hai\")<br>else:<br>&emsp;print(\"20 se badda hai\")"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "if-statement-with-code_if-code-question1_key7"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-code-question1_key8"
+  }
+]

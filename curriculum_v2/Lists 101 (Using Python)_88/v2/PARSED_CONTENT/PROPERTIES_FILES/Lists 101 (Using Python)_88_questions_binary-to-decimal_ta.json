@@ -1,0 +1,16 @@
+{
+	"questions_binary-to-decimal_key1": "எடுத்துக்காட்டு 7<br><br> பைனரி முதல் தசமம் வரை",
+	"questions_binary-to-decimal_key2": "இந்த திட்டத்தில், <b>பைனரி வடிவத்தில்</b> ஏதேனும் எண் கொடுக்கப்பட்டால், அந்த எண்ணை <b>தசம வடிவத்தில்</b> மாற்ற கற்றுக்கொள்வோம்.",
+	"questions_binary-to-decimal_key3": "பைனரி",
+	"questions_binary-to-decimal_key4": "இந்த வரைபடத்தைப் பார்க்கவும்.",
+	"questions_binary-to-decimal_key5": "வெளியீடு:-",
+	"questions_binary-to-decimal_key6": "பைனரி எண்ணை உள்ளிடவும்: 110011<br> எண்ணின் தசம மதிப்பு 51",
+	"questions_binary-to-decimal_key7": "இந்த எண்ணை <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">தசம வடிவில்</span> மாற்ற:-",
+	"questions_binary-to-decimal_key8": "கடைசி உறுப்பு கோ 2^0 யானி 1 சே<br> இரண்டாவது கடைசி உறுப்பு கோ 2^1 யானி 2 சே<br> மூன்றாவது கடைசி உறுப்பு கோ 2^2 யானி 4 சே<br> நான்காவது கடைசி உறுப்பு கோ 2^3 யானி 8 சே<br> ,<br> ,<br> கர் கர் பெருக்கு<br> கர்ணா ஹை சேர்",
+	"questions_binary-to-decimal_key9": "மேலே உள்ள படிகளைச் செய்த பிறகு, நீங்கள் <b>155</b> ஐப் பெறுவீர்கள்.",
+	"questions_binary-to-decimal_key10": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">எட்ஜ் கேஸ்</span>",
+	"questions_binary-to-decimal_key11": "இந்த திட்டத்தின் <span style=\"\">வெளியீடு</span> என்னவாக இருக்கும்? உங்கள் நிரல் <b>வலுவாக</b> இருந்தால், அது தவறான <span style=\"\">வெளியீட்டைக்</span> கொடுக்கும், இல்லையெனில் அது <span style=\"\">பிழையை ஏற்படுத்தும்</span> .",
+	"questions_binary-to-decimal_key12": "உங்கள் திட்டம் <b>வலுவாக</b> இருந்தால்:",
+	"questions_binary-to-decimal_key13": "- பின்னர் அது தவறான வெளியீட்டைக் கொடுக்கும், அல்லது<br> - இது &quot;1&quot; ஐ 1 ஆகக் கருதி கேள்வியைத் தீர்க்கும்.",
+	"questions_binary-to-decimal_key14": "ஆனால், அது <b>வலுவாக</b> இல்லை என்றால், அது <span style=\"\">பிழையை</span> எறிந்துவிடும்."
+}

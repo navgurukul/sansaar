@@ -1,0 +1,68 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Functions"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example 1 :-"
+	},
+	{
+		"component": "text",
+		"value": "Write a function named <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">ask_question</span> which will print the text \"Once\"."
+	},
+	{
+		"component": "text",
+		"value": "We can solve this question using two methods -"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">i) Program</span> :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def ask_question():<br>&emsp;print(\"once\")<br>#calling function 5 times to print once<br>ask_question()<br>ask_question()<br>ask_question()<br>ask_question()<br>ask_question()"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "once<br>once<br>once<br>once<br>once"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">ii) Program</span> :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "#defining function with name ask_question<br>def ask_question():<br>&emsp;print(\"once\")<br>#calling function 100 times to print once<br>i=1<br>#Using while loop we are calling function 100 times<br>while(i<=100):<br>&emsp;ask_question()<br>&emsp;i+=1"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "once<br>once<br>once<br>once<br>.<br>.<br>.<br>once<br>once"
+	},
+	{
+		"component": "text",
+		"value": "(Note:-Once will be printed 100 times)"
+	},
+	{
+		"component": "text",
+		"value": "Then using the while <span style=\"\">loop</span> wrote the <span style=\"\">code</span> to call this function 100 times."
+	}
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "value": "Storytelling_key1",
+    "component": "header",
+    "variant": 3
+  },
+  {
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/37ea0955-003d-4387-b00d-65f544cfbf1a-Annotation 2022-12-09 112011.png",
+    "component": "image",
+    "alt": "Storytelling_key2"
+  },
+  {
+    "value": "Storytelling_key3",
+    "component": "text"
+  },
+  {
+    "value": "Storytelling_key4",
+    "component": "header",
+    "variant": 3
+  },
+  {
+    "value": "Storytelling_key5",
+    "component": "text"
+  },
+  {
+    "value": "Storytelling_key6",
+    "component": "header",
+    "variant": 3
+  },
+  {
+    "value": "Storytelling_key7",
+    "component": "text"
+  }
+]

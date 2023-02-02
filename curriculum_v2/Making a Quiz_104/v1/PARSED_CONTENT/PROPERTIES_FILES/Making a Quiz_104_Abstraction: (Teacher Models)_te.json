@@ -1,0 +1,15 @@
+{
+	"Abstraction: (Teacher Models)_key1": "సంగ్రహం: (టీచర్ మోడల్స్)",
+	"Abstraction: (Teacher Models)_key2": "ప్రాజెక్ట్‌ను అర్థం చేసుకోవడానికి మరియు దానిని సులభతరం చేయడానికి సంగ్రహణను చేద్దాం<br>",
+	"Abstraction: (Teacher Models)_key3": "వేదికపై ఏం జరుగుతుంది?",
+	"Abstraction: (Teacher Models)_key4": "వినియోగదారు వారి పేరును నమోదు చేస్తారు.",
+	"Abstraction: (Teacher Models)_key5": "అప్లికేషన్ వినియోగదారుని ప్రశ్న అడుగుతుంది.",
+	"Abstraction: (Teacher Models)_key6": "వినియోగదారు సమాధానాన్ని నమోదు చేస్తారు.. అప్లికేషన్ యూజర్ ద్వారా జవాబు ఇన్‌పుట్‌ను తనిఖీ చేస్తుంది. సమాధానం సరైనది అయితే, అప్లికేషన్ సరైన సమాధానం అని చెబుతుంది, స్కోర్‌ను 1 పెంచండి మరియు తదుపరి ప్రశ్నను చూపుతుంది. సమాధానం తప్పు అయితే, అప్లికేషన్ సమాధానం తప్పు అని చెబుతుంది, స్కోర్‌ను 1 తగ్గించి తదుపరి ప్రశ్నను చూపుతుంది.",
+	"Abstraction: (Teacher Models)_key7": "అప్లికేషన్ క్విజ్ చివరిలో వినియోగదారు యొక్క స్కోర్‌ను నిల్వ చేస్తుంది.",
+	"Abstraction: (Teacher Models)_key8": "వేదికపై ఎలాంటి స్ప్రైట్ మరియు బ్యాక్‌డ్రాప్ అవసరం?",
+	"Abstraction: (Teacher Models)_key9": "పప్పు స్ప్రైట్<br>",
+	"Abstraction: (Teacher Models)_key10": "",
+	"Abstraction: (Teacher Models)_key11": "",
+	"Abstraction: (Teacher Models)_key12": "",
+	"Abstraction: (Teacher Models)_key13": ""
+}

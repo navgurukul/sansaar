@@ -1,0 +1,10 @@
+{
+	"questions-n_count-occurences_key1": "எடுத்துக்காட்டு 2",
+	"questions-n_count-occurences_key2": "<b>நிகழ்வுகள்</b> - ஒரு குறிப்பிட்ட எழுத்து அல்லது சொல் எத்தனை முறை <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">தோன்றும்</span> என்பதைக் குறிக்கும் வார்த்தையில் இருந்து உருவாக்கப்படுகிறது.",
+	"questions-n_count-occurences_key3": "<b>மாதிரி பட்டியல்</b>",
+	"questions-n_count-occurences_key4": "<b>மாதிரி பட்டியலின் <span style=\"\">வெளியீடு</span></b>",
+	"questions-n_count-occurences_key5": "[[\"a\", 6], [\"n\", 3], [\"t\", 2], [\"x\", 2], [\"u\", 1], [\"g\", 1]]",
+	"questions-n_count-occurences_key6": "a - 6 முறை<br> n - 3 முறை<br> t - 2 முறை<br> x - 2 முறை<br> u - 1 முறை<br> g - 1 முறை",
+	"questions-n_count-occurences_key7": "<span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">char_list</span> இல் உள்ள எழுத்துக்களின் நிகழ்வுகளை நாம் <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">எண்ண</span> வேண்டும் மற்றும் <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">உள்ளமை பட்டியலில்</span> <span style=\"\">சேமிக்க</span> வேண்டும், பின்னர் <span style=\"\">வெளியீட்டை</span> அச்சிட அந்த உள்ளமை பட்டியலைப் பயன்படுத்த வேண்டும்.",
+	"questions-n_count-occurences_key8": "<span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">தீர்வு:-</span>"
+}

@@ -1,0 +1,10 @@
+{
+	"answers-to-the-practice-questions_chapter-14_key1": "Chapter 14",
+	"answers-to-the-practice-questions_chapter-14_key2": "In Excel, spreadsheets can have values of data types other than <span style=\"\">strings</span>; cells can have different fonts, sizes, or color settings; cells can have varying widths and heights; adjacent cells can be merged; and you can embed images and charts.",
+	"answers-to-the-practice-questions_chapter-14_key3": "You pass a <span style=\"\">File</span> object, obtained from a call to open().",
+	"answers-to-the-practice-questions_chapter-14_key4": "<span style=\"\">File</span> objects need to be opened in read-binary ('rb') for Reader objects and write-binary ('wb') for Writer objects.",
+	"answers-to-the-practice-questions_chapter-14_key5": "The writerow() method",
+	"answers-to-the-practice-questions_chapter-14_key6": "The delimiter argument changes the <span style=\"\">string</span> used to separate cells in a row. The lineterminator argument changes the <span style=\"\">string</span> used to separate rows.",
+	"answers-to-the-practice-questions_chapter-14_key7": "json.loads()",
+	"answers-to-the-practice-questions_chapter-14_key8": "json.dumps()"
+}

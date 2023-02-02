@@ -1,0 +1,39 @@
+[
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Cards_problems_key1"
+  },
+  {
+    "component": "text",
+    "value": "Cards_problems_key2",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "Cards_problems_key3",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "Cards_problems_key4",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "Cards_problems_key5",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  }
+]

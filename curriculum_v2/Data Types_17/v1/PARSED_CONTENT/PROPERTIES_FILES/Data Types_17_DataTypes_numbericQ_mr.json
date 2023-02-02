@@ -1,0 +1,21 @@
+{
+	"DataTypes_numbericQ_key1": "उदाहरण-1",
+	"DataTypes_numbericQ_key2": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number</span> नावाचे व्हेरिएबल तयार करा आणि त्याला कोणतेही <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">INTEGER</span> मूल्य नियुक्त करा.",
+	"DataTypes_numbericQ_key3": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number</span> प्रिंट करा.",
+	"DataTypes_numbericQ_key4": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number</span> व्हेरिएबलला <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">FLOAT</span> मूल्य नियुक्त करा.",
+	"DataTypes_numbericQ_key5": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number</span> प्रिंट करा.",
+	"DataTypes_numbericQ_key6": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number</span> व्हेरिएबलला <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Complex</span> मूल्य नियुक्त करा.",
+	"DataTypes_numbericQ_key7": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number</span> प्रिंट करा.",
+	"DataTypes_numbericQ_key8": "<span style=\"\">कार्यक्रम -</span> :-",
+	"DataTypes_numbericQ_key9": "संख्या=6<br> प्रिंट (संख्या)<br> संख्या=56.67<br> प्रिंट (संख्या)<br> संख्या=5+7j<br> प्रिंट (संख्या)",
+	"DataTypes_numbericQ_key10": "<span style=\"\">Output</span> : -",
+	"DataTypes_numbericQ_key11": "6<br> ५६.६७<br> (5+7j)",
+	"DataTypes_numbericQ_key12": "उदाहरण-2",
+	"DataTypes_numbericQ_key13": "डेटा प्रकार <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">INTEGER</span> वापरकर्त्याकडून 2 इनपुट घ्या.",
+	"DataTypes_numbericQ_key14": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">SUM</span> नावाच्या व्हेरिएबलमध्ये 2 वापरकर्त्यांच्या इनपुटची बेरीज संचयित करा.",
+	"DataTypes_numbericQ_key15": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">SUM</span> प्रिंट करा.",
+	"DataTypes_numbericQ_key16": "<span style=\"\">कार्यक्रम -</span> :-",
+	"DataTypes_numbericQ_key17": "a=int(इनपुट(&quot;प्रथम क्रमांक प्रविष्ट करा=&quot;))<br> b=int(इनपुट(&quot;दुसरा क्रमांक प्रविष्ट करा=&quot;))<br> SUM=a+b<br> प्रिंट(SUM)",
+	"DataTypes_numbericQ_key18": "<span style=\"\">Output</span> : -",
+	"DataTypes_numbericQ_key19": "जर वापरकर्त्याने a = 5 , b = 5 प्रविष्ट केले तर आउटपुट 10 होईल."
+}

@@ -1,0 +1,15 @@
+{
+	"Abstraction: (Teacher Models)_key1": "சுருக்கம்: (ஆசிரியர் மாதிரிகள்)",
+	"Abstraction: (Teacher Models)_key2": "ப்ராஜெக்ட்டைப் புரிந்துகொண்டு அதை எளிமையாக்க சுருக்கம் செய்வோம்<br>",
+	"Abstraction: (Teacher Models)_key3": "மேடையில் என்ன நடக்கும்?",
+	"Abstraction: (Teacher Models)_key4": "பயனர் தங்கள் பெயரை உள்ளிடுவார்.",
+	"Abstraction: (Teacher Models)_key5": "பயன்பாடு பயனரிடம் ஒரு கேள்வியைக் கேட்கும்.",
+	"Abstraction: (Teacher Models)_key6": "பயனர் பதிலை உள்ளிடுவார்.. பயன்பாடு பயனரின் பதில் உள்ளீட்டைச் சரிபார்க்கும். பதில் சரியாக இருந்தால், விண்ணப்பம் சரியான பதில் என்று சொல்லும், மதிப்பெண்ணை 1 ஆல் அதிகரித்து அடுத்த கேள்வியைக் காண்பிக்கும். பதில் தவறாக இருந்தால், விண்ணப்பம் பதில் தவறு என்று சொல்லும், மதிப்பெண்ணை 1 குறைத்து அடுத்த கேள்வியைக் காண்பிக்கும்.",
+	"Abstraction: (Teacher Models)_key7": "விண்ணப்பமானது வினாடி வினா முடிவில் பயனரின் மதிப்பெண்ணைச் சேமிக்கும்.",
+	"Abstraction: (Teacher Models)_key8": "மேடையில் என்ன உருவம் மற்றும் பின்னணி தேவைப்படும்?",
+	"Abstraction: (Teacher Models)_key9": "பப்பு ஸ்பிரைட்<br>",
+	"Abstraction: (Teacher Models)_key10": "",
+	"Abstraction: (Teacher Models)_key11": "",
+	"Abstraction: (Teacher Models)_key12": "",
+	"Abstraction: (Teacher Models)_key13": ""
+}

@@ -1,0 +1,12 @@
+{
+	"Comparative Operator_key1": "Comparative Operator",
+	"Comparative Operator_key2": "(The underlined sentences are called Operands)<br>",
+	"Comparative Operator_key3": "Greater than (&gt;) is a comparative operator which compares operands and tells us (gives output) as True when operand 1 is greater than operand 2.<br>",
+	"Comparative Operator_key4": "For example: (Operand 1) Sides of the square are greater than (&gt;) 3 (Operand 2).<br>",
+	"Comparative Operator_key5": "The output will be: True<br>",
+	"Comparative Operator_key6": "Lesser than (&lt;) is a comparative operator which compares operands and tells us (gives output) as True when operand 1 is lesser than operand 2.<br>",
+	"Comparative Operator_key7": "For example: Number of my sibling is lesser than (&lt;) 5<br>",
+	"Comparative Operator_key8": "The output will be: False<br>",
+	"Comparative Operator_key9": "Equal to (=) is a comparative operator which compares operands and tells us (gives output) as True when operand 1 is equal to operand 2.<br>",
+	"Comparative Operator_key10": "For example: My roll number is equal to (=) 1.<br>"
+}

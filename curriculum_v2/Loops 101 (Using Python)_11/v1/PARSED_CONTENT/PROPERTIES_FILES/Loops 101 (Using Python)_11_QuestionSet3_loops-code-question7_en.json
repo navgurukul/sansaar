@@ -1,0 +1,12 @@
+{
+	"QuestionSet3_loops-code-question7_key1": "Example 7",
+	"QuestionSet3_loops-code-question7_key2": "Build a Number guessing game, in which the <b>user selects a range</b>.",
+	"QuestionSet3_loops-code-question7_key3": "Let's say User selected a range, i.e., from <b>A</b> to <b>B</b>, where <b>A</b> and <b>B</b> belong to Integer.",
+	"QuestionSet3_loops-code-question7_key4": "Some <b>random integer will be selected by the system</b> and the user has to guess that integer in the <b>minimum number of guesses</b>.",
+	"QuestionSet3_loops-code-question7_key5": "Hint :",
+	"QuestionSet3_loops-code-question7_key6": "Study about <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">break statement</span> in <span style=\"\">python</span>.",
+	"QuestionSet3_loops-code-question7_key7": "<span style=\"\">Program</span> :-",
+	"QuestionSet3_loops-code-question7_key8": "import random<br>import math<br># Taking Inputs<br>lower = int(input(\"Enter Lower bound:- \"))<br>upper = int(input(\"Enter Upper bound:- \"))<br># generating random number between<br># the lower and upper<br>x = random.randint(lower, upper)<br>print(\"\n\tYou've only \",round(math.log(upper - lower + 1, 2)),\" chances to guess the integer!\n\")<br># Initializing the number of guesses.<br>count = 0<br># for calculation of minimum number of guesses depends upon range<br>while count < math.log(upper - lower + 1, 2):<br>&emsp;count += 1<br>&emsp;# taking guessing number as input<br>&emsp;guess = int(input(\"Guess a number:- \"))<br>&emsp;# Condition testing<br>&emsp;if x == guess:<br>&emsp;&emsp;print(\"Congratulations you did it in \",count, \" try\")<br>&emsp;&emsp;# Once guessed, loop will break<br>&emsp;&emsp;break<br>&emsp;elif x > guess:<br>&emsp;&emsp;print(\"You guessed too small!\")<br>&emsp;elif x < guess:<br>&emsp;&emsp;print(\"You Guessed too high!\")<br># If Guessing is more than required guesses,<br># shows this output.<br>if count >= math.log(upper - lower + 1, 2):<br>&emsp;print(\"\nThe number is %d\" % x)<br>print(\"\tBetter Luck Next time!\")",
+	"QuestionSet3_loops-code-question7_key9": "<span style=\"\">Output</span> :-",
+	"QuestionSet3_loops-code-question7_key10": "Enter Lower bound:- 1<br>Enter Upper bound:- 6<br>You've only  3  chances to guess the integer!<br>Guess a number:- 3<br>You Guessed too high!<br>Guess a number:- 2<br>You Guessed too high!<br>Guess a number:- 1<br>Congratulations you did it in  3  try<br>The number is 1<br>Better Luck Next time!"
+}

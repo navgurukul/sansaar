@@ -1,0 +1,19 @@
+[
+  {
+    "value": "Parallelism_key1",
+    "component": "header",
+    "variant": 3
+  },
+  {
+    "value": "Parallelism_key2",
+    "component": "text"
+  },
+  {
+    "value": "Parallelism_key3",
+    "component": "text"
+  },
+  {
+    "value": "Parallelism_key4",
+    "component": "text"
+  }
+]

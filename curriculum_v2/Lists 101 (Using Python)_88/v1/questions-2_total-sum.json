@@ -1,0 +1,26 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Example 4"
+	},
+	{
+		"component": "text",
+		"value": "Q: How to find all pairs in an array of <span style=\"\">integers</span> whose sum is equal to the given number?"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def find(n, len, number):<br>&emsp;print(\"Pairs whose sum is : \", number)<br>&emsp;for i in range(len):<br>&emsp;&emsp;for j in range(i, len):<br>&emsp;&emsp;&emsp;if (n[i] + n[j]) == number:<br>&emsp;&emsp;&emsp;&emsp;print(n[i], n[j])<br><br>n = [10, 11, 12, 13, 14, 17, 18, 19]<br><br># Take sum as input from user<br>number = 30<br><br># print array<br>print(\"Array= \", n)<br><br># call function find<br>find(n, len(n), number)"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "<span style=\"\">Output</span>:-"
+	},
+	{
+		"component": "text",
+		"value": "<b>[[11,19], [12,18],[13,17]]</b>"
+	}
+]

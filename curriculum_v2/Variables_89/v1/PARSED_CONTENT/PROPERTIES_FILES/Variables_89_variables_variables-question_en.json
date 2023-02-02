@@ -1,0 +1,21 @@
+{
+	"variables_variables-question_key1": "Variable Example",
+	"variables_variables-question_key2": "<i>To answer any question you can <span style=\"\">upload</span> the <span style=\"\">file</span>.</i>",
+	"variables_variables-question_key3": "<i>Remember <span style=\"\">python</span> <span style=\"\">file</span> extension is <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">.py</span>.</i>",
+	"variables_variables-question_key4": "<b>Just for your ease we have broken up this question into multiple parts. But you have to do the submission in single <span style=\"\">file</span> only.</b>",
+	"variables_variables-question_key5": "Example Part 1",
+	"variables_variables-question_key6": "Assign an INTEGER value to a variable named as <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">variable_nav</span>.",
+	"variables_variables-question_key7": "Then print the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">variable_nav</span>.",
+	"variables_variables-question_key8": "<span style=\"\">Program</span> :-",
+	"variables_variables-question_key9": "variable_nav = 50<br>print(variable_nav)",
+	"variables_variables-question_key10": "<span style=\"\">Output</span> :-",
+	"variables_variables-question_key11": "50",
+	"variables_variables-question_key12": "Example Part 2",
+	"variables_variables-question_key13": "Take a new variable named as <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">gurukul</span> and assign any STRING value to it.  ",
+	"variables_variables-question_key14": "Assign a FLOAT value to <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">variable_nav</span> and set it.  ",
+	"variables_variables-question_key15": "Now print the value of <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">variable_nav</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">gurukul</span>.",
+	"variables_variables-question_key16": "<span style=\"\">Program</span> :-",
+	"variables_variables-question_key17": "gurukul = \"hii\"<br>variable_nav = 67.78<br>print(gurukul)<br>print(variable_nav)",
+	"variables_variables-question_key18": "<span style=\"\">Output</span> :-",
+	"variables_variables-question_key19": "hii<br>67.78"
+}

@@ -1,0 +1,20 @@
+{
+	"DataTypes_StringQ_key1": "గమనిక :",
+	"DataTypes_StringQ_key2": "దయచేసి <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">స్ట్రింగ్ కంకాటెనేషన్</span> గురించి చదవండి.",
+	"DataTypes_StringQ_key3": "ఉదాహరణ-1",
+	"DataTypes_StringQ_key4": "<span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">STRING</span> డేటా రకం ఉన్న వినియోగదారు నుండి మీరు రెండు ఇన్‌పుట్‌లను తీసుకోవాలి.",
+	"DataTypes_StringQ_key5": "ఆపై పేరు <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">యాడ్</span> ద్వారా వేరియబుల్‌లో, రెండు వినియోగదారు ఇన్‌పుట్‌ల మొత్తాన్ని నిల్వ చేయండి.",
+	"DataTypes_StringQ_key6": "వేరియబుల్ <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">యాడ్‌ను</span> ప్రింట్ చేయండి.",
+	"DataTypes_StringQ_key7": "<span style=\"\">కార్యక్రమం</span> :-",
+	"DataTypes_StringQ_key8": "a=input(&quot;మొదటి విలువను నమోదు చేయండి=&quot;)<br> b=input(&quot;రెండవ విలువను నమోదు చేయండి=&quot;)<br> add=a+b<br> ప్రింట్ (జోడించు)",
+	"DataTypes_StringQ_key9": "<span style=\"\">అవుట్‌పుట్</span> :-",
+	"DataTypes_StringQ_key10": "వినియోగదారు a = hii మరియు b = sam అని నమోదు చేస్తే, అవుట్‌పుట్ hiisam అయి ఉండాలి.",
+	"DataTypes_StringQ_key11": "ఉదాహరణ-2",
+	"DataTypes_StringQ_key12": "వినియోగదారు నుండి ఒక <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">INTEGER</span> రకం ఇన్‌పుట్ మరియు ఒక <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">STRING</span> రకం ఇన్‌పుట్ తీసుకోండి.",
+	"DataTypes_StringQ_key13": "ఆపై పేరు <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">యాడ్</span> ద్వారా వేరియబుల్‌లో, రెండు వినియోగదారు ఇన్‌పుట్‌ల మొత్తాన్ని నిల్వ చేయండి.",
+	"DataTypes_StringQ_key14": "వేరియబుల్ <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">యాడ్‌ను</span> ప్రింట్ చేయండి.",
+	"DataTypes_StringQ_key15": "<span style=\"\">కార్యక్రమం -</span> :-",
+	"DataTypes_StringQ_key16": "a=int(ఇన్‌పుట్(&quot;మొదటి విలువను నమోదు చేయండి=&quot;))<br> b=input(&quot;రెండవ విలువను నమోదు చేయండి=&quot;)<br> add=a+b<br> ప్రింట్ (జోడించు)",
+	"DataTypes_StringQ_key17": "<span style=\"\">అవుట్‌పుట్</span> :-",
+	"DataTypes_StringQ_key18": "TypeError: str ('int' కాదు)ని strకి మాత్రమే కలపవచ్చు"
+}

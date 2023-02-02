@@ -1,0 +1,17 @@
+{
+	"functions-question3_key1": "ఉదాహరణ 4 :-",
+	"functions-question3_key2": "ఈ ప్రశ్న 2 భాగాలుగా ఉంది. రెండు భాగాల <span style=\"\">కోడ్‌ను</span> ఒకే <span style=\"\">ఫైల్‌లో</span> వ్రాయడం ద్వారా సమర్పించండి.",
+	"functions-question3_key3": "<span style=\"\">ఉదాహరణ 4 (భాగం 1)</span> :-",
+	"functions-question3_key4": "రెండు సంఖ్యలను ఆర్గ్యుమెంట్‌లుగా తీసుకుని, ఆపై వాటి మొత్తాన్ని ప్రింట్ చేసే <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">add_numbers</span> అనే ఫంక్షన్‌ను వ్రాయండి. వాదనల పేరు <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">సంఖ్య 1</span> మరియు <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">సంఖ్య 2</span> అయి ఉండాలి.",
+	"functions-question3_key5": "<span style=\"\">అవుట్‌పుట్</span> :-",
+	"functions-question3_key6": "68",
+	"functions-question3_key7": "<span style=\"\">ఉదాహరణ 4 (పార్ట్ 2)</span> :-",
+	"functions-question3_key8": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">add_numbers_list</span> పేరుతో ఒక ఫంక్షన్‌ను వ్రాయండి, ఇది రెండు <span style=\"\">పూర్ణాంకాల</span> యొక్క 2 జాబితాలను తీసుకుని, ఆపై <span style=\"\">పూర్ణాంకాల</span> మొత్తాన్ని అదే స్థానంతో ముద్రిస్తుంది.",
+	"functions-question3_key9": "పార్ట్ 1లో ఇచ్చిన add_numbers ఫంక్షన్‌ని ఉపయోగించి ఒకే స్థానాన్ని కలిగి ఉన్న 2 <span style=\"\">పూర్ణాంకాలను</span> లెక్కించండి.",
+	"functions-question3_key10": "మనం ఈ ఫంక్షన్‌కి [50, 60, 10] మరియు [10, 20, 13] ఇస్తే అది దీన్ని ప్రింట్ చేస్తుంది",
+	"functions-question3_key11": "60",
+	"functions-question3_key12": "80",
+	"functions-question3_key13": "23",
+	"functions-question3_key14": "<span style=\"\">అవుట్‌పుట్</span> :-",
+	"functions-question3_key15": "50<br> 70<br> 90"
+}

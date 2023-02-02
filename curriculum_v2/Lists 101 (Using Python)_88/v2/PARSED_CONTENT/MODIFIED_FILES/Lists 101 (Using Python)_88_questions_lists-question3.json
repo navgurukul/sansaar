@@ -1,0 +1,30 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "questions_lists-question3_key1"
+  },
+  {
+    "component": "text",
+    "value": "questions_lists-question3_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "numbers = [50, 40, 23, 70, 56, 12, 5, 10, 7]<br>print(max(numbers))"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "questions_lists-question3_key3"
+  },
+  {
+    "component": "text",
+    "value": "questions_lists-question3_key4"
+  },
+  {
+    "component": "text",
+    "value": "questions_lists-question3_key5"
+  }
+]

@@ -1,0 +1,9 @@
+{
+	"functions-question2_key1": "Function Example 2",
+	"functions-question2_key2": "Write a function named <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">function_print_lines</span> which takes 2 <span style=\"\">strings</span>, and prints them in the following manner.",
+	"functions-question2_key3": "If we give these 2 arguments - <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"My name is Rishabh.\"</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"I am the co-founder of NavGurukul\"</span><br>we will get the following <span style=\"\">output</span>:",
+	"functions-question2_key4": "# write your function here<br><br>#  -output <br># My name is Rishabh..<br># I am the co-founder of NavGurukul.",
+	"functions-question2_key5": "<span style=\"\">Example 2 (part 1)</span> :-",
+	"functions-question2_key6": "<span style=\"\">Output</span> :-",
+	"functions-question2_key7": "My name is Rishabh<br> I am the co-founder of Nav Gurukul"
+}

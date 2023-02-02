@@ -1,0 +1,13 @@
+{
+	"variables_variables-naming-question4_key1": "चलांचे नामकरण उदाहरण-4",
+	"variables_variables-naming-question4_key2": "उदाहरण",
+	"variables_variables-naming-question4_key3": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Varx</span> नावाच्या व्हेरिएबलला <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">STRING</span> मूल्य नियुक्त करा.",
+	"variables_variables-naming-question4_key4": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">vaRx</span> नावाच्या व्हेरिएबलला <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">FLOAT</span> मूल्य नियुक्त करा.",
+	"variables_variables-naming-question4_key5": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Varx</span> आणि <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">vaRx</span> समान आहेत की नाही हे पाहण्यासाठी <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">print</span> ते करून पहा. नसल्यास, तुमच्या फाईलमधील कमेंटमध्ये तुमचे कारण लिहा.",
+	"variables_variables-naming-question4_key6": "<span style=\"\">कार्यक्रम</span> :-",
+	"variables_variables-naming-question4_key7": "Varx = &quot;hii&quot;<br> vaRx = 56.76<br> प्रिंट(Varx)<br> प्रिंट(vaRx)",
+	"variables_variables-naming-question4_key8": "<span style=\"\">Output</span> : -",
+	"variables_variables-naming-question4_key9": "हाय<br> ५६.७६",
+	"variables_variables-naming-question4_key10": "<span style=\"\">स्पष्टीकरण</span> :-",
+	"variables_variables-naming-question4_key11": "Varx आणि vaRx समान नाहीत कारण त्यातील अक्षरांची केसेस भिन्न आहेत."
+}

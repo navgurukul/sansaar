@@ -1,0 +1,91 @@
+[
+	{
+		"value": "Teacher Models",
+		"component": "header",
+		"variant": 2
+	},
+	{
+		"value": "Let’s do abstraction to make understand the project and make it simple.<br>",
+		"component": "text"
+	},
+	{
+		"value": "What will happen on the stage?",
+		"component": "header",
+		"variant": 3
+	},
+	{
+		"value": "Penguin will move right and say I am moving right,<br>",
+		"component": "text",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"value": "Penguin will move left and say I am moving left,<br>",
+		"component": "text",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"value": "Penguin will move up and say I am moving up,<br>",
+		"component": "text",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"value": "Penguin will move down and say I am moving down.",
+		"component": "text",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"value": "What sprite and backdrop will be needed on the stage?",
+		"component": "header",
+		"variant": 3
+	},
+	{
+		"value": "Sprite Penguin<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/6df341a5-4573-4283-a4e5-27ef31fc4b71-3.png",
+		"component": "image",
+		"alt": ""
+	},
+	{
+		"value": "and backdrop winter<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/59ad001b-0e3b-4f7a-8141-0e867f058a91-4.png",
+		"component": "image",
+		"alt": ""
+	},
+	{
+		"value": "Let’s do the project and write codes for the sprites…",
+		"component": "header",
+		"variant": 4
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/c4071bbd-57c5-419d-a207-2652c00413e9-1.png",
+		"component": "image",
+		"alt": ""
+	},
+	{
+		"value": "The code for the above image:<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/fd9521cc-d28b-4ce2-b151-d2cb890f0a77-Screenshot from 2022-12-08 21-20-12.png",
+		"component": "image",
+		"alt": ""
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/dd24dff9-5be9-4660-b03b-e0cd403d4482-image.png",
+		"component": "image",
+		"alt": ""
+	}
+]

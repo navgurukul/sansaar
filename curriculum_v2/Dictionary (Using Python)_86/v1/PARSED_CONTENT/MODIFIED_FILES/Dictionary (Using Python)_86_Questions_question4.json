@@ -1,0 +1,31 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "Questions_question4_key1"
+  },
+  {
+    "component": "text",
+    "value": "Questions_question4_key2"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Questions_question4_key3"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "&emsp;   Dic=  {1: 'NAVGURUKUL',2: 'IN',  3:{ 'A' : 'WELCOME','B' : 'To','C' : 'DHARAMSALA'}}<br>&emsp;del(Dic[3]['A'])<br>&emsp;print(Dic)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Questions_question4_key4"
+  },
+  {
+    "component": "text",
+    "value": "Questions_question4_key5"
+  }
+]

@@ -1,0 +1,12 @@
+{
+	"QuestionSet2_question1_key1": "उदाहरण १",
+	"QuestionSet2_question1_key2": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">1 to 100</span> जे <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">divisible by 7</span> = आहेत ते सर्व अंक मुद्रित करणारा प्रोग्राम बनवा.",
+	"QuestionSet2_question1_key3": "टीप:",
+	"QuestionSet2_question1_key4": "तुम्ही जे <span style=\"\">loop</span> ते 556 पासून सुरू होईल.",
+	"QuestionSet2_question1_key5": "तुमचे <span style=\"\">output</span> खालीलप्रमाणे असावे.",
+	"QuestionSet2_question1_key6": "७<br> 14<br> २१<br> २८<br> 35<br> 42<br> 49<br> ५६<br> ६३<br> 70<br> ७७<br> ८४<br> ९१<br> ९८",
+	"QuestionSet2_question1_key7": "<span style=\"\">कार्यक्रम</span> :-",
+	"QuestionSet2_question1_key8": "i=1<br> असताना(i&lt;=100): # i 1 पासून सुरू होतो आणि 100 ला संपतो<br> if(i%7==0):# हवामान तपासत आहे i 7 च्या पटीत आहे की नाही<br> print(i) # छपाई i<br> i+=1 # i 1 ने वाढवला आहे",
+	"QuestionSet2_question1_key9": "<span style=\"\">Output</span> : -",
+	"QuestionSet2_question1_key10": "७<br> 14<br> २१<br> २८<br> 35<br> 42<br> 49<br> ५६<br> ६३<br> 70<br> ७७<br> ८४<br> ९१<br> ९८"
+}

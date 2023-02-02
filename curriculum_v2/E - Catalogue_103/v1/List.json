@@ -1,0 +1,20 @@
+[
+	{
+		"value": "List",
+		"component": "header",
+		"variant": 2
+	},
+	{
+		"value": "List, unlike variables, can store multiple data simultaneously. Following is an example in Scratch of 2 Lists, Book Number, and Name.<br>",
+		"component": "text"
+	},
+	{
+		"value": "Each value stored in the List has a specific place in the list. You can also alter the value stored in the List and manipulate them.<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/f9846fd8-4c1b-4027-aa29-3f1c7f93b83a-image10.png",
+		"component": "image",
+		"alt": ""
+	}
+]

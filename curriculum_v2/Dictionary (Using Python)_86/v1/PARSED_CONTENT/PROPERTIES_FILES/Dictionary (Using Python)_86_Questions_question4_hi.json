@@ -1,0 +1,7 @@
+{
+	"Questions_question4_key1": "उदाहरण 4",
+	"Questions_question4_key2": "एक प्रोग्राम लिखें जो nested dictionary में से पहला key-value pair हटा दे।",
+	"Questions_question4_key3": "<span style=\"\">कार्यक्रम</span> :-",
+	"Questions_question4_key4": "<span style=\"\">Output</span> :-",
+	"Questions_question4_key5": "Dic= {<br> 1: &#39;NAVGURUKUL&#39;,<br> 2: &#39;IN&#39;,<br> 3:<br> {&#39;B&#39;: &#39;2&#39;,<br> &#39;C&#39;: &#39;DHARAMSALA&#39;<br> }<br> }"
+}

@@ -1,0 +1,19 @@
+{
+	"functions-question4_key1": "उदाहरण ५ :-",
+	"functions-question4_key2": "हे उदाहरण 2 भागात आहे. दोन्ही भागांचे <span style=\"\">कोड</span> एकाच <span style=\"\">फाईलमध्ये</span> लिहून सबमिट करा.",
+	"functions-question4_key3": "<span style=\"\">उदाहरण ५ (भाग १)</span> :-",
+	"functions-question4_key4": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">check_numbers</span> नावाचे फंक्शन लिहा जे दोन संख्या घेते आणि नंतर &quot;दोन्ही आहेत&quot; मुद्रित करा जर दोन्ही संख्या सम असतील तर (2 ने भागा) अन्यथा &quot;दोन्ही संख्या समान नाहीत&quot; असे प्रिंट करा.",
+	"functions-question4_key5": "<span style=\"\">Output</span> : -",
+	"functions-question4_key6": "दोन्ही सम आहेत<br> ५.० १०.०",
+	"functions-question4_key7": "<span style=\"\">उदाहरण ५ (भाग २)</span> :-",
+	"functions-question4_key8": "आता <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">check_numbers_list</span> नावाचे फंक्शन लिहा जे वितर्क म्हणून <span style=\"\">integer</span> ची यादी घेते आणि नंतर समान अनुक्रमणिका असलेले <span style=\"\">integers</span> दोन्ही सम आहेत की नाही ते तपासते.",
+	"functions-question4_key9": "हे तपासण्यासाठी, मागील <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Part 1</span> मध्ये लिहिलेले <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">check_numbers</span> फंक्शन वापरा.",
+	"functions-question4_key10": "जर तुम्ही तुमच्या फंक्शनला <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">[2, 6, 18, 10, 3, 75]</span> आणि <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">[6, 19, 24, 12, 3, 87]</span> कॉल केले तर त्याने हे <span style=\"\">output</span> दिले पाहिजे:",
+	"functions-question4_key11": "<span style=\"\">सूचना</span> :-",
+	"functions-question4_key12": "जर समान निर्देशांकावरील पूर्णांक सम असतील",
+	"functions-question4_key13": "दोन्ही इंटरजर सम आहेत.",
+	"functions-question4_key14": "जर समान निर्देशांकावरील पूर्णांक सम नसतील",
+	"functions-question4_key15": "दोन्ही इंटरजर समान नाहीत",
+	"functions-question4_key16": "<span style=\"\">Output</span> : -",
+	"functions-question4_key17": "दोन्ही सम आहेत<br> दोन्ही संख्या समान नाहीत<br> दोन्ही संख्या समान नाहीत<br> दोन्ही संख्या समान नाहीत<br> दोन्ही संख्या समान नाहीत"
+}

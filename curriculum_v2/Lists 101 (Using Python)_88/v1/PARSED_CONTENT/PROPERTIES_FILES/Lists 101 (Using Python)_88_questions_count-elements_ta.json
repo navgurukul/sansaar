@@ -1,0 +1,7 @@
+{
+	"questions_count-elements_key1": "எடுத்துக்காட்டு 1<br><br> கூறுகளை எண்ணுங்கள்",
+	"questions_count-elements_key2": "கொடுக்கப்பட்ட பட்டியலில் எத்தனை கூறுகள் உள்ளன என்பதைக் கூறும் நிரலை எழுதவும். இது <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">len() செயல்பாட்டைப்</span> போன்றது, எனவே இந்த நிரலை செயல்படுத்துவதற்கு நாம் <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">len() செயல்பாட்டைப்</span> பயன்படுத்த மாட்டோம், ஆனால் எந்த புரோகிராமர் இந்த <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">len()</span> செயல்பாட்டை எவ்வாறு செயல்படுத்தினார் என்பதைப் புரிந்துகொள்ள முயற்சிப்போம்.",
+	"questions_count-elements_key3": "வெளியீடு:-",
+	"questions_count-elements_key4": "பட்டியலில் உள்ள உறுப்புகளின் எண்ணிக்கை: 9",
+	"questions_count-elements_key5": "இந்த <span style=\"\">குறியீட்டை</span> எழுதிய பிறகு, இந்த <span style=\"\">குறியீட்டைப்</span> <span style=\"\">பதிவேற்றவும்</span> :)"
+}

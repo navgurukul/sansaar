@@ -1,0 +1,45 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "<span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">continue</span>"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">continue</span> is also a <span style=\"\">python</span> <b><span style=\"\">key</span>word</b>. <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">continue statement</span> skips some of the <span style=\"\">statements</span> of the <span style=\"\">loop</span> and <span style=\"\">executes</span> the other <span style=\"\">statements</span>."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "i = 0<br>while(i <= 9):<br>&emsp;i+=1&emsp;<br>&emsp;if(i == 5):<br>&emsp;&emsp; print(\"Skipped Element :\", i)<br>&emsp;&emsp; continue<br>&emsp;print(i)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "1<br>2<br>3<br>4<br>Skipped Element: 5<br>6<br>7<br>8<br>9<br>10"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "counter = 0<br>string = \"navgurukul\"<br>while (counter < len(string)):<br>&emsp;counter += 1<br><br>&emsp;if counter==10:<br>&emsp;&emsp;break<br><br>&emsp;if string[counter] == \"a\":<br>&emsp;&emsp;continue<br><br>&emsp;if string[counter] == \"u\":<br>&emsp;&emsp;continue<br>&emsp;<br>&emsp;print(string[counter])<br><br>print(\"The end\", string[counter])"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "v<br>g<br>r<br>k<br>l"
+	},
+	{
+		"component": "youtube",
+		"value": "rOfNF7gj5t0"
+	}
+]

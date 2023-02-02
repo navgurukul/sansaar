@@ -1,0 +1,12 @@
+{
+	"kitne-aadmi-the_sab-saath-mei_key1": "उदाहरण ९",
+	"kitne-aadmi-the_sab-saath-mei_key2": "एक <span style=\"\">code</span> लिहा जे सर्व सूचीसाठी कार्य करते. सर्व <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">odd numbers</span> आणि सर्व <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">even numbers</span> साठी आणि दिलेल्या यादीतील सर्व संख्यांसाठी खालीलप्रमाणे <span style=\"\">output</span> मुद्रित केले पाहिजे, त्याने खालील गणना केली पाहिजे:",
+	"kitne-aadmi-the_sab-saath-mei_key3": "मोजणे",
+	"kitne-aadmi-the_sab-saath-mei_key4": "बेरीज",
+	"kitne-aadmi-the_sab-saath-mei_key5": "सरासरी",
+	"kitne-aadmi-the_sab-saath-mei_key6": "आणि नंतर प्रिंट करा.",
+	"kitne-aadmi-the_sab-saath-mei_key7": "नमुना <span style=\"\">Input</span>",
+	"kitne-aadmi-the_sab-saath-mei_key8": "नमुना <span style=\"\">Output</span>",
+	"kitne-aadmi-the_sab-saath-mei_key9": "आउटपुट:-",
+	"kitne-aadmi-the_sab-saath-mei_key10": "विषम संख्यांची संख्या = 7<br> सम संख्यांची संख्या = 4<br> सर्व संख्यांची संख्या = 11<br> विषम संख्यांची बेरीज = १६५<br> सम संख्यांची बेरीज = १२४<br> सर्व संख्यांची बेरीज = २८९<br> विषम संख्यांची सरासरी = 23.571428571428573<br> सम संख्यांची सरासरी = 31.0<br> सर्व संख्यांची सरासरी = 26.272727272727273"
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "value": "Abstraction: (Teacher Models)_key1",
+    "component": "header",
+    "variant": 2
+  },
+  {
+    "value": "Abstraction: (Teacher Models)_key2",
+    "component": "text"
+  },
+  {
+    "value": "Abstraction: (Teacher Models)_key3",
+    "component": "header",
+    "variant": 3
+  },
+  {
+    "value": "Abstraction: (Teacher Models)_key4",
+    "component": "text",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "value": "Abstraction: (Teacher Models)_key5",
+    "component": "text",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "value": "Abstraction: (Teacher Models)_key6",
+    "component": "text",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "value": "Abstraction: (Teacher Models)_key7",
+    "component": "text",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "value": "Abstraction: (Teacher Models)_key8",
+    "component": "text",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "value": "Abstraction: (Teacher Models)_key9",
+    "component": "header",
+    "variant": 3
+  },
+  {
+    "value": "Abstraction: (Teacher Models)_key10",
+    "component": "text"
+  },
+  {
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/1d2adf03-d509-4420-b220-3cf34a04e8b7-image3.png",
+    "component": "image",
+    "alt": "Abstraction: (Teacher Models)_key11"
+  },
+  {
+    "value": "Abstraction: (Teacher Models)_key12",
+    "component": "text"
+  },
+  {
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/7d0fc1fe-4c45-47cf-a1c3-94f20a7121a0-image18.png",
+    "component": "image",
+    "alt": "Abstraction: (Teacher Models)_key13"
+  },
+  {
+    "value": "Abstraction: (Teacher Models)_key14",
+    "component": "text"
+  },
+  {
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/c37fd498-fb89-4e9c-ad4d-193d8d6f3e3e-image2.png",
+    "component": "image",
+    "alt": "Abstraction: (Teacher Models)_key15"
+  },
+  {
+    "value": "Abstraction: (Teacher Models)_key16",
+    "component": "text"
+  },
+  {
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/3a4124a0-e3cd-4088-b0be-0aaea40d3563-image11.png",
+    "component": "image",
+    "alt": "Abstraction: (Teacher Models)_key17"
+  }
+]

@@ -1,0 +1,11 @@
+{
+	"questions-n_substring-nikalo_key1": "Example 4",
+	"questions-n_substring-nikalo_key2": "<span style=\"\">string</span>",
+	"questions-n_substring-nikalo_key3": "<span style=\"\">Output:-</span>",
+	"questions-n_substring-nikalo_key4": "The original string is : the quick brown fox jumped over the lazy dog. the dog slept over the verandah.<br>The string after substring removal : the quick brown fox jumped the lazy dog. the dog slept the verandah.",
+	"questions-n_substring-nikalo_key5": "You have to write a program in such a way that should remove all the occurences of <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">subStr</span> from <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">mainStr</span>. Means the <span style=\"\">output</span> of the above program is given below.",
+	"questions-n_substring-nikalo_key6": "Bonus Part",
+	"questions-n_substring-nikalo_key7": "Replace the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">subStr</span> from <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">mainStr</span> using <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">replacementStr</span> and then print it.",
+	"questions-n_substring-nikalo_key8": "<span style=\"\">Output:-</span>",
+	"questions-n_substring-nikalo_key9": "the quick brown fox jumped on the lazy dog. the dog slept on the verandah."
+}

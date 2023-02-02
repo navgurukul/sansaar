@@ -1,0 +1,12 @@
+{
+	"kitne-aadmi-the_sab-saath-mei_key1": "எடுத்துக்காட்டு 9",
+	"kitne-aadmi-the_sab-saath-mei_key2": "அனைத்து பட்டியல்களுக்கும் வேலை செய்யும் <span style=\"\">குறியீட்டை</span> எழுதவும். இது அனைத்து <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">ஒற்றைப்படை எண்கள்</span> மற்றும் அனைத்து <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">இரட்டை எண்கள்</span> மற்றும் கொடுக்கப்பட்ட பட்டியலில் உள்ள அனைத்து எண்களுக்கும் பின்வரும் <span style=\"\">வெளியீட்டை</span> அச்சிட வேண்டும், பின்வருவனவற்றைக் கணக்கிட வேண்டும்:",
+	"kitne-aadmi-the_sab-saath-mei_key3": "எண்ணிக்கை",
+	"kitne-aadmi-the_sab-saath-mei_key4": "தொகை",
+	"kitne-aadmi-the_sab-saath-mei_key5": "சராசரி",
+	"kitne-aadmi-the_sab-saath-mei_key6": "பின்னர் அதை அச்சிடவும்.",
+	"kitne-aadmi-the_sab-saath-mei_key7": "மாதிரி <span style=\"\">உள்ளீடு</span>",
+	"kitne-aadmi-the_sab-saath-mei_key8": "மாதிரி <span style=\"\">வெளியீடு</span>",
+	"kitne-aadmi-the_sab-saath-mei_key9": "வெளியீடு:-",
+	"kitne-aadmi-the_sab-saath-mei_key10": "ஒற்றைப்படை எண்களின் எண்ணிக்கை= 7<br> இரட்டை எண்களின் எண்ணிக்கை= 4<br> அனைத்து எண்களின் எண்ணிக்கை= 11<br> ஒற்றைப்படை எண்களின் கூட்டுத்தொகை= 165<br> இரட்டை எண்களின் கூட்டுத்தொகை= 124<br> அனைத்து எண்களின் கூட்டுத்தொகை= 289<br> ஒற்றைப்படை எண்களின் சராசரி= 23.571428571428573<br> இரட்டை எண்களின் சராசரி = 31.0<br> அனைத்து எண்களின் சராசரி= 26.272727272727273"
+}

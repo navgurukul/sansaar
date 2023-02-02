@@ -1,0 +1,88 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Example 5 :-"
+	},
+	{
+		"component": "text",
+		"value": "This Example is in 2 parts. Submit the <span style=\"\">code</span> of both the parts by writing them in the same <span style=\"\">file</span>."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Example 5 (part 1)</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "Write a function named <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">check_numbers</span> which takes two numbers and then print \"both are even\" if both numbers are even (divide by 2) otherwise print \"both numbers are not even\"."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def check_numbers(a,b):<br>&emsp;if(a%2==0 and b%2==0):<br>&emsp;&emsp;print(\"both are even\")<br>&emsp;&emsp;print(a/2,b/2)<br>&emsp;else:<br>&emsp;&emsp;print(\"both numbers are not even\")<br>check_numbers(10,20)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "both are even <br> 5.0 10.0"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Example 5 (part 2)</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "Now write a function named <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">check_numbers_list</span> Which takes the list of an <span style=\"\">integer</span> as a argument and then checks whether both the <span style=\"\">integers</span> with the same index are even or not."
+	},
+	{
+		"component": "text",
+		"value": "To check this, use the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">check_numbers</span> function written in the previous <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Part 1</span>."
+	},
+	{
+		"component": "text",
+		"value": "If you call your function <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">[2, 6, 18, 10, 3, 75]</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">[6, 19, 24, 12, 3, 87]</span> then it should give this <span style=\"\">output</span>:"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Hint</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "If the integers on same index are even"
+	},
+	{
+		"component": "text",
+		"value": "Both intergers are even."
+	},
+	{
+		"component": "text",
+		"value": "If the integers on same index are not even"
+	},
+	{
+		"component": "text",
+		"value": "Both intergers are not even"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def check_numbers(a,b):<br>&emsp;for i in range(len(a)):<br>&emsp;&emsp;if(a[i]%2==0 and b[i]%2==0):<br>&emsp;&emsp;&emsp;print(\"both are even\")<br>&emsp;&emsp;else:<br>&emsp;&emsp;&emsp;print(\"both numbers are not even\")<br>l1=[10,13,20,21,22]<br>l2=[16,18,19,21,27]<br>check_numbers(l1,l2)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "both are even<br>both numbers are not even<br>both numbers are not even<br>both numbers are not even<br>both numbers are not even"
+	}
+]

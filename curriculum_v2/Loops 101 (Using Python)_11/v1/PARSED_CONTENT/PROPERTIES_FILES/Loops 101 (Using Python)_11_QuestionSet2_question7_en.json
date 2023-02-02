@@ -1,0 +1,9 @@
+{
+	"QuestionSet2_question7_key1": "Example 8",
+	"QuestionSet2_question7_key2": "Print this pattern. ",
+	"QuestionSet2_question7_key3": "5 5 5 5 5<br>4 4 4 4 4<br>3 3 3 3 3<br>2 2 2 2 2<br>1 1 1 1 1",
+	"QuestionSet2_question7_key4": "<span style=\"\">Program</span> :-",
+	"QuestionSet2_question7_key5": "i=5<br>while(i>0):<br>&emsp;j=1<br>&emsp;while(j<=5):<br>&emsp;&emsp;print(i,end=\" \")<br>&emsp;&emsp;j+=1<br>&emsp;print(\"\n\")<br>&emsp;i-=1 ",
+	"QuestionSet2_question7_key6": "<span style=\"\">Output</span> :-",
+	"QuestionSet2_question7_key7": "5 5 5 5 5<br>4 4 4 4 4<br>3 3 3 3 3<br>2 2 2 2 2<br>1 1 1 1 1"
+}

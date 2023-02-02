@@ -1,0 +1,26 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "questions-n_duplicates_key1"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "list = [19, 17, 12, 17, 17, 18, 10, 17, 14, 12, 19, 17, 12, 13, 11]<br>new = []<br>for a in list:<br>&emsp;n = list.count(a)<br>&emsp;if n > 1:<br>&emsp;&emsp;if new.count(a) == 0:<br>&emsp;&emsp;&emsp;new.append(a)<br><br>print(new)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "questions-n_duplicates_key2"
+  },
+  {
+    "component": "text",
+    "value": "questions-n_duplicates_key3"
+  },
+  {
+    "component": "text",
+    "value": "questions-n_duplicates_key4"
+  }
+]

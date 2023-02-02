@@ -1,0 +1,8 @@
+{
+	"QuestionSet2_question6_key1": "Example 7",
+	"QuestionSet2_question6_key2": "Given a positive integer N, The task is to write a Python program to check if the number is prime or not in python.",
+	"QuestionSet2_question6_key3": "<span style=\"\">Program</span> :-",
+	"QuestionSet2_question6_key4": "num = 11<br># If given number is greater than 1<br>if num > 1:<br>&emsp;# Iterate from 2 to n / 2<br>&emsp;for i in range(2, int(num/2)+1):<br>&emsp;# If num is divisible by any number between<br>&emsp;# 2 and n / 2, it is not prime<br>&emsp;if (num % i) == 0:<br>&emsp;&emsp;&emsp;print(num, \"is not a prime number\")<br>&emsp;&emsp;&emsp;break<br>&emsp;else:<br>&emsp;&emsp;print(num, \"is a prime number\")<br>else:<br>&emsp;print(num, \"is not a prime number\")",
+	"QuestionSet2_question6_key5": "<span style=\"\">Output</span> :-",
+	"QuestionSet2_question6_key6": "11 is a prime number"
+}

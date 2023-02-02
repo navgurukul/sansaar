@@ -1,0 +1,37 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Example 2"
+	},
+	{
+		"component": "text",
+		"value": "Write  a program to print 'exists' if entered <span style=\"\">key</span> already exists in the dictionary and print 'not exists' if the entered <span style=\"\">key</span> does not exist."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Program :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "dict1={\"name\":\"Raju\",\"marks\":56}<br>a=input (\"enter the value=\")<br>if (a==\"name\"):<br>  print (dict1[\"name\"])<br>elif(a==\"marks\"):<br>  print(dict1[\"marks\"])<br>else:<br>  print (\"invalid input\")"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Output :-"
+	},
+	{
+		"component": "text",
+		"variant": 4,
+		"value": "enter the value=name"
+	},
+	{
+		"component": "text",
+		"variant": 4,
+		"value": "Raju"
+	}
+]

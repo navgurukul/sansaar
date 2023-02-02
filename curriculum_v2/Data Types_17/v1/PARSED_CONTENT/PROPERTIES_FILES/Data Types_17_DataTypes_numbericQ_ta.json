@@ -1,0 +1,21 @@
+{
+	"DataTypes_numbericQ_key1": "உதாரணம்-1",
+	"DataTypes_numbericQ_key2": "பெயர் <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">எண்ணுடன்</span> ஒரு மாறியை உருவாக்கி அதற்கு ஏதேனும் <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">INTEGER</span> மதிப்பை ஒதுக்கவும்.",
+	"DataTypes_numbericQ_key3": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">எண்ணை</span> அச்சிடவும்.",
+	"DataTypes_numbericQ_key4": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">எண்</span> மாறிக்கு <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">FLOAT</span> மதிப்பை ஒதுக்கவும்.",
+	"DataTypes_numbericQ_key5": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">எண்ணை</span> அச்சிடவும்.",
+	"DataTypes_numbericQ_key6": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">எண்</span> மாறிக்கு ஒரு <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">சிக்கலான</span> மதிப்பை ஒதுக்கவும்.",
+	"DataTypes_numbericQ_key7": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">எண்ணை</span> அச்சிடவும்.",
+	"DataTypes_numbericQ_key8": "<span style=\"\">நிகழ்ச்சி -</span> :-",
+	"DataTypes_numbericQ_key9": "எண்=6<br> அச்சு (எண்)<br> எண்=56.67<br> அச்சு (எண்)<br> எண்=5+7ஜே<br> அச்சு (எண்)",
+	"DataTypes_numbericQ_key10": "<span style=\"\">வெளியீடு</span> :-",
+	"DataTypes_numbericQ_key11": "6<br> 56.67<br> (5+7j)",
+	"DataTypes_numbericQ_key12": "உதாரணம்-2",
+	"DataTypes_numbericQ_key13": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">INTEGER</span> தரவு வகையுடன் பயனரிடமிருந்து 2 உள்ளீடுகளை எடுக்கவும்.",
+	"DataTypes_numbericQ_key14": "2 பயனர் உள்ளீடுகளின் கூட்டுத்தொகையை <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">SUM</span> என்ற பெயரில் ஒரு மாறியில் சேமிக்கவும்.",
+	"DataTypes_numbericQ_key15": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">SUM ஐ</span> அச்சிடுங்கள்.",
+	"DataTypes_numbericQ_key16": "<span style=\"\">நிகழ்ச்சி -</span> :-",
+	"DataTypes_numbericQ_key17": "a=int(உள்ளீடு(&quot;முதல் எண்ணை உள்ளிடவும்=&quot;))<br> b=int(உள்ளீடு(&quot;இரண்டாவது எண்ணை உள்ளிடவும்=&quot;))<br> SUM=a+b<br> அச்சு (தொகை)",
+	"DataTypes_numbericQ_key18": "<span style=\"\">வெளியீடு</span> :-",
+	"DataTypes_numbericQ_key19": "பயனர் a = 5 , b = 5 ஐ உள்ளிட்டால், வெளியீடு 10 ஆக இருக்கும்."
+}

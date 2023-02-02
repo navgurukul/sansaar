@@ -1,0 +1,26 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Example 1"
+	},
+	{
+		"component": "text",
+		"value": "Q: Given two lists, 1,2,3,4,5 and 2,3,1,0,5 find which numbers are not present in the second list."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "list1 = [1,2,3,4,5,6]<br>list2 = [2,3,1,0,6,7]<br>diff = set(list1) - set(list2)<br>print(diff)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span>:-"
+	},
+	{
+		"component": "text",
+		"value": "<b>[4, 5]</b>"
+	}
+]

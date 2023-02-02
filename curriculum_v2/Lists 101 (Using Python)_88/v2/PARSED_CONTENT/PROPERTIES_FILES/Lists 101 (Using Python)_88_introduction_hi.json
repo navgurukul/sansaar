@@ -1,0 +1,18 @@
+{
+	"introduction_key1": "हम सूचियों से क्या मतलब है और #",
+	"introduction_key2": "आपने <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">स्ट्रिंग</span> , <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">पूर्णांक</span> , <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">फ्लोट</span> और <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">बूलियन</span> डेटा प्रकारों के बारे में पढ़ा होगा। इन्हें <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">आदिम डेटा प्रकार</span> कहा जाता है जहाँ <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">आदिम</span> का अर्थ है <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">सरल</span> डेटा प्रकार। हम <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">जटिल डेटा प्रकार</span> बनाने के लिए <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">आदिम डेटा प्रकारों</span> का उपयोग कर सकते हैं। <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">सूची</span> <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">जटिल डेटा प्रकारों</span> में से एक है।",
+	"introduction_key3": "अभ्यास ",
+	"introduction_key4": "आप अपने जीवन में कौन से 10 काम करना चाहते हैं, उसकी सूची बनाएं।",
+	"introduction_key5": "अब, इसे एक <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">पायथन वैरिएबल</span> में स्टोर करें।",
+	"introduction_key6": "",
+	"introduction_key7": "इस तरह आपको <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">एक सूची के रूप में बहुत सारी जानकारी</span> मिल जाएगी। उदाहरण :-",
+	"introduction_key8": "किराने के सामान की एक सूची बनाएं जिसे आप खरीदना चाहते हैं।",
+	"introduction_key9": "उन पाठ्यक्रमों की सूची बनाएं जो आप नवगुरुकुल में कर सकते हैं।",
+	"introduction_key10": "उन प्रश्नों की सूची बनाएं जो आपको दिए गए पाठ्यक्रम में करना है।",
+	"introduction_key11": "उन सभी अच्छी आदतों की सूची बनाएं जो आपके पास हैं।",
+	"introduction_key12": "उन कंपनियों की सूची जहां आप काम करना चाहते हैं।",
+	"introduction_key13": "परिसर में उपस्थित छात्रों की सूची।",
+	"introduction_key14": "परिषद के सदस्यों की सूची",
+	"introduction_key15": "आदि।",
+	"introduction_key16": "हम देखेंगे कि <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">लिस्ट डेटा टाइप और लिस्ट डेटा स्ट्रक्चर</span> का अध्ययन करना हमारे लिए कितना महत्वपूर्ण है।"
+}

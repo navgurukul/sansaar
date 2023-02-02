@@ -1,0 +1,5 @@
+{
+	"debugging-part2_debugging-question1_key1": "ఉదాహరణ 1",
+	"debugging-part2_debugging-question1_key2": "ఇచ్చిన జాబితాలో మీకు <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">మార్కులు</span> ఉన్నాయని అనుకుందాం. మేము దిగువన ఒక <span style=\"\">కోడ్‌ను</span> వ్రాసాము, అందులో మేము మొత్తం మార్కులను మార్కుల జాబితా మొత్తంగా లెక్కించాము. కానీ ఈ <span style=\"\">కోడ్</span> అమలు కాదు. ఈ <span style=\"\">కోడ్‌ని</span> డీబగ్ చేసి, ఆపై దానిని సమర్పించండి.",
+	"debugging-part2_debugging-question1_key3": "సరి చేసిన <span style=\"\">కోడ్‌ను</span> <span style=\"\">ఫైల్‌లో</span> <span style=\"\">సేవ్</span> చేసి, ఆపై దాన్ని <span style=\"\">అప్‌లోడ్</span> చేయండి."
+}

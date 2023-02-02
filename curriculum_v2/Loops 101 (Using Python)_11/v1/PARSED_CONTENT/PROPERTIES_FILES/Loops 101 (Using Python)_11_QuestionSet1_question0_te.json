@@ -1,0 +1,10 @@
+{
+	"QuestionSet1_question0_key1": "ఉదాహరణ 1",
+	"QuestionSet1_question0_key2": "1 నుండి 100 వరకు అన్ని సంఖ్యలను ముద్రించే ప్రోగ్రామ్‌ను రూపొందించండి.",
+	"QuestionSet1_question0_key3": "మీరు క్రింది వాటిని <span style=\"\">అవుట్‌పుట్‌గా</span> పొందాలి.",
+	"QuestionSet1_question0_key4": "1<br> 2<br> 3<br> 4<br> 5<br> 6<br> …<br> …<br> …<br> 97<br> 98<br> 99<br> 100",
+	"QuestionSet1_question0_key5": "<span style=\"\">కార్యక్రమం</span> :-",
+	"QuestionSet1_question0_key6": "i=1<br> అయితే i&lt;=100:<br> ప్రింట్ (i)<br> i+=1",
+	"QuestionSet1_question0_key7": "<span style=\"\">అవుట్‌పుట్</span> :-",
+	"QuestionSet1_question0_key8": "1<br> 2<br> 3<br> 4<br> 5<br> 6<br> …<br> …<br> …<br> 97<br> 98<br> 99<br> 100"
+}

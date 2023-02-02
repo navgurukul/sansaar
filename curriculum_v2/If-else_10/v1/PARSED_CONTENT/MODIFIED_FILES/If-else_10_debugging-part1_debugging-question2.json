@@ -1,0 +1,51 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "debugging-part1_debugging-question2_key1"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "debugging-part1_debugging-question2_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "year = str(2016)<br>Name = \"NavGurukul\"<br>print(name + ', ' + year + \"mein start hua tha!\")"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "debugging-part1_debugging-question2_key3"
+  },
+  {
+    "component": "text",
+    "value": "debugging-part1_debugging-question2_key4"
+  },
+  {
+    "component": "text",
+    "value": "debugging-part1_debugging-question2_key5"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "debugging-part1_debugging-question2_key6"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "#convert the year to string <br>year = str(2016)<br>name = \"NavGurukul\"# add variable name year after comma<br>print(name + ', '+ year + \" mein start hua tha!\")"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "debugging-part1_debugging-question2_key7"
+  },
+  {
+    "component": "text",
+    "value": "debugging-part1_debugging-question2_key8"
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "Cards_hobbies_key1"
+  },
+  {
+    "component": "text",
+    "value": "Cards_hobbies_key2",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "Cards_hobbies_key3",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "Cards_hobbies_key4",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "Cards_hobbies_key5"
+  },
+  {
+    "component": "youtube",
+    "value": "Wcjx6xReC7U"
+  },
+  {
+    "component": "youtube",
+    "value": "oADRAv9zmRA"
+  }
+]

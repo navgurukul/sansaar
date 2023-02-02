@@ -1,0 +1,51 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "debugging-part1_debugging-question4_key1"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "debugging-part1_debugging-question4_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "number = input(\"please enter a decimal number> \")<br>print(\"your number divided by 2 is equal to = \" + number/2)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "debugging-part1_debugging-question4_key3"
+  },
+  {
+    "component": "text",
+    "value": "debugging-part1_debugging-question4_key4"
+  },
+  {
+    "component": "text",
+    "value": "debugging-part1_debugging-question4_key5"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "debugging-part1_debugging-question4_key6"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "number = float(input(\"please enter a decimal number> \"))<br>answer = str(number/2)<br>print(\"your number divided by 2 is equal to = \" + answer)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "debugging-part1_debugging-question4_key7"
+  },
+  {
+    "component": "text",
+    "value": "debugging-part1_debugging-question4_key8"
+  }
+]

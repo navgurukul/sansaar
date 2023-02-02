@@ -1,0 +1,39 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "functions-question2_key1"
+  },
+  {
+    "component": "text",
+    "value": "functions-question2_key2"
+  },
+  {
+    "component": "text",
+    "value": "functions-question2_key3"
+  },
+  {
+    "component": "text",
+    "value": "functions-question2_key4"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "functions-question2_key5"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def print_lines(name,founder):<br>&emsp;#printing values that we got from function calling<br>&emsp;print(\"My name is\",name)<br>&emsp;print(\"I am the co-founder of\",founder)<br>#calling function by passing arguments into it<br>print_lines(\"Rishabh\",\"NavGurukul\")"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "functions-question2_key6"
+  },
+  {
+    "component": "text",
+    "value": "functions-question2_key7"
+  }
+]

@@ -1,0 +1,11 @@
+{
+	"if-statement-with-code_if-code-question2_key1": "उदाहरण २ :-",
+	"if-statement-with-code_if-code-question2_key2": "तुमच्याकडे <span style=\"\">variable</span> आहे ज्याला <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">varx</span> असे म्हणतात:-",
+	"if-statement-with-code_if-code-question2_key3": "फ्लोचार्ट तयार करा आणि वापरकर्त्याकडून <span style=\"\">इनपुट</span> म्हणून नंबर घेण्यासाठी प्रोग्राम देखील लिहा. हे <span style=\"\">इनपुट</span> <span style=\"\">पूर्णांकात</span> रूपांतरित करा. ते <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">varx च्या</span> बरोबरीचे आहे का ते तपासा.",
+	"if-statement-with-code_if-code-question2_key4": "जर संख्या <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">varx</span> च्या समान असेल तर <b>&quot;समान&quot;</b> प्रिंट करा अन्यथा &quot;समान <b>नाही</b> &quot; प्रिंट करा.",
+	"if-statement-with-code_if-code-question2_key5": "फ्लोचार्ट :-",
+	"if-statement-with-code_if-code-question2_key6": "प्रश्न1-उदाहरण3",
+	"if-statement-with-code_if-code-question2_key7": "<span style=\"\">कार्यक्रम</span> :-",
+	"if-statement-with-code_if-code-question2_key8": "<span style=\"\">Output</span> : -",
+	"if-statement-with-code_if-code-question2_key9": "संख्या प्रविष्ट करा:<br> 200<br> समान नाही"
+}

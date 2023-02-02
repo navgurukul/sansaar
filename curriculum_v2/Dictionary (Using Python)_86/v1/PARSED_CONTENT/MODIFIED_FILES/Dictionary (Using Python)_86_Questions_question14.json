@@ -1,0 +1,40 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "Questions_question14_key1"
+  },
+  {
+    "component": "text",
+    "value": "Questions_question14_key2"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Questions_question14_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "<br>{'bijender':45,'deepak':60,'param':20,';'anjili':30,'roshini':50}<br><br>sorted_dt = {key: value for key, value in sorted(dt.items(), key=lambda item: item[1])}<br>print(sorted_dt)<br>sorted_dt = {key: value for key, value in reversed(sorted(dt.items(), key=lambda item: item[1]))}<br>print(sorted_dt)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Questions_question14_key4"
+  },
+  {
+    "component": "text",
+    "value": "Questions_question14_key5"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Questions_question14_key6"
+  },
+  {
+    "component": "text",
+    "value": "Questions_question14_key7"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "Questions_question8_key1"
+  },
+  {
+    "component": "text",
+    "value": "Questions_question8_key2"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Questions_question8_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "details={}<br>for i in range(10):<br>   n=input(\"enter name:\")<br>   m=input(\"enter marks:\")<br>   details[n]=m<br>print(details)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Questions_question8_key4"
+  },
+  {
+    "component": "text",
+    "value": "Questions_question8_key5"
+  }
+]

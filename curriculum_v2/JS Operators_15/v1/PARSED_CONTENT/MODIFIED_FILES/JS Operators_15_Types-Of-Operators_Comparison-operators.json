@@ -1,0 +1,92 @@
+[
+  {
+    "component": "text",
+    "value": "Types-Of-Operators_Comparison-operators_key1"
+  },
+  {
+    "component": "text",
+    "value": "Types-Of-Operators_Comparison-operators_key2"
+  },
+  {
+    "component": "table",
+    "value": [
+      {
+        "header": "Types-Of-Operators_Comparison-operators_key3",
+        "items": [
+          "Types-Of-Operators_Comparison-operators_key4",
+          "Types-Of-Operators_Comparison-operators_key5",
+          "Types-Of-Operators_Comparison-operators_key6",
+          "Types-Of-Operators_Comparison-operators_key7",
+          "Types-Of-Operators_Comparison-operators_key8",
+          "Types-Of-Operators_Comparison-operators_key9",
+          "Types-Of-Operators_Comparison-operators_key10"
+        ]
+      },
+      {
+        "header": "Types-Of-Operators_Comparison-operators_key11",
+        "items": [
+          "Types-Of-Operators_Comparison-operators_key12",
+          "Types-Of-Operators_Comparison-operators_key13",
+          "Types-Of-Operators_Comparison-operators_key14",
+          "Types-Of-Operators_Comparison-operators_key15",
+          "Types-Of-Operators_Comparison-operators_key16",
+          "Types-Of-Operators_Comparison-operators_key17",
+          "Types-Of-Operators_Comparison-operators_key18"
+        ]
+      },
+      {
+        "header": "Types-Of-Operators_Comparison-operators_key19",
+        "items": [
+          "Types-Of-Operators_Comparison-operators_key20",
+          "Types-Of-Operators_Comparison-operators_key21",
+          "Types-Of-Operators_Comparison-operators_key22",
+          "Types-Of-Operators_Comparison-operators_key23",
+          "Types-Of-Operators_Comparison-operators_key24",
+          "Types-Of-Operators_Comparison-operators_key25",
+          "Types-Of-Operators_Comparison-operators_key26"
+        ]
+      },
+      {
+        "header": "Types-Of-Operators_Comparison-operators_key27",
+        "items": [
+          "Types-Of-Operators_Comparison-operators_key28",
+          "Types-Of-Operators_Comparison-operators_key29",
+          "Types-Of-Operators_Comparison-operators_key30",
+          "Types-Of-Operators_Comparison-operators_key31",
+          "Types-Of-Operators_Comparison-operators_key32",
+          "Types-Of-Operators_Comparison-operators_key33",
+          "Types-Of-Operators_Comparison-operators_key34"
+        ]
+      },
+      {
+        "header": "Types-Of-Operators_Comparison-operators_key35",
+        "items": [
+          "Types-Of-Operators_Comparison-operators_key36",
+          "Types-Of-Operators_Comparison-operators_key37",
+          "Types-Of-Operators_Comparison-operators_key38",
+          "Types-Of-Operators_Comparison-operators_key39",
+          "Types-Of-Operators_Comparison-operators_key40",
+          "Types-Of-Operators_Comparison-operators_key41",
+          "Types-Of-Operators_Comparison-operators_key42"
+        ]
+      }
+    ]
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "Types-Of-Operators_Comparison-operators_key43"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "var a = 5, b = 10, c = \"5\";<br>var x = a;<br>console.log(a === c);<br>console.log(a == c);<br>console.log(a == x);<br>console.log(a != b);<br>console.log(a > b);<br>console.log(a < b);<br>console.log(a >= b);<br>console.log(a <= b);<br>console.log(a >= c);<br>console.log(a <= c);"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "solution",
+    "value": "false<br>true<br>true<br>true<br>false<br>true<br>false<br>true<br>true<br>true"
+  }
+]

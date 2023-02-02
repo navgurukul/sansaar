@@ -1,0 +1,45 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Example 1 :-"
+	},
+	{
+		"component": "text",
+		"value": "In a <span style=\"\">variable</span> named <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number</span>, take the <span style=\"\">input</span> from the user and convert it to <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">int</span>."
+	},
+	{
+		"component": "text",
+		"value": "If this number is less than 10 then print  <b>\"10 se chota hai\"</b>. If it is greater than 10 and lesser than 20 then print <b>\"20 se chota hai\"</b>. Else if it is greater than 20 then print <b>\"20 se bada hai\"</b>. Complete the flowchart as per the above instructions."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Flowchart :-"
+	},
+	{
+		"component": "image",
+		"value": "assets/8.1-question1-image1.png",
+		"alt": "flowchart-question-1"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Program</span> :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "num = int(input(\"enter any number\"))<br>if num < 10:<br>&emsp;print(\"10 se chotta hai\")<br>elif num > 10 and num < 20:<br>&emsp;print(\"20 se chotta hai\")<br>else:<br>&emsp;print(\"20 se badda hai\")"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "Enter any number <br>12 <br>20 se chotta hai"
+	}
+]

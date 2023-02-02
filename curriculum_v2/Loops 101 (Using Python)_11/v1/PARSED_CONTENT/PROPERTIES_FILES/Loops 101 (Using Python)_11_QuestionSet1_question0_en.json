@@ -1,0 +1,10 @@
+{
+	"QuestionSet1_question0_key1": "Example 1",
+	"QuestionSet1_question0_key2": "Make a program that prints all the numbers from 1 to 100.",
+	"QuestionSet1_question0_key3": "You should get the following as an <span style=\"\">output</span>.",
+	"QuestionSet1_question0_key4": "1<br>2<br>3<br>4<br>5<br>6<br>…<br>…<br>…<br>97<br>98<br>99<br>100",
+	"QuestionSet1_question0_key5": "<span style=\"\">Program</span> :-",
+	"QuestionSet1_question0_key6": "i=1<br>While i<=100:<br>&emsp;print(i)<br>&emsp;i+=1",
+	"QuestionSet1_question0_key7": "<span style=\"\">Output</span> :-",
+	"QuestionSet1_question0_key8": "1<br>2<br>3<br>4<br>5<br>6<br>…<br>…<br>…<br>97<br>98<br>99<br>100"
+}

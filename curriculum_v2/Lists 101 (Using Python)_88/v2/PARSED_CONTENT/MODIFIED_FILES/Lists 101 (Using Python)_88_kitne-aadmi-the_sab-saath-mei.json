@@ -1,0 +1,61 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "kitne-aadmi-the_sab-saath-mei_key1"
+  },
+  {
+    "component": "text",
+    "value": "kitne-aadmi-the_sab-saath-mei_key2"
+  },
+  {
+    "component": "text",
+    "value": "kitne-aadmi-the_sab-saath-mei_key3",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "kitne-aadmi-the_sab-saath-mei_key4",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "kitne-aadmi-the_sab-saath-mei_key5",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "kitne-aadmi-the_sab-saath-mei_key6"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "kitne-aadmi-the_sab-saath-mei_key7"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "l=[23,14,56,12,19,9,15,25,31,42,43]<br>sumodd=0<br>sumeven=0<br>odd=[]<br>even=[]<br>allnumbersum=0<br>l2=len(l)<br>for i in l:<br>&emsp;allnumbersum+=i<br>&emsp;if(i%2==0):<br>&emsp;&emsp;sumeven+=i<br>&emsp;&emsp;even.append(i)<br>&emsp;&emsp;length=len(even)<br>&emsp;else:<br>&emsp;&emsp;sumodd+=i<br>&emsp;&emsp;odd.append(i)<br>&emsp;&emsp;l1=len(odd)<br>print(\"Count of odd numbers=\",l1)<br>print(\"Count of even numbers=\",length)<br>print(\"Count of all the numbers=\",len(l))<br>print(\"Sum of odd numbers=\",sumodd)<br>print(\"Sum of even numbers=\",sumeven)<br>print(\"Sum of all the numbers=\",allnumbersum)<br>print(\"Average of odd numbers=\",sumodd/l1)<br>print(\"Average of even numbers=\",sumeven/length)<br>print(\"Average of all numbers=\",allnumbersum/l2)"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "kitne-aadmi-the_sab-saath-mei_key8"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "kitne-aadmi-the_sab-saath-mei_key9"
+  },
+  {
+    "component": "text",
+    "value": "kitne-aadmi-the_sab-saath-mei_key10"
+  }
+]

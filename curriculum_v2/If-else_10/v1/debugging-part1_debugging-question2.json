@@ -1,0 +1,51 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Example 2 :-"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Bug</span> :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "year = str(2016)<br>Name = \"NavGurukul\"<br>print(name + ', ' + year + \"mein start hua tha!\")"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">NameError:</span> name 'name' is not defined"
+	},
+	{
+		"component": "text",
+		"value": "Corrected code is given below."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Debug</span> :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "#convert the year to string <br>year = str(2016)<br>name = \"NavGurukul\"# add variable name year after comma<br>print(name + ', '+ year + \" mein start hua tha!\")"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "NavGurukul, 2016 mein start hua tha!"
+	}
+]

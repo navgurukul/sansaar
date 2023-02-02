@@ -1,0 +1,63 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "Counters_introduction_key1"
+  },
+  {
+    "component": "text",
+    "value": "Counters_introduction_key2"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Counters_introduction_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "count=1<br>while count<=5:<br>&emsp;print(\"Working\")<br>&emsp;count = count + 1"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Counters_introduction_key4"
+  },
+  {
+    "component": "text",
+    "value": "Counters_introduction_key5"
+  },
+  {
+    "component": "text",
+    "value": "Counters_introduction_key6"
+  },
+  {
+    "component": "text",
+    "value": "Counters_introduction_key7"
+  },
+  {
+    "component": "text",
+    "value": "Counters_introduction_key8"
+  },
+  {
+    "component": "text",
+    "value": "Counters_introduction_key9"
+  },
+  {
+    "component": "text",
+    "value": "Counters_introduction_key10"
+  },
+  {
+    "component": "text",
+    "value": "Counters_introduction_key11"
+  },
+  {
+    "component": "text",
+    "value": "Counters_introduction_key12"
+  },
+  {
+    "component": "text",
+    "value": "Counters_introduction_key13"
+  }
+]

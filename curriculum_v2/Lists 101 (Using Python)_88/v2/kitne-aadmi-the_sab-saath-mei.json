@@ -1,0 +1,61 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Example 9"
+	},
+	{
+		"component": "text",
+		"value": "Write a <span style=\"\">code</span> that works for all lists. It should print the <span style=\"\">output</span> as the following like for all the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">odd numbers</span> and all the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">even numbers</span> and for all the numbers in the given list, it should calculate the following :"
+	},
+	{
+		"component": "text",
+		"value": "count",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "sum",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "average",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "and then print it."
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Sample <span style=\"\">Input</span>"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "l=[23,14,56,12,19,9,15,25,31,42,43]<br>sumodd=0<br>sumeven=0<br>odd=[]<br>even=[]<br>allnumbersum=0<br>l2=len(l)<br>for i in l:<br>&emsp;allnumbersum+=i<br>&emsp;if(i%2==0):<br>&emsp;&emsp;sumeven+=i<br>&emsp;&emsp;even.append(i)<br>&emsp;&emsp;length=len(even)<br>&emsp;else:<br>&emsp;&emsp;sumodd+=i<br>&emsp;&emsp;odd.append(i)<br>&emsp;&emsp;l1=len(odd)<br>print(\"Count of odd numbers=\",l1)<br>print(\"Count of even numbers=\",length)<br>print(\"Count of all the numbers=\",len(l))<br>print(\"Sum of odd numbers=\",sumodd)<br>print(\"Sum of even numbers=\",sumeven)<br>print(\"Sum of all the numbers=\",allnumbersum)<br>print(\"Average of odd numbers=\",sumodd/l1)<br>print(\"Average of even numbers=\",sumeven/length)<br>print(\"Average of all numbers=\",allnumbersum/l2)"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Sample <span style=\"\">Output</span>"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Output:-"
+	},
+	{
+		"component": "text",
+		"value": "Count of odd numbers= 7<br>Count of even numbers= 4<br>Count of all the numbers= 11<br>Sum of odd numbers= 165<br>Sum of even numbers= 124<br>Sum of all the numbers= 289<br>Average of odd numbers= 23.571428571428573<br>Average of even numbers= 31.0<br>Average of all numbers= 26.272727272727273"
+	}
+]

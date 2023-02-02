@@ -1,0 +1,25 @@
+[
+	{
+		"value": "Variables",
+		"component": "header",
+		"variant": 2
+	},
+	{
+		"value": "Variables are defined as a placeholder that allows the storage of numbers and texts (data) that can change.<br>",
+		"component": "text"
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/08b395f9-325a-4163-99f6-eedc5fe5e461-image1.png",
+		"component": "image",
+		"alt": ""
+	},
+	{
+		"value": "https://merakilearn.s3.ap-south-1.amazonaws.com/courseEditor/0ba03039-f22f-4b06-af12-04b699f6e068-image9.png",
+		"component": "image",
+		"alt": ""
+	},
+	{
+		"value": "The name of the variable should be such that it tells us the type of information which is stored in it. Variables reduce the work and also give freedom.<br>",
+		"component": "text"
+	}
+]

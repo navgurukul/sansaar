@@ -1,0 +1,10 @@
+{
+	"Types_intro_key1": "ఆపరేటర్ల రకం",
+	"Types_intro_key2": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">అరిథ్మాటిక్ ఆపరేటర్లు</span>",
+	"Types_intro_key3": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">అసైన్‌మెంట్ ఆపరేటర్లు</span>",
+	"Types_intro_key4": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">పోలిక ఆపరేటర్లు</span>",
+	"Types_intro_key5": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">లాజికల్ ఆపరేటర్లు</span>",
+	"Types_intro_key6": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">గుర్తింపు ఆపరేటర్లు</span> (తరువాత నేర్చుకుంటారు)",
+	"Types_intro_key7": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">మెంబర్‌షిప్ ఆపరేటర్‌లు</span> (తరువాత నేర్చుకుంటారు)",
+	"Types_intro_key8": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Bitwise ఆపరేటర్లు</span> (తరువాత నేర్చుకుంటారు)"
+}

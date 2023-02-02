@@ -1,0 +1,31 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "Questions_question12_key1"
+  },
+  {
+    "component": "text",
+    "value": "Questions_question12_key2"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Questions_question12_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "d=dict()<br>for x in range(1,16): <br>&emsp;d[x]=x**2 <br>print(d)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Questions_question12_key4"
+  },
+  {
+    "component": "text",
+    "value": "Questions_question12_key5"
+  }
+]

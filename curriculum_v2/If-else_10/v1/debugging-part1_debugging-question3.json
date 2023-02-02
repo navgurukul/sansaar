@@ -1,0 +1,22 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Example 3 :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "price_milk = int(input(\"1L milk ka price enter karo?\"))<br>total = (price_milk)*10 <br>total = str(total) <br>print(\"10L milk \" + total + \" rupees ka aata hai.\")"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "1L milk ka price enter karo? <br>120 <br>10L milk 1200 rupees ka aata hai."
+	}
+]

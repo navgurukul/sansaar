@@ -1,0 +1,43 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "section-1-council_gensec_key1"
+  },
+  {
+    "component": "text",
+    "value": "section-1-council_gensec_key2"
+  },
+  {
+    "component": "text",
+    "value": "section-1-council_gensec_key3"
+  },
+  {
+    "component": "text",
+    "value": "section-1-council_gensec_key4",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "section-1-council_gensec_key5",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "section-1-council_gensec_key6",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "section-1-council_gensec_key7",
+    "decoration": {
+      "type": "bullet"
+    }
+  }
+]

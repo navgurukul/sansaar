@@ -1,0 +1,20 @@
+{
+	"DataTypes_StringQ_key1": "टीप:",
+	"DataTypes_StringQ_key2": "कृपया <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">स्ट्रिंग जोडणीबद्दल</span> वाचा.",
+	"DataTypes_StringQ_key3": "उदाहरण-1",
+	"DataTypes_StringQ_key4": "ज्याचा डेटा प्रकार <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">STRING</span> आहे त्या वापरकर्त्याकडून तुम्हाला दोन इनपुट घ्यावे लागतील.",
+	"DataTypes_StringQ_key5": "नंतर नावाने व्हेरिएबलमध्ये <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">add</span> , दोन्ही वापरकर्त्याच्या इनपुटची बेरीज संग्रहित करा.",
+	"DataTypes_StringQ_key6": "व्हेरिएबल <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">अॅड</span> प्रिंट करा.",
+	"DataTypes_StringQ_key7": "<span style=\"\">कार्यक्रम</span> :-",
+	"DataTypes_StringQ_key8": "a=input(&quot;प्रथम मूल्य प्रविष्ट करा=&quot;)<br> b=input(&quot;एंटर सेकंड व्हॅल्यू=&quot;)<br> जोडा=a+b<br> प्रिंट (जोडा)",
+	"DataTypes_StringQ_key9": "<span style=\"\">Output</span> : -",
+	"DataTypes_StringQ_key10": "जर वापरकर्त्याने a = hii आणि b = sam प्रविष्ट केले, तर आउटपुट hiisam असावे.",
+	"DataTypes_StringQ_key11": "उदाहरण-2",
+	"DataTypes_StringQ_key12": "वापरकर्त्याकडून एक <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">INTEger</span> प्रकार इनपुट आणि एक <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">STRING</span> प्रकार इनपुट घ्या.",
+	"DataTypes_StringQ_key13": "नंतर नावाने व्हेरिएबलमध्ये <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">add</span> , दोन्ही वापरकर्ता इनपुटची बेरीज संचयित करा.",
+	"DataTypes_StringQ_key14": "व्हेरिएबल <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">अॅड</span> प्रिंट करा.",
+	"DataTypes_StringQ_key15": "<span style=\"\">कार्यक्रम -</span> :-",
+	"DataTypes_StringQ_key16": "a=int(इनपुट(&quot;प्रथम मूल्य प्रविष्ट करा=&quot;))<br> b=input(&quot;एंटर सेकंड व्हॅल्यू=&quot;)<br> जोडा=a+b<br> प्रिंट (जोडा)",
+	"DataTypes_StringQ_key17": "<span style=\"\">Output</span> : -",
+	"DataTypes_StringQ_key18": "TypeError: फक्त str ('int' नाही) ते str ला जोडू शकते"
+}

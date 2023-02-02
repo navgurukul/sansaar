@@ -1,0 +1,14 @@
+{
+	"Debug_intro_key1": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Debug Code</span>",
+	"Debug_intro_key2": "अब हम डेटा प्रकारों से संबंधित ZGVidWc <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\"></span> <span style=\"\">code</span> करेंगे।",
+	"Debug_intro_key3": "ए।",
+	"Debug_intro_key4": "<span style=\"\">सही कोड</span> :-<br> ए = &#39;मेघा&#39;<br> प्रिंट (ए)",
+	"Debug_intro_key5": "बी।",
+	"Debug_intro_key6": "<span style=\"\">सही कोड</span> :-<br> ए = &#39;नवगुरुकुल&#39;<br> बी = 201<br> बी = स्ट्र (बी)<br> प्रिंट (ए+&#39;,&#39;+ बी + &#39;मुझे शुरू हुआ था&#39;)",
+	"Debug_intro_key7": "सी।",
+	"Debug_intro_key8": "<span style=\"\">सही कोड</span> :-<br> ए = &#39;नवगुरुकुल&#39;<br> बी = 13<br> बी = स्ट्र (बी)<br> प्रिंट (ए + बी)",
+	"Debug_intro_key9": "डी।",
+	"Debug_intro_key10": "<span style=\"\">सही कोड</span> :-<br> ए = &#39;12&#39;<br> बी = 13.1<br> ए = फ्लोट (ए)<br> प्रिंट (ए + बी)",
+	"Debug_intro_key11": "तथा।",
+	"Debug_intro_key12": "<span style=\"\">सही कोड</span> :-<br> ए = बूल (&#39;&#39;)<br> बी = बूल (&#39;&#39;)<br> प्रिंट (ए + बी)"
+}

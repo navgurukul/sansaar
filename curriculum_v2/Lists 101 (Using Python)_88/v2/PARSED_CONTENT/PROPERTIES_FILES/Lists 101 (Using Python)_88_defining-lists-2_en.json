@@ -1,0 +1,8 @@
+{
+	"defining-lists-2_key1": "MIXED LISTS",
+	"defining-lists-2_key2": "Its not like that lists should have same type of data. But the data inside the list can be of any type.",
+	"defining-lists-2_key3": "Example:-",
+	"defining-lists-2_key4": "Output:-",
+	"defining-lists-2_key5": "&lt; class 'list'&gt",
+	"defining-lists-2_key6": "But, this is not a very <b>common practice</b>. Usually we keep same type of Data in a list."
+}

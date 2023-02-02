@@ -1,0 +1,20 @@
+{
+	"DataTypes_StringQ_key1": "Note :",
+	"DataTypes_StringQ_key2": "Please read about <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">String Concatenation</span>.",
+	"DataTypes_StringQ_key3": "Example-1",
+	"DataTypes_StringQ_key4": "You have to take two inputs from the user whose data type is <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">STRING</span>.",
+	"DataTypes_StringQ_key5": "Then in variable by name <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">add</span>, store the sum of both the user inputs.",
+	"DataTypes_StringQ_key6": "Print the variable <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">add</span>.",
+	"DataTypes_StringQ_key7": "<span style=\"\">Program</span> :-",
+	"DataTypes_StringQ_key8": "a=input(\"enter first value=\")<br>b=input(\"enter second value=\")<br>add=a+b<br>print(add)",
+	"DataTypes_StringQ_key9": "<span style=\"\">Output</span> :-",
+	"DataTypes_StringQ_key10": "If user enter a = hii and b = sam ,  then output should be hiisam.",
+	"DataTypes_StringQ_key11": "Example-2",
+	"DataTypes_StringQ_key12": "Take one <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">INTEGER</span> type input and one <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">STRING</span> type input from the user.",
+	"DataTypes_StringQ_key13": "Then in variable by name <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">add</span>, store the sum of both the user inputs.",
+	"DataTypes_StringQ_key14": "Print the variable <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">add</span>.",
+	"DataTypes_StringQ_key15": "<span style=\"\">Program -</span> :-",
+	"DataTypes_StringQ_key16": "a=int(input(\"enter first value=\"))<br>b=input(\"enter second value=\")<br>add=a+b<br>print(add)",
+	"DataTypes_StringQ_key17": "<span style=\"\">Output</span> :-",
+	"DataTypes_StringQ_key18": "TypeError: can only concatenate str (not 'int') to str"
+}

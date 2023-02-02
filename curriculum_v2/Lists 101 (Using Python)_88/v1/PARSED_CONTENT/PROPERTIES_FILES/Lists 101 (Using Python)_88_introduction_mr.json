@@ -1,0 +1,18 @@
+{
+	"introduction_key1": "याद्या आणि ## म्हणजे काय",
+	"introduction_key2": "तुम्ही <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">स्ट्रिंग</span> , <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">पूर्णांक</span> , <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">फ्लोट</span> आणि <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">बुलियन</span> डेटा प्रकारांचा अभ्यास केला असेल. याला <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">आदिम डेटा प्रकार</span> म्हणतात जेथे <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">आदिम</span> म्हणजे <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">साधे</span> डेटा प्रकार. <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">जटिल डेटा प्रकार</span> तयार करण्यासाठी आपण <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">आदिम डेटा प्रकार</span> वापरू शकतो. <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">यादी</span> <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">जटिल डेटा प्रकारांपैकी</span> एक आहे.",
+	"introduction_key3": "व्यायाम",
+	"introduction_key4": "तुम्हाला तुमच्या आयुष्यात कोणत्या 10 गोष्टी करायच्या आहेत, त्याची यादी बनवा.",
+	"introduction_key5": "आता, ते <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">पायथन व्हेरिएबलमध्ये</span> साठवा.",
+	"introduction_key6": "<hr>",
+	"introduction_key7": "अशा प्रकारे, तुम्हाला <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">सूचीच्या स्वरूपात बरीच माहिती</span> मिळेल. उदाहरण :-",
+	"introduction_key8": "तुम्हाला खरेदी करायच्या असलेल्या किराणा मालाची यादी तयार करा.",
+	"introduction_key9": "नवगुरुकुलमध्ये तुम्ही करू शकता अशा अभ्यासक्रमांची यादी तयार करा.",
+	"introduction_key10": "दिलेल्या कोर्समध्ये तुम्हाला करायच्या असलेल्या प्रश्नांची यादी तयार करा.",
+	"introduction_key11": "तुमच्याकडे असलेल्या सर्व चांगल्या सवयींची यादी.",
+	"introduction_key12": "तुम्हाला जिथे काम करायचे आहे त्या कंपन्यांची यादी.",
+	"introduction_key13": "कॅम्पसमध्ये उपस्थित विद्यार्थ्यांची यादी.",
+	"introduction_key14": "कौन्सिल सदस्यांची यादी",
+	"introduction_key15": "इ.",
+	"introduction_key16": "<span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">लिस्ट डेटा प्रकार आणि लिस्ट डेटा स्ट्रक्चरचा</span> अभ्यास करणे आपल्यासाठी किती महत्त्वाचे आहे हे आपण पाहू."
+}

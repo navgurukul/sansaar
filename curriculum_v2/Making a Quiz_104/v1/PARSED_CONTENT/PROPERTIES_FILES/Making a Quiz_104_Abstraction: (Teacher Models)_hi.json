@@ -1,0 +1,15 @@
+{
+	"Abstraction: (Teacher Models)_key1": "मतिहीनता: (शिक्षक मॉडल)",
+	"Abstraction: (Teacher Models)_key2": "आइए परियोजना को समझने और इसे सरल बनाने के लिए अमूर्त करते हैं<br>",
+	"Abstraction: (Teacher Models)_key3": "मंच पर क्या होगा?",
+	"Abstraction: (Teacher Models)_key4": "उपयोगकर्ता अपना नाम दर्ज करेगा।",
+	"Abstraction: (Teacher Models)_key5": "एप्लिकेशन उपयोगकर्ता से एक प्रश्न पूछेगा।",
+	"Abstraction: (Teacher Models)_key6": "उपयोगकर्ता उत्तर दर्ज करेगा .. एप्लिकेशन उपयोगकर्ता द्वारा उत्तर इनपुट की जांच करेगा। यदि उत्तर सही है, तो एप्लिकेशन बताएगा कि उत्तर सही है, स्कोर को 1 से बढ़ाएं और अगला प्रश्न दिखाएं। यदि उत्तर गलत है तो एप्लिकेशन बताएगा कि उत्तर गलत है, स्कोर को 1 से कम करें और अगला प्रश्न दिखाएं।",
+	"Abstraction: (Teacher Models)_key7": "एप्लिकेशन प्रश्नोत्तरी के अंत में उपयोगकर्ता के स्कोर को संग्रहीत करेगा।",
+	"Abstraction: (Teacher Models)_key8": "मंच पर किस प्रेत और पृष्ठभूमि की आवश्यकता होगी?",
+	"Abstraction: (Teacher Models)_key9": "पप्पू स्प्राइट<br>",
+	"Abstraction: (Teacher Models)_key10": "",
+	"Abstraction: (Teacher Models)_key11": "",
+	"Abstraction: (Teacher Models)_key12": "",
+	"Abstraction: (Teacher Models)_key13": ""
+}

@@ -1,0 +1,45 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "if-statement-with-code_if-code-question7_key1"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-code-question7_key2"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-code-question7_key3"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "if-statement-with-code_if-code-question7_key4"
+  },
+  {
+    "component": "image",
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/course_images_v2/If-else_10/assets/question7-image1.png",
+    "alt": "if-statement-with-code_if-code-question7_key5"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "if-statement-with-code_if-code-question7_key6"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "Num1 = int(input(\"enter number1: \")) <br>Num2 = int(input(\"enter number2: \")) <br>if(Num1 > Num2): <br>&emsp;&emsp;print(Num1) <br>else: <br>&emsp;print(Num2)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "if-statement-with-code_if-code-question7_key7"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-code-question7_key8"
+  }
+]

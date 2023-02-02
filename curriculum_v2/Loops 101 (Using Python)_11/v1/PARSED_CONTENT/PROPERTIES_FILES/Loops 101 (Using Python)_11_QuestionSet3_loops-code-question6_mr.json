@@ -1,0 +1,9 @@
+{
+	"QuestionSet3_loops-code-question6_key1": "उदाहरण 6",
+	"QuestionSet3_loops-code-question6_key2": "हा नमुना छापण्यासाठी <span style=\"\">code</span> लिहा.",
+	"QuestionSet3_loops-code-question6_key3": "<b>1, -2, 3, -4, 5, -6 ..99, -100</b>",
+	"QuestionSet3_loops-code-question6_key4": "<span style=\"\">कार्यक्रम</span> :-",
+	"QuestionSet3_loops-code-question6_key5": "i=1<br> असताना(i&lt;=100): # i 1 पासून सुरू होतो आणि 100 ला संपतो<br> if(i%2==0): # सम संख्या तपासत आहे<br> प्रिंट (i*-1)<br> else: कंडिशन चुकीची असल्यास # else भाग कार्यान्वित केला जातो<br> प्रिंट(i)<br> i+=1 # i 1 ने वाढवत आहे",
+	"QuestionSet3_loops-code-question6_key6": "<span style=\"\">Output</span> : -",
+	"QuestionSet3_loops-code-question6_key7": "१<br> -2<br> 3<br> -4<br> ५<br> -6<br> ७<br> -8<br> ९<br> -10<br> 11<br> -12<br> 13<br> -14<br> १५<br> -16<br> १७<br> -18<br> १९<br> -20<br> २१<br> -22<br> 23<br> -24<br> २५<br> -26<br> २७<br> -28<br> 29<br> -३०<br> ३१<br> -32<br> 33<br> -34<br> 35<br> -36<br> ३७<br> -38<br> 39<br> -40<br> ४१<br> -42<br> ४३<br> -44<br> ४५<br> -46<br> ४७<br> -48<br> 49<br> -50<br> ५१<br> -52<br> ५३<br> -54<br> ५५<br> -56<br> ५७<br> -58<br> ५९<br> -60<br> ६१<br> -62<br> ६३<br> -64<br> ६५<br> -66<br> ६७<br> -68<br> ६९<br> -70<br> ७१<br> -72<br> ७३<br> -74<br> 75<br> -76<br> ७७<br> -78<br> ७९<br> -80<br> ८१<br> -82<br> ८३<br> -84<br> ८५<br> -86<br> ८७<br> -88<br> ८९<br> -90<br> ९१<br> -92<br> ९३<br> -94<br> ९५<br> -96<br> ९७<br> -98<br> ९९<br> -100"
+}

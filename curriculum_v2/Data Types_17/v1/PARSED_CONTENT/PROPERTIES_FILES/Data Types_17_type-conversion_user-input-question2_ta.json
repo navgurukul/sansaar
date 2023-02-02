@@ -1,0 +1,15 @@
+{
+	"type-conversion_user-input-question2_key1": "உதாரணம்-2",
+	"type-conversion_user-input-question2_key2": "<i>உங்கள் <span style=\"\">குறியீட்டை</span> <span style=\"\">பைதான்</span> <span style=\"\">கோப்பாக</span> ( <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">.py நீட்டிப்புடன்</span> ) <span style=\"\">சேமித்து</span> சமர்ப்பிக்கவும்.</i>",
+	"type-conversion_user-input-question2_key3": "இந்த எடுத்துக்காட்டு வெவ்வேறு பகுதிகளாக பிரிக்கப்பட்டுள்ளது. அனைத்து <span style=\"\">குறியீடுகளும்</span> ஒரு <span style=\"\">பைதான்</span> <span style=\"\">கோப்பில்</span> எழுதப்பட்டு d ஐ <span style=\"\">பதிவேற்ற</span> வேண்டும்.",
+	"type-conversion_user-input-question2_key4": "பகுதி 1",
+	"type-conversion_user-input-question2_key5": "var_a இல் <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">உள்ளீட்டைப்</span> பயன்படுத்தி எண் <span style=\"\">உள்ளீட்டை</span> எடுத்து, அதை <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">INTEGER</span> ஆக மாற்ற <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">மறக்காதீர்கள்</span> .",
+	"type-conversion_user-input-question2_key6": "பகுதி 2",
+	"type-conversion_user-input-question2_key7": "var_b இல் <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">உள்ளீட்டைப்</span> பயன்படுத்தி எண் <span style=\"\">உள்ளீட்டை</span> எடுத்து, அதை <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">INTEGER</span> ஆக மாற்ற <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">மறக்காதீர்கள்</span> .",
+	"type-conversion_user-input-question2_key8": "பகுதி 3",
+	"type-conversion_user-input-question2_key9": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">var_a</span> மற்றும் <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">var_b</span> ஆகியவற்றின் கூட்டுத்தொகையை அச்சிடுக.",
+	"type-conversion_user-input-question2_key10": "<span style=\"\">நிகழ்ச்சி</span> :-",
+	"type-conversion_user-input-question2_key11": "var_a = உள்ளீடு (&quot;முதல் எண்ணை உள்ளிடவும்: &quot;)<br> var_b = உள்ளீடு (&quot;இரண்டாவது எண்ணை உள்ளிடவும்: &quot;)<br> var_a=int(var_a)<br> var_b=int(var_b)<br> அச்சு(var_a + var_b)",
+	"type-conversion_user-input-question2_key12": "<span style=\"\">வெளியீடு</span> :-",
+	"type-conversion_user-input-question2_key13": "நீங்கள் var_a இல் 4 மற்றும் var_b இல் 5 ஐ உள்ளிட்டால், வெளியீடு 9 ஆக இருக்கும்."
+}

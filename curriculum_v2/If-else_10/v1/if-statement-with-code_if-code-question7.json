@@ -1,0 +1,45 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Example 7 :-"
+	},
+	{
+		"component": "text",
+		"value": "Create a flowchart to take two numbers as <span style=\"\">input</span> from the user. Print the number which is greater."
+	},
+	{
+		"component": "text",
+		"value": "For example, if user enters <b>100</b> and <b>30</b>, then print <b>100</b> as it is greater."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Flowchart :-"
+	},
+	{
+		"component": "image",
+		"value": "assets/question7-image1.png",
+		"alt": "question 12 png"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Program</span> :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "Num1 = int(input(\"enter number1: \")) <br>Num2 = int(input(\"enter number2: \")) <br>if(Num1 > Num2): <br>&emsp;&emsp;print(Num1) <br>else: <br>&emsp;print(Num2)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "enter number1: <br>12 <br>enter number2: <br>32 <br>32"
+	}
+]

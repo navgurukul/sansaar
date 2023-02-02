@@ -1,0 +1,41 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "if-statement-with-code_if-code-question8_key1"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-code-question8_key2"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "if-statement-with-code_if-code-question8_key3"
+  },
+  {
+    "component": "image",
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/course_images_v2/If-else_10/assets/question8-image1.png",
+    "alt": "if-statement-with-code_if-code-question8_key4"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "if-statement-with-code_if-code-question8_key5"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "number = int(input(“enter a number: “)) <br>if((number %5 == 0) and (number %15 == 0)): <br>&emsp;&emsp;print(“number is divisible”) <br>else: <br>&emsp;&emsp;print(“number is not divisible”)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "if-statement-with-code_if-code-question8_key6"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-with-code_if-code-question8_key7"
+  }
+]

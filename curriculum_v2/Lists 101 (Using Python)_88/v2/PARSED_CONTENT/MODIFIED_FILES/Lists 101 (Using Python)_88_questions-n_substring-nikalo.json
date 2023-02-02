@@ -1,0 +1,61 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "questions-n_substring-nikalo_key1"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "questions-n_substring-nikalo_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "# initializing string<br>test_str = \"the quick brown fox jumped over the lazy dog. the dog slept over the verandah.\"<br># printing original string<br>print(\"The original string is : \" + test_str)<br># initializing sub list<br>sub_list = ['over']<br># Remove substring list from String<br># Using loop + replace()<br>for sub in sub_list:<br>&emsp;test_str = test_str.replace(' ' + sub + ' ', ' ')<br># printing result<br>print(\"The string after substring removal : \" + test_str)"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "questions-n_substring-nikalo_key3"
+  },
+  {
+    "component": "text",
+    "value": "questions-n_substring-nikalo_key4"
+  },
+  {
+    "component": "text",
+    "value": "questions-n_substring-nikalo_key5"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "the quick brown fox jumped the lazy dog. the dog slept the verandah."
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "questions-n_substring-nikalo_key6"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "text = \"the quick brown fox jumped over the lazy dog. the dog slept over the verandah.\"<br><br># replace over with on<br>replaced_text = text.replace('over', 'on')<br>print(replaced_text)"
+  },
+  {
+    "component": "text",
+    "value": "questions-n_substring-nikalo_key7"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "questions-n_substring-nikalo_key8"
+  },
+  {
+    "component": "text",
+    "value": "questions-n_substring-nikalo_key9"
+  }
+]
