@@ -1,0 +1,21 @@
+{
+    "iterations_key1": "keys पर iterate करें: -",
+    "iterations_key2": "<span style=\"\">Output</span> :-",
+    "iterations_key3": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Gujarat Maharashtra Rajasthan Bihar</span>",
+    "iterations_key4": "सभी value पर iterate करें: -",
+    "iterations_key5": "उदाहरण :-",
+    "iterations_key6": "<span style=\"\">Output</span> :-",
+    "iterations_key7": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Gandhinagar Mumbai Jaipur Patna</span>",
+    "iterations_key8": "उदाहरण :-",
+    "iterations_key9": "<span style=\"\">Output</span> :-",
+    "iterations_key10": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">17 Bijender 10th</span>",
+    "iterations_key11": "उदाहरण :-",
+    "iterations_key12": "कैसे एक dictionary से <i><span style=\"\">keys</span></i> और <i>values</i> को एक साथ प्रिंट करें?",
+    "iterations_key13": "<span style=\"\">Output</span> :-",
+    "iterations_key14": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">('rating', 7.5) ('hero', 'Vijay') ('name', 'Puli') </span>",
+    "iterations_key15": "Dictionary की length",
+    "iterations_key16": "हम डिक्शनरी में <span style=\"\">key</span> value पेयर <b> की संख्या खोजने के लिए डिक्शनरी लेंथ</b> का उपयोग करते हैं।",
+    "iterations_key17": "उदाहरण:-",
+    "iterations_key18": "<span style=\"\">Output</span> :-",
+    "iterations_key19": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">3</span>"
+}

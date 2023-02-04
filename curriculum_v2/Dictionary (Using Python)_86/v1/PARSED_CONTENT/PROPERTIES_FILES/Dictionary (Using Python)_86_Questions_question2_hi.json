@@ -1,0 +1,8 @@
+{
+    "Questions_question2_key1": "प्रश्न 2",
+    "Questions_question2_key2": "एक प्रोग्राम लिखे जिसमें यदि दर्ज की गई <span style=\"\">key</span> पहले से ही dictionary में मौजूद है तो 'exists' प्रिंट करें और यदि दर्ज की गई <span style=\"\">key</span> मौजूद नहीं है तो 'not exists' प्रिंट करें।",
+    "Questions_question2_key3": "उदाहरण :-",
+    "Questions_question2_key4": "ध्यान दें :-",
+    "Questions_question2_key5": "अगर <span style=\"\">input</span> &quot;name&quot; है तो <span style=\"\">output</span> &quot;exists&quot; होगा",
+    "Questions_question2_key6": "यदि <span style=\"\">input</span> &quot;class&quot; है तो <span style=\"\">output</span> &quot;not exists&quot; होगा।"
+}

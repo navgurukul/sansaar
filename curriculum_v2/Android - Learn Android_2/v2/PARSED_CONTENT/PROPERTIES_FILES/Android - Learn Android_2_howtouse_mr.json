@@ -1,0 +1,83 @@
+{
+	"howtouse_key1": {
+		"code": 403,
+		"errors": [
+			{
+				"message": "Cloud Translation API has not been used in project 777997215292 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/translate.googleapis.com/overview?project=777997215292 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+				"domain": "usageLimits",
+				"reason": "accessNotConfigured",
+				"extendedHelp": "https://console.developers.google.com"
+			}
+		],
+		"response": {
+			"headers": {
+				"alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+				"cache-control": "private",
+				"content-encoding": "gzip",
+				"content-type": "application/json; charset=UTF-8",
+				"date": "Mon, 30 Jan 2023 06:11:04 GMT",
+				"server": "ESF",
+				"transfer-encoding": "chunked",
+				"vary": "Origin, X-Origin, Referer",
+				"x-content-type-options": "nosniff",
+				"x-frame-options": "SAMEORIGIN",
+				"x-xss-protection": "0"
+			}
+		},
+		"message": "Cloud Translation API has not been used in project 777997215292 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/translate.googleapis.com/overview?project=777997215292 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+	},
+	"howtouse_key2": {
+		"code": 403,
+		"errors": [
+			{
+				"message": "Cloud Translation API has not been used in project 777997215292 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/translate.googleapis.com/overview?project=777997215292 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+				"domain": "usageLimits",
+				"reason": "accessNotConfigured",
+				"extendedHelp": "https://console.developers.google.com"
+			}
+		],
+		"response": {
+			"headers": {
+				"alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+				"cache-control": "private",
+				"content-encoding": "gzip",
+				"content-type": "application/json; charset=UTF-8",
+				"date": "Mon, 30 Jan 2023 06:11:04 GMT",
+				"server": "ESF",
+				"transfer-encoding": "chunked",
+				"vary": "Origin, X-Origin, Referer",
+				"x-content-type-options": "nosniff",
+				"x-frame-options": "SAMEORIGIN",
+				"x-xss-protection": "0"
+			}
+		},
+		"message": "Cloud Translation API has not been used in project 777997215292 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/translate.googleapis.com/overview?project=777997215292 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+	},
+	"howtouse_key3": {
+		"code": 403,
+		"errors": [
+			{
+				"message": "Cloud Translation API has not been used in project 777997215292 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/translate.googleapis.com/overview?project=777997215292 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+				"domain": "usageLimits",
+				"reason": "accessNotConfigured",
+				"extendedHelp": "https://console.developers.google.com"
+			}
+		],
+		"response": {
+			"headers": {
+				"alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+				"cache-control": "private",
+				"content-encoding": "gzip",
+				"content-type": "application/json; charset=UTF-8",
+				"date": "Mon, 30 Jan 2023 06:11:04 GMT",
+				"server": "ESF",
+				"transfer-encoding": "chunked",
+				"vary": "Origin, X-Origin, Referer",
+				"x-content-type-options": "nosniff",
+				"x-frame-options": "SAMEORIGIN",
+				"x-xss-protection": "0"
+			}
+		},
+		"message": "Cloud Translation API has not been used in project 777997215292 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/translate.googleapis.com/overview?project=777997215292 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+	}
+}

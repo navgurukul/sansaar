@@ -1,0 +1,113 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "advanced-questions_bubble-sort_key1"
+  },
+  {
+    "component": "text",
+    "value": "advanced-questions_bubble-sort_key2"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "advanced-questions_bubble-sort_key3"
+  },
+  {
+    "component": "text",
+    "value": "advanced-questions_bubble-sort_key4",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "advanced-questions_bubble-sort_key5",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "advanced-questions_bubble-sort_key6",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "advanced-questions_bubble-sort_key7",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "advanced-questions_bubble-sort_key8"
+  },
+  {
+    "component": "text",
+    "value": "advanced-questions_bubble-sort_key9"
+  },
+  {
+    "component": "image",
+    "value": "https://merakidebug.s3.ap-south-1.amazonaws.com/course_images/undefined",
+    "alt": "advanced-questions_bubble-sort_key10"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "advanced-questions_bubble-sort_key11"
+  },
+  {
+    "component": "text",
+    "value": "advanced-questions_bubble-sort_key12",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "advanced-questions_bubble-sort_key13",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "advanced-questions_bubble-sort_key14",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "advanced-questions_bubble-sort_key15"
+  },
+  {
+    "component": "text",
+    "value": "advanced-questions_bubble-sort_key16",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "advanced-questions_bubble-sort_key17",
+    "decoration": {
+      "type": "number",
+      "value": 4
+    }
+  },
+  {
+    "component": "text",
+    "value": "advanced-questions_bubble-sort_key18"
+  },
+  {
+    "component": "text",
+    "value": "advanced-questions_bubble-sort_key19"
+  }
+]

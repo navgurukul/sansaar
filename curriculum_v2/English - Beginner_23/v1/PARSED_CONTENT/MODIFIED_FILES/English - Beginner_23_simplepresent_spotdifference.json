@@ -1,0 +1,31 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "simplepresent_spotdifference_key1"
+  },
+  {
+    "component": "text",
+    "value": "simplepresent_spotdifference_key2",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "simplepresent_spotdifference_key3",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "simplepresent_spotdifference_key4",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  }
+]

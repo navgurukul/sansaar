@@ -1,0 +1,112 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "questions_binary-to-decimal_key1"
+  },
+  {
+    "component": "text",
+    "value": "questions_binary-to-decimal_key2"
+  },
+  {
+    "component": "image",
+    "value": "https://merakidebug.s3.ap-south-1.amazonaws.com/course_images/undefined",
+    "alt": "questions_binary-to-decimal_key3"
+  },
+  {
+    "component": "text",
+    "value": "questions_binary-to-decimal_key4"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "binary_number = [1, 0, 0, 1, 1, 0, 1, 1]"
+  },
+  {
+    "component": "text",
+    "value": "questions_binary-to-decimal_key5"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "questions_binary-to-decimal_key6"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "questions_binary-to-decimal_key7"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "questions_binary-to-decimal_key8"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "questions_binary-to-decimal_key9"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "questions_binary-to-decimal_key10"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "questions_binary-to-decimal_key11"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "questions_binary-to-decimal_key12"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "questions_binary-to-decimal_key13"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "questions_binary-to-decimal_key14"
+  },
+  {
+    "component": "text",
+    "value": "questions_binary-to-decimal_key15"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "questions_binary-to-decimal_key16"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "binary_number = [1, 0, 0, 2, 1]"
+  },
+  {
+    "component": "text",
+    "value": "questions_binary-to-decimal_key17"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "binary_number = [1, 0, 0, \"1\", 1]"
+  },
+  {
+    "component": "text",
+    "value": "questions_binary-to-decimal_key18"
+  },
+  {
+    "component": "text",
+    "value": "questions_binary-to-decimal_key19"
+  },
+  {
+    "component": "text",
+    "value": "questions_binary-to-decimal_key20"
+  }
+]

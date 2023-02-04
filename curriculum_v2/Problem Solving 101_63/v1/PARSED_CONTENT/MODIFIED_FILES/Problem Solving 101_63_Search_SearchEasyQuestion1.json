@@ -1,0 +1,15 @@
+[
+  {
+    "component": "text",
+    "value": "Search_SearchEasyQuestion1_key1"
+  },
+  {
+    "component": "text",
+    "value": "Search_SearchEasyQuestion1_key2"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "Search_SearchEasyQuestion1_key3"
+  }
+]

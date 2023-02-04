@@ -1,0 +1,11 @@
+{
+	"day3_Task-1_key1": "Reading Material",
+	"day3_Task-1_key2": "Kisi bi number <b>x</b> ka <b>Factorial</b> hoga <b>1 * 2 * 3 * …. * x</b>.<br>Jese <b>5</b> ka factorial hoga <b>1<i>2</i>3<i>4</i>5=120</b>.",
+	"day3_Task-1_key3": "<b>Factorial</b> ka sign <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">!</span> denote hota hai.",
+	"day3_Task-1_key4": "Question",
+	"day3_Task-1_key5": "Apko ek value dijayegi x jiska apko factorial nikalna hai.",
+	"day3_Task-1_key6": "Test",
+	"day3_Task-1_key7": "Apne program ko test karne ke liye ish <span style=\"\">input</span> ko dale ke uske <span style=\"\">output</span> check kare",
+	"day3_Task-1_key8": "Hint",
+	"day3_Task-1_key9": "No Hints"
+}

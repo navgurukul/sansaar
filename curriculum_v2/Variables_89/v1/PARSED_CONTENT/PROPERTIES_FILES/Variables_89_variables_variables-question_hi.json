@@ -1,0 +1,12 @@
+{
+    "variables_variables-question_key1": "<i>किसी भी प्रश्न का उत्तर देने के लिए आप <span style=\"\">file</span> को <span style=\"\">upload</span> कर सकते हैं।</i>",
+    "variables_variables-question_key2": "<i>याद रखें <span style=\"\">python</span> <span style=\"\">file</span> एक्सटेंशन <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">.py</span> है।</i>",
+    "variables_variables-question_key3": "<b>आपकी सुविधा के लिए हमने इस प्रश्न को कई भागों में विभाजित किया है। लेकिन आपको सबमिशन एक <span style=\"\">file</span> में ही करना होगा।</b>",
+    "variables_variables-question_key4": "प्रश्न भाग 1",
+    "variables_variables-question_key5": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\"> variable_nav</span> नाम के VARIABLE को INTEGER वैल्यू असाइन/प्रदान करें।",
+    "variables_variables-question_key6": "फिर <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">variable_nav</span> प्रिंट करें।",
+    "variables_variables-question_key7": "प्रश्न भाग 2",
+    "variables_variables-question_key8": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">gurukul</span> नाम का एक नया वेरिएबल लें और इसके लिए कोई भी STRING वैल्यू असाइन/प्रदान करें।",
+    "variables_variables-question_key9": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">variable_nav</span> को FLOAT वैल्यू असाइन/प्रदान करें और इसे सेट करें।",
+    "variables_variables-question_key10": "अब <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">variable_nav</span> और <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">gurukul</span> की वैल्यूस प्रिंट करें।"
+}

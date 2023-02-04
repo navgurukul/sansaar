@@ -1,0 +1,90 @@
+[
+  {
+    "component": "text",
+    "value": "questions_lists-question4_key1"
+  },
+  {
+    "component": "text",
+    "value": "questions_lists-question4_key2"
+  },
+  {
+    "component": "text",
+    "value": "questions_lists-question4_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "name=[ 'n', 'i', 't', 'i', 'n' ]"
+  },
+  {
+    "component": "text",
+    "value": "questions_lists-question4_key4"
+  },
+  {
+    "component": "text",
+    "value": "questions_lists-question4_key5"
+  },
+  {
+    "component": "text",
+    "value": "questions_lists-question4_key6"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "questions_lists-question4_key7"
+  },
+  {
+    "component": "text",
+    "value": "questions_lists-question4_key8"
+  },
+  {
+    "component": "text",
+    "value": "questions_lists-question4_key9"
+  },
+  {
+    "component": "table",
+    "value": [
+      {
+        "header": "questions_lists-question4_key10",
+        "items": [
+          "questions_lists-question4_key11",
+          "questions_lists-question4_key12",
+          "questions_lists-question4_key13",
+          "questions_lists-question4_key14",
+          "questions_lists-question4_key15"
+        ]
+      },
+      {
+        "header": "questions_lists-question4_key16",
+        "items": [
+          "questions_lists-question4_key17",
+          "questions_lists-question4_key18",
+          "questions_lists-question4_key19",
+          "questions_lists-question4_key20",
+          "questions_lists-question4_key21"
+        ]
+      },
+      {
+        "header": "questions_lists-question4_key22",
+        "items": [
+          "questions_lists-question4_key23",
+          "questions_lists-question4_key24",
+          "questions_lists-question4_key25",
+          "questions_lists-question4_key26",
+          "questions_lists-question4_key27"
+        ]
+      },
+      {
+        "header": "questions_lists-question4_key28",
+        "items": [
+          "questions_lists-question4_key29",
+          "questions_lists-question4_key30",
+          "questions_lists-question4_key31",
+          "questions_lists-question4_key32",
+          "questions_lists-question4_key33"
+        ]
+      }
+    ]
+  }
+]

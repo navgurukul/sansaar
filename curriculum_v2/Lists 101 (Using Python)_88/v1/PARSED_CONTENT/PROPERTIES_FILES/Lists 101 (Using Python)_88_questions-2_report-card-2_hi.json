@@ -1,0 +1,12 @@
+{
+    "questions-2_report-card-2_key1": "रिपोर्ट कार्ड - भाग II",
+    "questions-2_report-card-2_key2": "कृपया यह List देखें:",
+    "questions-2_report-card-2_key3": "यह पिछले तीन वर्षों के एक छात्र के अंकों की list है। आपको प्रत्येक वर्ष के औसत अंकों की गणना करनी होगी।<br> जैसे, ऊपर दी गयी list के लिए <span style=\"\">output</span> इस प्रकार होना चाहिए:-<br> पहले साल का औसत - 84<br> दूसरे साल का औसत - 80<br> तीसरे साल का औसत - 63",
+    "questions-2_report-card-2_key4": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Edge Cases</span>",
+    "questions-2_report-card-2_key5": "अपने code को निम्नलिखित <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Nested lists</span> के लिए भी जांचे(इन nested lists के लिए भी आपका code सही चलना चाहिए, यदि आपका code इनके लिए सही नहीं चलता है तो मतलब आपका code सही नहीं है)",
+    "questions-2_report-card-2_key6": "आपके <span style=\"\">Code</span> के माध्यम से, ऊपर दी गयी <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Nested List</span> का समाधान निम्नानुसार होना चाहिए:",
+    "questions-2_report-card-2_key7": "पहले साल का औसत - 84<br> दूसरे साल का औसत - 81<br> तीसरे साल का औसत - 72",
+    "questions-2_report-card-2_key8": "यह list बिना किसी <span style=\"\">error</span> के चलना चाहिए, यदि आपका प्रोग्राम <b>मजबूत(robust) है</b> :",
+    "questions-2_report-card-2_key9": "आपके <span style=\"\">Code</span> के माध्यम से, ऊपर दी गयी <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Nested List</span> का समाधान निम्नानुसार होना चाहिए:",
+    "questions-2_report-card-2_key10": "पहले साल का औसत - 84<br> दूसरे साल का औसत - 81<br> तीसरे साल का औसत - 72<br> चौथे साल का औसत - 71"
+}

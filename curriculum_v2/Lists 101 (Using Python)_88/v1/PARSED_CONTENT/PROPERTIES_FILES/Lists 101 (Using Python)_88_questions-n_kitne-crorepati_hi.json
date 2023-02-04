@@ -1,0 +1,7 @@
+{
+    "questions-n_kitne-crorepati_key1": "कितने करोड़पति?",
+    "questions-n_kitne-crorepati_key2": "एक प्रोग्राम लिखें जो बताए कि उपरोक्त सूची में कितने लोग हैं जो:",
+    "questions-n_kitne-crorepati_key3": "1 - `Crorepati`<br> 2 - `Lakhpati`<br> 3 - `Dilwale`<br><br> वे सभी जिनके पास 1 करोड़ से अधिक या उसके बराबर धन है, वे सभी करोड़पति कहलायेंगे। जिन लोगों के पास 1 लाख से अधिक या उसके बराबर धन होता है, वे लखपति कहलायेंगे। बाकी लोगों को दिलवाले कहेंगे।",
+    "questions-n_kitne-crorepati_key4": "उदाहरण के लिए, ऊपर दी गई सूची का <span style=\"\">output</span> होगा:",
+    "questions-n_kitne-crorepati_key5": "4 Crorepati <br>3 Lakhpati <br>4 Dilwale"
+}

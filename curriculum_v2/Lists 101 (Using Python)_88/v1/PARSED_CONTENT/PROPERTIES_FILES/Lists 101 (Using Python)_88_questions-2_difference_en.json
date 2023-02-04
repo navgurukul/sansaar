@@ -1,0 +1,6 @@
+{
+	"questions-2_difference_key1": "Difference",
+	"questions-2_difference_key2": "Q: Given two arrays, 1,2,3,4,5 and 2,3,1,0,5 find which numbers are not present in the second array.",
+	"questions-2_difference_key3": "<span style=\"\">Output</span>:-",
+	"questions-2_difference_key4": "<b>[4, 5]</b>"
+}

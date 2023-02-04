@@ -1,0 +1,12 @@
+{
+    "questions-n_count-occurences_key1": "List में कोई element कितनीं बार आया है इसकी गणना करें",
+    "questions-n_count-occurences_key2": "<b>Occurences</b> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">occur</span> शब्द से बना है जिसका अर्थ है कि एक निश्चित वर्ण या शब्द कितनी बार प्रकट होता है।",
+    "questions-n_count-occurences_key3": "<b>Sample list</b>",
+    "questions-n_count-occurences_key4": "<b>Sample list का <span style=\"\">Output</span></b>",
+    "questions-n_count-occurences_key5": "[[\"a\", 6], [\"n\", 3], [\"t\", 2], [\"x\", 2], [\"u\", 1], [\"g\", 1]]",
+    "questions-n_count-occurences_key6": "a - 6 बार<br> n - 3 बार<br> t - 2 बार<br> x - 2 बार<br> u - 1 बार<br> g - 1 बार",
+    "questions-n_count-occurences_key7": "हमें <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">char_list</span> variable में तत्वों के <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">occurences</span> की गिनती करनी है और हमें <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">nested list</span> में इन्हें <span style=\"\">save</span> करना है, फिर हमें <span style=\"\">output</span> प्रिंट करने के लिए इस nested list का उपयोग करना है।",
+    "questions-n_count-occurences_key8": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Edge Case</span>",
+    "questions-n_count-occurences_key9": "समाधान",
+    "questions-n_count-occurences_key10": "[]"
+}

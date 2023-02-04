@@ -1,0 +1,9 @@
+{
+	"Questions_question14_key1": "Question 14",
+	"Questions_question14_key2": "Write a program to sort a dictionary in ascending or descending according to its values .",
+	"Questions_question14_key3": "<span style=\"\">Input</span> :-",
+	"Questions_question14_key4": "Expected result in Ascending Order:",
+	"Questions_question14_key5": "{'param':20,'anjili':30,'bijender':45,'roshini':50,'deepak':60}",
+	"Questions_question14_key6": "Expected result in Descending Order:",
+	"Questions_question14_key7": "{'deepak':60,'roshini':50,'bijender':45,'anjili':30,'param':20}"
+}

@@ -1,0 +1,81 @@
+[
+  {
+    "component": "text",
+    "value": "variables_variables-naming-conventions_key1"
+  },
+  {
+    "component": "text",
+    "value": "variables_variables-naming-conventions_key2"
+  },
+  {
+    "component": "text",
+    "value": "variables_variables-naming-conventions_key3"
+  },
+  {
+    "component": "text",
+    "value": "variables_variables-naming-conventions_key4"
+  },
+  {
+    "component": "text",
+    "value": "variables_variables-naming-conventions_key5"
+  },
+  {
+    "component": "table",
+    "value": [
+      {
+        "header": "variables_variables-naming-conventions_key6",
+        "items": [
+          "variables_variables-naming-conventions_key7",
+          "variables_variables-naming-conventions_key8",
+          "variables_variables-naming-conventions_key9"
+        ]
+      },
+      {
+        "header": "variables_variables-naming-conventions_key10",
+        "items": [
+          "variables_variables-naming-conventions_key11",
+          "variables_variables-naming-conventions_key12",
+          "variables_variables-naming-conventions_key13"
+        ]
+      }
+    ]
+  },
+  {
+    "component": "text",
+    "value": "variables_variables-naming-conventions_key14"
+  },
+  {
+    "component": "table",
+    "value": [
+      {
+        "header": "variables_variables-naming-conventions_key15",
+        "items": [
+          "variables_variables-naming-conventions_key16",
+          "variables_variables-naming-conventions_key17",
+          "variables_variables-naming-conventions_key18"
+        ]
+      },
+      {
+        "header": "variables_variables-naming-conventions_key19",
+        "items": [
+          "variables_variables-naming-conventions_key20",
+          "variables_variables-naming-conventions_key21",
+          "variables_variables-naming-conventions_key22"
+        ]
+      },
+      {
+        "header": "variables_variables-naming-conventions_key23",
+        "items": [
+          "variables_variables-naming-conventions_key24",
+          "variables_variables-naming-conventions_key25",
+          "variables_variables-naming-conventions_key26"
+        ]
+      }
+    ]
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "variables_variables-naming-conventions_key27"
+  }
+]

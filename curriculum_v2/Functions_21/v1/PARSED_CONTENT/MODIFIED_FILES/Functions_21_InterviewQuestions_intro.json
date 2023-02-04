@@ -1,0 +1,43 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "InterviewQuestions_intro_key1"
+  },
+  {
+    "component": "text",
+    "value": "InterviewQuestions_intro_key2"
+  },
+  {
+    "component": "text",
+    "value": "InterviewQuestions_intro_key3"
+  },
+  {
+    "component": "text",
+    "value": "InterviewQuestions_intro_key4"
+  },
+  {
+    "component": "text",
+    "value": "InterviewQuestions_intro_key5"
+  },
+  {
+    "component": "text",
+    "value": "InterviewQuestions_intro_key6"
+  },
+  {
+    "component": "text",
+    "value": "InterviewQuestions_intro_key7"
+  },
+  {
+    "component": "text",
+    "value": "InterviewQuestions_intro_key8"
+  },
+  {
+    "component": "text",
+    "value": "InterviewQuestions_intro_key9"
+  },
+  {
+    "component": "text",
+    "value": "InterviewQuestions_intro_key10"
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "component": "text",
+    "value": "Warmup_Introduction_key1"
+  },
+  {
+    "component": "text",
+    "value": "Warmup_Introduction_key2"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "Warmup_Introduction_key3"
+  }
+]

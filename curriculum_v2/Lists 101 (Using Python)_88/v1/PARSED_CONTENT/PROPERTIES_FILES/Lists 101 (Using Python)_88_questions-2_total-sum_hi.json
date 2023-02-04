@@ -1,0 +1,6 @@
+{
+    "questions-2_total-sum_key1": "कुल योग",
+    "questions-2_total-sum_key2": "<span style=\"\">Q: </span> दिए गए integers के array में दो संख्याओं के जोड़ों को कैसे खोजें जिनका योग दी गई संख्या के बराबर है?",
+    "questions-2_total-sum_key3": "<span style=\"\">Output</span> :-",
+    "questions-2_total-sum_key4": "<b>[[11,19], [12,18], [13,17]]</b>"
+}

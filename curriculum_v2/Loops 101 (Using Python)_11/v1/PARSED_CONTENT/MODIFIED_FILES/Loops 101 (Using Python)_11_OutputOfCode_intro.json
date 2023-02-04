@@ -1,0 +1,11 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "OutputOfCode_intro_key1"
+  },
+  {
+    "component": "text",
+    "value": "OutputOfCode_intro_key2"
+  }
+]

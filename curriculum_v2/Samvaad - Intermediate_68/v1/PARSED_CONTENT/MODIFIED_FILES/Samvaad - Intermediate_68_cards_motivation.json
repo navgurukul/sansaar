@@ -1,0 +1,52 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "cards_motivation_key1"
+  },
+  {
+    "component": "text",
+    "value": "cards_motivation_key2",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "cards_motivation_key3",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "cards_motivation_key4",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "cards_motivation_key5"
+  },
+  {
+    "component": "text",
+    "value": "cards_motivation_key6",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "cards_motivation_key7",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  }
+]

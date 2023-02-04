@@ -1,0 +1,64 @@
+[
+  {
+    "component": "text",
+    "value": "Types-Of-Operators_Assignment-operators_key1"
+  },
+  {
+    "component": "table",
+    "value": [
+      {
+        "header": "Types-Of-Operators_Assignment-operators_key2",
+        "items": [
+          "Types-Of-Operators_Assignment-operators_key3",
+          "Types-Of-Operators_Assignment-operators_key4",
+          "Types-Of-Operators_Assignment-operators_key5",
+          "Types-Of-Operators_Assignment-operators_key6",
+          "Types-Of-Operators_Assignment-operators_key7",
+          "Types-Of-Operators_Assignment-operators_key8",
+          "Types-Of-Operators_Assignment-operators_key9"
+        ]
+      },
+      {
+        "header": "Types-Of-Operators_Assignment-operators_key10",
+        "items": [
+          "Types-Of-Operators_Assignment-operators_key11",
+          "Types-Of-Operators_Assignment-operators_key12",
+          "Types-Of-Operators_Assignment-operators_key13",
+          "Types-Of-Operators_Assignment-operators_key14",
+          "Types-Of-Operators_Assignment-operators_key15",
+          "Types-Of-Operators_Assignment-operators_key16",
+          "Types-Of-Operators_Assignment-operators_key17"
+        ]
+      },
+      {
+        "header": "Types-Of-Operators_Assignment-operators_key18",
+        "items": [
+          "Types-Of-Operators_Assignment-operators_key19",
+          "Types-Of-Operators_Assignment-operators_key20",
+          "Types-Of-Operators_Assignment-operators_key21",
+          "Types-Of-Operators_Assignment-operators_key22",
+          "Types-Of-Operators_Assignment-operators_key23",
+          "Types-Of-Operators_Assignment-operators_key24",
+          "Types-Of-Operators_Assignment-operators_key25"
+        ]
+      }
+    ]
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "Types-Of-Operators_Assignment-operators_key26"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "var x = 5, y = 10, z = 15;<br><br>console.log(x = y);<br>console.log( x+= 1);<br>console.log(x -= 1);<br>console.log(x *= 5);<br>console.log(x /= 5);<br>console.log(x %= 2);"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "solution",
+    "value": "10<br>11<br>10<br>50<br>10<br>0"
+  }
+]
