@@ -81,7 +81,7 @@ exports.deployment = async (start) => {
 
   // eslint-disable-next-line no-console
   logger.info(`Server started at ${server.info.uri}`);
-  server.chatClient = client;
+  // server.chatClient = client;
 
   // eslint-disable-next-line
   const {
@@ -148,10 +148,10 @@ exports.deployment = async (start) => {
 
   await coursesServiceV2.StoreTranslatedContent()
 
-  client.start().then(() => {
-    // eslint-disable-next-line
-    logger.info('Client started!');
-  });
+  // client.start().then(() => {
+  //   // eslint-disable-next-line
+    // logger.info('Client started!');
+  // });
   // client.on('room.message', chatService.handleCommand.bind(this));
 
   return server;
