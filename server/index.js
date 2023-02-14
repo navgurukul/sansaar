@@ -49,12 +49,12 @@ exports.deployment = async (start) => {
   // Set the matrix client before initializing the server
   // server.app.chatClient = client;
 
-	// const cache = server.cache({
-	// 	cache: 'my_cache',
-	// 	segment: CONFIG.redis,
-	// 	expiresIn: 24 * 60 * 60 * 1000,
-	// });
-	// server.app.cache = cache;
+  // const cache = server.cache({
+  // 	cache: 'my_cache',
+  // 	segment: CONFIG.redis,
+  // 	expiresIn: 24 * 60 * 60 * 1000,
+  // });
+  // server.app.cache = cache;
   await server.initialize();
 
   if (!start) {
@@ -65,8 +65,8 @@ exports.deployment = async (start) => {
 
   /* Scheduler */
   // cron.schedule('0 * * * * *', async () => {
-    // classReminderScheduler(classesService, chatService, displayService);
-    // classFeedbackScheduler(classesService, chatService, displayService);
+  // classReminderScheduler(classesService, chatService, displayService);
+  // classFeedbackScheduler(classesService, chatService, displayService);
   // });
 
   // cron.schedule('0 * * * * *', async () => {
@@ -92,10 +92,9 @@ exports.deployment = async (start) => {
     partnerService,
     calendarService,
     coursesServiceV2,
-    userRoleService
+    userRoleService,
   } = server.services();
 
- 
   cron.schedule('0 00 08 * * *', async () => {
     await userRoleService.setStatusInVolunteer();
   });
@@ -146,11 +145,11 @@ exports.deployment = async (start) => {
     }
   });
 
-  await coursesServiceV2.StoreTranslatedContent()
+  await coursesServiceV2.StoreTranslatedContent();
 
   // client.start().then(() => {
   //   // eslint-disable-next-line
-    // logger.info('Client started!');
+  // logger.info('Client started!');
   // });
   // client.on('room.message', chatService.handleCommand.bind(this));
 
