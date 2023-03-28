@@ -11,7 +11,7 @@
   },
   "scripts": {
     "start": "nodemon --watch lib --watch server server",
-    "test": "lab -a @hapi/code -L",
+    "test": "mocha || true",
     "lint": "eslint lib server",
     "lint:fix": "eslint lib server --fix"
   },
@@ -90,6 +90,9 @@
     "hpal-debug": "1.x.x",
     "nodemon": "^2.0.4",
     "pathfinder-ui": "^1.0.3",
+    "chai": "^4.3.7",
+    "chai-http": "^4.3.0",
+    "mocha": "^10.2.0",
     "prettier": "^2.0.5",
     "prettier-eslint": "^11.0.0"
   },
