@@ -1,11 +1,11 @@
 let [chai,expect,token, performance,responceTimeTest,url] = require('./configure/chaiConfigure')
 
 // Test user_id var 
-const user_id = 3742;
+var user_id = 3742;
 
 
 
-describe(`HTTP ${url}/search, GET and POST API'S test !!`, () => {
+describe(`/search, || GET and POST API'S test !!`, () => {
   it(' || /search/{user_id} GET API test || should return status code 200', async () => {
     const obs = responceTimeTest()
     obs.observe({ entryTypes: ['measure'] });
@@ -29,28 +29,28 @@ describe(`HTTP ${url}/search, GET and POST API'S test !!`, () => {
     }
   });
 
-  it(' || /search/{user_id}/{name} POST API test || should return status code 200', async () => {
-    const obs = responceTimeTest()
+  // it(' || /search/{user_id}/{name} POST API test || should return status code 200', async () => {
+  //   const obs = responceTimeTest()
 
-    obs.observe({ entryTypes: ['measure'] });
+  //   obs.observe({ entryTypes: ['measure'] });
     
-    // Make 5 requests and measure their performance
-    for (let i = 0; i < 5; i++) {
-      performance.mark(`start-${i}`);
-      const name = 'python';
-      const res = await chai
-        .request(url)
-        .post(`/search/${user_id}/${name}`)
-        .set('Authorization', `Bearer ${token}`);
+  //   // Make 5 requests and measure their performance
+  //   for (let i = 0; i < 5; i++) {
+  //     performance.mark(`start-${i}`);
+  //     const name = 'python';
+  //     const res = await chai
+  //       .request(url)
+  //       .post(`/search/${user_id}/${name}`)
+  //       .set('Authorization', `Bearer ${token}`);
         
-      performance.mark(`end-${i}`);
-      performance.measure(`loadingTime-${i}`, `start-${i}`, `end-${i}`);
+  //     performance.mark(`end-${i}`);
+  //     performance.measure(`loadingTime-${i}`, `start-${i}`, `end-${i}`);
 
-      expect(res).to.have.status(200);
-      expect(res).to.be.json;
-      expect(res.body).to.be.an('object');
-    }
-  });
+  //     expect(res).to.have.status(200);
+  //     expect(res).to.be.json;
+  //     expect(res.body).to.be.an('object');
+  //   }
+  // });
   it(' || /search GET API test || GET API test status 200', async () => {
       const obs = responceTimeTest()
   

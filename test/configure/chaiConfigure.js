@@ -11,14 +11,14 @@ chai.use(chaiHttp);
 
 // auth token you need to give you Own 
 const token =
-  'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjI1NjIiLCJlbWFpbCI6ImJodXBlbmRyYTIwQG5hdmd1cnVrdWwub3JnIiwiaWF0IjoxNjc4NDY5ODcxLCJleHAiOjE3MTAwMjc0NzF9.1by-O0SuW3BH2OlXEpUzgr8s9dXtJwdov1rRhbZh6CA';
+  '';
 
 
 function responceTimeTest() {
   return new PerformanceObserver((list, observer) => {
     const entry = list.getEntries()[0];
     const loadingTime = entry.duration;
-    expect(loadingTime).to.be.lessThan(10000);
+    expect(loadingTime).to.be.lessThan(1000);
     performance.clearMarks();
     observer.disconnect();
   });
