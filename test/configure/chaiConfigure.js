@@ -2,6 +2,9 @@ const chai = require('chai');
 const { expect } = require('chai');
 const chaiHttp = require('chai-http');
 const { PerformanceObserver, performance } = require('perf_hooks');
+const Dotenv = require('dotenv');
+
+Dotenv.config({ path: `${__dirname}/../../server/.env` });
 
 // Base url for the testing
 const url = 'http://localhost:5000';
@@ -10,7 +13,7 @@ const url = 'http://localhost:5000';
 chai.use(chaiHttp);
 
 // auth token you need to give you Own 
-const token = process.env.TOKEN;
+const token = process.env.TOKEN_AUTH;
 
 
 function responceTimeTest() {
