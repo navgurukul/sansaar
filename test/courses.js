@@ -1,6 +1,6 @@
 let [chai, expect,token,performance,responceTimeTest,url] = require('./configure/chaiConfigure');
 
-describe(`HTTP ${url}/courses GET API test !!`,()=>{
+describe(`/courses || GET API test !!`,()=>{
     it(" || GET API /courses || should return status code 200 || ",async ()=>{
         let obs = responceTimeTest()
         obs.observe({ entryTypes: ['measure'] });
@@ -8,7 +8,6 @@ describe(`HTTP ${url}/courses GET API test !!`,()=>{
         // Make 5 requests and measure their performance
         for (let i = 0; i < 5; i++) {
             performance.mark(`start-${i}`);
-            const name = 'python';
             const res = await chai
             .request(url)
             .get(`/courses`)
@@ -66,6 +65,27 @@ describe(`HTTP ${url}/courses GET API test !!`,()=>{
           expect(res).to.be.json;
             expect(res.body).to.be.an('object');
           expect(res.body).to.have.property('course');
+        }
+      })// ​/courses​/recommended
+      it(" || GET API ​/courses​/recommended || should return status code 200 || ",async ()=>{
+        let obs = responceTimeTest()
+        obs.observe({ entryTypes: ['measure'] });
+    
+        // Make a request and measure its performance for each number
+        for (let i = 0; i < 5; i++) {
+          performance.mark(`start-${i}`);
+          const res = await chai
+          .request(url)
+          .get('/courses/recommended')
+          .set({ 'version-code': 52, 'Authorization': `Bearer ${token}`});
+          
+          performance.mark(`end-${i}`);
+          performance.measure(`loadingTime-${i}`, `start-${i}`, `end-${i}`);
+      
+          expect(res).to.have.status(200);
+          expect(res).to.be.json;
+          expect(res.body).to.be.an('array');
+          // expect(res.body).to.have.property('course');
         }
       })
 })
