@@ -10,8 +10,7 @@ const url = 'http://localhost:5000';
 chai.use(chaiHttp);
 
 // auth token you need to give you Own 
-const token =
-  '';
+const token = process.env.TOKEN;
 
 
 function responceTimeTest() {
