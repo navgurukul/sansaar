@@ -11,7 +11,6 @@ describe(`/search || GET and POST API'S test !!`, () => {
     // Make 5 requests and measure their performance
     for (let i = 0; i < 5; i++) {
       performance.mark(`start-${i}`);
-      const name = 'python';
       const res = await chai
       .request(url)
       .get(`/allVolunteers`)
