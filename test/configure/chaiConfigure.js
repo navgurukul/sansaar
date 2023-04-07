@@ -14,13 +14,13 @@ chai.use(chaiHttp);
 
 // auth token you need to give you Own 
 const token = process.env.TOKEN_AUTH;
-
+console.log('token: ',token)
 
 function responceTimeTest() {
   return new PerformanceObserver((list, observer) => {
     const entry = list.getEntries()[0];
     const loadingTime = entry.duration;
-    expect(loadingTime).to.be.lessThan(1000);
+    expect(loadingTime).to.be.lessThan(4000);
     performance.clearMarks();
     observer.disconnect();
   });

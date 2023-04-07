@@ -1,10 +1,8 @@
 let [chai,expect,token, performance,responceTimeTest,url] = require('./configure/chaiConfigure')
 
 
-
-
-describe(`/allVolunteers || GET and POST API'S test !!`, () => {
-  it(' || /allVolunteers GET API test || should return status code 200', async () => {
+describe(`/progressTracking, || GET and POST API'S test !!`, () => {
+  it(' || /progressTracking/{courseId}/completedCourseContentIds GET API test || should return status code 200', async () => {
     const obs = responceTimeTest()
     obs.observe({ entryTypes: ['measure'] });
     
@@ -13,14 +11,16 @@ describe(`/allVolunteers || GET and POST API'S test !!`, () => {
       performance.mark(`start-${i}`);
       const res = await chai
       .request(url)
-      .get(`/allVolunteers`)
-      .set('Authorization', `Bearer ${token}`);
+      .get(`/progressTracking/1/completedCourseContentIds`)
+      .set({'Authorization': `Bearer ${token}`});
       
       performance.mark(`end-${i}`);
       performance.measure(`loadingTime-${i}`, `start-${i}`, `end-${i}`);
 
       expect(res).to.have.status(200);
       expect(res).to.be.json;
-      expect(res.body).to.be.an('array');
+      expect(res.body).to.be.an('object');
+      expect(res.body).to.have.property('exercises');
     }
-});});
+    }); 
+});
