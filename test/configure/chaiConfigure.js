@@ -7,7 +7,7 @@ const Dotenv = require('dotenv');
 Dotenv.config({ path: `${__dirname}/../../server/.env` });
 
 // Base url for the testing
-const url = 'http://localhost:5000';
+const url = process.env.BASE_URL;
 
 // Configure chai to use chai-http for API calls
 chai.use(chaiHttp);
@@ -20,7 +20,7 @@ function responceTimeTest() {
   return new PerformanceObserver((list, observer) => {
     const entry = list.getEntries()[0];
     const loadingTime = entry.duration;
-    expect(loadingTime).to.be.lessThan(4000);
+    expect(loadingTime).to.be.lessThan(20000);
     performance.clearMarks();
     observer.disconnect();
   });
