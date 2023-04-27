@@ -72,7 +72,8 @@
     "toys": "2.x.x",
     "uuid": "^9.0.0",
     "winston": "^3.3.3",
-    "winston-daily-rotate-file": "^4.5.5"
+    "winston-daily-rotate-file": "^4.5.5",
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "@hapi/code": "8.x.x",
@@ -80,6 +81,8 @@
     "@hapi/eslint-plugin-hapi": "4.x.x",
     "@hapi/lab": "22.x.x",
     "babel-eslint": "10.x.x",
+    "chai": "^4.3.7",
+    "chai-http": "^4.3.0",
     "eslint": "^7.5.0",
     "eslint-config-airbnb-base": "^14.2.0",
     "eslint-config-prettier": "^6.11.0",
@@ -87,11 +90,9 @@
     "eslint-plugin-prettier": "^3.1.4",
     "hpal": "2.x.x",
     "hpal-debug": "1.x.x",
+    "mocha": "^10.2.0",
     "nodemon": "^2.0.4",
     "pathfinder-ui": "^1.0.3",
-    "chai": "^4.3.7",
-    "chai-http": "^4.3.0",
-    "mocha": "^10.2.0",
     "prettier": "^2.0.5",
     "prettier-eslint": "^11.0.0"
   },
