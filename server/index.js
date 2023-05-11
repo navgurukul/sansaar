@@ -96,10 +96,10 @@ exports.deployment = async (start) => {
   } = server.services();
 
   // Partner status automation change 
-  cron.schedule('0 0 0 * * *', async () => {
-    await partnerService.PartnerArchivedChangeAutomation();
-    await partnerService.PartnerStatusInactiveChange();
-  });
+  // cron.schedule('0 0 0 * * *', async () => {
+  //   await partnerService.PartnerArchivedChangeAutomation();
+  //   await partnerService.PartnerStatusInactiveChange();
+  // });
 
   cron.schedule('0 00 08 * * *', async () => {
     await userRoleService.setStatusInVolunteer();
