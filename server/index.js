@@ -89,12 +89,11 @@ exports.deployment = async (start) => {
     classesService,
     userService,
     displayService,
+    partnerService,
     calendarService,
     coursesServiceV2,
     userRoleService,
-    partnerService,
   } = server.services();
-
 
   cron.schedule('0 00 08 * * *', async () => {
     await userRoleService.setStatusInVolunteer();
@@ -107,8 +106,6 @@ exports.deployment = async (start) => {
   // });
 
   /* Scheduler- call calendar patch API in every 10 min*/
-
-  
   cron.schedule('00 */10 * * * *', async () => {
     // 2 hours duration
     const duration = UTCToISTConverter(
