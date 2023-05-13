@@ -69,6 +69,7 @@
     "schmervice": "^1.5.0",
     "schwifty": "^5.3.0",
     "showdown": "^1.9.1",
+    "strapi-sdk-js": "^2.2.0",
     "toys": "2.x.x",
     "uuid": "^9.0.0",
     "winston": "^3.3.3",
@@ -93,6 +94,9 @@
     "mocha": "^10.2.0",
     "nodemon": "^2.0.4",
     "pathfinder-ui": "^1.0.3",
+    "chai": "^4.3.7",
+    "chai-http": "^4.3.0",
+    "mocha": "^10.2.0",
     "prettier": "^2.0.5",
     "prettier-eslint": "^11.0.0"
   },
