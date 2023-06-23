@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 const Inert = require('@hapi/inert');
 const Vision = require('@hapi/vision');
 const HapiSwagger = require('hapi-swagger');
