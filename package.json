@@ -56,7 +56,6 @@
     "libreoffice-convert": "^1.4.1",
     "lodash": "^4.17.20",
     "marked": ">=2.0.0",
-    "matrix-bot-sdk": "^0.5.7",
     "node-cron": "^2.0.3",
     "node-global-storage": "^1.2.3",
     "nodejs-base64": "^2.0.0",
