@@ -145,6 +145,18 @@ exports.deployment = async (start) => {
     }
   });
 
+  // Partner status automation change 
+  cron.schedule('0 53 23 * * *', async () => {
+    let  [err1,InactiveChange]  = await partnerService.PartnerInactiveChangeAutomation();
+    if (err1){
+      logger.error(JSON.stringify(err1));
+    }
+    let [err2,ArchivedChange] = await partnerService.PartnerStatusArchivedChange();
+    if (err2){
+      logger.error(JSON.stringify(err2));
+    }
+  });
+  
   await coursesServiceV2.StoreTranslatedContent();
 
   // client.start().then(() => {
