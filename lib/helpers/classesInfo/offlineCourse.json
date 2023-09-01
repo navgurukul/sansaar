@@ -1,0 +1,808 @@
+{
+    "htmlCode":"
+                <!DOCTYPE html>
+                head>
+   
+    <title>m</title>
+</head>
+<div class="container">
+    <div class="text">
+        <span>M</span>
+        <span>E</span>
+        <span>R</span>
+        <span>A</span>
+        <span>K</span>
+        <span>I</span>
+    </div>
+</div>
+<body style="margin: 0; padding:0;">
+    <div class="cards " id="total">
+    
+    </div>
+    <button id="storeDataButton">button</button>
+","jsCode":"
+            const eleRoot = document.getElementById('total');
+    // Retrieve the data from localStorage
+    var storedPD = JSON.parse(localStorage.getItem("pdData"));
+    function moduleData(data,popUP){
+        let { content, solution, type, title
+        } = data;
+        var nameElement2 = document.createElement("h1");
+        nameElement2.textContent = title;
+
+        var descriptionElement2 = document.createElement("p");
+        descriptionElement2.textContent = content;
+        var h3Ele = document.createElement("h3");
+        h3Ele.textContent = solution;
+        var popupInfo = document.createElement("div");
+        popupInfo.className = "popupInfo";
+        popupInfo.appendChild(nameElement2);
+        popupInfo.appendChild(descriptionElement2);
+        popupInfo.appendChild(h3Ele);
+
+        popUP.appendChild(popupInfo);
+    }
+
+    function popupAfterFunctions(module,popUP) {
+        // Create a button element
+        var buttonClass = document.createElement("div");
+        buttonClass.className = "buttonClass";
+        url = new URLSearchParams(window.location.search);
+
+        popUP.appendChild(buttonClass);
+        for (var i in module) {
+
+            let { content, solution, type, title
+            } = module[i
+            ];
+
+            // Create a link (anchor) element for each card
+            var btnCard = document.createElement("a");
+            btnCard.className = "card";
+            console.log('title',title);
+            
+
+            btnCard.href = `?action=moduleData&index=${i
+            } & course_name2=${title
+            }`; // Set the URL to redirect to
+            btnCard.text =  (type === 'exercise')? 'E': "?"; // Open link in a new tab/window
+
+            var btnValue = document.createElement("butten");
+            btnValue.className = "card";
+
+            buttonClass.appendChild(btnCard);
+        }
+        moduleData(module[
+            0
+        ],popUP)
+        
+        var nextButton = document.createElement("button");
+        nextButton.className = "nextButton";
+        nextButton.textContent = "Next";
+        nextButton.addEventListener("click", nextModule);
+
+    
+        var backButton = document.createElement("button");
+        backButton.textContent = "Back";
+        backButton.className = "prevButton";
+        backButton.addEventListener("click", previousModule);
+
+        // Append the buttons to the popUP div
+        // Append the buttons to the popUP div
+        popUP.appendChild(nextButton);
+        popUP.appendChild(backButton);
+    }
+
+    function performAction() {
+        // Retrieve the data from localStorage
+        console.log('Module: ',module);
+        var popUP = document.createElement("div");
+        popUP.className = "popup";
+        document.body.appendChild(popUP);
+        popupAfterFunctions(module, popUP)
+    }
+    // Get query parameter value from the URL
+    function getQueryParam(param) {
+        const urlParams = new URLSearchParams(window.location.search);
+        return urlParams.get(param);
+    }
+    // Call the function based on the query parameter
+    const actionParam = getQueryParam("action");
+    if (actionParam === "performAction") {
+        let c_id = getQueryParam("c_id");
+        course_name = getQueryParam("course_name");
+        var str = JSON.parse(localStorage.getItem("pdData"));
+        var  module  = str.java[course_name
+        ]['module'
+        ];
+        performAction();
+    }else if (actionParam === "moduleData"){
+        console.log('running');
+        let index = getQueryParam("index");
+        console.log("index: ", index);
+        // let course_name2 = getQueryParam("course_name2");
+        console.log(course_name);
+        var str = JSON.parse(localStorage.getItem("pdData"));
+        var  module  = str.java[course_name
+        ]['module'
+        ];
+        moduleData(module);
+    }
+    // Access the Java introduction data
+    var javaIntroduction = storedPD.java;
+    for (var i in javaIntroduction) {
+
+        let { name, description, url, c_id
+        } = javaIntroduction[i
+        ];
+        
+        // Create a link (anchor) element for each card
+        var cardLink = document.createElement("a");
+        cardLink.href = `?action=performAction&c_id=${c_id
+        }&course_name=${i
+        }`; // Set the URL to redirect to
+        // cardLink.target = c_id ; // Open link in a new tab/window
+        
+        var nameValue = document.createElement("div");
+        nameValue.className = "card";
+        
+        var nameElement = document.createElement("h1");
+        nameElement.textContent = name;
+
+        var descriptionElement = document.createElement("p");
+        descriptionElement.textContent = description;
+
+        var imageElement = document.createElement("img");
+        imageElement.src = url;
+        
+        nameValue.appendChild(nameElement);
+        nameValue.appendChild(descriptionElement);
+        // nameValue.appendChild(imageElement);
+        cardLink.appendChild(nameValue);
+        if (name){
+            eleRoot.appendChild(cardLink);
+        }
+    }",
+    "cssCode": "
+        *{
+          text-decoration: none;
+    }
+        .nextButton{
+          position: absolute;
+          bottom: 250px; /* Adjust this value to control the vertical position */
+          left: 60%;
+          transform: translateX(-50%);
+          background-color: #007bff;
+          color: #fff;
+          padding: 10px 20px;
+          border: none;
+          border-radius: 5px;
+          cursor: pointer;
+    }
+        .prevButton{
+           position: absolute;
+          bottom: 250px; /* Adjust this value to control the vertical position */
+          left: 35%;
+          transform: translateX(-50%);
+          background-color: #007bff;
+          color: #fff;
+          padding: 10px 20px;
+          border: none;
+          border-radius: 5px;
+          cursor: pointer;
+    }
+        .cards {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          height: 100vh; /* Adjust this value for the desired height */
+          padding: 2rem; /* Add space around the cards */
+          background-color: #f0f0f0;
+    }
+      
+      .card {
+          background-color: #fff;
+          border: 2px solid #e0e0e0;
+          border-radius: 18px;
+          padding: 1rem;
+          text-align: center;
+          position: relative;
+          box-shadow: 0 2px 4px rgba(0,
+        0,
+        0,
+        0.1);
+          overflow: hidden;
+          transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+          transform-style: preserve-3d;
+          width: auto;
+    }
+      
+      .card:hover {
+          transform: translateY(-10px) rotateX(5deg) rotateY(5deg);
+          box-shadow: 0 8px 16px rgba(0,
+        0,
+        0,
+        0.2);
+    }
+      
+      .card:before {
+          top: 2px;
+          left: 2px;
+          right: 2px;
+          bottom: 5px;
+          background-color: rgba(0,
+        0,
+        0,
+        0.05); /* Semi-transparent background */
+          border-radius: 6px;
+          z-index: -1;
+          transform: translateZ(-1px);
+    }
+      
+      .card h3 {
+          color: #333;
+          margin: 0;
+          padding: 0;
+          font-size: 1.5rem; /* Increase the font size for the title */
+    }
+      
+      .card p {
+          color: #666;
+          font-size: 14px;
+          margin: 10px 0 0;
+    }
+      
+      .card img {
+          max-width: 100%;
+          height: auto;
+          margin-top: 10px;
+    }
+    /* Media query for responsiveness */
+      @media screen and (max-width: 768px) {
+          .cards {
+              flex-direction: column;
+              height: auto;
+        }
+    }
+      .popup {
+          position: fixed;
+          top: 3%;
+          left: 50%;
+          transform: translate(-50%,
+        -50%);
+          width: 100%;
+          background-color: #e0e0e0;
+          padding: 6px;
+          height: 200%;
+          box-shadow: 0px 0px 10px rgba(0,
+        0,
+        0,
+        0.2);
+          border-radius: 5px;
+          z-index: 1;
+          overflow: auto;
+          display: flex;
+          flex-direction: row;
+          align-items: center;
+    }
+      .buttonClass{
+      
+          position: relative;
+          display: flex;
+          flex-direction: row;
+          align-items: flex-start;
+          margin: 0 auto;
+          z-index: 2;
+          margin-top: 100px;
+    }
+      .popupInfo {
+          position: fixed;
+          top: 60%;
+          left: 30%;
+          transform: translate(-50%,
+        -50%);
+          width: 600px;
+          height: 300px;
+          background-color: #e0e0e0;
+          padding: 20px;
+          box-shadow: 0px 0px 10px rgba(0,
+        0,
+        0,
+        0.2);
+          border-radius: 5px;
+          z-index: 1;
+          transform-style: preserve-3d; /* Enable 3D transformations */
+          transform: perspective(1000px) rotateX(5deg) rotateY(40deg); /* Apply 3D rotation */
+          transition: transform 0.3s ease-in-out; /* Add smooth transition */
+    }
+      
+      .popupInfo:hover {
+          transform: perspective(1000px) rotateX(0deg) rotateY(0deg); /* Reset rotation on hover */
+    }
+      
+      .popupInfo h3 {
+          font-size: 24px;
+          color: #333;
+          margin: 0;
+          padding: 10px;
+    }
+      
+      .popupInfo h1 {
+          font-size: 32px;
+          color: #555;
+          margin: 0;
+          padding: 15px 0;
+    }
+      
+      .popupInfo p {
+          font-size: 11px;
+          color: #777;
+          margin: 0;
+          padding: 10px;
+    }
+      
+      
+      .container {
+          position: relative;
+          transform-style: preserve-3d;
+          z-index: 100;
+    }
+      
+      .text {
+          display: inline-block;
+          font-size: 2em;
+          color: #527e00;
+          animation: rotate 6s infinite linear;
+          border-radius: 10px solid gray;
+    }
+      
+      .text span {
+          display: inline-block;
+          transform-origin: center;
+          transform-style: preserve-3d;
+          animation: rotateX 6s alternate infinite ease-in-out;
+    }
+      
+      @keyframes rotate {
+        0% {
+              transform: rotateY(0deg);
+        }
+          100% {
+              transform: rotateY(360deg);
+        }
+    }
+      
+      @keyframes rotateX {
+        0% {
+              transform: rotateX(0deg) translateZ(0);
+        }
+          100% {
+              transform: rotateX(360deg) translateZ(0);
+        }
+    }",
+ pdData : {
+        "java": {
+            "introduction": {
+                "c_id": 1,
+                "name": "introduction",
+                "description": "Java is a general-purpose computer-programming language that is concurrent, class-based, object-oriented, and specifically designed to have as few implementation dependencies as possible.",
+                "url": "https://s3strapi-project.s3.ap-south-1.amazonaws.com/intro_d41b1951cf.jpg",
+                "logo": "java.png",
+                "module": [
+                    {
+                                title: "Introduction to Variables",
+                                type: "exercise",
+                                content: "Declare a variable 'x' and assign the value 10 to it.",
+                                solution: "let x = 10;",
+                    },
+                    {
+                                title: "Data Types Quiz",
+                                type: "assessment",
+                                content: "Which of the following is not a primitive data type in Java?",
+                                options: [
+                            "int",
+                            "String",
+                            "boolean",
+                            "array",
+                        ],
+                                correctOption: 3,
+                    },
+                    {
+                                title: "Printing Patterns",
+                                type: "exercise",
+                                content: "Write a program to print the following pattern:\n1\n1 2\n1 2 3",
+                                solution: "for (let i = 1; i <= 3; i++) {\n    let pattern = '';\n    for (let j = 1; j <= i; j++) {\n        pattern += j + ' ';\n    }\n    console.log(pattern);\n}",
+                    },
+                    {
+                                title: "Method Calling",
+                                type: "exercise",
+                                content: "Create a method 'add' that takes two integers as parameters and returns their sum.",
+                                solution: "function add(a, b) {\n    return a + b;\n}",
+                    },
+                    {
+                                title: "Conditional Statements",
+                                type: "exercise",
+                                content: "Write a program that checks if a number is even or odd.",
+                                solution: "function checkEvenOdd(number) {\n    if (number % 2 === 0) {\n        return 'Even';\n    } else {\n        return 'Odd';\n    }\n}",
+                    },
+                    {
+                                title: "Arrays and Loops",
+                                type: "exercise",
+                                content: "Create an array of numbers and write a program to find the sum of all elements.",
+                                solution: "const numbers = [1, 2, 3, 4, 5];\nlet sum = 0;\nfor (let i = 0; i < numbers.length; i++) {\n    sum += numbers[i];\n}\nconsole.log(sum);",
+                    },
+                    {
+                                title: "Object Creation",
+                                type: "exercise",
+                                content: "Create an object representing a person with properties 'name' and 'age'.",
+                                solution: "const person = {\n    name: 'John Doe',\n    age: 30,\n};",
+                    },
+                    {
+                                title: "Strings and Methods",
+                                type: "exercise",
+                                content: "Write a program to count the number of vowels in a given string.",
+                                solution: "function countVowels(str) {\n    const vowels = 'aeiouAEIOU';\n    let count = 0;\n    for (let char of str) {\n        if (vowels.includes(char)) {\n            count++;\n        }\n    }\n    return count;\n}",
+                    },
+                    {
+                                title: "Logical Operators",
+                                type: "assessment",
+                                content: "What is the result of the expression: true && (false || true) ?",
+                                options: [
+                            "true",
+                            "false",
+                        ],
+                                correctOption: 0,
+                    },
+                    {
+                                title: "Methods and Parameters",
+                                type: "exercise",
+                                content: "Create a method 'greet' that takes a name as a parameter and returns a greeting message.",
+                                solution: "function greet(name) {\n    return 'Hello, ' + name + '!';\n}",
+                    },
+                    {
+                                title: "Looping Patterns",
+                                type: "exercise",
+                                content: "Write a program to print the following pattern:\n*\n**\n***",
+                                solution: "for (let i = 1; i <= 3; i++) {\n    let pattern = '';\n    for (let j = 1; j <= i; j++) {\n        pattern += '*';\n    }\n    console.log(pattern);\n}",
+                    },
+                ]
+            },
+            "datatype": {
+                "c_id": 2,
+                "name": "datatype",
+                "description": "Java is a general-purpose computer-programming language that is concurrent, class-based, object-oriented, and specifically designed to have as few implementation dependencies as possible.",
+                "url": "https://s3strapi-project.s3.ap-south-1.amazonaws.com/intro_d41b1951cf.jpg",
+                "logo": "java.png",
+                "module": [
+                    // ... previous exercises and assessments
+                    {
+                    title: "String Manipulation",
+                    type: "exercise",
+                    content: "Given a string 'hello', write a program to reverse it and store the result in a new variable.",
+                    solution: "let originalStr = 'hello';\nlet reversedStr = originalStr.split('').reverse().join('');",
+                    },
+                    {
+                    title: "Array Basics",
+                    type: "exercise",
+                    content: "Create an array containing the numbers 1 to 5. Write a program to print each element of the array.",
+                    solution: "const numbers = [1, 2, 3, 4, 5];\nfor (let i = 0; i < numbers.length; i++) {\n    console.log(numbers[i]);\n}",
+                    },
+                    {
+                    title: "Conditional Statements",
+                    type: "exercise",
+                    content: "Write a program that determines if a given number is positive, negative, or zero.",
+                    solution: "function checkNumberType(number) {\n    if (number > 0) {\n        return 'Positive';\n    } else if (number < 0) {\n        return 'Negative';\n    } else {\n        return 'Zero';\n    }\n}",
+                    },
+                    {
+                    title: "Looping Patterns",
+                    type: "exercise",
+                    content: "Write a program to print the following pattern:\n123\n123\n123",
+                    solution: "for (let i = 1; i <= 3; i++) {\n    let pattern = '';\n    for (let j = 1; j <= 3; j++) {\n        pattern += j;\n    }\n    console.log(pattern);\n}",
+                    },
+                    {
+                    title: "Logical Operators",
+                    type: "assessment",
+                    content: "What is the result of the expression: (true && false) || (true && true) ?",
+                    options: [
+                            "true",
+                            "false",
+                        ],
+                    correctOption: 0,
+                    },
+                    {
+                    title: "Method Overloading",
+                    type: "exercise",
+                    content: "Create a method 'calculate' that can add two numbers or multiply three numbers based on the number of arguments.",
+                    solution: "function calculate(...args) {\n    if (args.length === 2) {\n        return args[0] + args[1];\n    } else if (args.length === 3) {\n        return args[0] * args[1] * args[2];\n    }\n}",
+                    },
+                    {
+                    title: "Data Type Conversion",
+                    type: "exercise",
+                    content: "Convert the string '42' to an integer and add 10 to it.",
+                    solution: "let strNumber = '42';\nlet intNumber = parseInt(strNumber);\nlet result = intNumber + 10;",
+                    },
+                    {
+                    title: "Arrays and Methods",
+                    type: "exercise",
+                    content: "Create a method 'findMax' that takes an array of numbers and returns the maximum value.",
+                    solution: "function findMax(numbers) {\n    let max = numbers[0];\n    for (let i = 1; i < numbers.length; i++) {\n        if (numbers[i] > max) {\n            max = numbers[i];\n        }\n    }\n    return max;\n}",
+                    },
+                    {
+                    title: "Object Properties",
+                    type: "exercise",
+                    content: "Create an object representing a car with properties 'brand', 'model', and 'year'.",
+                    solution: "const car = {\n    brand: 'Toyota',\n    model: 'Camry',\n    year: 2022,\n};",
+                    },
+                    {
+                    title: "Static Methods",
+                    type: "exercise",
+                    content: "Create a static method 'calculateArea' in a class 'Rectangle' that calculates the area of a rectangle given its width and height.",
+                    solution: "class Rectangle {\n    static calculateArea(width, height) {\n        return width * height;\n    }\n}\n\nconst area = Rectangle.calculateArea(5, 8);",
+                    },
+                    // ... more exercises and assessments
+                ]
+            },
+            "variable": {
+                "c_id": 3,
+                "name": "variable",
+                "description": "Java is a general-purpose computer-programming language that is concurrent, class-based, object-oriented, and specifically designed to have as few implementation dependencies as possible.",
+                "url": "https://s3strapi-project.s3.ap-south-1.amazonaws.com/intro_d41b1951cf.jpg",
+                "logo": "java.png",
+                "module": [
+                    {
+                            title: "Variable Declaration",
+                            type: "exercise",
+                            content: "Declare a variable 'age' and assign your age to it.",
+                            solution: "int age = 25;",
+                    },
+                    {
+                            title: "Variable Naming",
+                            type: "assessment",
+                            content: "Which of the following variable names is not valid?",
+                            options: [
+                            "myVariable",
+                            "123Number",
+                            "_variableName",
+                            "variable_Name",
+                        ],
+                            correctOption: 1,
+                    },
+                    {
+                            title: "Variable Types",
+                            type: "exercise",
+                            content: "Declare a variable 'name' and assign your name as a string to it.",
+                            solution: "String name = \"John\";",
+                    },
+                    {
+                            title: "Variable Initialization",
+                            type: "exercise",
+                            content: "Declare a variable 'price' and initialize it with the value 19.99.",
+                            solution: "double price = 19.99;",
+                    },
+                    {
+                            title: "Variable Scope",
+                            type: "assessment",
+                            content: "In Java, where is the scope of a local variable limited to?",
+                            options: [
+                            "Inside the method or block where it is declared.",
+                            "Throughout the entire class.",
+                            "Throughout the entire program.",
+                            "Outside of the class where it is declared.",
+                        ],
+                            correctOption: 0,
+                    },
+                    {
+                            title: "Constant Variables",
+                            type: "exercise",
+                            content: "Declare a constant variable 'PI' and assign the value 3.14159 to it.",
+                            solution: "final double PI = 3.14159;",
+                    },
+                    {
+                            title: "Variable Casting",
+                            type: "exercise",
+                            content: "Given a double variable 'temperature' with value 25.5, cast it to an int and assign it to 'roundedTemp'.",
+                            solution: "double temperature = 25.5;\nint roundedTemp = (int) temperature;",
+                    },
+                    {
+                            title: "Primitive vs. Reference",
+                            type: "assessment",
+                            content: "Which of the following is true about primitive and reference variables?",
+                            options: [
+                            "Primitive variables store the actual data, while reference variables store references to objects.",
+                            "Primitive variables are used for objects and classes, while reference variables are used for primitive data types.",
+                            "Primitive variables can only be used within the same method, while reference variables can be used throughout the class.",
+                            "Primitive variables are automatically initialized to their default values.",
+                        ],
+                            correctOption: 0,
+                    },
+                    {
+                            title: "Variable Initialization",
+                            type: "exercise",
+                            content: "Declare a variable 'isStudent' and initialize it with the value 'true'.",
+                            solution: "boolean isStudent = true;",
+                    },
+                    {
+                            title: "Variable Usage",
+                            type: "exercise",
+                            content: "Create a program that calculates the sum of two integers and stores it in a variable 'sum'. Print the result.",
+                            solution: "int num1 = 10;\nint num2 = 20;\nint sum = num1 + num2;\nSystem.out.println(\"Sum: \" + sum);",
+                    },
+                ]
+            },
+            "loop": {
+                "c_id": 3,
+                "name": "loop",
+                "description": "Java is a general-purpose computer-programming language that is concurrent, class-based, object-oriented, and specifically designed to have as few implementation dependencies as possible.",
+                "url": "https://s3strapi-project.s3.ap-south-1.amazonaws.com/intro_d41b1951cf.jpg",
+                "logo": "java.png",
+                "module": [
+                    {
+                            title: "Variable Declaration",
+                            type: "exercise",
+                            content: "Declare a variable 'age' and assign your age to it.",
+                            solution: "int age = 25;",
+                    },
+                    {
+                            title: "Variable Naming",
+                            type: "assessment",
+                            content: "Which of the following variable names is not valid?",
+                            options: [
+                            "myVariable",
+                            "123Number",
+                            "_variableName",
+                            "variable_Name",
+                        ],
+                            correctOption: 1,
+                    },
+                    {
+                            title: "Variable Types",
+                            type: "exercise",
+                            content: "Declare a variable 'name' and assign your name as a string to it.",
+                            solution: "String name = \"John\";",
+                    },
+                    {
+                            title: "Variable Initialization",
+                            type: "exercise",
+                            content: "Declare a variable 'price' and initialize it with the value 19.99.",
+                            solution: "double price = 19.99;",
+                    },
+                    {
+                            title: "Variable Scope",
+                            type: "assessment",
+                            content: "In Java, where is the scope of a local variable limited to?",
+                            options: [
+                            "Inside the method or block where it is declared.",
+                            "Throughout the entire class.",
+                            "Throughout the entire program.",
+                            "Outside of the class where it is declared.",
+                        ],
+                            correctOption: 0,
+                    },
+                    {
+                            title: "Constant Variables",
+                            type: "exercise",
+                            content: "Declare a constant variable 'PI' and assign the value 3.14159 to it.",
+                            solution: "final double PI = 3.14159;",
+                    },
+                    {
+                            title: "Variable Casting",
+                            type: "exercise",
+                            content: "Given a double variable 'temperature' with value 25.5, cast it to an int and assign it to 'roundedTemp'.",
+                            solution: "double temperature = 25.5;\nint roundedTemp = (int) temperature;",
+                    },
+                    {
+                            title: "Primitive vs. Reference",
+                            type: "assessment",
+                            content: "Which of the following is true about primitive and reference variables?",
+                            options: [
+                            "Primitive variables store the actual data, while reference variables store references to objects.",
+                            "Primitive variables are used for objects and classes, while reference variables are used for primitive data types.",
+                            "Primitive variables can only be used within the same method, while reference variables can be used throughout the class.",
+                            "Primitive variables are automatically initialized to their default values.",
+                        ],
+                            correctOption: 0,
+                    },
+                    {
+                            title: "Variable Initialization",
+                            type: "exercise",
+                            content: "Declare a variable 'isStudent' and initialize it with the value 'true'.",
+                            solution: "boolean isStudent = true;",
+                    },
+                    {
+                            title: "Variable Usage",
+                            type: "exercise",
+                            content: "Create a program that calculates the sum of two integers and stores it in a variable 'sum'. Print the result.",
+                            solution: "int num1 = 10;\nint num2 = 20;\nint sum = num1 + num2;\nSystem.out.println(\"Sum: \" + sum);",
+                    },
+                ]
+            },
+            "function": {
+                "c_id": 3,
+                "name": "function",
+                "description": "Java is a general-purpose computer-programming language that is concurrent, class-based, object-oriented, and specifically designed to have as few implementation dependencies as possible.",
+                "url": "https://s3strapi-project.s3.ap-south-1.amazonaws.com/intro_d41b1951cf.jpg",
+                "logo": "java.png",
+                "module": [
+                    {
+                            title: "Variable Declaration",
+                            type: "exercise",
+                            content: "Declare a variable 'age' and assign your age to it.",
+                            solution: "int age = 25;",
+                    },
+                    {
+                            title: "Variable Naming",
+                            type: "assessment",
+                            content: "Which of the following variable names is not valid?",
+                            options: [
+                            "myVariable",
+                            "123Number",
+                            "_variableName",
+                            "variable_Name",
+                        ],
+                            correctOption: 1,
+                    },
+                    {
+                            title: "Variable Types",
+                            type: "exercise",
+                            content: "Declare a variable 'name' and assign your name as a string to it.",
+                            solution: "String name = \"John\";",
+                    },
+                    {
+                            title: "Variable Initialization",
+                            type: "exercise",
+                            content: "Declare a variable 'price' and initialize it with the value 19.99.",
+                            solution: "double price = 19.99;",
+                    },
+                    {
+                            title: "Variable Scope",
+                            type: "assessment",
+                            content: "In Java, where is the scope of a local variable limited to?",
+                            options: [
+                            "Inside the method or block where it is declared.",
+                            "Throughout the entire class.",
+                            "Throughout the entire program.",
+                            "Outside of the class where it is declared.",
+                        ],
+                            correctOption: 0,
+                    },
+                    {
+                            title: "Constant Variables",
+                            type: "exercise",
+                            content: "Declare a constant variable 'PI' and assign the value 3.14159 to it.",
+                            solution: "final double PI = 3.14159;",
+                    },
+                    {
+                            title: "Variable Casting",
+                            type: "exercise",
+                            content: "Given a double variable 'temperature' with value 25.5, cast it to an int and assign it to 'roundedTemp'.",
+                            solution: "double temperature = 25.5;\nint roundedTemp = (int) temperature;",
+                    },
+                    {
+                            title: "Primitive vs. Reference",
+                            type: "assessment",
+                            content: "Which of the following is true about primitive and reference variables?",
+                            options: [
+                            "Primitive variables store the actual data, while reference variables store references to objects.",
+                            "Primitive variables are used for objects and classes, while reference variables are used for primitive data types.",
+                            "Primitive variables can only be used within the same method, while reference variables can be used throughout the class.",
+                            "Primitive variables are automatically initialized to their default values.",
+                        ],
+                            correctOption: 0,
+                    },
+                    {
+                            title: "Variable Initialization",
+                            type: "exercise",
+                            content: "Declare a variable 'isStudent' and initialize it with the value 'true'.",
+                            solution: "boolean isStudent = true;",
+                    },
+                    {
+                            title: "Variable Usage",
+                            type: "exercise",
+                            content: "Create a program that calculates the sum of two integers and stores it in a variable 'sum'. Print the result.",
+                            solution: "int num1 = 10;\nint num2 = 20;\nint sum = num1 + num2;\nSystem.out.println(\"Sum: \" + sum);",
+                    },
+                ]
+            }
+        }
+    }
+}
