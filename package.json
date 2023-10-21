@@ -37,6 +37,7 @@
     "crypto": "^1.0.1",
     "crypto-random-string": "^3.3.0",
     "csv-parser": "^3.0.0",
+    "cypress": "^13.3.2",
     "dateformat": "^4.5.1",
     "docxtemplater": "^3.31.5",
     "dotenv": "8.x.x",
