@@ -79,7 +79,7 @@
     "@hapi/code": "8.x.x",
     "@hapi/eslint-config-hapi": "13.x.x",
     "@hapi/eslint-plugin-hapi": "4.x.x",
-    "@hapi/lab": "^22.0.5",
+    "@hapi/lab": "22.x.x",
     "babel-eslint": "10.x.x",
     "chai": "^4.3.7",
     "chai-http": "^4.3.0",
