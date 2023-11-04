@@ -1,5 +1,5 @@
 const Glue = require('@hapi/glue');
-const sdk = require('matrix-bot-sdk');
+// const sdk = require('matrix-bot-sdk');
 /* eslint-disable */
 const cron = require('node-cron');
 const Manifest = require('./manifest');
@@ -17,7 +17,7 @@ const { UTCToISTConverter } = require('../lib/helpers/index');
 /* eslint-disable */
 
 // disable matrix logs
-sdk.LogService.setLevel(sdk.LogLevel.WARN);
+// sdk.LogService.setLevel(sdk.LogLevel.WARN);
 
 const CONFIG = require('../lib/config/index');
 const {
@@ -39,16 +39,22 @@ exports.deployment = async (start) => {
     );
   });
 
-  const { MatrixClient, AutojoinRoomsMixin, SimpleFsStorageProvider } = sdk;
-  const homeserverUrl = 'https://m.navgurukul.org';
-  const { accessToken } = CONFIG.auth.chat;
-  const storage = new SimpleFsStorageProvider('bot.json');
-  const client = new MatrixClient(homeserverUrl, accessToken, storage);
-  AutojoinRoomsMixin.setupOnClient(client);
+  // const { MatrixClient, AutojoinRoomsMixin, SimpleFsStorageProvider } = sdk;
+  // const homeserverUrl = 'https://m.navgurukul.org';
+  // const { accessToken } = CONFIG.auth.chat;
+  // const storage = new SimpleFsStorageProvider('bot.json');
+  // const client = new MatrixClient(homeserverUrl, accessToken, storage);
+  // AutojoinRoomsMixin.setupOnClient(client);
 
   // Set the matrix client before initializing the server
-  server.app.chatClient = client;
+  // server.app.chatClient = client;
 
+  // const cache = server.cache({
+  // 	cache: 'my_cache',
+  // 	segment: CONFIG.redis,
+  // 	expiresIn: 24 * 60 * 60 * 1000,
+  // });
+  // server.app.cache = cache;
   await server.initialize();
 
   if (!start) {
@@ -58,10 +64,10 @@ exports.deployment = async (start) => {
   await server.start();
 
   /* Scheduler */
-  cron.schedule('0 * * * * *', async () => {
-    classReminderScheduler(classesService, chatService, displayService);
-    classFeedbackScheduler(classesService, chatService, displayService);
-  });
+  // cron.schedule('0 * * * * *', async () => {
+  // classReminderScheduler(classesService, chatService, displayService);
+  // classFeedbackScheduler(classesService, chatService, displayService);
+  // });
 
   // cron.schedule('0 * * * * *', async () => {
   //   console.log('*********************************************');
@@ -75,7 +81,7 @@ exports.deployment = async (start) => {
 
   // eslint-disable-next-line no-console
   logger.info(`Server started at ${server.info.uri}`);
-  server.chatClient = client;
+  // server.chatClient = client;
 
   // eslint-disable-next-line
   const {
@@ -86,7 +92,7 @@ exports.deployment = async (start) => {
     partnerService,
     calendarService,
     coursesServiceV2,
-    userRoleService
+    userRoleService,
   } = server.services();
 
   cron.schedule('0 00 08 * * *', async () => {
@@ -139,13 +145,13 @@ exports.deployment = async (start) => {
     }
   });
 
-  await coursesServiceV2.StoreTranslatedContent()
+  await coursesServiceV2.StoreTranslatedContent();
 
-  client.start().then(() => {
-    // eslint-disable-next-line
-    logger.info('Client started!');
-  });
-  client.on('room.message', chatService.handleCommand.bind(this));
+  // client.start().then(() => {
+  //   // eslint-disable-next-line
+  // logger.info('Client started!');
+  // });
+  // client.on('room.message', chatService.handleCommand.bind(this));
 
   return server;
 };
