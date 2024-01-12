@@ -62,6 +62,7 @@
     "nodejs-base64": "^2.0.0",
     "objection": "^2.2.1",
     "objection-db-errors": "^1.1.2",
+    "openai": "^4.24.1",
     "pg": "^8.3.0",
     "pizzip": "^3.1.4",
     "random-animal-name-generator": "^0.1.1",
