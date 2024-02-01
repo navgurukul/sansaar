@@ -3,168 +3,196 @@
     "subTitle": "Class 1 - Introduction to Computers, Programming and Python",
     "description": "What are computers and what do they do? What is programming? Instances of programming in daily life. Basic definitions.Continue with basic definitions. Why Python? Explore the interface of Python. How to use indentation and comments in the Meraki app.",
     "exerciseId": 1212,
-    "courseId": 87
+    "courseId": 87,
+    "slug_id": 1212
   },
   {
     "subTitle": "Class 2 - Variables Part-1",
     "description": "What are variables and why are they important. How to name a variable. How to assign values to variables. Practice questions",
     "exerciseId": 1257,
-    "courseId": 89
+    "courseId": 89,
+    "slug_id": 1257
   },
   {
     "subTitle": "Class 3 - Data types Part-1",
     "description": "Which all data types are their? Numeric data types-Integer, float, complex. Practice questions",
     "exerciseId": 436,
-    "courseId": 17
+    "courseId": 17,
+    "slug_id": 436
   },
   {
     "subTitle": "Class 4 - Data types Part-2",
     "description": "String and Boolean data types. Data type conversion. Practice questions",
     "exerciseId": 433,
-    "courseId": 17
+    "courseId": 17,
+    "slug_id": 433
   },
   {
     "subTitle": "Class 5 - Variables Part-2",
     "description": "How can variables change values. How to check the data type of a variable. How to swap variables ?",
     "exerciseId": 440,
-    "courseId": 17
+    "courseId": 17,
+    "slug_id": 440
   },
   {
     "subTitle": "Class 6 - Input",
     "description": "How to input a value from the user. How to set data type for inputted value. How to convert inputted value into other data types",
     "exerciseId": 442,
-    "courseId": 17
+    "courseId": 17,
+    "slug_id": 442
   },
   {
     "subTitle": "Class 7 - Operators Part-1",
     "description": "What are Operators? What are the different types of Operators in Python? In depth explanation of Arithmetic Operators, with examples. Practice Questions and Quizzes",
     "exerciseId": 298,
-    "courseId": 8
+    "courseId": 8,
+    "slug_id": 298
   },
   {
     "subTitle": "Class 8 - Operators Part-2",
     "description": "What are Assignment Operators, Comparison Operators and Logical Operators? Membership operators. Share lots of examples, Practice Questions and Quizzes",
     "exerciseId": 299,
-    "courseId": 8
+    "courseId": 8,
+    "slug_id": 299
   },
   {
     "subTitle": "Class 9 - Operators Part-3",
     "description": "Lots of practice question on operators. How different data types behave with operators",
     "exerciseId": 301,
-    "courseId": 8
+    "courseId": 8,
+    "slug_id": 301
   },
   {
     "subTitle": "Class 10 - If-else Part-1",
     "description": "Why do we use conditions? What is a condition? How to use If-Else? What are flowcharts and how should we prepare them? How should we write an If-Else code?",
     "exerciseId": 318,
-    "courseId": 10
+    "courseId": 10,
+    "slug_id": 318
   },
   {
     "subTitle": "Class 11 - If-else Part-2",
     "description": "Introduction and examples of If-Elif. If-Else with 'and' and 'or'. Dry run code for revision. Practice Questions and Quizzes",
     "exerciseId": 319,
-    "courseId": 10
+    "courseId": 10,
+    "slug_id": 319
   },
   {
     "subTitle": "Class 12 - If-else Part-3",
     "description": "Nested If-Else. Practice Questions and Quizzes",
     "exerciseId": 325,
-    "courseId": 10
+    "courseId": 10,
+    "slug_id": 325
   },
   {
     "subTitle": "Class 13 - If-else Part-4",
     "description": "Revision and Practice Questions on If-Else Condition",
     "exerciseId": 335,
-    "courseId": 10
+    "courseId": 10,
+    "slug_id": 335
   },
   {
     "subTitle": "Class 14 - Loops Part-1",
     "description": "What are Loops? What are the Advantages of using Loops? What is Counter? Examples of Counters. Different types of loops in Python - While loop. Practice Questions and Quizzes",
     "exerciseId": 344,
-    "courseId": 11
+    "courseId": 11,
+    "slug_id": 344
   },
   {
     "subTitle": "Class-15 - Loops Part-2",
     "description": "Loop control statements such as continue, break, pass. Nested while loops. Share live examples and Practice Questions.",
     "exerciseId": 350,
-    "courseId": 11
+    "courseId": 11,
+    "slug_id": 350
   },
   {
     "subTitle": "Class-16 - Loops Part-3",
     "description": "Basics of For Loops. For Loop using Sequence (String) and using Range(). Practice Questions and Quizzes. When to use if loop and when to use while loop",
     "exerciseId": 352,
-    "courseId": 11
+    "courseId": 11,
+    "slug_id": 352
   },
   {
     "subTitle": "Class-17 - Loops Part-4",
     "description": "Nested loops, how to create a loop with unknown number of iterations",
     "exerciseId": 361,
-    "courseId": 11
+    "courseId": 11,
+    "slug_id": 361
   },
   {
     "subTitle": "Class-18 - Loops Part-5",
     "description": "Cover all types of examples. Share live examples.",
     "exerciseId": 364,
-    "courseId": 11
+    "courseId": 11,
+    "slug_id": 364
   },
   {
     "subTitle": "Class-19 - Revision Class",
     "description": "From Variables to Loops",
     "exerciseId": 373,
-    "courseId": 11
+    "courseId": 11,
+    "slug_id": 373
   },
   {
     "subTitle": "Class-20 - List Part-1",
     "description": "What is List? Characteristics of list. Defining list - list of strings - list of integer - list of float - mixed list. Practice Questions and Quizzes. Introduce Index and reverse index",
     "exerciseId": 1222,
-    "courseId": 88
+    "courseId": 88,
+    "slug_id": 1222
   },
   {
     "subTitle": "Class-21 - List Part-2",
     "description": "Continue teaching index. List operations: Length. Membership. Work with loop(Live examples). Practice Questions and Quizzes. How to slice a list. ",
     "exerciseId": 1225,
-    "courseId": 88
+    "courseId": 88,
+    "slug_id": 1225
   },
   {
     "subTitle": "Class-22 - List Part-3",
     "description": "Python built-in methods with exampes - append(), clear(), count(), Index(), insert(), pop(), remove(), reverse() , sort(), min(), max(). Practice Questions and Quizzes.",
     "exerciseId": 1226,
-    "courseId": 88
+    "courseId": 88,
+    "slug_id": 1226
   },
   {
     "subTitle": "Class-23 - List Part-4",
     "description": "Nested List. More examples on list. Practice Questions and Quizzes.",
     "exerciseId": 1237,
-    "courseId": 88
+    "courseId": 88,
+    "slug_id": 1237
   },
   {
     "subTitle": "Class-24 - Dictionary Part-1",
     "description": "Introduction to dictionary. Accessing Elements from a Dictionary. Adding Elements to a Dictionary. Upading a Dictionary. Practice Questions and Quizzes.",
     "exerciseId": 1176,
-    "courseId": 86
+    "courseId": 86,
+    "slug_id": 1176
   },
   {
     "subTitle": "Class-25 - Dictionary Part-2",
     "description": "Removing element from a Dictionary. Iterating Dictionary. Iterate through all keys and values. More Exmaples on Dictionary.Built-in functions in Dictionary - get (), update(), clear(), copy(), delete(). Built in methods in Dictionary.",
     "exerciseId": 1180,
-    "courseId": 86
+    "courseId": 86,
+    "slug_id": 1180
   },
   {
     "subTitle": "Class-26 - Function Part-1",
     "description": "What is function?  How to call the function ?What are arguments? How to create a function",
     "exerciseId": 489,
-    "courseId": 21
+    "courseId": 21,
+    "slug_id": 489
   },
   {
     "subTitle": "Class-27 - Function Part-2",
     "description": "Continue on how to create a function, practice questions",
     "exerciseId": 490,
-    "courseId": 21
+    "courseId": 21,
+    "slug_id": 490
   },
   {
     "subTitle": "Class-28 - Revision Class 2",
     "description": "From List to functions",
     "exerciseId": 499,
-    "courseId": 21
+    "courseId": 21,
+    "slug_id": 499
   }
 ]
