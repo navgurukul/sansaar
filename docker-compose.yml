@@ -1,0 +1,49 @@
+version: "3.7"
+services:
+  redis:
+    image: redis:6.2-alpine
+    restart: always
+    ports:
+      - '6379:6379'
+    command: redis-server --save 20 1 --loglevel warning 
+    volumes: 
+      - cache:/data
+  db:  
+    image: postgres:14.1-alpine
+    environment:
+      POSTGRES_DB: main
+      POSTGRES_USER: saral
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_INITDB_ARGS: --auth-host=scram-sha-256
+    ports:
+      - '5432:5432'
+    volumes: 
+      - db:/var/lib/postgresql/data 
+      - ./db/init.sql:/docker-entrypoint-initdb.d/create_tables.sql
+  sansaar:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image : sansaar
+    container_name: nodejs
+    depends_on:
+    - db
+    - redis
+    ports:
+      - "5000:5000"
+    environment:
+      DB_HOST: db
+      DB_PORT: 5432
+      DB_USER: saral
+      DB_PASS: postgres
+      DB_NAME: main
+      REDIS_HOST: redis
+      REDIS_PORT: 6379
+    links:
+      - db
+      - redis 
+volumes:
+  db:
+    driver: local
+  cache:
+    driver: local
