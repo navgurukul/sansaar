@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "@google-cloud/translate": "^6.2.2",
+    "@hapi/catbox-redis":"6.0.2",
     "@hapi/boom": "9.x.x",
     "@hapi/bounce": "^2.0.0",
     "@hapi/glue": "^7.0.0",
