@@ -117,3 +117,6 @@ assessment/
 
 #bot.json
 bot.json
+
+#docker
+docker-compose.yml
