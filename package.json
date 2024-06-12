@@ -36,7 +36,6 @@
     "confidence": "4.x.x",
     "config": "^3.3.6",
     "crypto": "^1.0.1",
-    "crypto-js": "^4.2.0",
     "crypto-random-string": "^3.3.0",
     "csv-parser": "^3.0.0",
     "csv-writer": "^1.6.0",
