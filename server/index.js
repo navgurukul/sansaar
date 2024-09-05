@@ -10,6 +10,8 @@ const knex = require('knex')(knexfile);
 // const config = require('config');
 const logger = require('./logger');
 const { UTCToISTConverter } = require('../lib/helpers/index');
+const path = require('path')
+const fs = require('fs')
 
 // const bolKnexfile = require('./knex');
 // const bolKnex = require('knex')({ client: 'pg' })(bolKnexfile);
@@ -250,3 +252,30 @@ if (!module.parent) {
     throw err;
   });
 }
+
+// Schedule to clean logs.gz files every day at 2:40 AM
+cron.schedule('40 2 * * *', () => { 
+  const directory = path.join(__dirname, '..', 'logs');
+  fs.readdir(directory, (err, files) => {
+    if (err) {
+      return {
+        massage: err.message
+      }
+    }
+
+    files.forEach(file => {
+      if (path.extname(file) === '.gz') {
+        const filePath = path.join(directory, file);
+
+        fs.unlink(filePath, err => {
+          if (err) {
+            logger.error(`Error deleting file ${file}:`, err.message);
+          } else {
+            logger.info("file is deleted successfully")
+          }
+        });
+      }
+    });
+  });
+});
+
