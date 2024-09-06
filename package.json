@@ -35,7 +35,6 @@
     "cheerio": "^1.0.0-rc.12",
     "confidence": "^5.0.1",
     "config": "^3.3.11",
-    "crypto": "^1.0.1",
     "crypto-random-string": "^3.3.0",
     "csv-parser": "^3.0.0",
     "csv-writer": "^1.6.0",

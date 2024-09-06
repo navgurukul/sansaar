@@ -1,0 +1,10 @@
+services:
+  dev-sansaar:
+    build:
+      dockerfile: Dev-DockerFile
+      context: .
+    image : dev-sansaar
+    container_name: dev-sansaar-container
+    ports:
+      - "6112:6112"
+   

@@ -33,8 +33,7 @@ exports.deployment = async (start) => {
   // Printing a request log
   server.events.on('response', (request) => {
     request.log(
-      `${request.info.remoteAddress}: ${request.method.toUpperCase()} ${request.path} --> ${
-        request.response.statusCode
+      `${request.info.remoteAddress}: ${request.method.toUpperCase()} ${request.path} --> ${request.response.statusCode
       }`
     );
   });
@@ -93,6 +92,8 @@ exports.deployment = async (start) => {
     calendarService,
     coursesServiceV2,
     userRoleService,
+    teacherService,
+    pathwayServiceV2,
   } = server.services();
 
   cron.schedule('0 00 08 * * *', async () => {
@@ -144,6 +145,92 @@ exports.deployment = async (start) => {
       }
     }
   });
+
+  // Update the csv file with the teachers details who logged in last week
+  cron.schedule('10 2 * * *', async () => {
+    try {
+      const [err, teachers] = await teacherService.getLastWeekLoggedInTeachers();
+      if (err) {
+        console.error('Error fetching last week logged in teachers:', err);
+      }
+      else if (teachers.length > 0) {
+        let pathway_id = 10;
+        const [
+          errpathwayIDBy,
+          pathwayCourses,
+          total_assessmentIds,
+        ] = await pathwayServiceV2.pathwayIDBycoursesExercisesAssessmentsIdsNew(pathway_id);
+
+        const outcomes = [];
+        for (let user of teachers) {
+          const [err, DataLoader] = await teacherService.DataLoaderSheetOBJNew(
+            user,
+            pathwayCourses,
+            total_assessmentIds,
+          );
+          outcomes.push(DataLoader);
+        }
+        if (errpathwayIDBy) {
+          console.error('Error fetching pathway details:', errpathwayIDBy);
+        }
+        await teacherService.insertNewUsersIntoCSV(outcomes);
+        logger.info('Teachers data updated successfully in the csv file.');
+        return 'teachers data updated successfully in the csv file.';
+      }
+      else {
+        logger.info('There have been no users who logged in since last week');
+        return 'There have been no users who logged in since last week';
+      }
+    } catch (error) {
+      console.error('Unexpected error:', error);
+    }
+  });
+
+  // update the teacher details in the csv file
+  cron.schedule('20 2 * * *', async () => {
+    try {
+      let page;
+      let limit;
+      let pathway_id = 10;
+      const [
+        errTotalUsersID,
+        usersData,
+      ] = await teacherService.TeacherCapacityBuildingTotalUsersIDNew(page, limit);
+
+      if (errTotalUsersID) {
+        logger.error(JSON.stringify(errTotalUsersID));
+        return errTotalUsersID;
+      }
+
+      const [
+        errpathwayIDBy,
+        pathwayCourses,
+        total_assessmentIds,
+      ] = await pathwayServiceV2.pathwayIDBycoursesExercisesAssessmentsIdsNew(
+        pathway_id
+      );
+
+      const outcomes = [];
+      for (let user of usersData.results) {
+        const [err, DataLoader] = await teacherService.DataLoaderSheetOBJNew(
+          user,
+          pathwayCourses,
+          total_assessmentIds,
+        );
+        outcomes.push(DataLoader);
+      }
+      if (errpathwayIDBy) {
+        return errpathwayIDBy;
+      }
+      await teacherService.insertIntoCSV(outcomes);
+      logger.info('Teachers data updated successfully in the csv file.');
+      return 'Teachers data updated successfully in the csv file.';
+
+    } catch (error) {
+      console.error('Unexpected error:', error);
+    }
+  });
+
 
   await coursesServiceV2.StoreTranslatedContent();
 
