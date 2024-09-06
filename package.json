@@ -65,7 +65,7 @@
     "objection-db-errors": "^1.1.2",
     "openai": "^4.38.3",
     "parse5": "^7.1.2",
-    "pg": "^8.11.5",
+    "pg": "^8.3.0",
     "pizzip": "^3.1.7",
     "random-animal-name-generator": "^0.1.1",
     "redis": "^4.6.13",
