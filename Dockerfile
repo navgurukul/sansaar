@@ -1,6 +1,8 @@
+ARG NODE_VERSION=14.21.3
+
 ################################################################################
 # Use node image for base image for all stages.
-FROM node:14.21.3
+FROM node:${NODE_VERSION} as base
 
 # Set the working directory in the container
 WORKDIR /app
@@ -10,7 +12,7 @@ COPY package*.json ./
 
 # Install dependencies
 RUN npm install
-
+RUN npm install -g nodemon
 # Copy the rest of the application code to the container
 COPY . .
 
