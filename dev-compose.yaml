@@ -1,0 +1,13 @@
+version: '3.7'
+services:
+  dev-sansaar:
+    build:
+      context: .
+      dockerfile: Dev-DockerFile
+    image : dev-sansaar
+    container_name: dev-sansaar-container
+    env_file:
+      - ./server/.env
+
+    network_mode: host
+   
