@@ -6,9 +6,6 @@ services:
       dockerfile: Dev-DockerFile
     image : dev-sansaar
     container_name: dev-sansaar-container
-    ports:
-      - "6112:6112"
-
     env_file:
       - ./server/.env
 

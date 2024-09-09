@@ -1,9 +1,12 @@
+version: '3.7'
 services:
   sansaar:
     build:
       dockerfile: Dockerfile
       context: .
     image : sansaar-prod
-    container_name: sansaar-prod-container
-    ports:
-      - "6111:6111" 
+    container_name: sansaar-prod-container 
+    env_file:
+      - ./server/.env
+
+    network_mode: host
