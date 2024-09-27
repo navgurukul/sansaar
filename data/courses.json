@@ -1,0 +1,10 @@
+{
+    "principalAndClericalStaff": {
+      "mandatory_course": ["Scratch Jr"],
+      "optional_course": ["Google From", "MS word" ,"MS Excel"]
+    },
+    "teacherAndOthers": {
+      "mandatory_course": ["Scratch Jr","Google From", "MS word" ,"MS Excel"],
+      "optional_course": []
+    }
+  }
