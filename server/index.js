@@ -154,7 +154,7 @@ exports.deployment = async (start) => {
         console.error('Error fetching last week logged in teachers:', err);
       }
       else if (teachers.length > 0) {
-        let pathway_id = 10;
+        let pathway_id = 17;
         const [
           errpathwayIDBy,
           pathwayCourses,
@@ -191,7 +191,7 @@ exports.deployment = async (start) => {
     try {
       let page;
       let limit;
-      let pathway_id = 10;
+      let pathway_id = 17;
       const [
         errTotalUsersID,
         usersData,
