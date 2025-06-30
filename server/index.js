@@ -163,7 +163,7 @@ exports.deployment = async (start) => {
 
         const outcomes = [];
         for (let user of teachers) {
-          const [err, DataLoader] = await teacherService.DataLoaderSheetOBJNew(
+          const [DataLoader] = await teacherService.DataLoaderSheetOBJNew(
             user,
             pathwayCourses,
             total_assessmentIds,
@@ -212,7 +212,7 @@ exports.deployment = async (start) => {
 
       const outcomes = [];
       for (let user of usersData.results) {
-        const [err, DataLoader] = await teacherService.DataLoaderSheetOBJNew(
+        const [DataLoader] = await teacherService.DataLoaderSheetOBJNew(
           user,
           pathwayCourses,
           total_assessmentIds,
