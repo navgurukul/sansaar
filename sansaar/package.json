@@ -1,0 +1,23 @@
+{
+  "name": "sansaar",
+  "version": "1.0.0",
+  "description": "A project for managing user-related operations and APIs.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "hapi": "^20.0.0",
+    "joi": "^17.0.0",
+    "lodash": "^4.17.21",
+    "jsonwebtoken": "^8.5.1",
+    "pg": "^8.7.1" // Assuming PostgreSQL is used for the database
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "nodemon": "^2.0.15"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
