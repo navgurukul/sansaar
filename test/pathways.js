@@ -121,7 +121,6 @@ describe(`/pathways, || GET and POST API'S test !!`, () => {
       .request(url)
       .get('/pathways/courses?courseType=json')
       .set({ 'version-code': 52})
-      console.log(res,"archana")
 
       performance.mark(`end-${i}`);
       performance.measure(`loadingTime-${i}`, `start-${i}`, `end-${i}`);
