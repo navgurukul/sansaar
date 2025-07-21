@@ -212,11 +212,15 @@ exports.deployment = async (start) => {
 
       const outcomes = [];
       for (let user of usersData.results) {
-        const [DataLoader] = await teacherService.DataLoaderSheetOBJNew(
+        const [err, DataLoader] = await teacherService.DataLoaderSheetOBJNew(
           user,
           pathwayCourses,
           total_assessmentIds,
         );
+        if (err) {
+          logger.error(`Error fetching DataLoader for user ${user.id}: ${JSON.stringify(err)}`);
+          continue;
+        }
         outcomes.push(DataLoader);
       }
       if (errpathwayIDBy) {
