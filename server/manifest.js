@@ -42,6 +42,7 @@ module.exports = new Confidence.Store({
     routes: {
       cors: {
         origin: ['*'],
+        credentials: true,
         additionalHeaders: [
           'cache-control',
           'x-requested-with',
@@ -56,6 +57,8 @@ module.exports = new Confidence.Store({
           'role',
         ],
         headers: ['Accept', 'Authorization', 'Content-Type', 'If-None-Match', 'Accept-language'],
+        exposedHeaders: ['content-type', 'content-length'],
+        maxAge: 600,
       },
       timeout: {
         socket: 11 * 60 * 1000, // Determines how long before closing request socket.
