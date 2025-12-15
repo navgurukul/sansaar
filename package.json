@@ -13,7 +13,8 @@
     "start": "nodemon --watch lib --watch server server",
     "test": "mocha || true",
     "lint": "eslint lib server",
-    "lint:fix": "eslint lib server --fix"
+    "lint:fix": "eslint lib server --fix",
+    "postinstall": "patch-package"
   },
   "dependencies": {
     "@google-cloud/translate": "^6.2.2",
@@ -56,7 +57,7 @@
     "knex": "^0.21.2",
     "libreoffice-convert": "^1.4.1",
     "lodash": "^4.17.20",
-    "marked": ">=2.0.0",
+    "marked": "^4.3.0",
     "node-cron": "^2.0.3",
     "node-global-storage": "^1.2.3",
     "nodejs-base64": "^2.0.0",
@@ -94,6 +95,7 @@
     "hpal-debug": "1.x.x",
     "mocha": "^10.2.0",
     "nodemon": "^2.0.4",
+    "patch-package": "^8.0.1",
     "pathfinder-ui": "^1.0.3",
     "prettier": "^2.0.5",
     "prettier-eslint": "^11.0.0"

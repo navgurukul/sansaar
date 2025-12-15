@@ -32,9 +32,9 @@ exports.deployment = async (start) => {
 
   // Printing a request log
   server.events.on('response', (request) => {
+    const statusCode = request.response ? request.response.statusCode : 'N/A';
     request.log(
-      `${request.info.remoteAddress}: ${request.method.toUpperCase()} ${request.path} --> ${request.response.statusCode
-      }`
+      `${request.info.remoteAddress}: ${request.method.toUpperCase()} ${request.path} --> ${statusCode}`
     );
   });
 

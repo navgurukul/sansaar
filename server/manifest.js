@@ -9,7 +9,7 @@ Dotenv.config({ path: `${__dirname}/.env` });
 // Glue manifest as a confidence store
 module.exports = new Confidence.Store({
   server: {
-    host: 'localhost',
+    host: '0.0.0.0', // Bind to all interfaces for Docker compatibility
     port: {
       $env: 'PORT',
       $coerce: 'number',
@@ -119,6 +119,10 @@ module.exports = new Confidence.Store({
                 },
                 password: {
                   $env: 'DB_PASS',
+                },
+                ssl: process.env.DB_SSL_ENABLED === 'false' ? false : {
+                  rejectUnauthorized: process.env.DB_SSL_REJECT_UNAUTHORIZED === 'true',
+                  // For AWS RDS: set rejectUnauthorized to false or provide CA cert
                 },
                 requestTimeout: 90000,
                 connectionTimeout: 30000,
