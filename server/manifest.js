@@ -87,6 +87,9 @@ module.exports = new Confidence.Store({
   register: {
     plugins: [
       {
+        plugin: './plugins/cors-preflight', // Handle CORS preflight OPTIONS requests
+      },
+      {
         plugin: '../lib', // Main plugin
       },
       {
