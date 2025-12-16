@@ -1,8 +1,8 @@
-ARG NODE_VERSION=16.20.2
+ARG NODE_VERSION=14.21.3
 
 ################################################################################
 # Use node image for base image for all stages.
-FROM node:${NODE_VERSION}-alpine as base
+FROM node:${NODE_VERSION} as base
 
 # Set the working directory in the container
 WORKDIR /app
@@ -10,18 +10,14 @@ WORKDIR /app
 # Copy package.json and package-lock.json to the container
 COPY package*.json ./
 
-# Copy patches directory for patch-package
-COPY patches ./patches
-
-# Install all dependencies (including dev dependencies for development)
+# Install dependencies
 RUN npm install
-
+RUN npm install -g nodemon
 # Copy the rest of the application code to the container
 COPY . .
 
-# Note: Port is read from .env file at runtime
-# Default EXPOSE for documentation (actual port comes from .env)
+# Expose the port the app runs on
 EXPOSE 6112
 
-# Command to run the application with nodemon for hot reload
+# Command to run the application
 CMD ["npm", "start"]
