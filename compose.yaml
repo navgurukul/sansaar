@@ -1,0 +1,21 @@
+services:
+  sansaar:
+    build:
+      dockerfile: Dockerfile
+      context: .
+    image: sansaar-prod
+    container_name: sansaar-prod-container 
+    env_file:
+      - ./server/.env
+    ports:
+      - "6111:6111"
+    restart: unless-stopped
+    environment:
+      - NODE_ENV=production
+    # Note: Health check uses PORT from .env file (defaults to 6111 if not set)
+    healthcheck:
+      test: ["CMD", "sh", "-c", "wget --quiet --tries=1 --spider http://localhost:$${PORT:-6111}/health || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s

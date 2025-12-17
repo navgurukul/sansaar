@@ -9,7 +9,7 @@ Dotenv.config({ path: `${__dirname}/.env` });
 // Glue manifest as a confidence store
 module.exports = new Confidence.Store({
   server: {
-    host: 'localhost',
+    host: '0.0.0.0', // Bind to all interfaces for Docker compatibility
     port: {
       $env: 'PORT',
       $coerce: 'number',
@@ -41,7 +41,10 @@ module.exports = new Confidence.Store({
     },
     routes: {
       cors: {
+        // Allow ALL origins - using ['*'] and 'ignore' mode for credentials
+        // This allows any origin to access the API
         origin: ['*'],
+        credentials: false,  // Must be false when using origin: ['*']
         additionalHeaders: [
           'cache-control',
           'x-requested-with',
@@ -56,6 +59,8 @@ module.exports = new Confidence.Store({
           'role',
         ],
         headers: ['Accept', 'Authorization', 'Content-Type', 'If-None-Match', 'Accept-language'],
+        exposedHeaders: ['content-type', 'content-length', 'authorization'],
+        maxAge: 86400, // 24 hours
       },
       timeout: {
         socket: 11 * 60 * 1000, // Determines how long before closing request socket.
@@ -119,6 +124,10 @@ module.exports = new Confidence.Store({
                 },
                 password: {
                   $env: 'DB_PASS',
+                },
+                ssl: process.env.DB_SSL_ENABLED === 'false' ? false : {
+                  rejectUnauthorized: process.env.DB_SSL_REJECT_UNAUTHORIZED === 'true',
+                  // For AWS RDS: set rejectUnauthorized to false or provide CA cert
                 },
                 requestTimeout: 90000,
                 connectionTimeout: 30000,

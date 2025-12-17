@@ -1,0 +1,28 @@
+services:
+  dev-sansaar:
+    build:
+      context: .
+      dockerfile: Dev-DockerFile
+    image: dev-sansaar
+    container_name: dev-sansaar-container
+    env_file:
+      - ./server/.env
+    ports:
+      - "6112:6112"
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    dns:
+      - 8.8.8.8
+      - 8.8.4.4
+    volumes:
+      # Mount source code for hot reload
+      - ./lib:/app/lib
+      - ./server:/app/server
+      - ./config:/app/config
+      # Prevent overwriting node_modules
+      - /app/node_modules
+    restart: on-failure
+    environment:
+      - NODE_ENV=development
+    stdin_open: true
+    tty: true
