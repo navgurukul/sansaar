@@ -41,19 +41,10 @@ module.exports = new Confidence.Store({
     },
     routes: {
       cors: {
-        // When credentials is true, origin cannot be '*' - must specify actual domains
-        // Allow all origins from ALLOWED_ORIGINS env var, or use defaults
-        origin: process.env.ALLOWED_ORIGINS
-          ? process.env.ALLOWED_ORIGINS.split(',').map(o => o.trim())
-          : [
-            'https://www.merd-bhanwaridevi.merakilearn.org',
-            'https://merd-bhanwaridevi.merakilearn.org',
-            'https://www.merakilearn.org',
-            'https://merakilearn.org',
-            'http://localhost:3000',
-            'http://localhost:8080',
-          ],
-        credentials: true,
+        // Allow ALL origins - using ['*'] and 'ignore' mode for credentials
+        // This allows any origin to access the API
+        origin: ['*'],
+        credentials: false,  // Must be false when using origin: ['*']
         additionalHeaders: [
           'cache-control',
           'x-requested-with',
@@ -68,7 +59,7 @@ module.exports = new Confidence.Store({
           'role',
         ],
         headers: ['Accept', 'Authorization', 'Content-Type', 'If-None-Match', 'Accept-language'],
-        exposedHeaders: ['content-type', 'content-length'],
+        exposedHeaders: ['content-type', 'content-length', 'authorization'],
         maxAge: 86400, // 24 hours
       },
       timeout: {
