@@ -43,16 +43,16 @@ module.exports = new Confidence.Store({
       cors: {
         // When credentials is true, origin cannot be '*' - must specify actual domains
         // Allow all origins from ALLOWED_ORIGINS env var, or use defaults
-        origin: process.env.ALLOWED_ORIGINS 
+        origin: process.env.ALLOWED_ORIGINS
           ? process.env.ALLOWED_ORIGINS.split(',').map(o => o.trim())
           : [
-              'https://www.merd-bhanwaridevi.merakilearn.org',
-              'https://merd-bhanwaridevi.merakilearn.org',
-              'https://www.merakilearn.org',
-              'https://merakilearn.org',
-              'http://localhost:3000',
-              'http://localhost:8080',
-            ],
+            'https://www.merd-bhanwaridevi.merakilearn.org',
+            'https://merd-bhanwaridevi.merakilearn.org',
+            'https://www.merakilearn.org',
+            'https://merakilearn.org',
+            'http://localhost:3000',
+            'http://localhost:8080',
+          ],
         credentials: true,
         additionalHeaders: [
           'cache-control',
