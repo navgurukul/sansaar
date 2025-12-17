@@ -9,6 +9,11 @@ services:
       - ./server/.env
     ports:
       - "6112:6112"
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    dns:
+      - 8.8.8.8
+      - 8.8.4.4
     volumes:
       # Mount source code for hot reload
       - ./lib:/app/lib
