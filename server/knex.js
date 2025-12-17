@@ -11,6 +11,9 @@ module.exports = {
       host: process.env.BOL_DB_HOST,
       user: process.env.BOL_DB_USER,
       password: process.env.BOL_DB_PASS,
+      ssl: {
+        rejectUnauthorized: false,
+      },
     },
     pool: {
       min: 4,
