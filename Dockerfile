@@ -10,9 +10,6 @@ WORKDIR /app
 # Copy package.json and package-lock.json to the container
 COPY package*.json ./
 
-# Copy patches directory for patch-package
-COPY patches ./patches
-
 # Install dependencies
 RUN npm ci --only=production
 
